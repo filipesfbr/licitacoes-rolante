@@ -9,6 +9,8 @@
 
 **O que a Prefeitura de Rolante/RS está licitando, em que situação está cada licitação e quem venceu, com dado real e diário do Portal da Transparência.**
 
+[![Acessar o site](https://img.shields.io/badge/Acessar_o_site-licitacoes.rolanters.com.br-b4622f?style=for-the-badge&labelColor=26221d)](https://licitacoes.rolanters.com.br/)
+
 [![CI](https://github.com/filipesfbr/licitacoes-rolante/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/filipesfbr/licitacoes-rolante/actions/workflows/ci.yml)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
