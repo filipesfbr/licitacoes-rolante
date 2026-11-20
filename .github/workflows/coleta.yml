@@ -1,0 +1,111 @@
+name: Coleta diária
+
+# Coleta as licitações do Portal da Transparência e grava na branch `data`.
+#
+# Por que uma branch só de dados: o histórico dela é o registro público e
+# imutável dos snapshots (R3), e os commits diários não passam pelo fluxo de
+# código. A `main` só recebe código.
+#
+# Falha de validação (R2: soma dos vencedores ≠ total do portal) → o coletor sai
+# com erro, nada é commitado e o site continua no último snapshot.
+#
+# Push feito com GITHUB_TOKEN não dispara workflow, por isso o deploy é chamado
+# daqui mesmo, depois do commit.
+
+on:
+  schedule:
+    # 10:17 UTC = 07:17 em Brasília: depois do Impostômetro (06:17) e do Gastômetro
+    # (06:47), para não baterem juntos no portal. Minuto quebrado: o cron das horas cheias atrasa.
+    - cron: '17 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+
+jobs:
+  coleta:
+    runs-on: ubuntu-latest
+    # ~2 chamadas por licitação (2 anos ≈ 350) com 2 s de intervalo: ~25 min.
+    # A primeira coleta baixa também os anexos de todas (PDFs em base64): 39 min
+    # na coleta local de 03/11/2026. Limite com folga para o portal lento.
+    timeout-minutes: 90
+
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version: 24
+
+      - name: Configurar git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Abrir a branch data em ./data
+        run: |
+          set -euo pipefail
+          if git ls-remote --exit-code --heads origin data >/dev/null 2>&1; then
+            git fetch --depth=1 origin data:refs/remotes/origin/data
+            git worktree add -B data data origin/data
+          else
+            echo "::notice::Branch data não existe — primeira coleta, criando órfã"
+            git worktree add --orphan -b data data
+          fi
+
+      - name: Coletar
+        run: npm run coletar
+
+      # R8: nome e documento de pessoa física, nome de arquivo e PDF em base64 nunca chegam ao repositório.
+      - name: Conferir privacidade (R8)
+        run: |
+          set -euo pipefail
+          jq -se 'all(.[].vencedores[]; if .pessoa_fisica then (has("fornecedor") or has("documento") | not) else true end)' \
+            data/detalhes/*.json >/dev/null \
+            || { echo "::error::vencedor pessoa física com nome ou documento"; exit 1; }
+          if grep -rlE '\*{3}\.\*{3}\.\*{3}-[0-9]{2}' data --exclude-dir=.git; then
+            echo "::error::CPF mascarado com dígitos nos dados"
+            exit 1
+          fi
+          # CPF formatado que escapou do mascaramento (sem pegar pedaço de CNPJ ou número maior).
+          if grep -rlP '(?<![\d./-])\d{3}\.\d{3}\.\d{3}-\d{2}(?![\d./-])' data --exclude-dir=.git; then
+            echo "::error::CPF formatado nos dados"
+            exit 1
+          fi
+          # D2: da Receita, só estes 5 campos por CNPJ (nunca sócios, e-mail, telefone ou endereço).
+          jq -e 'all(.[]; keys == ["abertura","consultado_em","fonte","matriz_filial","situacao"])' data/cnpj.json >/dev/null \
+            || { echo "::error::campo inesperado em data/cnpj.json"; exit 1; }
+          if grep -rlE '"(nomeDoc|caminhoDoc|doc|nomeGanhador|qsa|email|logradouro)"' data --exclude-dir=.git; then
+            echo "::error::campo proibido nos dados"
+            exit 1
+          fi
+
+      - name: Commitar na branch data
+        working-directory: data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nada mudou"
+            exit 0
+          fi
+          git commit -q -m "dados: coleta $(TZ=America/Sao_Paulo date +%F)"
+          # Token só aqui: fora do .git/config durante a coleta.
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}"
+          git push origin data
+
+  deploy:
+    needs: coleta
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml
