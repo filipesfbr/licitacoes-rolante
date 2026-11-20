@@ -55,10 +55,10 @@ async function main() {
     for (const bruta of brutas) {
       const lic = licitacao(bruta);
       const vencedores = await api.vencedores(lic.codigo);
-      const problemas = validarLicitacao(bruta, vencedores);
+      const itens = await api.itens(lic.codigo);
+      const problemas = validarLicitacao(bruta, vencedores, itens);
       erros.push(...problemas);
       if (vencedores.length) validacao[ano].com_vencedor++;
-      const itens = await api.itens(lic.codigo);
 
       // shortcut: anexos de licitação fechada e com o mesmo status vêm da coleta anterior, porque a
       // resposta traz os PDFs em base64 (até ~90 MB). Documento novo sem mudança de status só entra

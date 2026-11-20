@@ -39,7 +39,7 @@ O site **não produz dados**: ele copia, organiza e mostra o que o portal public
 
 1. o número de linhas recebidas for igual a `recordsTotal`;
 2. a soma de `quantidade_item × valor_vencedor`, em decimal exato e arredondada só no fim para 2 casas, for igual ao `total` do portal;
-3. nenhuma linha de vencedor tiver quantidade ou valor nulo, zero ou negativo, nem documento vazio;
+3. nenhuma linha de vencedor tiver quantidade ou valor nulo, zero ou negativo, nem documento vazio. Exceção: quantidade 0 é aceita quando o item da mesma licitação (mesmo lote e sequência) está cadastrado no portal com quantidade máxima 0 (caso da licitação 46121, itens 62 a 64); a linha entra com 0 e contribui 0 para a soma;
 4. o documento de cada vencedor for um CNPJ de 14 dígitos ou um CPF mascarado.
 
 Se qualquer item falhar, **nada é publicado** e o site continua na coleta anterior. A soma serve **só para conferir**: o valor exibido é sempre o `total` do portal. Linhas de vencedor **não são deduplicadas**.

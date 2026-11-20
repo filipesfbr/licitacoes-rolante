@@ -62,6 +62,26 @@ describe('validar (R2)', () => {
   ])('%s falha', (_, o) => {
     expect(validarLicitacao(lic(19), [pj(o)]).length).toBeGreaterThan(0);
   });
+  describe('quantidade zero', () => {
+    const zero = pj({ sequenciaitem: 7, quantidade_item: 0 });
+    const item = (o: { lote?: number; sequenciaitem?: number; qtdademax: number | null }) => ({ lote: 0, sequenciaitem: 7, ...o });
+    it('passa quando o item do portal tem quantidade máxima 0', () => {
+      expect(validarLicitacao(lic(19), [pj(), zero], [item({ qtdademax: 0 })])).toEqual([]);
+    });
+    it('falha quando o item tem quantidade máxima maior que 0', () => {
+      expect(validarLicitacao(lic(19), [pj(), zero], [item({ qtdademax: 5 })])).toHaveLength(1);
+    });
+    it('falha quando a quantidade máxima do item é nula', () => {
+      expect(validarLicitacao(lic(19), [pj(), zero], [item({ qtdademax: null })])).toHaveLength(1);
+    });
+    it('falha quando o item é de outro lote ou outra sequência', () => {
+      expect(validarLicitacao(lic(19), [pj(), zero], [item({ lote: 1, qtdademax: 0 }), item({ sequenciaitem: 8, qtdademax: 0 })])).toHaveLength(1);
+    });
+    it('quantidade nula ou negativa falha mesmo com o item em 0', () => {
+      expect(validarLicitacao(lic(19), [pj(), pj({ sequenciaitem: 7, quantidade_item: -1 })], [item({ qtdademax: 0 })])).toHaveLength(1);
+      expect(validarLicitacao(lic(19), [pj(), pj({ sequenciaitem: 7, quantidade_item: null })], [item({ qtdademax: 0 })])).toHaveLength(1);
+    });
+  });
   it('a mensagem de erro nunca traz o documento', () => {
     const [erro] = validarLicitacao(lic(19), [pj({ documento_fornecedor: '123.456.789-09' })]);
     expect(erro).not.toContain('789');
