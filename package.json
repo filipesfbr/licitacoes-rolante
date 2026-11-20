@@ -1,6 +1,6 @@
 {
   "name": "licitacoes-rolante",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "description": "O que a Prefeitura de Rolante-RS está licitando, a situação de cada licitação e quem venceu, com dados do Portal da Transparência. Site independente.",
@@ -19,10 +19,10 @@
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/node": "^26.6.5",
-    "eslint": "^10.13.0",
+    "eslint": "^10.15.0",
     "globals": "^17.13.0",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.72.1",
+    "typescript-eslint": "^8.73.0",
     "vitest": "^5.0.5"
   },
   "workspaces": [
