@@ -1,0 +1,10 @@
+{
+  "api": "https://apitransparencia.abase.com.br/",
+  "portal": "https://transparencia.abase.com.br/home/apvqyIT7vjY=",
+  "portalLicitacoes": "https://transparencia.abase.com.br/licitacoes/apvqyIT7vjY=",
+  "token": "apvqyIT7vjY=",
+  "entidade": 0,
+  "repositorio": "https://github.com/filipesfbr/licitacoes-rolante",
+  "userAgent": "LicitacoesRolante/1.0 (+https://github.com/filipesfbr/licitacoes-rolante)",
+  "intervaloMs": 2000
+}
