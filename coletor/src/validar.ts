@@ -1,4 +1,4 @@
-import type { LicitacaoPortal, VencedorPortal } from './tipos.ts';
+import type { ItemPortal, LicitacaoPortal, VencedorPortal } from './tipos.ts';
 
 // Escala fixa de 6 casas por fator: o produto fica com 12 e cabe qualquer valor do portal.
 const CASAS = 6;
@@ -35,13 +35,17 @@ const positivo = (v: number | null) => typeof v === 'number' && v > 0;
 export function validarLicitacao(
   lic: Pick<LicitacaoPortal, 'codigoLicitacao' | 'total'>,
   vencedores: VencedorPortal[],
+  itens: Pick<ItemPortal, 'lote' | 'sequenciaitem' | 'qtdademax'>[] = [],
 ): string[] {
   const erros: string[] = [];
   const id = `licitação ${lic.codigoLicitacao}`;
+  // Quantidade 0 só passa quando o próprio portal cadastra o item com quantidade máxima 0.
+  const semQuantidade = new Set(itens.filter((i) => i.qtdademax === 0).map((i) => `${i.lote}/${i.sequenciaitem}`));
 
   vencedores.forEach((v, i) => {
     const linha = `${id}, vencedor ${i + 1} (lote ${v.lote}, item ${v.sequenciaitem})`;
-    if (!positivo(v.quantidade_item)) erros.push(`${linha}: quantidade ${v.quantidade_item}`);
+    const zeroDoPortal = v.quantidade_item === 0 && semQuantidade.has(`${v.lote}/${v.sequenciaitem}`);
+    if (!positivo(v.quantidade_item) && !zeroDoPortal) erros.push(`${linha}: quantidade ${v.quantidade_item}`);
     if (!positivo(v.valor_vencedor)) erros.push(`${linha}: valor ${v.valor_vencedor}`);
     const doc = v.documento_fornecedor ?? '';
     if (!CNPJ.test(doc) && !CPF_MASCARADO.test(doc)) erros.push(`${linha}: documento fora do formato (${doc ? 'preenchido' : 'vazio'})`);
