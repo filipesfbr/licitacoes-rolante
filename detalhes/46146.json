@@ -1,0 +1,38 @@
+{"codigo":46146,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CONSORCIO ENCOP / HIDRODINAMICA - ROLANTE","documento":"67.769.591/0001-37","descricao":"LAUDO HIDROLÓGICO/HIDRODINÂMICO COM ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA (ART)","descricao_adicional":"<p>Contratação de Empresa de Engenharia Consultiva para Elaboração dos Estudos e Projetos de Manejo de Águas Pluviais do Município de Rolante, consistindo na empresa especializada para a realização de estudos técnicos, levantamentos e modelagens hidrológicas e hidrodinâmicas, visando à análise da dinâmica das inundações no Município de Rolante</p>","unidade":"UN","valor_referencia":647428.3,"valor_vencedor":581390.58,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LAUDO HIDROLÓGICO/HIDRODINÂMICO COM ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA (ART)","descricao_adicional":"<p>Contratação de Empresa de Engenharia Consultiva para Elaboração dos Estudos e Projetos de Manejo de Águas Pluviais do Município de Rolante, consistindo na empresa especializada para a realização de estudos técnicos, levantamentos e modelagens hidrológicas e hidrodinâmicas, visando à análise da dinâmica das inundações no Município de Rolante</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":647428.3}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-07-31","tipo":"ETP","fase":"Fase Interna","link_publico":"40ee63cd-395e-4550-b75c-89922603e8a6"},
+{"sequencia":2,"data":"2025-07-31","tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"56045c2b-c366-4cac-9066-b3461d73a199"},
+{"sequencia":3,"data":"2025-08-07","tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"21194a6f-05fd-4dc4-bfca-144ae89bb595"},
+{"sequencia":4,"data":"2025-08-12","tipo":"Detalhamento encargos sociais","fase":"Fase Interna","link_publico":"b57dcd0c-6c88-4e3e-8c73-750808452615"},
+{"sequencia":5,"data":"2025-08-12","tipo":"Detalhamento BDI","fase":"Fase Interna","link_publico":"fc8fbf05-d86e-47e0-bca4-67666f74a665"},
+{"sequencia":6,"data":"2025-08-12","tipo":"Cronograma","fase":"Fase Interna","link_publico":"74308353-6086-4939-82a2-139a4a89953d"},
+{"sequencia":7,"data":"2025-12-10","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"da5de100-6266-4688-a98b-70b698cb3399"},
+{"sequencia":8,"data":"2025-12-10","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"eb192172-6027-41fc-accc-6f741d1dc1a0"},
+{"sequencia":9,"data":"2025-12-10","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2616bd87-d6b0-4a85-b989-ebf38a78e297"},
+{"sequencia":10,"data":"2025-12-10","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"d96ca463-b9f1-454e-9883-455ddd7fbe24"},
+{"sequencia":11,"data":"2025-12-10","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"aafb15f9-c307-4a01-a2c8-ec0137fe9d96"},
+{"sequencia":12,"data":"2025-12-10","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"730a5977-82c0-438c-b8e4-781e04586b44"},
+{"sequencia":13,"data":"2025-09-17","tipo":"Aviso de suspensão de licitação","fase":"Edital Publicado","link_publico":"32610882-8426-4927-a89b-2c0754fade61"},
+{"sequencia":14,"data":"2025-12-10","tipo":"Aviso de reinício","fase":"Edital Publicado","link_publico":"82b509bf-88a2-45b2-bbc8-41ed5098b6ae"},
+{"sequencia":15,"data":"2025-07-31","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"bd26aaec-c87e-435f-9fa6-9c46578227c5"},
+{"sequencia":16,"data":"2025-07-31","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"395545a8-d115-472a-a537-3736c5bd5210"},
+{"sequencia":17,"data":"2025-07-31","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"48d6eb6a-d206-4593-ac90-920cbc70b726"},
+{"sequencia":18,"data":"2025-12-10","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"aff3a22f-c4dc-4fea-9adf-e82cf650c4c7"},
+{"sequencia":19,"data":"2025-12-10","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"883f7cdb-5bea-485e-9874-f6e167ad42f8"},
+{"sequencia":20,"data":"2025-12-10","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"c90dc7a0-6d82-4b34-9929-803031e6b6f7"},
+{"sequencia":21,"data":"2025-12-10","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"41f95b2e-7a5f-46eb-ad41-b8c4321af81a"},
+{"sequencia":22,"data":"2025-12-12","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"280728e5-1663-4f92-b915-494d26387201"},
+{"sequencia":23,"data":null,"tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"ed57e066-95ff-4c9c-a54b-b5e643369e74"},
+{"sequencia":24,"data":null,"tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"ef0c1131-2834-4cb5-bdf2-580e9dfe04fa"},
+{"sequencia":25,"data":null,"tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"0239b2ca-1d73-47f0-b396-05bdcfa7dfe3"},
+{"sequencia":26,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"6bcda366-a86e-493c-885f-413f61c448de"},
+{"sequencia":27,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"ed26df61-bdad-4cae-99d4-4e0929f9b050"},
+{"sequencia":28,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4bb5a851-a4f9-402f-bf7d-992772f4840a"}
+]
+}

@@ -1,0 +1,31 @@
+{"codigo":46182,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ABRIGINDO JORGE MARTINS","documento":"29.697.876/0001-10","descricao":"SERVIÇOS DE LIMPEZA URBANA - VARRIÇÃO","descricao_adicional":"","unidade":"UN","valor_referencia":22258.4,"valor_vencedor":19830.22,"quantidade":24}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS DE LIMPEZA URBANA - VARRIÇÃO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":22258.4}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-16","tipo":"","fase":"Fase Interna","link_publico":"14615db5-7c38-4940-8949-752a547190ae"},
+{"sequencia":2,"data":"2025-06-16","tipo":"","fase":"Fase Interna","link_publico":"545f8f04-4166-4cf0-b810-3b24b930904b"},
+{"sequencia":3,"data":"2025-07-04","tipo":"","fase":"Fase Interna","link_publico":"93f1811a-8e65-4f9e-9f03-65e0419b4999"},
+{"sequencia":4,"data":"2025-07-04","tipo":"","fase":"Fase Interna","link_publico":"5bdeac74-5c16-438b-9b3e-9b5197c4b5b2"},
+{"sequencia":5,"data":"2025-07-04","tipo":"","fase":"Fase Interna","link_publico":"9ce03995-a319-4a24-8b4b-41e9221015c9"},
+{"sequencia":6,"data":"2025-07-04","tipo":"","fase":"Fase Interna","link_publico":"a4245513-459f-477b-aa4b-543a29a55e20"},
+{"sequencia":7,"data":"2025-07-04","tipo":"","fase":"Fase Interna","link_publico":"d7361648-34d3-4d6b-92b5-1d4c01e73b1b"},
+{"sequencia":8,"data":"2025-07-04","tipo":"","fase":"Fase Interna","link_publico":"35bd6053-4a66-4176-a5fa-1d2c20608c12"},
+{"sequencia":9,"data":"2025-07-04","tipo":"","fase":"Fase Interna","link_publico":"850baef1-4b8f-419d-a156-5fa7379e0bb9"},
+{"sequencia":10,"data":"2025-07-04","tipo":"","fase":"Fase Interna","link_publico":"62283a13-0a28-4c65-a6e3-32fd87d9dd95"},
+{"sequencia":11,"data":"2025-07-14","tipo":"","fase":"Fase Interna","link_publico":"46966ecf-3ad9-45c0-bf39-5cf115c49f5c"},
+{"sequencia":12,"data":"2025-07-02","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"2984becb-88e8-4359-9cf2-7ffc193c7ec6"},
+{"sequencia":13,"data":"2025-06-09","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"0ce28dc5-0a8a-4c22-ad13-e47696708270"},
+{"sequencia":14,"data":"2025-06-09","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"d7d19d5f-dded-424b-ae06-4629649b2ddc"},
+{"sequencia":15,"data":"2025-06-09","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"070c9a43-acc2-462f-bd61-3863eddf0129"},
+{"sequencia":16,"data":"2025-06-16","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"ca59def1-9912-4d02-82bb-0241fbe37c50"},
+{"sequencia":17,"data":"2025-05-26","tipo":"Outros documentos","fase":"Publicação","link_publico":"afe96229-0891-41ee-a970-93da41d4e3ff"},
+{"sequencia":18,"data":"2025-05-26","tipo":"Outros documentos","fase":"Publicação","link_publico":"3f19c1a0-8c50-413e-bf9a-973b277337c4"},
+{"sequencia":19,"data":"2025-06-16","tipo":"Outros documentos","fase":"Publicação","link_publico":"6c70bc64-c647-433d-b62f-174a06f88087"},
+{"sequencia":20,"data":"2025-06-16","tipo":"Outros documentos","fase":"Publicação","link_publico":"e0355824-e535-4138-8456-5f7a29bf2eee"},
+{"sequencia":21,"data":"2025-07-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"9ba7500c-bff7-445e-b9fd-21be5bd28487"}
+]
+}

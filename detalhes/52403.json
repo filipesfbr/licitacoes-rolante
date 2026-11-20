@@ -1,0 +1,34 @@
+{"codigo":52403,
+"vencedores":[]
+,"itens":[
+{"lote":1,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DA OBRA DA ESCADARIA DA CASCATA TRÊS QUEDAS, LOCALIZADA NA LOCALIDADE DA BOA ESPERANÇA, NO MUNICÍPIO DE ROLANTE/RS, COMPREENDENDO A EXECUÇÃO DE ESCADARIA EM ESTRUTURA DE MADEIRA TRATADA EM AUTOCLAVE, COM ÁREA APROXIMADA DE 150 M² (CENTO E...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":242240.84}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"f3a07461-ac5d-4a5d-899a-00cb159aebaf"},
+{"sequencia":2,"data":null,"tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"dd407731-d12d-4b36-92a7-fdcdd5178cd6"},
+{"sequencia":3,"data":null,"tipo":"Cronograma","fase":"Fase Interna","link_publico":"5f302eeb-5990-45b2-9541-9070082c384f"},
+{"sequencia":4,"data":"2025-08-31","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"63afd297-1a49-4c2f-80c0-89bd1a7f1056"},
+{"sequencia":5,"data":null,"tipo":"Detalhamento BDI","fase":"Fase Interna","link_publico":"967ceeca-9bb0-4a32-a819-980087199213"},
+{"sequencia":6,"data":null,"tipo":"Detalhamento encargos sociais","fase":"Fase Interna","link_publico":"cd09fba8-8e7e-41aa-bb83-337e402b1e72"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"37358b23-1f77-4e23-b3b7-c0191f42ae6a"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e8e94822-6164-4af2-afbb-b37fbf69f509"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e8ce1b46-7a27-4522-a9f5-e14f0866a46d"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d22eed41-f3e6-4651-b580-5163037c62c7"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c947d7a1-9583-46e4-b096-5282715b484e"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"94ecebcf-70ae-4cb3-a543-a06b94f91672"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"33e832a6-08c9-4495-a0c9-767210364868"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"be0d7574-9fa0-4544-9e74-849d29eb1a9f"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4e6997b3-b842-40f0-abe1-6d304cfaa8a3"},
+{"sequencia":16,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f5e2c37b-37fa-4840-879f-30dba4b81418"},
+{"sequencia":17,"data":null,"tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"c25c7ccc-c3e2-4b18-8eb4-f9d8d2004f5a"},
+{"sequencia":18,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"https://anexoscontabilidade.s3.us-west-2.amazonaws.com/1093/hqfvr2godxm53nyzimck_PM%203.11%20escadaria.xlsm?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFRWBYIEERIVG3JQ%2F20261120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261120T184603Z&X-Amz-SignedHeaders=host&X-Amz-Signature=14d3ef8e7f2ad8c7d8387e6132d7be6232f462c6d0f11de6d3f270216ffd41fd"},
+{"sequencia":19,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"https://anexoscontabilidade.s3.us-west-2.amazonaws.com/1093/0kiwppg7iwfydncyz96h_Referencia%2008-2025.xlsm?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFRWBYIEERIVG3JQ%2F20261120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261120T184603Z&X-Amz-SignedHeaders=host&X-Amz-Signature=85d636cc2802d7768d12127d224876e6af54ecb32146814b8e010d179283a84b"},
+{"sequencia":20,"data":null,"tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"183092d2-552d-4104-a4f8-705efd0b08b0"},
+{"sequencia":21,"data":null,"tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"89979ded-3433-4a5b-b79c-1304b8fb4606"},
+{"sequencia":22,"data":null,"tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"b254a0d5-488c-431a-b320-2ef187d50647"},
+{"sequencia":23,"data":null,"tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"e0a8bc3b-332c-4dbb-abe5-6e598a89f807"},
+{"sequencia":24,"data":null,"tipo":"Outros documentos","fase":"Habilitação/Propostas","link_publico":"98429774-1374-41d3-8f34-70877a5f1623"},
+{"sequencia":25,"data":null,"tipo":"Outros documentos","fase":"Habilitação/Propostas","link_publico":"042dd0fc-4b65-47c9-b1b4-acb478f8e962"},
+{"sequencia":26,"data":null,"tipo":"Outros documentos","fase":"Habilitação/Propostas","link_publico":"2c2f2140-1a25-4544-91da-e724de512f87"}
+]
+}

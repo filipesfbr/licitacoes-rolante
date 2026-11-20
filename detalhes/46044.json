@@ -1,0 +1,18 @@
+{"codigo":46044,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"JAISON RAMOS DOS REIS","documento":"22.633.899/0001-12","descricao":"MATERIAIS DIVERSOS PARA MANUTENÇÃO DE VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":600,"valor_vencedor":600,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"JAISON RAMOS DOS REIS","documento":"22.633.899/0001-12","descricao":"SERVIÇO DE CHAPEAÇÃO E PINTURA DE VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":16250,"valor_vencedor":16250,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MATERIAIS DIVERSOS PARA MANUTENÇÃO DE VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":600},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE CHAPEAÇÃO E PINTURA DE VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":16250}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-24","tipo":"","fase":"Fase Interna","link_publico":"e463e018-fb7d-492c-a301-06e202a0d8ee"},
+{"sequencia":2,"data":"2026-02-24","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"16d1eca5-86f6-463e-888d-ae9c8f85a8b7"},
+{"sequencia":3,"data":"2026-02-24","tipo":"","fase":"Fase Interna","link_publico":"5bf404ca-309e-4e7b-b7e1-e23cae5bd2a6"},
+{"sequencia":4,"data":"2026-02-25","tipo":"","fase":"Fase Interna","link_publico":"1b527762-1640-40f3-9110-67945784aed3"},
+{"sequencia":5,"data":"2026-02-24","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"0af5be8c-f4f5-46ed-a3b4-609483e5ecd3"},
+{"sequencia":6,"data":"2026-02-25","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"581bb5b0-0d5e-461f-a5af-b0bc3a3fa6c0"}
+]
+}

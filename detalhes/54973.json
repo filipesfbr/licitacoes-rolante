@@ -1,0 +1,23 @@
+{"codigo":54973,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"J. ROBERTO PEREIRA DA SILVA LTDA","documento":"64.518.617/0001-86","descricao":"SERVIÇOS DE SONORIZAÇÃO E ILUMINAÇÃO","descricao_adicional":"","unidade":"UN","valor_referencia":19000,"valor_vencedor":19000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS DE SONORIZAÇÃO E ILUMINAÇÃO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":19000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"f2a96305-99e5-40d7-b4fd-50cc8207b279"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3fd08a37-1aac-467e-b5bc-8183fa6d50d9"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ccce8367-a119-45d6-8d79-6bffd88962fd"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3202b150-cd28-4b4e-b16a-f8730fcf9534"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9b808180-2364-4d3e-83e3-23b8de0d5a36"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4c2aef3d-dda0-49db-9a9d-fdf79f217d67"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6ab615c0-6002-40c8-b1bc-faa85dec977b"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"adfe5941-1eb8-46cc-9e22-4cddb7ef2fab"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d221bf37-d7d7-4257-bd0b-911eeed91ac9"},
+{"sequencia":10,"data":"2026-09-04","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2a73ec95-8b49-41e6-814e-74ec0fa3de53"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6734af57-c30c-412a-a239-94bfab8e01c0"},
+{"sequencia":12,"data":"2026-09-08","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"6407151e-f533-49be-b557-16628feaf818"},
+{"sequencia":13,"data":"2026-09-09","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"b7f88da4-4a65-4a6e-adc1-b20c073df217"}
+]
+}

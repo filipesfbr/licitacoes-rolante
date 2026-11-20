@@ -1,0 +1,15 @@
+{"codigo":54242,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"PROCERGS-CIA DE PROCES. DE DADOS DO EST DO RIO G S","documento":"87.124.582/0001-04","descricao":"SERVIÇO DE PUBLICAÇÃO","descricao_adicional":"<p>Publica&ccedil;&atilde;o no Diario Oficial do Estado (DOE) com cobran&ccedil;a por cm/coluna da matperia publicada</p>\n","unidade":"UN","valor_referencia":107.45,"valor_vencedor":107.45,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE PUBLICAÇÃO","descricao_adicional":"<p>Publica&ccedil;&atilde;o no Diario Oficial do Estado (DOE) com cobran&ccedil;a por cm/coluna da matperia publicada</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":107.45}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"4ce30af5-d0f5-4ba5-abaa-f97dc7c42c72"},
+{"sequencia":2,"data":"2026-07-07","tipo":"ETP","fase":"Fase Interna","link_publico":"73a03480-86c7-43be-bc50-47edc063e621"},
+{"sequencia":3,"data":"2026-07-07","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cbbd30dd-6ba9-4219-9cf6-cb097f952e3d"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"93f2da6d-2aa1-4095-8dda-7cdc3b706f41"},
+{"sequencia":5,"data":null,"tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"88ea2bde-82a7-4e5a-8168-c5b6602463ce"}
+]
+}

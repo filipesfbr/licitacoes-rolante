@@ -1,0 +1,24 @@
+{"codigo":46216,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"XCMG BRASIL INDÚSTRIA LTDA","documento":"14.707.364/0001-10","descricao":"RETROESCAVADEIRA 01: SEM USO (ZERO KM OU ZERO HORAS); COM MOTOR DE 4 CILINDROS E VOLUME CILÍNDRICO DE 4,04 LITROS ALIMENTADO A DIESEL; POTÊNCIA BRUTA DE 97 HP; PESO OPERACIONAL DE 7.600 KG; TRAÇÃO 4X4;TRANSMISSÃO COM 4 MARCHAS À FRENTE E NO MÍNIMO 3 À RÉ; EQUIPADA COM CONVERSOR DE TORQUE; FREIOS...","descricao_adicional":null,"unidade":"UN","valor_referencia":315000,"valor_vencedor":315000,"quantidade":2}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"RETROESCAVADEIRA 01: SEM USO (ZERO KM OU ZERO HORAS); COM MOTOR DE 4 CILINDROS E VOLUME CILÍNDRICO DE 4,04 LITROS ALIMENTADO A DIESEL; POTÊNCIA BRUTA DE 97 HP; PESO OPERACIONAL DE 7.600 KG; TRAÇÃO 4X4;TRANSMISSÃO COM 4 MARCHAS À FRENTE E NO MÍNIMO 3 À RÉ; EQUIPADA COM CONVERSOR DE TORQUE; FREIOS...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":315000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-15","tipo":"","fase":"Fase Interna","link_publico":"8b111af2-da78-4c06-8a0a-35dfd7659694"},
+{"sequencia":2,"data":"2025-04-11","tipo":"","fase":"Fase Interna","link_publico":"f9b656fd-9f58-4a20-9e7a-458afb75c94e"},
+{"sequencia":3,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"0d1cde66-b856-4fd5-9c7b-53ba46b48c85"},
+{"sequencia":4,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"c04341af-18a3-4297-ac2e-367f721617d5"},
+{"sequencia":5,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"eeab8d47-3a20-40f2-a56a-26db58a50e30"},
+{"sequencia":6,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"e6286da1-4364-4c24-b348-6e1f065b8076"},
+{"sequencia":7,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"e820aa91-2b6c-4dff-82b5-3b1464534659"},
+{"sequencia":8,"data":"2025-04-10","tipo":"","fase":"Fase Interna","link_publico":"db0f4c6f-c7d3-45a9-a670-301a7b96d6da"},
+{"sequencia":9,"data":"2025-04-11","tipo":"","fase":"Fase Interna","link_publico":"d7a08d14-5e0a-4ec4-8003-cf4fdf3e0f75"},
+{"sequencia":10,"data":"2025-04-11","tipo":"","fase":"Fase Interna","link_publico":"ef502c75-e7f6-4e41-94c1-d0c1df71b49d"},
+{"sequencia":11,"data":"2025-04-11","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"e11dfc2d-8f6c-4825-b784-f34b7001ca2c"},
+{"sequencia":12,"data":"2025-04-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"6858e80e-f6f5-4c84-96f0-5e67d447f9a2"},
+{"sequencia":13,"data":"2025-04-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"40147b03-359c-4011-87dc-074ad482ae8f"},
+{"sequencia":14,"data":"2025-04-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"072293aa-43bd-4d84-9457-cd9124abe1e2"}
+]
+}

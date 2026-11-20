@@ -1,0 +1,18 @@
+{"codigo":54643,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DE PAIS E MESTRES DA ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL OLDENBURG","documento":"04.466.723/0001-31","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7c6ca5a0-12db-45a4-a387-8ef6f1105a19"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"15e8d649-d56e-4ba0-9c68-dcb9400510a3"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"adda5ab5-60ee-4f50-b18e-5e90588a2d71"},
+{"sequencia":4,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"4f702503-ebf4-4960-a3be-112037213978"},
+{"sequencia":5,"data":"2026-08-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ad1a73c5-4420-410d-a089-d0cfcbcf0c3f"},
+{"sequencia":6,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"b05fa870-c4e7-4fe8-a103-6b5f99a4017d"},
+{"sequencia":7,"data":null,"tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"f2864f3f-2cff-48f4-b2ce-f73d57e05bbc"},
+{"sequencia":8,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"77d24d74-d300-4a1f-997f-306c1575d548"}
+]
+}

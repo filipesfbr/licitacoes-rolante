@@ -1,0 +1,26 @@
+{"codigo":53154,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL","documento":"03.775.069/0026-33","descricao":"CURSO","descricao_adicional":"<p>CURSO QUALIFICA&Ccedil;&Atilde;O EM&nbsp;&nbsp;ELABORA&Ccedil;&Atilde;O DE PRODUTOS DE PANIFICA&Ccedil;&Atilde;O E CONFEITARIA</p>\n","unidade":"UN","valor_referencia":16560,"valor_vencedor":16560,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL","documento":"03.775.069/0026-33","descricao":"CURSO","descricao_adicional":"<p>CURSO&nbsp; QUALIFICA&Ccedil;&Atilde;O EM&nbsp;&nbsp;INSTALA&Ccedil;&Atilde;O DE PORCELANATOS</p>\n","unidade":"UN","valor_referencia":13452,"valor_vencedor":13452,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL","documento":"03.775.069/0026-33","descricao":"CURSO","descricao_adicional":"<p>CURSO DE QUALIFICA&Ccedil;&Atilde;O EM&nbsp;CARPINTARIA E ESTRUTURAS DE CASAS E EDIFICA&Ccedil;&Otilde;ES</p>\n","unidade":"UN","valor_referencia":24213.6,"valor_vencedor":24213.6,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CURSO","descricao_adicional":"<p>CURSO QUALIFICA&Ccedil;&Atilde;O EM&nbsp;&nbsp;ELABORA&Ccedil;&Atilde;O DE PRODUTOS DE PANIFICA&Ccedil;&Atilde;O E CONFEITARIA</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":16560},
+{"lote":0,"item":2,"descricao":"CURSO","descricao_adicional":"<p>CURSO&nbsp; QUALIFICA&Ccedil;&Atilde;O EM&nbsp;&nbsp;INSTALA&Ccedil;&Atilde;O DE PORCELANATOS</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":13452},
+{"lote":0,"item":3,"descricao":"CURSO","descricao_adicional":"<p>CURSO DE QUALIFICA&Ccedil;&Atilde;O EM&nbsp;CARPINTARIA E ESTRUTURAS DE CASAS E EDIFICA&Ccedil;&Otilde;ES</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":24213.6}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"71d4b087-a4f9-4a4d-8936-c5e4468189dd"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d45732c3-7d9c-4bae-b887-f93ae4030a52"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e165fd90-b166-4cd3-ac68-3e3fca3736d5"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4370dcd9-a509-4700-8d95-1977530fe3a6"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ba955125-5268-4dba-af04-103c8f16bb78"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"bf8684f5-339e-409f-bb41-95d68c101d49"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"712bc3a6-3ca5-420e-a215-6fa0e066a44d"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c4d74cdc-0f6d-419b-ba41-099be600e0e1"},
+{"sequencia":9,"data":"2026-04-28","tipo":"ETP","fase":"Fase Interna","link_publico":"1f50daf8-5980-4927-ab65-04a98c436900"},
+{"sequencia":10,"data":"2026-04-28","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8bc9bcbb-8a1c-4d8a-861d-1a36eb4418a1"},
+{"sequencia":11,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"5dd89540-27ee-410a-ab52-7fd980388b20"},
+{"sequencia":12,"data":"2026-04-29","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"ba3e616f-563d-49db-ba17-cf6eeaae1c90"}
+]
+}

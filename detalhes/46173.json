@@ -1,0 +1,16 @@
+{"codigo":46173,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"KATIA ADRIANA BIRCK","documento":"55.656.155/0001-72","descricao":"COMPUTADOR COMPLETO","descricao_adicional":null,"unidade":"UN","valor_referencia":6700,"valor_vencedor":6700,"quantidade":2}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"COMPUTADOR COMPLETO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":6700}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-30","tipo":"","fase":"Fase Interna","link_publico":"6f98ccb3-c240-421a-849a-f1a4a643539f"},
+{"sequencia":2,"data":"2025-05-30","tipo":"","fase":"Fase Interna","link_publico":"cf0969c7-1757-45b2-846a-f866280d8310"},
+{"sequencia":3,"data":"2025-05-30","tipo":"","fase":"Fase Interna","link_publico":"4b05606a-8ea6-428b-8e4f-fdfae23bba58"},
+{"sequencia":4,"data":"2025-05-30","tipo":"","fase":"Fase Interna","link_publico":"e7f2c868-adef-4670-bcdb-fb9c09591bf7"},
+{"sequencia":5,"data":"2025-05-30","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"a7993cbb-d212-406f-af02-772ceb65f43c"},
+{"sequencia":6,"data":"2025-06-02","tipo":"Outros documentos","fase":"Publicação","link_publico":"070aef92-4dce-4e20-b458-8fb9cc4eeefd"}
+]
+}

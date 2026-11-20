@@ -1,0 +1,19 @@
+{"codigo":46117,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ECUSTOMIZE CONSULTORIA EM SOFTWARE S.A","documento":"09.397.355/0001-30","descricao":"SISTEMA COMPRAS","descricao_adicional":null,"unidade":"UN","valor_referencia":0.0008,"valor_vencedor":0.0008,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SISTEMA COMPRAS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":0.0008}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-10","tipo":"","fase":"Fase Interna","link_publico":"89b635b8-617f-4fbd-a460-e0892d8753d1"},
+{"sequencia":2,"data":"2025-09-24","tipo":"","fase":"Fase Interna","link_publico":"b57f5571-82dc-4207-8868-847684920e3e"},
+{"sequencia":3,"data":"2025-09-24","tipo":"","fase":"Fase Interna","link_publico":"d044d82e-352a-4ec1-baac-87a6dd14cc71"},
+{"sequencia":4,"data":"2025-09-24","tipo":"","fase":"Fase Interna","link_publico":"3ab57b7c-d7aa-40ad-b544-e3e26707944b"},
+{"sequencia":5,"data":"2025-09-24","tipo":"","fase":"Fase Interna","link_publico":"822b9135-f14d-4fb1-abc0-7c4fb2812701"},
+{"sequencia":6,"data":"2025-09-24","tipo":"","fase":"Fase Interna","link_publico":"26175dca-2f5b-4718-bbf4-e9cb949693e5"},
+{"sequencia":7,"data":"2025-09-24","tipo":"","fase":"Fase Interna","link_publico":"8545c3fa-b263-4e78-b5f5-50938f354a2c"},
+{"sequencia":8,"data":"2025-09-24","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"ce6a3626-b797-4d2e-9431-569d2e6fc301"},
+{"sequencia":9,"data":"2025-09-25","tipo":"Outros documentos","fase":"Publicação","link_publico":"b49bf3f9-bf7b-4786-890c-5896279f5979"}
+]
+}

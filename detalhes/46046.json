@@ -1,0 +1,33 @@
+{"codigo":46046,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇOS DE ARBITRAGEM PARA OS JOGOS DE FUTSAL1° DIVISÃO, 2° DIVISÃO, 3° DIVISÃO E VETERANOS","descricao_adicional":"","unidade":"JG","valor_referencia":617.66,"valor_vencedor":608,"quantidade":170},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"QUALITY & CIA PROMOÇÃO DE EVENTOS ESPORTIVOS EIRELI","documento":"40.372.565/0001-14","descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DE FUTEBOL SETE, 1° DIVISÃO, 2° DIVISÃO, 3° DIVISÃO E VETERANOS","descricao_adicional":"","unidade":"JG","valor_referencia":616.29,"valor_vencedor":609,"quantidade":170},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"QUALITY & CIA PROMOÇÃO DE EVENTOS ESPORTIVOS EIRELI","documento":"40.372.565/0001-14","descricao":"SERVIÇOS DE ARBITRAGEM PARA FUTEBOL ( FINAIS )","descricao_adicional":"","unidade":"JG","valor_referencia":7567.2,"valor_vencedor":7300,"quantidade":3},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"QUALITY & CIA PROMOÇÃO DE EVENTOS ESPORTIVOS EIRELI","documento":"40.372.565/0001-14","descricao":"SERVIÇOS DE ARBITRAGEM PARA OS JOGOS DA SEMANA DA PATRIA EM VARIAS MODALIDADES ESPORTIVAS","descricao_adicional":"","unidade":"DIA","valor_referencia":1926.25,"valor_vencedor":1900,"quantidade":20},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇOS DE ARBITRAGENS PARA JOGOS DE VOLEI DE AREIA MASCULINO,FEMININO E MISTO","descricao_adicional":"","unidade":"JG","valor_referencia":197.53,"valor_vencedor":149,"quantidade":100},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇOS DE ARBITRAGEM PARA JOGOS DE FUTVOLEI MASCULINO,FEMININO E MISTO NA AREIA","descricao_adicional":"","unidade":"JG","valor_referencia":193.32,"valor_vencedor":129,"quantidade":70},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇOS DE ARBITRAGEM PARA JOGOS DE BEACH TENIS NA AREIA, MASCULINO,FEMININO E MISTO","descricao_adicional":"","unidade":"JG","valor_referencia":197.93,"valor_vencedor":129,"quantidade":100},
+{"lote":0,"item":10,"pessoa_fisica":false,"fornecedor":"MARCOS ANDRE HARFF","documento":"17.291.541/0001-19","descricao":"SERVIÇO DE ARBITRAGEM PARA JERS.","descricao_adicional":"<p>SERVI&Ccedil;O DE ARBITRAGEM PARA JERS - JOGOS ESTUDANTIS, EM DIFERENTES MODALIDADES (VOLEIBOL, HANDEBOL, FUTSAL), CONFORME ESPECIFICADO NO TERMO DE REFER&Ecirc;NCIA.</p>\n","unidade":"RD","valor_referencia":1798.33,"valor_vencedor":1780,"quantidade":16}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS DE ARBITRAGEM PARA OS JOGOS DE FUTSAL1° DIVISÃO, 2° DIVISÃO, 3° DIVISÃO E VETERANOS","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":170,"valor_referencia":617.66},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DE FUTEBOL SETE, 1° DIVISÃO, 2° DIVISÃO, 3° DIVISÃO E VETERANOS","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":170,"valor_referencia":616.29},
+{"lote":0,"item":3,"descricao":"SERVIÇOS DE ARBITRAGEM PARA JOGOS DE VOLEIBOL MASCULINO E FEMININO","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":50,"valor_referencia":586.61},
+{"lote":0,"item":4,"descricao":"SERVIÇOS DE ARBITRAGEM PARA JOGOS DE FUTEBOL DE CAMPO CATEGORIAS LIVRE E VETERANOS","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":55,"valor_referencia":1501.42},
+{"lote":0,"item":5,"descricao":"SERVIÇOS DE ARBITRAGEM PARA FUTEBOL ( FINAIS )","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":3,"valor_referencia":7567.2},
+{"lote":0,"item":6,"descricao":"SERVIÇOS DE ARBITRAGEM PARA OS JOGOS DA SEMANA DA PATRIA EM VARIAS MODALIDADES ESPORTIVAS","descricao_adicional":"","unidade":"DIA","quantidade_min":0,"quantidade_max":20,"valor_referencia":1926.25},
+{"lote":0,"item":7,"descricao":"SERVIÇOS DE ARBITRAGENS PARA JOGOS DE VOLEI DE AREIA MASCULINO,FEMININO E MISTO","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":100,"valor_referencia":197.53},
+{"lote":0,"item":8,"descricao":"SERVIÇOS DE ARBITRAGEM PARA JOGOS DE FUTVOLEI MASCULINO,FEMININO E MISTO NA AREIA","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":70,"valor_referencia":193.32},
+{"lote":0,"item":9,"descricao":"SERVIÇOS DE ARBITRAGEM PARA JOGOS DE BEACH TENIS NA AREIA, MASCULINO,FEMININO E MISTO","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":100,"valor_referencia":197.93},
+{"lote":0,"item":10,"descricao":"SERVIÇO DE ARBITRAGEM PARA JERS.","descricao_adicional":"<p>SERVI&Ccedil;O DE ARBITRAGEM PARA JERS - JOGOS ESTUDANTIS, EM DIFERENTES MODALIDADES (VOLEIBOL, HANDEBOL, FUTSAL), CONFORME ESPECIFICADO NO TERMO DE REFER&Ecirc;NCIA.</p>\n","unidade":"RD","quantidade_min":0,"quantidade_max":16,"valor_referencia":1798.33}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-18","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c10da5ea-4588-4153-993c-692c84a60e15"},
+{"sequencia":2,"data":"2026-02-18","tipo":"ETP","fase":"Fase Interna","link_publico":"2f851e55-03a4-4aa6-885d-b792a44e6c94"},
+{"sequencia":3,"data":"2026-02-18","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"2dd31a5f-8dc7-4cea-a7bf-bc51da08c98e"},
+{"sequencia":4,"data":"2026-02-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"2e7817d3-27ae-41d3-bf68-2138c5c5f5d1"},
+{"sequencia":5,"data":"2026-02-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"3206cf57-1517-4769-b131-bd56bc34bb8e"},
+{"sequencia":6,"data":"2026-04-01","tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"61eff43e-d461-49c8-95aa-4bedb41b97d1"},
+{"sequencia":7,"data":"2026-04-01","tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"6e66cc51-8210-4563-a71b-ed18557cedab"}
+]
+}

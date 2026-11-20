@@ -1,0 +1,18 @@
+{"codigo":46081,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"TRANS MATIELLI LTDA","documento":"14.000.846/0001-36","descricao":"TRANSPORTE DE MÁQUINAS PESADAS","descricao_adicional":null,"unidade":"UN","valor_referencia":2000,"valor_vencedor":2000,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"TRANS MATIELLI LTDA","documento":"14.000.846/0001-36","descricao":"LOCAÇÃO DE ESCAVADEIRA HIDRÁULICA COM OPERADOR.","descricao_adicional":null,"unidade":"UN","valor_referencia":5500,"valor_vencedor":5500,"quantidade":3}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"TRANSPORTE DE MÁQUINAS PESADAS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2000},
+{"lote":0,"item":2,"descricao":"LOCAÇÃO DE ESCAVADEIRA HIDRÁULICA COM OPERADOR.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":5500}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-27","tipo":"","fase":"Fase Interna","link_publico":"71939e16-8d75-4ac5-af99-f9697cc80aad"},
+{"sequencia":2,"data":"2025-11-27","tipo":"","fase":"Fase Interna","link_publico":"71310e47-81ca-4768-bd70-841748a48562"},
+{"sequencia":3,"data":"2025-11-27","tipo":"","fase":"Fase Interna","link_publico":"2d019223-d8f2-4d95-932f-d12c404cad60"},
+{"sequencia":4,"data":"2025-11-27","tipo":"","fase":"Fase Interna","link_publico":"8109d2b7-5ff1-4cd1-8a9b-6659f9ccb770"},
+{"sequencia":5,"data":"2025-11-27","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"f79b2cad-e641-4a4b-90a3-7b04f0e3b3bc"},
+{"sequencia":6,"data":"2025-11-28","tipo":"Outros documentos","fase":"Publicação","link_publico":"7074dd2a-e761-4bfe-894e-acc585fe448d"}
+]
+}

@@ -1,0 +1,52 @@
+{"codigo":52583,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"D`STOCK URBANIZACAO LTDA","documento":"48.850.782/0001-84","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DA OBRA DE PAVIMENTAÇÃO E DRENAGEM DA ESTRADA DE ACESSO AO MIRANTE DO PARQUE DA ASA DELTA, NO MUNICÍPIO DE ROLANTE/RS","descricao_adicional":"","unidade":"UN","valor_referencia":423456.15,"valor_vencedor":391938.15,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DA OBRA DE PAVIMENTAÇÃO E DRENAGEM DA ESTRADA DE ACESSO AO MIRANTE DO PARQUE DA ASA DELTA, NO MUNICÍPIO DE ROLANTE/RS","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":423456.15}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8172540a-2a6b-41c6-978a-7e6f80bfcad9"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b8787dd5-f15f-4f76-817c-dadfd3cbea2a"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7d4efe64-406e-4d09-aad6-c1a69aa00b1d"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9ca6e726-ab94-4642-ae70-078095729d2a"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"195f2893-b80d-4f02-ae7e-7c50bdfb21d9"},
+{"sequencia":6,"data":"2026-03-18","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"b4aed017-17e7-4831-b802-3e7799a5e25b"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b440e734-4dd0-489c-a953-3af373f64dfb"},
+{"sequencia":8,"data":null,"tipo":"Cronograma","fase":"Fase Interna","link_publico":"4cfb4abf-5e96-4e75-9cd4-ad378e192252"},
+{"sequencia":9,"data":null,"tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"71496f76-7013-4cb6-b1e6-09078da84201"},
+{"sequencia":10,"data":null,"tipo":"Detalhamento BDI","fase":"Fase Interna","link_publico":"eb09aeb4-172e-4a13-8f69-8dccfe673d61"},
+{"sequencia":11,"data":null,"tipo":"Detalhamento encargos sociais","fase":"Fase Interna","link_publico":"5e18b8da-6651-4e5f-b9ed-b36e5ad1f973"},
+{"sequencia":12,"data":"2026-03-06","tipo":"ETP","fase":"Fase Interna","link_publico":"1496e8a3-f8ab-4d75-aa9f-112c2a0977ec"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d4cc0310-6b2f-439d-ae3f-08d5551ad355"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"277cbf2b-50aa-4536-9a8f-fd159f79c20f"},
+{"sequencia":15,"data":"2026-03-16","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c703ddd8-2ef0-4a70-b32f-eb9dfdb1a77f"},
+{"sequencia":16,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"37d35b62-a81c-4a21-bba7-4e8d025f4b5f"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ca5a0f02-d0c4-4fbb-b796-5121e8b00337"},
+{"sequencia":18,"data":"2026-03-19","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"76ffd87c-2ed2-47ed-96ad-a087aa8dfb77"},
+{"sequencia":19,"data":"2026-03-23","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"9ff77de5-305d-40e3-b2f6-b73330f14fac"},
+{"sequencia":20,"data":"2026-03-23","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"e6370805-40aa-4bb7-91e4-6e3c9c3e74a8"},
+{"sequencia":21,"data":"2026-03-23","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"8fbc6098-917e-4183-a699-4b4d5223b7fd"},
+{"sequencia":22,"data":"2026-03-23","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"f7b13e07-9d94-4784-b207-4221d35d2e12"},
+{"sequencia":23,"data":"2026-03-23","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"e551a3ae-d108-4032-9ce8-dbd252110214"},
+{"sequencia":24,"data":"2026-04-07","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"4d2292ee-2539-4adb-980a-52ea6dfe96b6"},
+{"sequencia":25,"data":"2026-04-07","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"308deba4-23a8-4fd1-a49f-931d3223bc81"},
+{"sequencia":26,"data":"2026-04-07","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"6c862165-2b50-45c4-9fd7-468029ddb240"},
+{"sequencia":27,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b0d6471d-f547-41b0-9db5-12e5a28bbf9c"},
+{"sequencia":28,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"336493d7-6536-4662-8a6a-123f4c100745"},
+{"sequencia":29,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f099957f-8817-432f-8b24-4cceab821d0b"},
+{"sequencia":30,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"36ecb66c-8384-4be9-8f98-edbeecbee371"},
+{"sequencia":31,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"https://anexoscontabilidade.s3.us-west-2.amazonaws.com/1093/4rgt7bdmcs9rkpfm7nyg_Anexos%20EC%20005-2026.zip?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFRWBYIEERIVG3JQ%2F20261120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261120T184549Z&X-Amz-SignedHeaders=host&X-Amz-Signature=211540ccfe2c639ebf79b8b1359ba43e4506d1e66fda0e3ed5a31cab54dff8ad"},
+{"sequencia":32,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7f76983e-9d1b-476d-b4fd-a8cf4d9f443e"},
+{"sequencia":33,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a2138421-91fe-4201-b143-be1cac693275"},
+{"sequencia":34,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"31af6c35-2fe0-4f38-b9c8-6b9d8a614f62"},
+{"sequencia":35,"data":null,"tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"74a6aa94-ead1-4085-adb3-cee221b9d6e9"},
+{"sequencia":36,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"299f4790-1fdc-40af-a924-289c125e9ad6"},
+{"sequencia":37,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4ea007cd-0b59-43e6-ad05-264fba710186"},
+{"sequencia":38,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4fbb9543-dc3a-43bd-ba6a-4c6c894100b9"},
+{"sequencia":39,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0912ace5-70d4-4d4a-819b-e0d7b0d88447"},
+{"sequencia":40,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7d5883c4-bbd2-40b1-a8b4-603b17e92742"},
+{"sequencia":41,"data":null,"tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"1996b243-41fe-4284-b5b3-8dfa8e9f9f3f"},
+{"sequencia":42,"data":"2026-05-13","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"40349980-2de2-4228-ac34-a2a4a7a89d96"}
+]
+}

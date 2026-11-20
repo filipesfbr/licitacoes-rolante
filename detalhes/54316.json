@@ -1,0 +1,15 @@
+{"codigo":54316,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CR MONITORAMENTO LTDA","documento":"36.006.735/0001-70","descricao":"SERVIÇO DE SEGURANÇA","descricao_adicional":"<p>Presta&ccedil;&atilde;o de servi&ccedil;os de videomonitoramento remoto, monitoramento de alarmes e realiza&ccedil;&atilde;o de rondas preventivas no Parque Municipal Vitor Mateus Teixeira.</p>\n","unidade":"UST","valor_referencia":5000,"valor_vencedor":5000,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE SEGURANÇA","descricao_adicional":"<p>Presta&ccedil;&atilde;o de servi&ccedil;os de videomonitoramento remoto, monitoramento de alarmes e realiza&ccedil;&atilde;o de rondas preventivas no Parque Municipal Vitor Mateus Teixeira.</p>\n","unidade":"UST","quantidade_min":0,"quantidade_max":12,"valor_referencia":5000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a8120d8e-a5de-4046-b7ee-d463c0367d61"},
+{"sequencia":2,"data":"2026-07-08","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"10a989d9-9dd1-40c5-96f3-1c144dfeff81"},
+{"sequencia":3,"data":"2026-07-14","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"5a99b5ac-194f-4ebc-b024-cc7f4cb9e7b5"},
+{"sequencia":4,"data":"2026-07-14","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"f4edceee-ae15-441b-b07e-b4e430a73bed"},
+{"sequencia":5,"data":"2026-07-15","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"42ea1484-9c05-409c-b033-d2e5a06b338c"}
+]
+}

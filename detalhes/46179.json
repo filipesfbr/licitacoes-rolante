@@ -1,0 +1,27 @@
+{"codigo":46179,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"PRIMEBUS TRANSPORTES LTDA","documento":"06.250.550/0001-45","descricao":"ROTEIRO IGREJINHA: ÔNIBUS 12 LUGARES\r\nREGISTRO DE PREÇO DE VIAGENS COM MOTORISTA PARA VEÍCULOS DE MÍNIMO 12 LUGARES COM MOTORISTA. A QUANTIDADE DE LUGARES DO VEÍCULO SERÁ SOLICITADA JUNTAMENTE COM A LISTA DE PASSAGEIROS QUE SERÁ FORNECIDA PELA SECRETARIA MUNICIPAL DE SAÚDE UM DIA ANTES DA...","descricao_adicional":"","unidade":"UN","valor_referencia":450,"valor_vencedor":447,"quantidade":430},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"PRIMEBUS TRANSPORTES LTDA","documento":"06.250.550/0001-45","descricao":"ROTEIRO IGREJINHA: ÔNIBUS 28 LUGARES\r\nREGISTRO DE PREÇO DE VIAGENS COM MOTORISTA PARA VEÍCULOS DE MÍNIMO 28 LUGARES COM MOTORISTA. A QUANTIDADE DE LUGARES DO VEÍCULO SERÁ SOLICITADA JUNTAMENTE COM A LISTA DE PASSAGEIROS QUE SERÁ FORNECIDA PELA SECRETARIA MUNICIPAL DE SAÚDE UM DIA ANTES DA...","descricao_adicional":"","unidade":"UN","valor_referencia":675,"valor_vencedor":672,"quantidade":262.01339},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"PRIMEBUS TRANSPORTES LTDA","documento":"06.250.550/0001-45","descricao":"REGISTRO DE PREÇO DE VIAGENS- SÃO FREANCISCO DE PAULA, COM VEÍCULO DE MÍNIMO 28 LUGARES COM MOTORISTA.","descricao_adicional":"","unidade":"UN","valor_referencia":800,"valor_vencedor":797,"quantidade":140.49812}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ROTEIRO IGREJINHA: ÔNIBUS 12 LUGARES\r\nREGISTRO DE PREÇO DE VIAGENS COM MOTORISTA PARA VEÍCULOS DE MÍNIMO 12 LUGARES COM MOTORISTA. A QUANTIDADE DE LUGARES DO VEÍCULO SERÁ SOLICITADA JUNTAMENTE COM A LISTA DE PASSAGEIROS QUE SERÁ FORNECIDA PELA SECRETARIA MUNICIPAL DE SAÚDE UM DIA ANTES DA...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":450},
+{"lote":0,"item":2,"descricao":"ROTEIRO IGREJINHA: ÔNIBUS 28 LUGARES\r\nREGISTRO DE PREÇO DE VIAGENS COM MOTORISTA PARA VEÍCULOS DE MÍNIMO 28 LUGARES COM MOTORISTA. A QUANTIDADE DE LUGARES DO VEÍCULO SERÁ SOLICITADA JUNTAMENTE COM A LISTA DE PASSAGEIROS QUE SERÁ FORNECIDA PELA SECRETARIA MUNICIPAL DE SAÚDE UM DIA ANTES DA...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":130,"valor_referencia":675},
+{"lote":0,"item":3,"descricao":"REGISTRO DE PREÇO DE VIAGENS- SÃO FREANCISCO DE PAULA, COM VEÍCULO DE MÍNIMO 28 LUGARES COM MOTORISTA.","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":70,"valor_referencia":800}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-29","tipo":"","fase":"Fase Interna","link_publico":"035e14d6-8922-4c57-9d2c-a5444b86e0e0"},
+{"sequencia":2,"data":"2025-05-29","tipo":"","fase":"Fase Interna","link_publico":"f016c496-a0f5-43b3-bf49-f55f377d9e09"},
+{"sequencia":3,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"61c079f9-1dfe-44e1-913f-2c8568d6df0c"},
+{"sequencia":4,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"aab0444f-3c8d-4a27-908c-b0ec25cc5b95"},
+{"sequencia":5,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"2b2b4609-8792-4055-bd45-056e5327467c"},
+{"sequencia":6,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"ebab4718-3bb2-4baa-ab9e-d144b1ea9084"},
+{"sequencia":7,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"06585fbb-fa9b-4aac-888b-623528005fb9"},
+{"sequencia":8,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"db0face6-a089-405b-91d5-797a4de87766"},
+{"sequencia":9,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"b2033503-b320-4913-af27-46e6729a6181"},
+{"sequencia":10,"data":"2025-06-23","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"1c64ef0e-bae1-49cb-850e-df38809ab031"},
+{"sequencia":11,"data":"2025-05-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"51fd3132-90bf-4c4d-b093-b189922e8795"},
+{"sequencia":12,"data":"2025-05-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"3aa5637d-c013-41fe-8683-46b7286e7f50"},
+{"sequencia":13,"data":"2025-06-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"a46cd2a0-dbca-4c69-9bf3-184d28517378"}
+]
+}

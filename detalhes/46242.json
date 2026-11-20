@@ -1,0 +1,16 @@
+{"codigo":46242,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DAVI JOSE DA SILVA","documento":"13.711.979/0001-58","descricao":"SERVIÇO DE APRESENTAÇÃO MUSICAL","descricao_adicional":null,"unidade":"UN","valor_referencia":30000,"valor_vencedor":30000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE APRESENTAÇÃO MUSICAL","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":30000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-02-24","tipo":"","fase":"Fase Interna","link_publico":"a9ef9e2d-4fd4-42c3-b105-7e0a8897c306"},
+{"sequencia":2,"data":"2025-02-21","tipo":"","fase":"Fase Interna","link_publico":"ea0d0220-d15a-4087-8dcc-ffa043253a97"},
+{"sequencia":3,"data":"2025-02-21","tipo":"","fase":"Fase Interna","link_publico":"4b92284b-515a-4b9b-b6b7-6b376ed33dbe"},
+{"sequencia":4,"data":"2025-02-24","tipo":"","fase":"Fase Interna","link_publico":"b29fa8c6-3567-4ce1-88ad-d0ad9f2887b0"},
+{"sequencia":5,"data":"2025-02-24","tipo":"","fase":"Fase Interna","link_publico":"77cab2d6-4bae-48ca-be30-d0c2bec9eead"},
+{"sequencia":6,"data":"2025-02-24","tipo":"Outros documentos","fase":"Publicação","link_publico":"abb02ce3-31d2-43be-b8f7-e0970dfbb101"}
+]
+}

@@ -1,0 +1,26 @@
+{"codigo":46172,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"PRIMEBUS TRANSPORTES LTDA","documento":"06.250.550/0001-45","descricao":"SERVIÇO DE TRANSPORTE DE PACIENTES PARA HEMODIÁLISE COM VEÍCULO TIPO VAN MÍNIMO DE 12 LUGARES: O SERVIÇO DE TRANSPORTE DE PACIENTES PARA HEMODIÁLISE COM VEÍCULO TIPO VAN MÍNIMO DE 12 LUGARES E AR CONDICIONADO PARA PASSAGEIROS, COM MOTORISTA PARA A CIDADE TAQUARA/RS, O VEÍCULO DEVE TER NO MÁXIMO...","descricao_adicional":null,"unidade":"UN","valor_referencia":500,"valor_vencedor":497,"quantidade":312}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE TRANSPORTE DE PACIENTES PARA HEMODIÁLISE COM VEÍCULO TIPO VAN MÍNIMO DE 12 LUGARES: O SERVIÇO DE TRANSPORTE DE PACIENTES PARA HEMODIÁLISE COM VEÍCULO TIPO VAN MÍNIMO DE 12 LUGARES E AR CONDICIONADO PARA PASSAGEIROS, COM MOTORISTA PARA A CIDADE TAQUARA/RS, O VEÍCULO DEVE TER NO MÁXIMO...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":156,"valor_referencia":500}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-25","tipo":"","fase":"Fase Interna","link_publico":"f56d99ae-4955-4385-9955-fdaea1de743c"},
+{"sequencia":2,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"74163c46-918c-49a2-b00f-b50ad7b357b2"},
+{"sequencia":3,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"48b0af9d-4a4a-4819-be31-69389d38d2a2"},
+{"sequencia":4,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"76622ff3-1d96-4098-9ef3-a74ee974ef2f"},
+{"sequencia":5,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"677cf9dd-091d-478e-ad8b-fa22bff12879"},
+{"sequencia":6,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"fef6374a-2938-4876-bd7a-d45ef533f712"},
+{"sequencia":7,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"595f30ee-b7ca-46d7-b613-2416c9cb41e5"},
+{"sequencia":8,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"a35fb289-4f50-4692-87e6-9aace73dd569"},
+{"sequencia":9,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"60edb440-f2ec-413b-9626-a460135d14b8"},
+{"sequencia":10,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"3449719e-66a2-4387-bcaa-c484857d4781"},
+{"sequencia":11,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"5206a51b-c3b6-40fc-8b21-b2fa125ce3eb"},
+{"sequencia":12,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"2d161dde-ccc3-44a7-b5f1-1677c7e7b3f6"},
+{"sequencia":13,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"ac4263a3-f6cc-4bb1-aada-09f57fbc7c82"},
+{"sequencia":14,"data":"2025-06-23","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"0ec5caba-64a4-4a14-8c6b-f10c6442a727"},
+{"sequencia":15,"data":"2025-06-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"6ba32878-8f7b-45ae-a7af-fda389d20c0f"},
+{"sequencia":16,"data":"2025-06-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"6e233874-4914-42c7-ae84-cb1734ee69a5"}
+]
+}

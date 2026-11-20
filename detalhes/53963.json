@@ -1,0 +1,28 @@
+{"codigo":53963,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SOCIEDADE DE CANTO CARLOS GOMES","documento":"89.917.504/0001-84","descricao":"LOCAÇÃO DE ESPAÇO PARA EVENTOS","descricao_adicional":null,"unidade":"H","valor_referencia":9420,"valor_vencedor":9420,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE ESPAÇO PARA EVENTOS","descricao_adicional":null,"unidade":"H","quantidade_min":0,"quantidade_max":1,"valor_referencia":9420}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d87ae54f-e88e-4802-946b-e5d6c74fc344"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b534e62f-4b55-4b94-9546-48fe9beebd7b"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"14925956-7e80-45f1-8f5b-235994bc714e"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"56300ac9-b9a9-4b4b-a447-82e7e7482184"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1b41f0d9-9734-489f-a543-f8e10ec3bfaa"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a35cb150-7816-4796-af07-57c2cc0bed4c"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8f1d3176-c6f3-483b-bd9b-7ca95358076d"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"78b4b9de-ac5d-4578-9ab0-0d1e6face017"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"166bd882-5342-4cb2-8aca-ae34c5e5428b"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7188046c-2e8c-4899-827e-fab5ec8ae663"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9965af91-b47d-41a1-a64d-c8a193b7bb40"},
+{"sequencia":12,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"f2defb66-4244-4c4f-9d49-d9dc57525437"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0f1f28c4-36c9-4f60-9a9b-e8e993305fb0"},
+{"sequencia":14,"data":"2026-06-19","tipo":"ETP","fase":"Fase Interna","link_publico":"59b74fcb-a272-48e0-9eab-333a3db90aa2"},
+{"sequencia":15,"data":"2026-06-19","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c7d407d7-8110-47b7-87ff-8dc76c61533e"},
+{"sequencia":16,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"bb465fff-4ba7-42e2-83d9-0a1564e27f3f"},
+{"sequencia":17,"data":null,"tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"e60c42b3-4c09-4b5e-ac85-c15b8c2b6f08"},
+{"sequencia":18,"data":null,"tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"590c52dc-239b-47fb-bd01-6f4cda563b17"}
+]
+}

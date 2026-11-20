@@ -1,0 +1,15 @@
+{"codigo":53066,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DO COMERCIO, INDUSTRIA, SERVICOS E AGROPECUARIA D","documento":"05.495.440/0001-80","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>Termo de Fomento com a ASSOCIA&Ccedil;&Atilde;O DO COMERCIO, INDUSTRIA, SERVI&Ccedil;OS E AGROPECUARIA DE ROLANTE E RIOZINHO &ndash; ACISA para o Projeto &nbsp;VIDA E CARREIRA + PROTAGONISMO&nbsp;</p>\n","unidade":"UN","valor_referencia":10000,"valor_vencedor":10000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>Termo de Fomento com a ASSOCIA&Ccedil;&Atilde;O DO COMERCIO, INDUSTRIA, SERVI&Ccedil;OS E AGROPECUARIA DE ROLANTE E RIOZINHO &ndash; ACISA para o Projeto &nbsp;VIDA E CARREIRA + PROTAGONISMO&nbsp;</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":10000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"868373a9-a4d4-4bd7-9408-f189131168ff"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c9f8b2a0-c731-4739-8fb7-cea0ed797572"},
+{"sequencia":3,"data":"2026-04-17","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ea4c57d4-699d-4df2-a778-50aa6c19a33c"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"a3097e80-c881-42bc-b40a-1467b8805ef7"},
+{"sequencia":5,"data":"2026-04-23","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"06a7d38c-51a0-407c-8720-9abeccea4353"}
+]
+}

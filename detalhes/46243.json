@@ -1,0 +1,17 @@
+{"codigo":46243,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GRASSMANN MATERIAIS DE CONSTRUCAO E FERRAGENS LTDA.","documento":"92.567.536/0001-01","descricao":"PORTA COMPLETA MACIÇA","descricao_adicional":null,"unidade":"UN","valor_referencia":1060.01,"valor_vencedor":1060.01,"quantidade":20}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PORTA COMPLETA MACIÇA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":20,"valor_referencia":1060.01}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-02-20","tipo":"","fase":"Fase Interna","link_publico":"4f24ca1c-2f72-47c4-8e25-e78d98eff423"},
+{"sequencia":2,"data":"2025-02-20","tipo":"","fase":"Fase Interna","link_publico":"2a2c4f3e-3c50-4fa8-898c-1acb70784799"},
+{"sequencia":3,"data":"2025-02-21","tipo":"","fase":"Fase Interna","link_publico":"26d0ab3b-9514-455c-87e8-8994cf1bbebc"},
+{"sequencia":4,"data":"2025-02-21","tipo":"","fase":"Fase Interna","link_publico":"d77f9d0d-9fa9-4b59-8da9-6e5ce00a3e97"},
+{"sequencia":5,"data":"2025-02-26","tipo":"","fase":"Fase Interna","link_publico":"4128641d-a7f7-4ad0-8945-3f232972007a"},
+{"sequencia":6,"data":"2025-02-26","tipo":"","fase":"Fase Interna","link_publico":"b6e84dc0-d1b8-4804-8af6-2220152cafd8"},
+{"sequencia":7,"data":"2025-02-21","tipo":"Outros documentos","fase":"Publicação","link_publico":"6f664ada-4f98-4bb1-9456-84f441c87374"}
+]
+}

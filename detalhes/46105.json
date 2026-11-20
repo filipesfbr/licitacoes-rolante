@@ -1,0 +1,28 @@
+{"codigo":46105,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO CRISTA LAR COLMEIA","documento":"72.521.412/0001-88","descricao":"VAGA DE ACOLHIMENTO PARA CRIANÇAS E ADOLESCENTES DE 0 À 18 ANOS, COM DETERMINAÇÃO JUDICIAL","descricao_adicional":"","unidade":"UN","valor_referencia":4065.34,"valor_vencedor":4065.34,"quantidade":60},
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO EVANGELICA LUTERANA DE BENEFICENCIA","documento":"92.849.850/0001-87","descricao":"VAGA DE ACOLHIMENTO PARA CRIANÇAS E ADOLESCENTES DE 0 À 18 ANOS, COM DETERMINAÇÃO JUDICIAL","descricao_adicional":"","unidade":"UN","valor_referencia":4065.34,"valor_vencedor":4065.34,"quantidade":60},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"LAR DE IDOSOS RECANTO JARDIM DO SOL LTDA","documento":"34.360.945/0001-36","descricao":"VAGA DE ACOLHIMENTO PARA IDOSOS COM DETERMINAÇÃO JUDICIAL","descricao_adicional":"","unidade":"UN","valor_referencia":3596,"valor_vencedor":3596,"quantidade":60},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"ANDERSON FERREIRA DOS SANTOS","documento":"44.245.734/0002-97","descricao":"ACOLHIMENTO EM RESIDENCIAL TERAPÊUTICO DE LONGA PERMANÊNCIA TIPO 1, COM ACOMPANHAMENTO PSICOSSOCIAL E MÉDICO ( PSIQUIÁTRICO, PSICOLÓGICO, ASSISTENTE SOCIAL, RESPONSÁVEL TÉCNICO, CUIDADORES, ESTADIA, ATENDIMENTO 24 ROAS COM CUIDADORES, ALIMENTAÇÃO, HIGIENE PESSOAL E ROUPARIA DE CAMA E BANHO, COM...","descricao_adicional":"","unidade":"UN","valor_referencia":4466.33,"valor_vencedor":4466.33,"quantidade":60}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"VAGA DE ACOLHIMENTO PARA CRIANÇAS E ADOLESCENTES DE 0 À 18 ANOS, COM DETERMINAÇÃO JUDICIAL","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":60,"valor_referencia":4065.34},
+{"lote":0,"item":2,"descricao":"VAGA DE ACOLHIMENTO PARA IDOSOS COM DETERMINAÇÃO JUDICIAL","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":60,"valor_referencia":3596},
+{"lote":0,"item":3,"descricao":"VAGA DE ACOLHIMENTO PARA PESSOA COM DEFICIÊNCIA COM DETERMINAÇÃO JUDICIAL","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":60,"valor_referencia":3596},
+{"lote":0,"item":4,"descricao":"ACOLHIMENTO EM RESIDENCIAL TERAPÊUTICO DE LONGA PERMANÊNCIA TIPO 1, COM ACOMPANHAMENTO PSICOSSOCIAL E MÉDICO ( PSIQUIÁTRICO, PSICOLÓGICO, ASSISTENTE SOCIAL, RESPONSÁVEL TÉCNICO, CUIDADORES, ESTADIA, ATENDIMENTO 24 ROAS COM CUIDADORES, ALIMENTAÇÃO, HIGIENE PESSOAL E ROUPARIA DE CAMA E BANHO, COM...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":60,"valor_referencia":4466.33}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-14","tipo":"","fase":"Fase Interna","link_publico":"702f1c0f-55c9-4272-863f-94d2b5a3ce49"},
+{"sequencia":2,"data":"2025-10-14","tipo":"","fase":"Fase Interna","link_publico":"e32c930d-b697-4de6-9bdd-ca5075e2a3c1"},
+{"sequencia":3,"data":"2025-12-11","tipo":"","fase":"Fase Interna","link_publico":"dfaf2bff-279e-40c4-8fb3-514c99d110a1"},
+{"sequencia":4,"data":"2025-12-10","tipo":"","fase":"Fase Interna","link_publico":"2e25f0c0-cbc1-4c37-9d23-f83ba9f418af"},
+{"sequencia":5,"data":"2025-12-10","tipo":"","fase":"Fase Interna","link_publico":"1f500b34-cd7f-40f9-b8ab-fec233836ba1"},
+{"sequencia":6,"data":"2025-12-11","tipo":"","fase":"Fase Interna","link_publico":"ce1aaaf4-c329-42bd-8f29-6695b4acfb3b"},
+{"sequencia":7,"data":"2025-11-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"54a698ac-382a-4a04-90d1-7db67b0eef88"},
+{"sequencia":8,"data":"2025-11-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"a869f5e0-dcd7-444a-8848-88c8a04883e1"},
+{"sequencia":9,"data":"2025-11-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"26f2b11b-bc02-4c93-a409-ba7a16de8b89"},
+{"sequencia":10,"data":"2025-11-14","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"8dd8c37f-a116-484d-b96f-deea8613cc9a"},
+{"sequencia":11,"data":"2025-10-14","tipo":"Outros documentos","fase":"Publicação","link_publico":"d47b3af2-3801-420c-a61e-dae7725930b3"},
+{"sequencia":12,"data":"2025-10-14","tipo":"Outros documentos","fase":"Publicação","link_publico":"826cae95-bbf6-4fba-b367-a0be8e1d3689"}
+]
+}

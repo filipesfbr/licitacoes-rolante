@@ -1,0 +1,19 @@
+{"codigo":46141,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":true,"descricao":"LOCAÇÃO DE IMÓVEL URBANO.","descricao_adicional":"<p>Locação de imóvel urbano, situado na Rua Júlio Kohlrausch, numero 659, Bairro Centro, no Município de Rolante, com área construída de aproximadamente&nbsp;399,75 m*, destinado ao funcionamento da&nbsp;Secretaria Municipal de Turismo, Cultura, Desenvolvimento&nbsp;Econômico e Tecnologia.</p>","unidade":"UN","valor_referencia":2734.54,"valor_vencedor":2853.04,"quantidade":24}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE IMÓVEL URBANO.","descricao_adicional":"<p>Locação de imóvel urbano, situado na Rua Júlio Kohlrausch, numero 659, Bairro Centro, no Município de Rolante, com área construída de aproximadamente&nbsp;399,75 m*, destinado ao funcionamento da&nbsp;Secretaria Municipal de Turismo, Cultura, Desenvolvimento&nbsp;Econômico e Tecnologia.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":24,"valor_referencia":2734.54}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-14","tipo":"","fase":"Fase Interna","link_publico":"ce109485-49ff-4f0f-b192-49d93e473c18"},
+{"sequencia":2,"data":"2026-01-07","tipo":"","fase":"Fase Interna","link_publico":"a9df61df-25ad-4006-a935-f9c1a3c82ac2"},
+{"sequencia":3,"data":"2025-08-13","tipo":"","fase":"Fase Interna","link_publico":"a336eb4c-a817-4d65-a083-465f9c492387"},
+{"sequencia":4,"data":"2025-08-13","tipo":"","fase":"Fase Interna","link_publico":"9ca8c9b3-a75a-46cc-9aab-0b53fb0d86b7"},
+{"sequencia":5,"data":"2025-08-13","tipo":"","fase":"Fase Interna","link_publico":"de894b0c-911b-462c-832e-fa3d1e3cb775"},
+{"sequencia":6,"data":"2025-08-13","tipo":"","fase":"Fase Interna","link_publico":"b0888be2-071b-4429-8479-65931df46b5f"},
+{"sequencia":7,"data":"2025-08-13","tipo":"","fase":"Fase Interna","link_publico":"222875c9-e62e-4666-94c7-15a6b21403be"},
+{"sequencia":8,"data":"2025-08-13","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"3c394d2f-6f88-4f68-9b85-2f40ac35a209"},
+{"sequencia":9,"data":"2025-08-14","tipo":"Outros documentos","fase":"Publicação","link_publico":"1dd57549-90c2-4620-8531-547dc4a17703"}
+]
+}

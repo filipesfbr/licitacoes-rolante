@@ -1,0 +1,17 @@
+{"codigo":46197,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CLINICA MEDICA TIMMEN LTDA","documento":"07.884.484/0001-28","descricao":"SERVIÇOS MÉDICOS","descricao_adicional":null,"unidade":"UN","valor_referencia":50,"valor_vencedor":50,"quantidade":687}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS MÉDICOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":550,"valor_referencia":50}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-28","tipo":"","fase":"Fase Interna","link_publico":"a47dd89c-2636-4966-b615-9363b5451035"},
+{"sequencia":2,"data":"2025-04-28","tipo":"","fase":"Fase Interna","link_publico":"655bae12-74c6-4e66-be99-4b9455664ca6"},
+{"sequencia":3,"data":"2025-04-28","tipo":"","fase":"Fase Interna","link_publico":"55a0eca1-f563-4243-aa02-725ee6998d59"},
+{"sequencia":4,"data":"2025-04-28","tipo":"","fase":"Fase Interna","link_publico":"96c7c33e-10e2-4e8c-958f-f74e8cf31106"},
+{"sequencia":5,"data":"2025-06-05","tipo":"","fase":"Fase Interna","link_publico":"81291ffb-235a-41d0-869a-667e8cff1f57"},
+{"sequencia":6,"data":"2025-04-28","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"46847765-4c1a-4243-b560-a34be07612e1"},
+{"sequencia":7,"data":"2025-04-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"d65d71ee-cb2f-4be1-b3d4-e4f03762f678"}
+]
+}

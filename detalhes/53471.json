@@ -1,0 +1,24 @@
+{"codigo":53471,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CJC COMERCIO VAREJISTA E ATACADISTA DE FERRAMENTAS LTDA","documento":"40.044.357/0001-96","descricao":"LONA","descricao_adicional":"","unidade":"RL","valor_referencia":1029.2,"valor_vencedor":1029.2,"quantidade":8}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LONA","descricao_adicional":"","unidade":"RL","quantidade_min":0,"quantidade_max":8,"valor_referencia":1029.2}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Ata de registro de preços","fase":"Fase Interna","link_publico":"bfea3872-2213-446f-bf9f-f0d557c1504e"},
+{"sequencia":2,"data":null,"tipo":"Autorização do órgão gerenciador","fase":"Fase Interna","link_publico":"4b0e7190-8651-41b5-bd2e-c5f14b68bee9"},
+{"sequencia":3,"data":null,"tipo":"Edital e anexos da licitação realizada por outro órgão","fase":"Fase Interna","link_publico":"da82d76d-bfeb-4740-9cf1-74b5d5cf182e"},
+{"sequencia":4,"data":null,"tipo":"Pesquisa de mercado demonstrando a vantagem econômica","fase":"Fase Interna","link_publico":"4c230fb8-1770-475f-b3ce-16da4c18537a"},
+{"sequencia":5,"data":null,"tipo":"Pesquisa de mercado demonstrando a vantagem econômica","fase":"Fase Interna","link_publico":"edb98cc0-ce4e-455d-b6ad-e8f28c9d1bbe"},
+{"sequencia":6,"data":null,"tipo":"Pesquisa de mercado demonstrando a vantagem econômica","fase":"Fase Interna","link_publico":"3d20895e-d475-4631-b318-dce14a1f387c"},
+{"sequencia":7,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"7a3b6a37-d4fb-42f4-89e9-a7d23bf39136"},
+{"sequencia":8,"data":"2026-05-19","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"68b85bc3-954e-4a5f-ba63-fbdb4f63bba8"},
+{"sequencia":9,"data":"2026-05-13","tipo":"ETP","fase":"Fase Interna","link_publico":"aad62d99-3a38-4377-85d3-384af1a4c39c"},
+{"sequencia":10,"data":"2026-05-13","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"86671dd3-283d-4f9e-b0e4-9cb3122fa81c"},
+{"sequencia":11,"data":null,"tipo":"Extrato de adesão a registro de preços","fase":"Publicação","link_publico":"63ed0126-5493-4064-b739-e4b94ed2c617"},
+{"sequencia":12,"data":"2026-05-20","tipo":"Extrato de adesão a registro de preços","fase":"Publicação","link_publico":"7d06d77d-96cb-4399-bf3f-0bc6d390fbe1"},
+{"sequencia":13,"data":"2026-05-20","tipo":"Extrato de adesão a registro de preços","fase":"Publicação","link_publico":"6aac351d-4cf1-4951-96e2-d3072eb48cfe"},
+{"sequencia":14,"data":"2026-05-20","tipo":"Extrato de adesão a registro de preços","fase":"Publicação","link_publico":"2c3de17f-81ca-43a5-abfe-43b29442516f"}
+]
+}

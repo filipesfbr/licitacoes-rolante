@@ -1,0 +1,15 @@
+{"codigo":46207,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MONAQUITO ALIMENTOS LTDA","documento":"04.452.267/0001-70","descricao":"PACOTE DE PÁSCOA COM PRODUTOS SORTIDOS CONFORME DESCRITIVO DO ORÇAMENTO","descricao_adicional":null,"unidade":"UN","valor_referencia":13.98,"valor_vencedor":13.98,"quantidade":3000}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PACOTE DE PÁSCOA COM PRODUTOS SORTIDOS CONFORME DESCRITIVO DO ORÇAMENTO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":3000,"valor_referencia":13.98}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-15","tipo":"","fase":"Fase Interna","link_publico":"49afda0c-7b05-4429-8eb5-20400af21a13"},
+{"sequencia":2,"data":"2025-04-15","tipo":"","fase":"Fase Interna","link_publico":"d2793d41-b18c-4a07-96e0-4d3ad59d150f"},
+{"sequencia":3,"data":"2025-04-15","tipo":"","fase":"Fase Interna","link_publico":"7644d49b-a877-4a8f-acc6-4658ae080644"},
+{"sequencia":4,"data":"2025-04-15","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"82c3e074-6aac-4224-adab-20cf3a5f8798"},
+{"sequencia":5,"data":"2025-04-16","tipo":"Outros documentos","fase":"Publicação","link_publico":"64f90d2a-2d63-4995-9aab-2b588c25ddd4"}
+]
+}

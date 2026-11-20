@@ -1,0 +1,26 @@
+{"codigo":46223,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GESTAO ASSESSORIA E CONSULTORIA EM ADMINISTRAÇÃO P","documento":"03.713.762/0001-23","descricao":"ASSESSORIA E CONSULTORIA JURÍDICA E ADMINISTRATIVA.","descricao_adicional":null,"unidade":"UN","valor_referencia":3000,"valor_vencedor":3000,"quantidade":15},
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GESTAO A + DESENVOLVIMENTO LTDA","documento":"18.693.117/0001-63","descricao":"ASSESSORIA E CONSULTORIA JURÍDICA E ADMINISTRATIVA.","descricao_adicional":null,"unidade":"UN","valor_referencia":3000,"valor_vencedor":3000,"quantidade":12},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"GESTAO ASSESSORIA E CONSULTORIA EM ADMINISTRAÇÃO P","documento":"03.713.762/0001-23","descricao":"ASSESSORIA E CONSULTORIA JURÍDICA E ADMINISTRATIVA.","descricao_adicional":null,"unidade":"UN","valor_referencia":7800,"valor_vencedor":7800,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"GESTAO A + DESENVOLVIMENTO LTDA","documento":"18.693.117/0001-63","descricao":"ASSESSORIA E CONSULTORIA JURÍDICA E ADMINISTRATIVA.","descricao_adicional":null,"unidade":"UN","valor_referencia":7800,"valor_vencedor":7800,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ASSESSORIA E CONSULTORIA JURÍDICA E ADMINISTRATIVA.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":3000},
+{"lote":0,"item":2,"descricao":"ASSESSORIA E CONSULTORIA JURÍDICA E ADMINISTRATIVA.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":7800}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-09","tipo":"","fase":"Fase Interna","link_publico":"c45d89f5-c7ee-48d9-b1f5-92d55e603376"},
+{"sequencia":2,"data":"2025-10-16","tipo":"","fase":"Fase Interna","link_publico":"2096041b-5572-43c7-8a1c-b7de6e39a92b"},
+{"sequencia":3,"data":"2026-01-08","tipo":"","fase":"Fase Interna","link_publico":"5ed40eb0-485d-4059-a665-93e7d51ae958"},
+{"sequencia":4,"data":"2025-03-31","tipo":"","fase":"Fase Interna","link_publico":"6eaee536-056d-4b1c-a9aa-840df6bfde26"},
+{"sequencia":5,"data":"2025-10-17","tipo":"","fase":"Fase Interna","link_publico":"0d55baeb-ebf5-4658-8f0b-deafffa11f27"},
+{"sequencia":6,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"e9983288-7c04-49dc-94e9-2c462a00f6ab"},
+{"sequencia":7,"data":"2025-10-17","tipo":"","fase":"Fase Interna","link_publico":"aa4f0f46-2874-4fe4-a811-77a1cd6a88fa"},
+{"sequencia":8,"data":"2025-10-16","tipo":"","fase":"Fase Interna","link_publico":"edfa2ad9-697a-4173-9801-e9fee9ac8b5f"},
+{"sequencia":9,"data":"2025-05-09","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"6340fec7-9dac-4f16-8c7b-913d368f6b9b"},
+{"sequencia":10,"data":"2025-10-16","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"f8a6c390-cc1f-41c1-9919-e0a7d41b567a"},
+{"sequencia":11,"data":"2025-10-17","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"43045c69-2b7c-4542-9d58-2c4bc80070c2"},
+{"sequencia":12,"data":"2025-04-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"16138be7-9436-4a49-b94a-9ee5c67eb3ae"}
+]
+}

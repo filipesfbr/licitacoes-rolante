@@ -1,0 +1,28 @@
+{"codigo":54816,
+"vencedores":[
+{"lote":1,"item":1,"pessoa_fisica":false,"fornecedor":"DEISE GODOY NUNES","documento":"12.425.239/0001-92","descricao":"SUCATA  (LEILÃO)","descricao_adicional":"<p>Sucata de computadores, condicionadores de ar e eletronicos diversos, sucata de m&oacute;veis e arm&aacute;rios de metal, m&aacute;quinas de lavar, refrigeradores e bebedouros, sucata de cadeiras girat&oacute;rias, metais, classes,mesas e cadeiras escolares</p>\n","unidade":"UN","valor_referencia":890,"valor_vencedor":5100,"quantidade":1}
+]
+,"itens":[
+{"lote":1,"item":1,"descricao":"SUCATA  (LEILÃO)","descricao_adicional":"<p>Sucata de computadores, condicionadores de ar e eletronicos diversos, sucata de m&oacute;veis e arm&aacute;rios de metal, m&aacute;quinas de lavar, refrigeradores e bebedouros, sucata de cadeiras girat&oacute;rias, metais, classes,mesas e cadeiras escolares</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":890}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"aeecb7b2-1c04-4070-b9e2-05680715e7a5"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a165dfe3-fff0-497e-975d-7f374dee4091"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b7a03736-c85c-49c9-a4f5-d81239c11eef"},
+{"sequencia":4,"data":"2026-08-20","tipo":"ETP","fase":"Fase Interna","link_publico":"41a97249-6a76-45a2-8535-f1cedb382aab"},
+{"sequencia":5,"data":"2026-08-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d8d53d93-9e6f-4e1d-ac10-a7d6a734bbbb"},
+{"sequencia":6,"data":"2026-09-04","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"667b2de1-d8e5-4c00-9dea-eb217a32b2e3"},
+{"sequencia":7,"data":"2026-09-09","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"639b6d5b-e9ee-46ea-9541-0d9b1fcf96c7"},
+{"sequencia":8,"data":"2026-09-09","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"e3440ac8-7beb-43a4-b598-b1c58091dc4d"},
+{"sequencia":9,"data":"2026-09-09","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"5a810a0b-2c8d-47cf-a6d4-1a138382ef8e"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"09fa1b18-ab56-4090-b59e-c78027e54e86"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"614385ed-42da-42f8-ad3c-d1b8bc83d68a"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0396006e-f901-4838-b78e-28d7f1cf0aef"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"be684dc5-ab23-4e47-a755-9538c3b8b224"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"abb7f9b8-7fa7-45df-b70b-1a325dc92008"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"aa12cc9a-ad05-4a8a-a7ad-e310b097ed13"},
+{"sequencia":16,"data":null,"tipo":"Ata de julgamento credenciamento/lances","fase":"Habilitação/Propostas","link_publico":"433cb2c5-6e6f-4376-9d9d-f1dfdcd7d0cf"},
+{"sequencia":17,"data":null,"tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"c8e99ff9-115e-44be-a8a8-ede0e49a8374"},
+{"sequencia":18,"data":null,"tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"0519e586-0ce6-4c48-90eb-879786ecf18a"}
+]
+}

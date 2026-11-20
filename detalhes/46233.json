@@ -1,0 +1,17 @@
+{"codigo":46233,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MACKE & CIA LTDA","documento":"88.279.419/0002-56","descricao":"RESERVATÓRIO DE ÁGUA","descricao_adicional":null,"unidade":"UN","valor_referencia":9940,"valor_vencedor":9940,"quantidade":3}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"RESERVATÓRIO DE ÁGUA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":9940}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-18","tipo":"","fase":"Fase Interna","link_publico":"9a155cd5-e85a-435c-8838-193b3786ef93"},
+{"sequencia":2,"data":"2025-03-18","tipo":"","fase":"Fase Interna","link_publico":"8d24a2b7-2080-49e6-ba91-37b26a26f15f"},
+{"sequencia":3,"data":"2025-03-18","tipo":"","fase":"Fase Interna","link_publico":"02945aa1-5336-477b-9c54-af571cb2724f"},
+{"sequencia":4,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"59ea29c7-bdeb-4552-80b9-838de90ac6dc"},
+{"sequencia":5,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"d0edb5a2-442f-42cc-8e78-40fa70b34be1"},
+{"sequencia":6,"data":"2025-04-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"8e43d96a-442b-4451-b382-6dde795aba2b"},
+{"sequencia":7,"data":"2025-03-19","tipo":"Outros documentos","fase":"Publicação","link_publico":"2132ab82-2073-4a1e-9b21-764b177abd6d"}
+]
+}

@@ -1,0 +1,21 @@
+{"codigo":54460,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CTG PASSO DOS TROPEIROS","documento":"88.372.750/0001-35","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","valor_referencia":14305,"valor_vencedor":14305,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":14305}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"bc339ee2-a9b8-4e04-b10c-c416b88e4ca8"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"645cfcec-ef84-42f5-ad63-5d369df75c82"},
+{"sequencia":3,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"3ce1b07b-40c5-49bd-acab-151169fd5f7d"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a2735e52-9728-45ba-80da-1b51fb3facde"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cfee35d1-c233-4033-bd02-59d558ea23d7"},
+{"sequencia":6,"data":"2026-07-21","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0ec08914-5e76-41e1-a1c6-5dc39cedc62c"},
+{"sequencia":7,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"dd0d4af8-e2c8-4091-823a-bcf9d7c4ee14"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fd876af1-126a-498b-aa9d-bd6e48ac2219"},
+{"sequencia":9,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"774121fd-a10a-4d13-a885-35b347163424"},
+{"sequencia":10,"data":"2026-07-27","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fefc67fb-2b29-416a-92e6-1fd95433a5db"},
+{"sequencia":11,"data":"2026-07-28","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"c4c9bcab-a84f-452d-a325-62f01d8f8db1"}
+]
+}

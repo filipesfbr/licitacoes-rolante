@@ -1,0 +1,16 @@
+{"codigo":46240,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GESTAO A + DESENVOLVIMENTO LTDA","documento":"18.693.117/0001-63","descricao":"SERVIÇO DE CAPACITAÇÃO","descricao_adicional":null,"unidade":"UN","valor_referencia":14900,"valor_vencedor":14900,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE CAPACITAÇÃO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":14900}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-02-25","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"ee33fb2d-d3eb-4235-86da-419e90e2fed2"},
+{"sequencia":2,"data":"2025-02-24","tipo":"","fase":"Fase Interna","link_publico":"3f27e909-643a-47ea-9904-227428b70f59"},
+{"sequencia":3,"data":"2025-02-24","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"ae773e96-22ab-49ab-8278-d71496748dd8"},
+{"sequencia":4,"data":"2025-02-24","tipo":"","fase":"Fase Interna","link_publico":"694b8aeb-f6a0-4aa2-b9dc-a6ad2d37c951"},
+{"sequencia":5,"data":"2025-02-24","tipo":"","fase":"Fase Interna","link_publico":"076fe22b-d432-497b-a7e3-27c81b7c8d27"},
+{"sequencia":6,"data":"2025-02-24","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"937b8c15-8cb7-4bd1-94a8-56ea9e0e90ee"}
+]
+}

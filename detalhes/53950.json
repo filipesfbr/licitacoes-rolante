@@ -1,0 +1,14 @@
+{"codigo":53950,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"HOJE COMUNICACAO LTDA","documento":"39.899.100/0001-37","descricao":"SERVIÇO DE DIVULGAÇÃO DO MUNICÍPIO","descricao_adicional":"<p>Monitoramento e acompanhamento das a&ccedil;&otilde;es e projetos do municipio e demais atividades de interesse do municipio</p>\n","unidade":"MES","valor_referencia":2693,"valor_vencedor":2693,"quantidade":7}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE DIVULGAÇÃO DO MUNICÍPIO","descricao_adicional":"<p>Monitoramento e acompanhamento das a&ccedil;&otilde;es e projetos do municipio e demais atividades de interesse do municipio</p>\n","unidade":"MES","quantidade_min":0,"quantidade_max":7,"valor_referencia":2693}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"60758449-5b26-4b62-bfb6-6f457208213e"},
+{"sequencia":2,"data":"2026-06-16","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ae53bc86-f17a-4ef5-a029-255244bf8d92"},
+{"sequencia":3,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"97361962-d30b-4afd-a146-e0120b89d182"},
+{"sequencia":4,"data":null,"tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"49b82dd1-6cfe-43f1-9c65-f733a89785ac"}
+]
+}

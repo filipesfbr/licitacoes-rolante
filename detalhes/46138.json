@@ -1,0 +1,20 @@
+{"codigo":46138,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"VERTEX GEOPROCESSAMENTO LTDA","documento":"41.248.270/0001-01","descricao":"SERVIÇOS TÉCNICOS ESPECIALIZADOS","descricao_adicional":"<p>GEOPROCESSAMENTO E CARTOGRAFIA DIGITAL</p>","unidade":"UN","valor_referencia":60000,"valor_vencedor":60000,"quantidade":1.72916}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS TÉCNICOS ESPECIALIZADOS","descricao_adicional":"<p>GEOPROCESSAMENTO E CARTOGRAFIA DIGITAL</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":60000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-19","tipo":"","fase":"Fase Interna","link_publico":"ebb2223c-ba07-4091-b0b3-c80b4c176d69"},
+{"sequencia":2,"data":"2026-01-07","tipo":"","fase":"Fase Interna","link_publico":"d9dd2eee-e770-43ff-b9b6-50f7c5c4ab51"},
+{"sequencia":3,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"288d0906-63ae-4935-8506-6ea96ddb530f"},
+{"sequencia":4,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"19666b63-e48a-4c1d-87ae-06253d396c46"},
+{"sequencia":5,"data":"2025-08-20","tipo":"","fase":"Fase Interna","link_publico":"bc793800-eff2-48f7-8d14-42b19ef285b6"},
+{"sequencia":6,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"be1dda3d-9c4b-4b73-9761-80cb87a5c72d"},
+{"sequencia":7,"data":"2025-08-20","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"891944cd-e9c8-4f4d-bdf5-81be3eaea79b"},
+{"sequencia":8,"data":"2025-08-18","tipo":"Outros documentos","fase":"Publicação","link_publico":"5355a0eb-e9f1-4514-a032-a89a3a574d67"},
+{"sequencia":9,"data":"2025-08-18","tipo":"Outros documentos","fase":"Publicação","link_publico":"43858b24-71bb-4f94-8a39-a1f2e321a908"},
+{"sequencia":10,"data":"2025-08-19","tipo":"Outros documentos","fase":"Publicação","link_publico":"8a6072ca-a7fb-4bbd-bcd6-ebbbe8a5be71"}
+]
+}

@@ -1,0 +1,19 @@
+{"codigo":46087,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MAPDATA-TECNOLOGIA,INFORMATICA E COMERCIO LTDA","documento":"66.582.784/0001-11","descricao":"LICENÇA PARA USO DE SOFTWARE","descricao_adicional":null,"unidade":"UN","valor_referencia":1246.55,"valor_vencedor":1246.55,"quantidade":12},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MAPDATA-TECNOLOGIA,INFORMATICA E COMERCIO LTDA","documento":"66.582.784/0001-11","descricao":"TREINAMENTO/CURSO","descricao_adicional":null,"unidade":"UN","valor_referencia":1990,"valor_vencedor":1990,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LICENÇA PARA USO DE SOFTWARE","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":1246.55},
+{"lote":0,"item":2,"descricao":"TREINAMENTO/CURSO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1990}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-13","tipo":"","fase":"Fase Interna","link_publico":"99819e28-226f-4402-a6e3-b5fd3ead65c7"},
+{"sequencia":2,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"8caa4029-fc91-43ff-a64c-510b79e9729c"},
+{"sequencia":3,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"fb9c6d23-a0cb-4a7a-ae86-99d0409412b1"},
+{"sequencia":4,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"5274a194-18c6-4bb2-931c-322787424ed7"},
+{"sequencia":5,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"ff47e7a3-ac5d-4c41-9733-f89d87947a30"},
+{"sequencia":6,"data":"2025-11-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"caf9a3ae-860a-4b8f-a561-c0fe5b9ac78f"},
+{"sequencia":7,"data":"2025-11-07","tipo":"Outros documentos","fase":"Publicação","link_publico":"27b54030-7960-4a8e-b6af-29003dffaa45"}
+]
+}

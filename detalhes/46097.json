@@ -1,0 +1,27 @@
+{"codigo":46097,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"FRIOVIX COMERCIO DE REFRIGERACAO LTDA","documento":"09.316.105/0018-77","descricao":"AR-CONDICIONADO DE 18.000BTUS - TIPO SPLIT, MODELO PAREDE, TECNOLOGIA INVERTER, FUNÇÃO: QUENTE E FRIO, CAPACIDADE MÍNIMA DE 18.000 BTU/H, BAIXO NÍVEL DE RUÍDO. COR BRANCA, UCLIZE GASES REFRIGERANTES ECOLÓGICO, TENSÃO DE 220V OU 110V OU BIVOLT, FILTRO LAVÁVEL, FUNÇÃO SLEEP (REPOUSO), TRÊS...","descricao_adicional":null,"unidade":"UN","valor_referencia":3029,"valor_vencedor":3029,"quantidade":40},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"FRIOVIX COMERCIO DE REFRIGERACAO LTDA","documento":"09.316.105/0018-77","descricao":"AR-CONDICIONADO DE 24.000BTUS - TIPO SPLIT, MODELO PAREDE, TECNOLOGIA INVERTER, FUNÇÃO: QUENTE E FRIO, CAPACIDADE MÍNIMA DE 24.000 BTU/H, BAIXO NÍVEL DE RUÍDO. COR BRANCA, UCLIZE GASES REFRIGERANTES ECOLÓGICO, TENSÃO DE 220V OU 110V OU BIVOLT, FILTRO LAVÁVEL, FUNÇÃO SLEEP (REPOUSO), TRÊS...","descricao_adicional":null,"unidade":"UN","valor_referencia":3845,"valor_vencedor":3845,"quantidade":130}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"AR-CONDICIONADO DE 18.000BTUS - TIPO SPLIT, MODELO PAREDE, TECNOLOGIA INVERTER, FUNÇÃO: QUENTE E FRIO, CAPACIDADE MÍNIMA DE 18.000 BTU/H, BAIXO NÍVEL DE RUÍDO. COR BRANCA, UCLIZE GASES REFRIGERANTES ECOLÓGICO, TENSÃO DE 220V OU 110V OU BIVOLT, FILTRO LAVÁVEL, FUNÇÃO SLEEP (REPOUSO), TRÊS...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":20,"valor_referencia":3029},
+{"lote":0,"item":2,"descricao":"AR-CONDICIONADO DE 24.000BTUS - TIPO SPLIT, MODELO PAREDE, TECNOLOGIA INVERTER, FUNÇÃO: QUENTE E FRIO, CAPACIDADE MÍNIMA DE 24.000 BTU/H, BAIXO NÍVEL DE RUÍDO. COR BRANCA, UCLIZE GASES REFRIGERANTES ECOLÓGICO, TENSÃO DE 220V OU 110V OU BIVOLT, FILTRO LAVÁVEL, FUNÇÃO SLEEP (REPOUSO), TRÊS...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":65,"valor_referencia":3845}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-23","tipo":"","fase":"Fase Interna","link_publico":"970c8aae-bc61-48b2-9e0f-61b2401eb73f"},
+{"sequencia":2,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"33281a59-a439-4b84-942f-e39ce776055c"},
+{"sequencia":3,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"43808ce5-0dff-4f88-9ba1-81fcdc0dd1de"},
+{"sequencia":4,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"55201d55-8b96-4360-aceb-0db930245843"},
+{"sequencia":5,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"b8438095-8664-4258-88a6-e9402bcc3d1d"},
+{"sequencia":6,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"e85336bc-931a-467b-9e6f-d9194bd1c2a2"},
+{"sequencia":7,"data":"2025-10-21","tipo":"","fase":"Fase Interna","link_publico":"59a814e8-cfb6-4cbc-9d44-a16c2a3b704f"},
+{"sequencia":8,"data":"2025-10-21","tipo":"","fase":"Fase Interna","link_publico":"49f628b5-c4f2-48f1-ab11-1aa95645a21f"},
+{"sequencia":9,"data":"2025-10-21","tipo":"","fase":"Fase Interna","link_publico":"904f0649-1b19-40b6-98f5-6f7ed502d170"},
+{"sequencia":10,"data":"2025-10-21","tipo":"","fase":"Fase Interna","link_publico":"52e45e40-4245-458a-808d-5f5e462638d7"},
+{"sequencia":11,"data":"2025-10-21","tipo":"","fase":"Fase Interna","link_publico":"58cc3022-b9e4-4e51-ad8e-790834df8a18"},
+{"sequencia":12,"data":"2025-10-21","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"d2282b2b-4489-440f-af83-85ff5a85df8f"},
+{"sequencia":13,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"a6d1a2df-cf51-4b96-9235-2f65ea6b671b"},
+{"sequencia":14,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"1aeda72b-71c6-4d56-970d-97a70eb9f6cb"},
+{"sequencia":15,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"73474fe3-fe22-4c24-82ff-00d9e95b2596"}
+]
+}

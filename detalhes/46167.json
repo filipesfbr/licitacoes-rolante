@@ -1,0 +1,21 @@
+{"codigo":46167,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"APOLO 1913 CONSTRUCAO CIVIL LTDA","documento":"59.528.012/0001-36","descricao":"SERVIÇO DE MANUTENÇÃO","descricao_adicional":null,"unidade":"UN","valor_referencia":18250,"valor_vencedor":18250,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE MANUTENÇÃO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":18250}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"f98e98c2-d99f-41a7-81e7-7e4d3a61fc15"},
+{"sequencia":2,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"7dc71687-7515-499d-83e6-e7adddd6c181"},
+{"sequencia":3,"data":"2025-06-20","tipo":"","fase":"Fase Interna","link_publico":"699dacd5-aeef-45c5-a9b2-e6525b21c843"},
+{"sequencia":4,"data":"2025-06-20","tipo":"","fase":"Fase Interna","link_publico":"d1d5e060-f3c5-48e7-ab54-562f2de378eb"},
+{"sequencia":5,"data":"2025-06-20","tipo":"","fase":"Fase Interna","link_publico":"5e78bc94-ed74-4bb5-b537-4f6df16d4168"},
+{"sequencia":6,"data":"2025-06-20","tipo":"","fase":"Fase Interna","link_publico":"ae56bff3-ae45-4e09-8e10-b7516e512f79"},
+{"sequencia":7,"data":"2025-06-20","tipo":"","fase":"Fase Interna","link_publico":"c612cd33-1dec-451f-9ba7-cfa62781f99e"},
+{"sequencia":8,"data":"2025-06-20","tipo":"","fase":"Fase Interna","link_publico":"8ebf2008-8722-4f1b-9073-04e90a7efc0f"},
+{"sequencia":9,"data":"2025-06-20","tipo":"","fase":"Fase Interna","link_publico":"975dcce5-c2cc-44d9-9ef4-ce7b0e3244c1"},
+{"sequencia":10,"data":"2025-06-20","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"6077152a-5a52-423e-8f0c-6d18be5ba018"},
+{"sequencia":11,"data":"2025-06-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"2ea83300-c747-4fa3-9fb2-97fbf534b4d8"}
+]
+}

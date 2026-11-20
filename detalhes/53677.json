@@ -1,0 +1,15 @@
+{"codigo":53677,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"65.301.082 LEARCINDO DECARLI","documento":"65.301.082/0001-50","descricao":"SERVIÇO DE ROÇADA","descricao_adicional":"<p>Servi&ccedil;os de ro&ccedil;ada, capina, jardinagem e limpeza geral de p&aacute;tios nas escolas da rede municipal de ensino.</p>\n","unidade":"H","valor_referencia":22.5,"valor_vencedor":22.5,"quantidade":1400}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE ROÇADA","descricao_adicional":"<p>Servi&ccedil;os de ro&ccedil;ada, capina, jardinagem e limpeza geral de p&aacute;tios nas escolas da rede municipal de ensino.</p>\n","unidade":"H","quantidade_min":0,"quantidade_max":1400,"valor_referencia":22.5}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"ddddcbe0-ed04-4b88-a2f0-ad875125b305"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"210f6e5c-75c1-4145-9da8-8fd2bc5f21f3"},
+{"sequencia":3,"data":"2026-05-29","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"13b5004e-8edc-45b6-9c2b-6da2fe1a3fcd"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"8eac3738-bf6d-437e-bf8d-89e520d65af7"},
+{"sequencia":5,"data":null,"tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"6d26f135-910c-4755-b8d8-947c6ec2ec97"}
+]
+}

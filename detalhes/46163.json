@@ -1,0 +1,48 @@
+{"codigo":46163,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":243.9,"valor_vencedor":243.9,"quantidade":2},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":197.6,"valor_vencedor":197.6,"quantidade":4},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":71.21,"valor_vencedor":71.21,"quantidade":2},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":10.85,"valor_vencedor":10.85,"quantidade":2},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":0.9,"valor_vencedor":0.9,"quantidade":10},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":1.26,"valor_vencedor":1.26,"quantidade":2},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":40.9885,"valor_vencedor":40.9885,"quantidade":20},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":37.626,"valor_vencedor":37.626,"quantidade":5},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":314.135,"valor_vencedor":314.135,"quantidade":2},
+{"lote":0,"item":10,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":0.89,"valor_vencedor":0.89,"quantidade":224},
+{"lote":0,"item":11,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":27.3,"valor_vencedor":27.3,"quantidade":1},
+{"lote":0,"item":12,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":47,"valor_vencedor":47,"quantidade":1},
+{"lote":0,"item":13,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":42,"valor_vencedor":42,"quantidade":1},
+{"lote":0,"item":14,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":8000,"valor_vencedor":8000,"quantidade":1},
+{"lote":0,"item":15,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":540,"valor_vencedor":540,"quantidade":1},
+{"lote":0,"item":16,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":1300,"valor_vencedor":1300,"quantidade":1},
+{"lote":0,"item":17,"pessoa_fisica":false,"fornecedor":"MECANICA GARIBALDI OFICINA E COM. DE AUTO PECAS","documento":"02.130.206/0001-61","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":3000,"valor_vencedor":3000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":243.9},
+{"lote":0,"item":2,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":197.6},
+{"lote":0,"item":3,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":71.21},
+{"lote":0,"item":4,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":10.85},
+{"lote":0,"item":5,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":0.9},
+{"lote":0,"item":6,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":1.26},
+{"lote":0,"item":7,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":20,"valor_referencia":40.9885},
+{"lote":0,"item":8,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":5,"valor_referencia":37.626},
+{"lote":0,"item":9,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":314.135},
+{"lote":0,"item":10,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":224,"valor_referencia":0.89},
+{"lote":0,"item":11,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":27.3},
+{"lote":0,"item":12,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":47},
+{"lote":0,"item":13,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":42},
+{"lote":0,"item":14,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":8000},
+{"lote":0,"item":15,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":540},
+{"lote":0,"item":16,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1300},
+{"lote":0,"item":17,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":3000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"138a5869-8d73-4dc5-ae1a-e72f6688853a"},
+{"sequencia":2,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"dffaa3b2-0eed-49a0-9e8d-26f3d4cc05ce"},
+{"sequencia":3,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"61965573-13d9-4770-ae49-16376186ba82"},
+{"sequencia":4,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"0735b756-b604-4a5b-b378-9dd7f81256eb"},
+{"sequencia":5,"data":"2025-06-23","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"e8eed6ff-34e1-4acf-b176-55f443146ec2"},
+{"sequencia":6,"data":"2025-06-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"2711c29f-2be8-4ecd-bb6c-40f2915d7167"}
+]
+}

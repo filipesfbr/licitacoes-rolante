@@ -1,0 +1,44 @@
+{"codigo":46154,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"M&E EMPREENDIMENTOS LTDA","documento":"27.860.248/0001-89","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO E \nINSTALAÇÃO DE PORTA, ALVENARIA E PINTURA NO GINÁSIO MUNICIPAL ELISARDO \nNUNES DO AMARAL (AV. GETÚLIO VARGAS, N° 93, BAIRRO CENTRO, - ROLANTE/RS) E  INSTALAÇÃO DE ESQUADRIAS, PISO E PINTURA NO GINÁSIO MUNICIPAL RIO BRANCO( RUA TANCREDO...","descricao_adicional":null,"unidade":"UN","valor_referencia":38018.06,"valor_vencedor":31788.21,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"M&E EMPREENDIMENTOS LTDA","documento":"27.860.248/0001-89","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO E \nINSTALAÇÃO DE ESQUADRIAS, PISO E PINTURA NO GINÁSIO MUNICIPAL RIO BRANCO( RUA TANCREDO NEVES N° 115 BAIRRO RIO BRANCO, - ROLANTE/RS)","descricao_adicional":null,"unidade":"UN","valor_referencia":20064.17,"valor_vencedor":16984.86,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO E \nINSTALAÇÃO DE PORTA, ALVENARIA E PINTURA NO GINÁSIO MUNICIPAL ELISARDO \nNUNES DO AMARAL (AV. GETÚLIO VARGAS, N° 93, BAIRRO CENTRO, - ROLANTE/RS) E  INSTALAÇÃO DE ESQUADRIAS, PISO E PINTURA NO GINÁSIO MUNICIPAL RIO BRANCO( RUA TANCREDO...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":38018.06},
+{"lote":0,"item":2,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO E \nINSTALAÇÃO DE ESQUADRIAS, PISO E PINTURA NO GINÁSIO MUNICIPAL RIO BRANCO( RUA TANCREDO NEVES N° 115 BAIRRO RIO BRANCO, - ROLANTE/RS)","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":20064.17}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-29","tipo":"","fase":"Fase Interna","link_publico":"2a8f7cb2-6c3a-4bb3-a839-d526581c80dc"},
+{"sequencia":2,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"6d4457ff-3d84-42a2-bece-0ae0023d9d7f"},
+{"sequencia":3,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"8d3ed94a-d5df-4441-a016-66a28644f642"},
+{"sequencia":4,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"add5bb39-fa63-4ee3-beb2-5f7cc86748f9"},
+{"sequencia":5,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"70574061-94fb-458a-9193-5adbfb82ff57"},
+{"sequencia":6,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"57f2a7ec-b063-4e44-b896-8e5ee4402c50"},
+{"sequencia":7,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"496dd8b9-c7ff-4c37-be45-da945aeb2c86"},
+{"sequencia":8,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"9cb65259-29df-4509-a5b7-a959f55923f0"},
+{"sequencia":9,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"e53230a5-a242-44fd-9413-ac34a48e3c96"},
+{"sequencia":10,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"ee403e1b-8c4a-46cd-839b-312a4d236bd5"},
+{"sequencia":11,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"abe2c833-a126-4dfb-ae24-31c7b9bc07e1"},
+{"sequencia":12,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"4a097da4-8acb-4f32-83ed-39905c5c065d"},
+{"sequencia":13,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"f5243028-28b1-4810-939a-258ec1ad75eb"},
+{"sequencia":14,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"c0a49e62-ad6a-4c22-a66d-fbb6aedb7fa3"},
+{"sequencia":15,"data":"2025-07-17","tipo":"","fase":"Fase Interna","link_publico":"c675b01e-f232-4830-8f6f-6a8d6e7a9781"},
+{"sequencia":16,"data":"2025-08-20","tipo":"","fase":"Fase Interna","link_publico":"d062ed96-c054-44db-95df-854f9b01dbe3"},
+{"sequencia":17,"data":"2025-08-20","tipo":"","fase":"Fase Interna","link_publico":"52bc207f-9b99-4eb0-b4e3-1046f957127e"},
+{"sequencia":18,"data":"2025-08-20","tipo":"","fase":"Fase Interna","link_publico":"f7e212ed-0805-4ed9-a4af-7d80c6846d69"},
+{"sequencia":19,"data":"2025-08-20","tipo":"","fase":"Fase Interna","link_publico":"1fe53271-7b63-455d-8400-aaaea6d0ff05"},
+{"sequencia":20,"data":"2025-08-20","tipo":"","fase":"Fase Interna","link_publico":"57bfe6d0-2a95-4c35-97ca-f73de8a3652f"},
+{"sequencia":21,"data":"2025-08-20","tipo":"","fase":"Fase Interna","link_publico":"6cd70e72-ac89-4b26-b4b9-ed7d432db7eb"},
+{"sequencia":22,"data":"2025-08-20","tipo":"","fase":"Fase Interna","link_publico":"045df9a9-b72e-4049-8ae9-5154e63df209"},
+{"sequencia":23,"data":"2025-08-25","tipo":"","fase":"Fase Interna","link_publico":"74a32cd0-a05e-4f54-9327-0cb6403ef801"},
+{"sequencia":24,"data":"2025-08-20","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"44227773-e6a6-4965-bbf8-91699ab60aa1"},
+{"sequencia":25,"data":"2025-08-15","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"6d8d2108-7057-41c4-b0f5-6afe04c7558e"},
+{"sequencia":26,"data":"2025-07-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"e52acc0a-cfa8-40ba-8440-f2fb56dbb200"},
+{"sequencia":27,"data":"2025-07-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"8d38726a-7e0a-4da3-a82d-172c3ac6ff9d"},
+{"sequencia":28,"data":"2025-07-17","tipo":"Outros documentos","fase":"Publicação","link_publico":"375355b6-2fe4-480b-8455-de4febdc06c1"},
+{"sequencia":29,"data":"2025-07-17","tipo":"Outros documentos","fase":"Publicação","link_publico":"08346243-69a7-4832-82fc-67029b0e8626"},
+{"sequencia":30,"data":"2025-07-17","tipo":"Outros documentos","fase":"Publicação","link_publico":"51d89736-cbdc-4554-9938-eada53944765"},
+{"sequencia":31,"data":"2025-07-17","tipo":"Outros documentos","fase":"Publicação","link_publico":"72409c36-a5b6-4bc9-b8df-caed776ea25a"},
+{"sequencia":32,"data":"2025-07-17","tipo":"Outros documentos","fase":"Publicação","link_publico":"506f5529-472e-47aa-888f-c816a8f7485e"}
+]
+}

@@ -1,0 +1,18 @@
+{"codigo":54646,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DE PAIS E MESTRES DA ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SANTA ZUCATTI","documento":"43.313.446/0001-89","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0ebccf3e-26da-4904-95f7-26b946cd8431"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0f1a69fd-3438-4fab-a748-50ab01be3cc8"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"08e56054-f097-472c-9cff-a9e0e785d7a5"},
+{"sequencia":4,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"1f49e21d-54e9-4229-b2ba-5ae9295a06d1"},
+{"sequencia":5,"data":"2026-08-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5a187506-8dc9-4276-a7e7-9993c5797ee1"},
+{"sequencia":6,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"a2651951-bc93-47de-bad4-e5441aa4b808"},
+{"sequencia":7,"data":null,"tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"fff6c411-293b-49bd-8873-01d1c295c388"},
+{"sequencia":8,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"b2e17a85-5053-4701-8302-62f3e94eb700"}
+]
+}

@@ -1,0 +1,28 @@
+{"codigo":46062,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"S. D. F. CENTRO DE SERVIÇOS LTDA","documento":"30.713.075/0001-80","descricao":"MESA COM PÉS METÁLICOS","descricao_adicional":"<p>Mesa em MDP com gaveteiro pedestal 2 gavetas + 1 gavetão para pasta suspensa.&nbsp;Dimensões: 1500 x 1720 x 700 x 735.</p>","unidade":"UN","valor_referencia":1882,"valor_vencedor":1882,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"S. D. F. CENTRO DE SERVIÇOS LTDA","documento":"30.713.075/0001-80","descricao":"MESA COM PÉS METÁLICOS","descricao_adicional":"<p>Mesa em MDP com pés metálicos.&nbsp;Dimensões: 1500 x 600 x 735.</p>","unidade":"UN","valor_referencia":815,"valor_vencedor":815,"quantidade":8},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"S. D. F. CENTRO DE SERVIÇOS LTDA","documento":"30.713.075/0001-80","descricao":"MESA COM PÉS METÁLICOS","descricao_adicional":"<p>Mesa em MDP com pés metálicos.&nbsp;Dimensões: 1500 x 700 x 735.</p>","unidade":"UN","valor_referencia":897,"valor_vencedor":897,"quantidade":2},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"S. D. F. CENTRO DE SERVIÇOS LTDA","documento":"30.713.075/0001-80","descricao":"GAVETEIRO DE MESA","descricao_adicional":"<p>Gaveteiro com extensão 2 gavetas + 1 gavetão para pasta suspensa. Dimensões: 900 x 450 x 730</p>","unidade":"UN","valor_referencia":790,"valor_vencedor":790,"quantidade":10},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"S. D. F. CENTRO DE SERVIÇOS LTDA","documento":"30.713.075/0001-80","descricao":"ARMÁRIO BAIXO 2 PORTAS","descricao_adicional":"<p>Armário baixo com 2 portas.&nbsp;Dimensões: 800 x 450 x 730</p>","unidade":"UN","valor_referencia":735,"valor_vencedor":735,"quantidade":3},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"S. D. F. CENTRO DE SERVIÇOS LTDA","documento":"30.713.075/0001-80","descricao":"ARMARIO ALTO 2 PORTAS","descricao_adicional":"<p>Armário alto com 2 portas.&nbsp;Dimensões: 800 x 450 x 1610</p>","unidade":"UN","valor_referencia":1184,"valor_vencedor":1184,"quantidade":5},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"S. D. F. CENTRO DE SERVIÇOS LTDA","documento":"30.713.075/0001-80","descricao":"ARMÁRIO ALTO 2 PORTAS COM VÃO CENTRAL.","descricao_adicional":"<p>Armário alto 2 portas com vão central. Dimensões: 1200 x 450 x 1610.</p>","unidade":"UN","valor_referencia":1828,"valor_vencedor":1828,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MESA COM PÉS METÁLICOS","descricao_adicional":"<p>Mesa em MDP com gaveteiro pedestal 2 gavetas + 1 gavetão para pasta suspensa.&nbsp;Dimensões: 1500 x 1720 x 700 x 735.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1882},
+{"lote":0,"item":2,"descricao":"MESA COM PÉS METÁLICOS","descricao_adicional":"<p>Mesa em MDP com pés metálicos.&nbsp;Dimensões: 1500 x 600 x 735.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":8,"valor_referencia":815},
+{"lote":0,"item":3,"descricao":"MESA COM PÉS METÁLICOS","descricao_adicional":"<p>Mesa em MDP com pés metálicos.&nbsp;Dimensões: 1500 x 700 x 735.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":897},
+{"lote":0,"item":4,"descricao":"GAVETEIRO DE MESA","descricao_adicional":"<p>Gaveteiro com extensão 2 gavetas + 1 gavetão para pasta suspensa. Dimensões: 900 x 450 x 730</p>","unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":790},
+{"lote":0,"item":5,"descricao":"ARMÁRIO BAIXO 2 PORTAS","descricao_adicional":"<p>Armário baixo com 2 portas.&nbsp;Dimensões: 800 x 450 x 730</p>","unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":735},
+{"lote":0,"item":6,"descricao":"ARMARIO ALTO 2 PORTAS","descricao_adicional":"<p>Armário alto com 2 portas.&nbsp;Dimensões: 800 x 450 x 1610</p>","unidade":"UN","quantidade_min":0,"quantidade_max":5,"valor_referencia":1184},
+{"lote":0,"item":7,"descricao":"ARMÁRIO ALTO 2 PORTAS COM VÃO CENTRAL.","descricao_adicional":"<p>Armário alto 2 portas com vão central. Dimensões: 1200 x 450 x 1610.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1828}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"467e9a65-7cb4-4d83-bdcf-39c39a54ac1e"},
+{"sequencia":2,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"ab32eca6-a9b7-46ae-99e4-ff496bc84085"},
+{"sequencia":3,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"ad42f48b-f405-4d97-922d-dbb5e29b5f0b"},
+{"sequencia":4,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"5856633e-8d0d-4234-9993-5b707cd7760f"},
+{"sequencia":5,"data":"2026-01-15","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"4a2bffe0-631c-43f4-af46-f7c23c58a2c7"},
+{"sequencia":6,"data":"2026-01-16","tipo":"Outros documentos","fase":"Publicação","link_publico":"accb00d8-718f-4b99-950c-fbfdd9845c1f"}
+]
+}

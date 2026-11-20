@@ -1,0 +1,18 @@
+{"codigo":55786,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ANDERANI MARTINS DENTAL LAB LTDA","documento":"45.831.482/0001-60","descricao":"PRÓTESE TOTAL COMPLETA - PT","descricao_adicional":null,"unidade":"UN","valor_referencia":370,"valor_vencedor":370,"quantidade":43},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"ANDERANI MARTINS DENTAL LAB LTDA","documento":"45.831.482/0001-60","descricao":"PRÓTESE PARCIAL REMOVÍVEL COMPLETA - PPR","descricao_adicional":null,"unidade":"UN","valor_referencia":370,"valor_vencedor":370,"quantidade":30}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PRÓTESE TOTAL COMPLETA - PT","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":43,"valor_referencia":370},
+{"lote":0,"item":2,"descricao":"PRÓTESE PARCIAL REMOVÍVEL COMPLETA - PPR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":30,"valor_referencia":370}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-11-17","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"b9dd093c-8611-4d01-8a3e-9eae08d2a20e"},
+{"sequencia":2,"data":"2026-11-06","tipo":"ETP","fase":"Fase Interna","link_publico":"7537ca13-89f5-40a6-9b8e-11b5c0e90413"},
+{"sequencia":3,"data":"2026-11-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6533b080-c9b2-4ddc-ae7a-38c56e6828c7"},
+{"sequencia":4,"data":"2026-11-17","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"4cffb661-9b4e-4372-bc68-3043b21f9fef"},
+{"sequencia":5,"data":"2026-11-17","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"59425696-fec9-429f-b29b-1f0f31093551"},
+{"sequencia":6,"data":"2026-11-18","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"acca8812-68df-4d11-aa93-22020bcbf77f"}
+]
+}

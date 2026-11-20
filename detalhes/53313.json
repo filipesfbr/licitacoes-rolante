@@ -1,0 +1,17 @@
+{"codigo":53313,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DELGAS COMERCIO DE GAS LTDA","documento":"03.348.162/0001-03","descricao":"ÁGUA MINERAL 20 LITROS","descricao_adicional":"<p>&Aacute;gua Mineral 20 Litros, em conformidade com a legisla&ccedil;&atilde;o sanit&aacute;ria vigente, dentro do prazo de validade, embalagem devidamente lacrada, acondicionada&nbsp;em recipientes &iacute;ntegros, higienizados e apropriados para armazenamento de &aacute;gua pot&aacute;vel.</p>\n","unidade":"UN","valor_referencia":17,"valor_vencedor":17,"quantidade":750}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ÁGUA MINERAL 20 LITROS","descricao_adicional":"<p>&Aacute;gua Mineral 20 Litros, em conformidade com a legisla&ccedil;&atilde;o sanit&aacute;ria vigente, dentro do prazo de validade, embalagem devidamente lacrada, acondicionada&nbsp;em recipientes &iacute;ntegros, higienizados e apropriados para armazenamento de &aacute;gua pot&aacute;vel.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":750,"valor_referencia":17}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"16b106ed-efc6-44c0-8381-f869d925334e"},
+{"sequencia":2,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"03641859-4fcb-4556-a813-247aa7ff08fb"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"627acdca-e200-49b1-b97b-05046014d77d"},
+{"sequencia":4,"data":"2026-05-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9f6ec7c7-4c41-4dbe-bea5-b32fd474edbb"},
+{"sequencia":5,"data":"2026-05-08","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"1967510d-9f9d-4e2e-be4d-88d0ee9bba0f"},
+{"sequencia":6,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"c4fafbe3-0274-4388-ba07-95f3660378f8"},
+{"sequencia":7,"data":"2026-05-11","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"0a271074-a0dd-4041-bb39-b76a2b1f3c1a"}
+]
+}

@@ -1,0 +1,23 @@
+{"codigo":54869,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"M.S EVENTOS LTDA","documento":"65.671.473/0001-66","descricao":"SERVIÇO DE APRESENTAÇÃO MUSICAL","descricao_adicional":"","unidade":"UN","valor_referencia":13000,"valor_vencedor":13000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE APRESENTAÇÃO MUSICAL","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":13000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3487da4d-2e6f-4e38-bf7b-ef1e8fa45baf"},
+{"sequencia":2,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"4baa6697-90f3-43f4-8c0d-b08470393bb2"},
+{"sequencia":3,"data":"2026-08-31","tipo":"Comprovação de notória especialização","fase":"Fase Interna","link_publico":"5889a939-0944-4f3d-b6d2-dad1e8602eca"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7d798b56-1ff0-4a63-8e3c-06e62676f68e"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"62cbe2f6-130c-4c08-af36-91b7917a44f8"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9606e474-6c58-429c-acdc-4aff7aa05ca3"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8883ee0d-c98f-4092-a29d-a960da508f7e"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b2a3fbe0-0c2c-41eb-b04e-094de6f73d26"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7ca56632-64c7-4019-97cd-215f5d7cc94c"},
+{"sequencia":10,"data":"2026-08-20","tipo":"ETP","fase":"Fase Interna","link_publico":"72fc8e64-7ed0-430f-96cc-a00fba0d656e"},
+{"sequencia":11,"data":"2026-08-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"02e679d3-85ef-464f-b8d2-1015fd3d33e1"},
+{"sequencia":12,"data":"2026-08-27","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"c4e4b441-9e60-4482-a717-ff4a38ed5a26"},
+{"sequencia":13,"data":"2026-08-28","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"be89dfa5-6600-44b8-956f-039211e18fd9"}
+]
+}

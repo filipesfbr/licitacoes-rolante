@@ -1,0 +1,16 @@
+{"codigo":46076,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"TRIBU DI ARTEIROS PRODUCAO ARTISTICA LTDA","documento":"13.668.548/0001-56","descricao":"CONTRATAÇÃO DE ESPETACULO","descricao_adicional":null,"unidade":"UN","valor_referencia":23000,"valor_vencedor":23000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE ESPETACULO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":23000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"3befbdf1-4291-4226-a4fc-c65fb6e6dbd6"},
+{"sequencia":2,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"ee0f3f3f-7897-426d-b884-0e127d61fc80"},
+{"sequencia":3,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"e3dc1543-ff89-4abd-9a20-aebee605061a"},
+{"sequencia":4,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"5972c891-69e4-4b74-9ae1-a05d36ce588d"},
+{"sequencia":5,"data":"2025-12-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"03790823-8adf-4ee3-b4b3-c690639e5f9b"},
+{"sequencia":6,"data":"2025-12-05","tipo":"Outros documentos","fase":"Publicação","link_publico":"e4d969a9-8646-4d1c-b21d-31bcbed34173"}
+]
+}

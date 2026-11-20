@@ -1,0 +1,15 @@
+{"codigo":55605,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DROGARIA K.P. LTDA","documento":"03.025.306/0001-90","descricao":"KIT DE HIGIENE PESSOAL","descricao_adicional":"<p>Kit de higiene pessoal composto pelos seguintes itens:</p>\n\n<p>Sabonete 90 gramas (1un);&nbsp;Desodorante 90 gramas (1un);&nbsp;Shampoo 200 gramas&nbsp;(1un);&nbsp;Condicionador 200 gramas (1un);&nbsp;Escova Dental adulto (2un);&nbsp;Creme Dental c/ Fl&uacute;or 90 gramas (1un);&nbsp;Absorvente pct c/8 un (1un);&nbsp;Barbeador Descart&aacute;vel c/2 l&acirc;minas (1un).</p>\n\n<p>&nbsp;</p>\n","unidade":"UN","valor_referencia":48.31,"valor_vencedor":48.31,"quantidade":333}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"KIT DE HIGIENE PESSOAL","descricao_adicional":"<p>Kit de higiene pessoal composto pelos seguintes itens:</p>\n\n<p>Sabonete 90 gramas (1un);&nbsp;Desodorante 90 gramas (1un);&nbsp;Shampoo 200 gramas&nbsp;(1un);&nbsp;Condicionador 200 gramas (1un);&nbsp;Escova Dental adulto (2un);&nbsp;Creme Dental c/ Fl&uacute;or 90 gramas (1un);&nbsp;Absorvente pct c/8 un (1un);&nbsp;Barbeador Descart&aacute;vel c/2 l&acirc;minas (1un).</p>\n\n<p>&nbsp;</p>\n","unidade":"UN","quantidade_min":333,"quantidade_max":333,"valor_referencia":48.31}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"cf8ce43a-272c-4be8-b0f8-4bcf52c14dea"},
+{"sequencia":2,"data":"2026-10-27","tipo":"ETP","fase":"Fase Interna","link_publico":"a4ff183c-a371-49c7-bb11-d434b14c579c"},
+{"sequencia":3,"data":"2026-10-27","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b377d583-83a4-4c97-8acc-9377e479633e"},
+{"sequencia":4,"data":"2026-11-05","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"5c6422b9-06d6-4a17-966d-8584387623c8"},
+{"sequencia":5,"data":"2026-11-06","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"cad780ad-4d99-43c0-af7b-9f3d0337cd7c"}
+]
+}

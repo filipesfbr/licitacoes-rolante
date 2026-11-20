@@ -1,0 +1,26 @@
+{"codigo":46082,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"PORTO SEGURO COMPANHIA DE SEGUROS GERAIS","documento":"61.198.164/0001-60","descricao":"CONTRATAÇÃO DE SEGURO COM COBERTURA TOTAL PARA VEÍCULO CHEVROLET MONTANA TURBO, PLACA TQX0I94, CHASSI ***.***.***-**, ANO 2025.","descricao_adicional":"<p>SEGURO VEICULAR&nbsp; - CONTRATO DE 12 MESES CONFORME TERMO DE REFERÊNCIA</p>","unidade":"UN","valor_referencia":5735.65,"valor_vencedor":1800,"quantidade":2},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"PORTO SEGURO COMPANHIA DE SEGUROS GERAIS","documento":"61.198.164/0001-60","descricao":"CONTRATAÇÃO DE SEGURO COM COBERTURA TOTAL PARA VEÍCULO CHEVROLET SPIN 07 LUGARES, PLACA\tTQX0I81, CHASSI ***.***.***-**, ANO 2025","descricao_adicional":"<p>SEGURO VEICULAR - CONTRATO DE 12 MESES CF TERMO DE REFERENCIA</p>","unidade":"UN","valor_referencia":5354.37,"valor_vencedor":899,"quantidade":2},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"GENTE SEGURADORA SA","documento":"90.180.605/0001-02","descricao":"CONTRATAÇÃO DE SEGURO COM COBERTURA TOTAL PARA VEÍCULO FIAT STRADA ENDURANCE, PLACA TQW2B99, CHASSI ***.***.***-**, ANO 2025","descricao_adicional":"<p>SEGURO VEICULAR - CONTRATO DE 12 MESES CONFORME TERMO DE REFERÊNCIA</p>","unidade":"UN","valor_referencia":5737.84,"valor_vencedor":490,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE SEGURO COM COBERTURA TOTAL PARA VEÍCULO CHEVROLET MONTANA TURBO, PLACA TQX0I94, CHASSI ***.***.***-**, ANO 2025.","descricao_adicional":"<p>SEGURO VEICULAR&nbsp; - CONTRATO DE 12 MESES CONFORME TERMO DE REFERÊNCIA</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":5735.65},
+{"lote":0,"item":2,"descricao":"CONTRATAÇÃO DE SEGURO COM COBERTURA TOTAL PARA VEÍCULO CHEVROLET SPIN 07 LUGARES, PLACA\tTQX0I81, CHASSI ***.***.***-**, ANO 2025","descricao_adicional":"<p>SEGURO VEICULAR - CONTRATO DE 12 MESES CF TERMO DE REFERENCIA</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":5354.37},
+{"lote":0,"item":3,"descricao":"CONTRATAÇÃO DE SEGURO COM COBERTURA TOTAL PARA VEÍCULO FIAT STRADA ENDURANCE, PLACA TQW2B99, CHASSI ***.***.***-**, ANO 2025","descricao_adicional":"<p>SEGURO VEICULAR - CONTRATO DE 12 MESES CONFORME TERMO DE REFERÊNCIA</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":5737.84}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-19","tipo":"","fase":"Fase Interna","link_publico":"22911379-630a-4ee5-8169-812ef096ea80"},
+{"sequencia":2,"data":"2025-12-19","tipo":"","fase":"Fase Interna","link_publico":"dcf6a9e0-df14-4f44-ba47-e49c32c1768a"},
+{"sequencia":3,"data":"2026-01-08","tipo":"","fase":"Fase Interna","link_publico":"6c2a6dd4-0c0f-42c1-bebb-32158969249b"},
+{"sequencia":4,"data":"2025-11-24","tipo":"","fase":"Fase Interna","link_publico":"0e3d8f22-cca4-4316-b34b-8f686a474084"},
+{"sequencia":5,"data":"2025-12-01","tipo":"","fase":"Fase Interna","link_publico":"d45bf44e-3b88-494e-a611-4912bd81cdd4"},
+{"sequencia":6,"data":"2025-12-18","tipo":"","fase":"Fase Interna","link_publico":"21880020-cbd9-4c0f-8fe1-ad53ab2143a3"},
+{"sequencia":7,"data":"2025-12-18","tipo":"","fase":"Fase Interna","link_publico":"21567677-a789-4b26-9038-a2a1c4106998"},
+{"sequencia":8,"data":"2025-12-18","tipo":"","fase":"Fase Interna","link_publico":"0cec297e-4204-4b3c-9a06-118b206000ae"},
+{"sequencia":9,"data":"2025-12-18","tipo":"","fase":"Fase Interna","link_publico":"a0c24738-3ff0-479c-9036-3df01b999904"},
+{"sequencia":10,"data":"2025-12-18","tipo":"","fase":"Fase Interna","link_publico":"d5f00a51-d409-47b8-8b8c-e51eee2d586d"},
+{"sequencia":11,"data":"2025-12-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"a7c06422-a9d0-4c20-a857-a5741260053f"},
+{"sequencia":12,"data":"2025-12-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"5215b0a1-3eaa-4ca3-8c73-64d5ff9ef85d"}
+]
+}

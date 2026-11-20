@@ -1,0 +1,32 @@
+{"codigo":46228,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":5844,"valor_vencedor":5844,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"ROLAMENTO LATERAL COROA","descricao_adicional":null,"unidade":"UN","valor_referencia":406.9,"valor_vencedor":406.9,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"FLUIDO 10W30","descricao_adicional":null,"unidade":"UN","valor_referencia":35,"valor_vencedor":35,"quantidade":60},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"PARAFUSO","descricao_adicional":null,"unidade":"UN","valor_referencia":32,"valor_vencedor":32,"quantidade":1},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"LIMPADOR 900ML","descricao_adicional":null,"unidade":"UN","valor_referencia":42,"valor_vencedor":42,"quantidade":4},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"COROA E PINHÃO","descricao_adicional":null,"unidade":"UN","valor_referencia":9890,"valor_vencedor":9890,"quantidade":1},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"ABRAÇADEIRA","descricao_adicional":null,"unidade":"UN","valor_referencia":14.6,"valor_vencedor":14.6,"quantidade":2},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"FILTRO HIDRÁULICO","descricao_adicional":null,"unidade":"UN","valor_referencia":119.6,"valor_vencedor":119.6,"quantidade":1},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"SANGRIA","descricao_adicional":null,"unidade":"UN","valor_referencia":18.3,"valor_vencedor":18.3,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":5844},
+{"lote":0,"item":2,"descricao":"ROLAMENTO LATERAL COROA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":406.9},
+{"lote":0,"item":3,"descricao":"FLUIDO 10W30","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":60,"valor_referencia":35},
+{"lote":0,"item":4,"descricao":"PARAFUSO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":32},
+{"lote":0,"item":5,"descricao":"LIMPADOR 900ML","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":42},
+{"lote":0,"item":6,"descricao":"COROA E PINHÃO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":9890},
+{"lote":0,"item":7,"descricao":"ABRAÇADEIRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":14.6},
+{"lote":0,"item":8,"descricao":"FILTRO HIDRÁULICO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":119.6},
+{"lote":0,"item":9,"descricao":"SANGRIA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":18.3}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"c52b79a3-aaba-4c55-be2f-97e25c8fd734"},
+{"sequencia":2,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"3bf801ce-693c-4344-86ab-d2bbfb70bd5d"},
+{"sequencia":3,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"59cc4846-24ba-47c2-9fe6-f3a724038f87"},
+{"sequencia":4,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"f680ef31-1a84-4ee7-8c6f-66860c7f2700"},
+{"sequencia":5,"data":"2025-04-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"49ad5075-69b0-4ed3-b2d6-78bcf7d362aa"},
+{"sequencia":6,"data":"2025-03-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"78450a6e-739f-46fd-bed3-b6a9d83a2717"}
+]
+}

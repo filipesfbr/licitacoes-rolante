@@ -1,0 +1,19 @@
+{"codigo":54900,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOC ESPORTIVA FARROUPILHA","documento":"90.051.467/0001-53","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"54e79d07-64c1-424a-a7d3-5a89ff59f875"},
+{"sequencia":2,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"f983ccd3-3f7c-4947-92fc-e9e21618a5c6"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a5d839c0-cca4-48f7-8ac0-56fdbe37b714"},
+{"sequencia":4,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"313b5192-1ed1-4365-9cd6-ade62968389a"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d51121c7-d66f-4174-a562-a6a8c8b2b21b"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"995cc691-64ce-426c-b99f-8be17b5a443c"},
+{"sequencia":7,"data":"2026-08-28","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"857dfb9c-4487-4d24-bc22-ae3b171510fb"},
+{"sequencia":8,"data":"2026-08-31","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"87bb86b4-bdca-477a-b228-cceaa64f41da"},
+{"sequencia":9,"data":"2026-09-01","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"1ec4e7e7-9f30-4131-b28e-f8cc5257ae33"}
+]
+}

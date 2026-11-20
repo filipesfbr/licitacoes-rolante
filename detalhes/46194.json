@@ -1,0 +1,21 @@
+{"codigo":46194,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SESC- ADMINISTRAÇÃO REGIONAL NO ESTADO DO RIO GRAN","documento":"03.575.238/0001-33","descricao":"SERVIÇOS TÉCNICOS ESPECIALIZADOS","descricao_adicional":null,"unidade":"UN","valor_referencia":8100,"valor_vencedor":8100,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"SESC- ADMINISTRAÇÃO REGIONAL NO ESTADO DO RIO GRAN","documento":"03.575.238/0001-33","descricao":"SERVIÇOS DE PRODUÇÃO CULTURAL","descricao_adicional":null,"unidade":"UN","valor_referencia":27608.4,"valor_vencedor":27608.4,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS TÉCNICOS ESPECIALIZADOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":8100},
+{"lote":0,"item":2,"descricao":"SERVIÇOS DE PRODUÇÃO CULTURAL","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":27608.4}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-05","tipo":"","fase":"Fase Interna","link_publico":"bfc201f3-f790-4312-b51f-5422c0cf49cc"},
+{"sequencia":2,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"5a5a49d7-458c-463e-bc42-b13379377af7"},
+{"sequencia":3,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"30b6bff0-90b2-4b91-9c99-20aed01627ba"},
+{"sequencia":4,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"c897f3a7-fafa-484c-b74a-56ecb7a57e35"},
+{"sequencia":5,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"c282dfb0-c3cf-49dc-9e81-4eff6a770395"},
+{"sequencia":6,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"d7a1df20-8790-4f03-9b20-3892a60c2e62"},
+{"sequencia":7,"data":"2025-05-02","tipo":"","fase":"Fase Interna","link_publico":"01d97c01-703e-43c2-bf37-2e07185e5f00"},
+{"sequencia":8,"data":"2025-04-30","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"a311eceb-1882-4b22-890e-03b931dfa2c4"},
+{"sequencia":9,"data":"2025-05-02","tipo":"Outros documentos","fase":"Publicação","link_publico":"68858cba-e1d3-437e-8daa-3b85f1624da5"}
+]
+}

@@ -1,0 +1,16 @@
+{"codigo":46202,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GRÁFICA GRAFITEG LTDA","documento":"07.389.211/0001-07","descricao":"AGENDA","descricao_adicional":null,"unidade":"UN","valor_referencia":38.9533,"valor_vencedor":38.9533,"quantidade":600}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"AGENDA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":600,"valor_referencia":38.9533}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-23","tipo":"","fase":"Fase Interna","link_publico":"1c1b9700-a27c-4597-964e-59af53fa7169"},
+{"sequencia":2,"data":"2025-04-23","tipo":"","fase":"Fase Interna","link_publico":"ac7c5e54-bed3-4354-9b7d-499414c72af3"},
+{"sequencia":3,"data":"2025-04-23","tipo":"","fase":"Fase Interna","link_publico":"19cfc1d9-0eeb-4cef-974c-49882698337e"},
+{"sequencia":4,"data":"2025-04-23","tipo":"","fase":"Fase Interna","link_publico":"1e9e3b92-5637-4964-8e1c-7d2a10b7ff8f"},
+{"sequencia":5,"data":"2025-04-23","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"4f303843-8e2f-4e7f-bc67-46456be0de0a"},
+{"sequencia":6,"data":"2025-04-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"200757cf-090c-4d75-ace3-1546beeecf9c"}
+]
+}

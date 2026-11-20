@@ -1,0 +1,22 @@
+{"codigo":54614,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"J. M. ANACLETO LTDA","documento":"26.995.031/0001-13","descricao":"SERVIÇO DE MONITORAMENTO","descricao_adicional":"<p>Presta&ccedil;&atilde;o de servi&ccedil;os de videomonitoramento remoto no Parc&atilde;o do Rio Branco, compreendendo o acompanhamento cont&iacute;nuo das imagens captadas pelas c&acirc;meras de seguran&ccedil;a instaladas no local, realiza&ccedil;&atilde;o de rondas preventivas por meio da central de monitoramento e atendimento presencial sempre que identificado algum evento ou quando solicitado pela Administra&ccedil;&atilde;o Municipal.</p>\n\n<p>A presta&ccedil;&atilde;o dos servi&ccedil;os dever&aacute; ocorrer diariamente, no per&iacute;odo das <strong>17h00 &agrave;s 22h00</strong>, garantindo o monitoramento ininterrupto durante o hor&aacute;rio de maior fluxo de usu&aacute;rios e maior incid&ecirc;ncia de ocorr&ecirc;ncias no local, visando &agrave; preserva&ccedil;&atilde;o do patrim&ocirc;nio p&uacute;blico, &agrave; seguran&ccedil;a dos frequentadores e ao apoio &agrave;s a&ccedil;&otilde;es de fiscaliza&ccedil;&atilde;o e resposta da Administra&ccedil;&atilde;o.</p>\n","unidade":"UST","valor_referencia":5500,"valor_vencedor":5500,"quantidade":6}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE MONITORAMENTO","descricao_adicional":"<p>Presta&ccedil;&atilde;o de servi&ccedil;os de videomonitoramento remoto no Parc&atilde;o do Rio Branco, compreendendo o acompanhamento cont&iacute;nuo das imagens captadas pelas c&acirc;meras de seguran&ccedil;a instaladas no local, realiza&ccedil;&atilde;o de rondas preventivas por meio da central de monitoramento e atendimento presencial sempre que identificado algum evento ou quando solicitado pela Administra&ccedil;&atilde;o Municipal.</p>\n\n<p>A presta&ccedil;&atilde;o dos servi&ccedil;os dever&aacute; ocorrer diariamente, no per&iacute;odo das <strong>17h00 &agrave;s 22h00</strong>, garantindo o monitoramento ininterrupto durante o hor&aacute;rio de maior fluxo de usu&aacute;rios e maior incid&ecirc;ncia de ocorr&ecirc;ncias no local, visando &agrave; preserva&ccedil;&atilde;o do patrim&ocirc;nio p&uacute;blico, &agrave; seguran&ccedil;a dos frequentadores e ao apoio &agrave;s a&ccedil;&otilde;es de fiscaliza&ccedil;&atilde;o e resposta da Administra&ccedil;&atilde;o.</p>\n","unidade":"UST","quantidade_min":0,"quantidade_max":6,"valor_referencia":5500}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cfc470ae-53a1-4c83-9394-8194fb3da0fc"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"638babbb-9230-418c-bd58-067dc5381736"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f0628107-7195-4d91-bf3f-aa0cdf043abe"},
+{"sequencia":4,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"12ebf1d6-4e7e-4302-bc65-1fff3b34c1ec"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c35f440f-750a-49e6-9197-c491e8729ab7"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c600631a-6a5b-4098-88fe-c7994c834f46"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"765dfa67-8735-4d07-99d0-f9f9e738eb87"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b5fd27ab-e2c8-43d5-882f-3446f2c51671"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"15399ddc-8a3f-4a3d-8a72-5a4bda6adda4"},
+{"sequencia":10,"data":"2026-08-05","tipo":"ETP","fase":"Fase Interna","link_publico":"a56edd31-a349-42d3-9dfc-255ae2b082d9"},
+{"sequencia":11,"data":"2026-08-07","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"c733cfa6-0140-405d-8691-0328dd769252"},
+{"sequencia":12,"data":"2026-08-10","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"822b01f4-3745-499b-8a4e-622f7300a8af"}
+]
+}

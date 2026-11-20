@@ -1,0 +1,34 @@
+{"codigo":53168,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"QUALITY & CIA PROMOÇÃO DE EVENTOS ESPORTIVOS EIRELI","documento":"40.372.565/0001-14","descricao":"CONTRATAÇÃO DE ARBITRAGEM PARA 1° TORNEIO DE VOLEIBOL.","descricao_adicional":"","unidade":"JG","valor_referencia":683.3333,"valor_vencedor":672,"quantidade":50},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇO DE ARBITRAGEM PARA FUTEBOL DE CAMPO","descricao_adicional":"","unidade":"JG","valor_referencia":1571.6666,"valor_vencedor":1510,"quantidade":55}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE ARBITRAGEM PARA 1° TORNEIO DE VOLEIBOL.","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":50,"valor_referencia":683.3333},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE ARBITRAGEM PARA FUTEBOL DE CAMPO","descricao_adicional":"","unidade":"JG","quantidade_min":0,"quantidade_max":55,"valor_referencia":1571.6666}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fc4100e0-9ad8-4fdb-bf4f-b6152d422f36"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c43b08bf-9c98-417b-8cb0-f3909549a6d9"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"47b4ca05-e098-497c-b68e-0b8bdc9448ad"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fe684246-ef1c-4f60-a48e-25dd3bf62205"},
+{"sequencia":5,"data":"2026-04-23","tipo":"ETP","fase":"Fase Interna","link_publico":"60e51d48-81a4-45e5-8d2c-4c20f122826d"},
+{"sequencia":6,"data":"2026-04-23","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fca39ce4-8419-491b-af5c-9f99cb21181c"},
+{"sequencia":7,"data":"2026-05-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"693d5f64-b409-4ad2-aaba-1ceb8e768192"},
+{"sequencia":8,"data":"2026-05-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"ebdbe55f-7133-44b7-aca8-bad725a6c07e"},
+{"sequencia":9,"data":"2026-05-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"83f515f4-9422-4fe1-8ba0-f184bf4201ee"},
+{"sequencia":10,"data":"2026-05-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"076bf57d-411b-4122-a65d-af4d14be18b1"},
+{"sequencia":11,"data":"2026-05-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"78ae7b53-daa0-4d63-80ad-503b067a7f83"},
+{"sequencia":12,"data":"2026-05-11","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"c4b1f9a4-61b5-4b66-bd6c-b504f0f0f5ae"},
+{"sequencia":13,"data":"2026-05-12","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"8a30a2d9-b8ba-4adc-b878-d2907983e04e"},
+{"sequencia":14,"data":"2026-05-12","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"69e46d98-b79e-4193-a53b-9e7b68c7298e"},
+{"sequencia":15,"data":"2026-05-12","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"d3b759c0-fb96-4f77-8b40-9f16ef0ae849"},
+{"sequencia":16,"data":"2026-05-12","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"d7564164-27a0-4a08-8419-0d6ab9bad01f"},
+{"sequencia":17,"data":null,"tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"6b3cf1c5-4525-44cb-b24c-ef46c382a0b1"},
+{"sequencia":18,"data":null,"tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"fb9c153a-4359-41b5-b9ad-4487971a63f6"},
+{"sequencia":19,"data":null,"tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"f6e2ca24-2a11-47b9-8105-2c31626d83c4"},
+{"sequencia":20,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1f33df6c-21a4-4979-b754-f7e75278948f"},
+{"sequencia":21,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5a3e8908-12c1-4658-b0af-293485ffdd2f"},
+{"sequencia":22,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5078afff-814e-44b6-96e5-4a64e3649c4a"}
+]
+}

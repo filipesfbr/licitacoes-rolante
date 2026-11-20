@@ -1,0 +1,16 @@
+{"codigo":46085,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CASA DA ERGONOMIA PRODUTOS E SERVICOS LTDA","documento":"31.460.222/0001-10","descricao":"APOIO ERGONÔMICO PARA OS PÉS","descricao_adicional":null,"unidade":"UN","valor_referencia":159.51,"valor_vencedor":159.51,"quantidade":120}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"APOIO ERGONÔMICO PARA OS PÉS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":120,"valor_referencia":159.51}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-19","tipo":"","fase":"Fase Interna","link_publico":"6a79e23f-1c64-4e5a-b55d-552ff1d47928"},
+{"sequencia":2,"data":"2025-11-19","tipo":"","fase":"Fase Interna","link_publico":"170efbff-4435-4a8b-a12c-043ce1f61724"},
+{"sequencia":3,"data":"2025-11-19","tipo":"","fase":"Fase Interna","link_publico":"f115410f-ccfd-44a3-b2ef-ce51b44d5014"},
+{"sequencia":4,"data":"2025-11-19","tipo":"","fase":"Fase Interna","link_publico":"7318ac07-902c-4622-a0d6-b9ae8cd2adde"},
+{"sequencia":5,"data":"2025-11-19","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"79ff4df0-5e20-4887-b036-1b5f1a511e8c"},
+{"sequencia":6,"data":"2025-11-21","tipo":"Outros documentos","fase":"Publicação","link_publico":"b48a5ffd-4a40-49da-86c9-3dc5f3e54cb2"}
+]
+}

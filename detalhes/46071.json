@@ -1,0 +1,16 @@
+{"codigo":46071,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CACIQUE INDUSTRIA DE MOVEIS LTDA","documento":"29.685.289/0001-01","descricao":"PLAYGROUND DE PLÁSTICO COLORIDO MÚLTIPLAS ATIVIDADES REVESTIDO COM ACABAMENTO DE POLIPROPILENO E POLIETILENO.","descricao_adicional":null,"unidade":"UN","valor_referencia":24800,"valor_vencedor":24800,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PLAYGROUND DE PLÁSTICO COLORIDO MÚLTIPLAS ATIVIDADES REVESTIDO COM ACABAMENTO DE POLIPROPILENO E POLIETILENO.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":24800}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-12","tipo":"","fase":"Fase Interna","link_publico":"b2a1f08f-ccc2-43e0-b076-cb92923cab27"},
+{"sequencia":2,"data":"2025-12-12","tipo":"","fase":"Fase Interna","link_publico":"b5f0b5d3-8aee-494c-8c1c-bf701727af70"},
+{"sequencia":3,"data":"2025-12-12","tipo":"","fase":"Fase Interna","link_publico":"ee784d8e-57e3-4139-a531-a08dfe8ae2bb"},
+{"sequencia":4,"data":"2025-12-12","tipo":"","fase":"Fase Interna","link_publico":"53abc10b-0c5f-4ec2-8ed8-532bd02f1cbb"},
+{"sequencia":5,"data":"2025-12-12","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"b9f0c023-32f4-4aea-aa8d-0a901f135406"},
+{"sequencia":6,"data":"2025-12-15","tipo":"Outros documentos","fase":"Publicação","link_publico":"cf9c0bdf-5ce4-4e1b-8a0e-7cc9f2ee442d"}
+]
+}

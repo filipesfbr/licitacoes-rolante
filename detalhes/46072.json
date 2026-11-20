@@ -1,0 +1,22 @@
+{"codigo":46072,
+"vencedores":[
+{"lote":1,"item":1,"pessoa_fisica":false,"fornecedor":"RS VITORIA TRANSPORTES LTDA","documento":"58.057.294/0001-78","descricao":"ROTEIRO A - SAÍDA MADRUGADA \nCONTRATAÇÃO DE VEÍCULO (MICRO-ÔNIBUS) COM MOTORISTA PARA REALIZAÇÃO DE TRANSPORTE DE PACIENTES A PORTO ALEGRE, VEICULO DE NO MÍNIMO 32 LUGARES, COM AR CONDICIONADO.\nROTEIRO DE VIAGEM:\nQUILOMETRAGEM ESTIMADA MÉDIA - 300KM POR DIA.\nSAÍDA DA PREFEITURA MUNICIPAL DE...","descricao_adicional":null,"unidade":"UN","valor_referencia":1293.53,"valor_vencedor":1290,"quantidade":276},
+{"lote":1,"item":2,"pessoa_fisica":false,"fornecedor":"RS VITORIA TRANSPORTES LTDA","documento":"58.057.294/0001-78","descricao":"ROTEIRO B - SAÍDA MANHÃ\nCONTRATAÇÃO DE VEÍCULO (VAN) COM MOTORISTA PARA REALIZAÇÃO DE TRANSPORTE DE PACIENTES A PORTO ALEGRE, VEÍCULO DE NO MÍNIMO 20 LUGARES, COM AR CONDICIONADO.\nROTEIRO DE VIAGEM:\nQUILOMETRAGEM ESTIMADA MÉDIA - 300KM POR DIA.\nSAÍDA DA PREFEITURA MUNICIPAL DE ROLANTE ÀS 08:30H,...","descricao_adicional":null,"unidade":"UN","valor_referencia":1095.16,"valor_vencedor":1089.71,"quantidade":276}
+]
+,"itens":[
+{"lote":1,"item":1,"descricao":"ROTEIRO A - SAÍDA MADRUGADA \nCONTRATAÇÃO DE VEÍCULO (MICRO-ÔNIBUS) COM MOTORISTA PARA REALIZAÇÃO DE TRANSPORTE DE PACIENTES A PORTO ALEGRE, VEICULO DE NO MÍNIMO 32 LUGARES, COM AR CONDICIONADO.\nROTEIRO DE VIAGEM:\nQUILOMETRAGEM ESTIMADA MÉDIA - 300KM POR DIA.\nSAÍDA DA PREFEITURA MUNICIPAL DE...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":276,"valor_referencia":1293.53},
+{"lote":1,"item":2,"descricao":"ROTEIRO B - SAÍDA MANHÃ\nCONTRATAÇÃO DE VEÍCULO (VAN) COM MOTORISTA PARA REALIZAÇÃO DE TRANSPORTE DE PACIENTES A PORTO ALEGRE, VEÍCULO DE NO MÍNIMO 20 LUGARES, COM AR CONDICIONADO.\nROTEIRO DE VIAGEM:\nQUILOMETRAGEM ESTIMADA MÉDIA - 300KM POR DIA.\nSAÍDA DA PREFEITURA MUNICIPAL DE ROLANTE ÀS 08:30H,...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":276,"valor_referencia":1095.16}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-27","tipo":"","fase":"Fase Interna","link_publico":"bbb64a7d-48e7-4e7f-b062-975f23654ad2"},
+{"sequencia":2,"data":"2026-01-27","tipo":"","fase":"Fase Interna","link_publico":"d72ab8d0-8604-452a-8da7-d50f0cfd3767"},
+{"sequencia":3,"data":"2025-12-15","tipo":"","fase":"Fase Interna","link_publico":"4e902ba4-3331-48ec-ac71-89e3fb960bc1"},
+{"sequencia":4,"data":"2026-01-23","tipo":"","fase":"Fase Interna","link_publico":"9a3100f8-4945-46be-b0af-73036336b446"},
+{"sequencia":5,"data":"2026-01-23","tipo":"","fase":"Fase Interna","link_publico":"1fddf427-5cad-4c27-81aa-c384e489a32b"},
+{"sequencia":6,"data":"2026-01-23","tipo":"","fase":"Fase Interna","link_publico":"eb86e900-5e1e-432b-8876-c850471b31cb"},
+{"sequencia":7,"data":"2026-01-23","tipo":"","fase":"Fase Interna","link_publico":"26d1c9d6-ba3e-46bc-9bb5-ee0ba3d3e47b"},
+{"sequencia":8,"data":"2026-01-23","tipo":"","fase":"Fase Interna","link_publico":"016c0f39-1132-43fb-b6c3-7de7ebf9d975"},
+{"sequencia":9,"data":"2025-12-15","tipo":"Outros documentos","fase":"Publicação","link_publico":"ee71191f-c1bc-4661-94bc-17f4b3b5933a"},
+{"sequencia":10,"data":"2025-12-15","tipo":"Outros documentos","fase":"Publicação","link_publico":"afd19e8b-b4bc-437c-ad69-424e91ead069"}
+]
+}

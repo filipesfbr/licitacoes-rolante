@@ -1,0 +1,28 @@
+{"codigo":53091,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"INSTITUTO CASTRAÇÃO","documento":"55.624.929/0001-83","descricao":"CASTRAÇÃO DE CANINOS E FELINOS","descricao_adicional":"","unidade":"UN","valor_referencia":200,"valor_vencedor":200,"quantidade":100}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CASTRAÇÃO DE CANINOS E FELINOS","descricao_adicional":"","unidade":"UN","quantidade_min":1,"quantidade_max":100,"valor_referencia":200}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8e8a5e55-efb8-4729-a351-69e500b8bb40"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c2235bd0-0097-458a-8cd2-63c213e56d76"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c833d18d-7bb5-40ff-8fd2-7d93b6d77800"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0f5c96cd-842f-4f87-a13c-0d3687d84371"},
+{"sequencia":5,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"1fb4103a-1004-4849-821d-0da162f52d08"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7c4f028b-4a6b-430b-a576-b2756bd76cb6"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0d701e00-36ac-4798-9c90-b7b7ac26ed02"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"534f289d-75fd-4eed-b4b3-7001b8d7ef4e"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f917086c-4f75-4a87-b1d4-a922e293b3e6"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5c26ef31-155c-4196-89fc-6aaaf21aa56d"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"920e4664-5e70-4ef0-b94b-4adbea1150a7"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"35f65af6-3b54-4170-9362-1ed3c14c66a0"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8af27279-ffc8-4e79-be54-88488302e7a7"},
+{"sequencia":14,"data":null,"tipo":"Plano de trabalho","fase":"Fase Interna","link_publico":"c7c71f6f-7037-4ab3-ad7b-c5f79b668ce2"},
+{"sequencia":15,"data":"2026-04-20","tipo":"ETP","fase":"Fase Interna","link_publico":"2055224b-ee77-4cc0-94f6-456f43860559"},
+{"sequencia":16,"data":"2026-04-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ce1ea5a5-58e9-45e1-905b-13538b863632"},
+{"sequencia":17,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"59dfa4d8-9f63-46b6-9fc2-3c58c19fb75f"},
+{"sequencia":18,"data":"2026-04-24","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"f8b08ed5-848a-413d-adb1-4152d318b927"}
+]
+}

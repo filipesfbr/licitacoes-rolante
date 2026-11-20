@@ -1,0 +1,18 @@
+{"codigo":52704,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SOTRIMA AGRICOLA LTDA","documento":"92.028.224/0001-20","descricao":"INTERRUPTOR","descricao_adicional":"","unidade":"UN","valor_referencia":256.32,"valor_vencedor":256.32,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"SOTRIMA AGRICOLA LTDA","documento":"92.028.224/0001-20","descricao":"CHICOTE","descricao_adicional":"","unidade":"UN","valor_referencia":14846.48,"valor_vencedor":14846.48,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"SOTRIMA AGRICOLA LTDA","documento":"92.028.224/0001-20","descricao":"MÃO DE OBRA PARA MANUTENÇÃO / CONSERTO ELÉTRICO DE TRATORES.","descricao_adicional":"","unidade":"H","valor_referencia":8800,"valor_vencedor":8800,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"INTERRUPTOR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":256.32},
+{"lote":0,"item":2,"descricao":"CHICOTE","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":14846.48},
+{"lote":0,"item":3,"descricao":"MÃO DE OBRA PARA MANUTENÇÃO / CONSERTO ELÉTRICO DE TRATORES.","descricao_adicional":"","unidade":"H","quantidade_min":0,"quantidade_max":1,"valor_referencia":8800}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"16a7f233-e470-4a4f-88a6-b882013c6414"},
+{"sequencia":2,"data":"2026-03-24","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"98330438-fb5d-44af-b630-e5cb19ce1f54"},
+{"sequencia":3,"data":"2026-03-25","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"aaac039b-a0fe-4a01-a949-fb45a640f633"},
+{"sequencia":4,"data":"2026-03-25","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"fe82d4ff-5eb4-4605-a809-5d417c4d4612"}
+]
+}

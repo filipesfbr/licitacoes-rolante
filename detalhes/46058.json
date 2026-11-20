@@ -1,0 +1,16 @@
+{"codigo":46058,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GRÁFICA GRAFITEG LTDA","documento":"07.389.211/0001-07","descricao":"IMPRESSÃO DE CARNÊS DE IPTU","descricao_adicional":null,"unidade":"UN","valor_referencia":1.5146,"valor_vencedor":1.5146,"quantidade":9070}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"IMPRESSÃO DE CARNÊS DE IPTU","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":9070,"valor_referencia":1.5146}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-22","tipo":"","fase":"Fase Interna","link_publico":"2d43c1c9-37af-4109-ac96-8b3f356deff5"},
+{"sequencia":2,"data":"2026-01-22","tipo":"","fase":"Fase Interna","link_publico":"6a53176e-0e95-4128-bd59-a9e36bbdeaca"},
+{"sequencia":3,"data":"2026-01-22","tipo":"","fase":"Fase Interna","link_publico":"7da4b57d-2e22-435f-8796-525d637a3d4b"},
+{"sequencia":4,"data":"2026-01-22","tipo":"","fase":"Fase Interna","link_publico":"b8048388-237a-4616-86a3-2dbea1617b18"},
+{"sequencia":5,"data":"2026-01-23","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"a73f6aa2-0460-4c96-bacd-4a042de414fb"},
+{"sequencia":6,"data":"2026-01-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"4e5d41a1-e87c-47c5-a65d-1d36751f2c80"}
+]
+}

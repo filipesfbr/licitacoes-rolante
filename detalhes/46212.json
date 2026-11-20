@@ -1,0 +1,17 @@
+{"codigo":46212,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DE CUQUEIROS E CUQUEIRAS DE ROLANTE - RS- ASCUR","documento":"19.767.638/0001-80","descricao":"OFICINA CULINÁRIA DE SALVAGUARDA DA CUCA COMO PATRIMÔNIO CULTURAL","descricao_adicional":null,"unidade":"UN","valor_referencia":800,"valor_vencedor":800,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"OFICINA CULINÁRIA DE SALVAGUARDA DA CUCA COMO PATRIMÔNIO CULTURAL","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":800}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"414664e0-4b66-410d-85e8-ef7aa47e5983"},
+{"sequencia":2,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"c575ac70-0a08-48e2-a55c-b83f056b407b"},
+{"sequencia":3,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"4db34c7c-34ed-4c50-a94d-6b6f8344c4ed"},
+{"sequencia":4,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"7a5a5a9a-e0db-4b7e-8db3-780ce9119bef"},
+{"sequencia":5,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"722b4322-1275-4605-a634-84d0177a11de"},
+{"sequencia":6,"data":"2025-04-09","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"96b5af5b-f2c6-425f-915d-92c8c00a3c59"},
+{"sequencia":7,"data":"2025-04-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"850e42d0-b70a-46f0-85a3-c2dc76b8ee43"}
+]
+}

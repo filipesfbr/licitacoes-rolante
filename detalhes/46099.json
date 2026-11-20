@@ -1,0 +1,29 @@
+{"codigo":46099,
+"vencedores":[
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"TES TECNOLOGIA SISTEMAS E COMÉRCIO LTDA.","documento":"62.517.297/0001-14","descricao":"GABINETE DE CARREGAMENTO E TRANSPORTE DE DISPOSITIVOS","descricao_adicional":"","unidade":"UN","valor_referencia":4707.99,"valor_vencedor":4700,"quantidade":20},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"MAC COPIADORA E COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA","documento":"24.501.724/0001-87","descricao":"COMPUTADOR ALL-IN-ONE INTEGRADO","descricao_adicional":"","unidade":"UN","valor_referencia":6822.09,"valor_vencedor":2610,"quantidade":85}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CHROMEBOOK 14\"","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":650,"valor_referencia":1749.75},
+{"lote":0,"item":2,"descricao":"GABINETE DE CARREGAMENTO E TRANSPORTE DE DISPOSITIVOS","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":20,"valor_referencia":4707.99},
+{"lote":0,"item":3,"descricao":"COMPUTADOR ALL-IN-ONE INTEGRADO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":85,"valor_referencia":6822.09}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-17","tipo":"","fase":"Fase Interna","link_publico":"8378d28a-8699-43ea-8b6f-011accdc0a3d"},
+{"sequencia":2,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"50aaa378-4dbd-45fa-8ba2-2a194130ff03"},
+{"sequencia":3,"data":"2025-11-26","tipo":"","fase":"Fase Interna","link_publico":"15243ab3-f924-497c-9cff-dd2d24729142"},
+{"sequencia":4,"data":"2025-11-26","tipo":"","fase":"Fase Interna","link_publico":"db37beef-ea6a-4d01-937b-4c45258fdeb9"},
+{"sequencia":5,"data":"2025-11-26","tipo":"","fase":"Fase Interna","link_publico":"782c4a7c-0ea7-40e5-a0f0-6af0a865defa"},
+{"sequencia":6,"data":"2025-11-26","tipo":"","fase":"Fase Interna","link_publico":"6d1b55fd-59e1-42f5-99b3-74c162508df8"},
+{"sequencia":7,"data":"2025-11-26","tipo":"","fase":"Fase Interna","link_publico":"a8a2b406-4fa9-4395-9a53-0327fb2ec30a"},
+{"sequencia":8,"data":"2025-11-26","tipo":"","fase":"Fase Interna","link_publico":"f693ebb7-ce76-423a-a5b2-ea3a2fa30fdc"},
+{"sequencia":9,"data":"2025-11-26","tipo":"","fase":"Fase Interna","link_publico":"de627f1a-5b08-4043-b139-5ec568c06aad"},
+{"sequencia":10,"data":"2025-11-27","tipo":"","fase":"Fase Interna","link_publico":"0ff5fd6d-2001-466e-816d-8ea831342123"},
+{"sequencia":11,"data":"2025-11-28","tipo":"","fase":"Fase Interna","link_publico":"d55678c2-2bce-40e9-b733-2aef3f06de04"},
+{"sequencia":12,"data":"2025-11-25","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"51833c60-3559-41ea-b5ef-5712a7eaa924"},
+{"sequencia":13,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"ff1bc4d5-92e9-43fd-90e4-d52b14df3b65"},
+{"sequencia":14,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"65ace705-4691-463a-aff4-e32e2e9c63f6"},
+{"sequencia":15,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"82a905c7-7bd1-4e7d-91e5-d47da5c11a33"},
+{"sequencia":16,"data":"2025-11-27","tipo":"Outros documentos","fase":"Publicação","link_publico":"52fbc089-22df-40cf-a1e7-c0f742860fe1"}
+]
+}

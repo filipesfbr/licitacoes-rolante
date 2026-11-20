@@ -1,0 +1,20 @@
+{"codigo":52930,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ANDRÉ LUIS PIROLLA","documento":"07.426.180/0001-17","descricao":"SERVIÇO DE TRANSPORTE","descricao_adicional":"<p style=\"text-align:justify\">Transporte de estudantes no dia&nbsp;14/04/2026, contemplando o trecho Rolante/RS &ndash; Canela/RS &ndash; Rolante/RS, com disponibiliza&ccedil;&atilde;o de 01 (um) ve&iacute;culo com capacidade m&iacute;nima de 46 lugares;&nbsp;</p>\n","unidade":"UN","valor_referencia":1700,"valor_vencedor":1700,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"ANDRÉ LUIS PIROLLA","documento":"07.426.180/0001-17","descricao":"SERVIÇO DE TRANSPORTE","descricao_adicional":"<p>Transporte de estudantes no dia&nbsp;17/04/2026, contemplando o&nbsp;trecho Rolante/RS &ndash; Canela/RS &ndash; Gramado/RS &ndash; Rolante/RS, com disponibiliza&ccedil;&atilde;o de 04 (quatro) ve&iacute;culos com capacidade m&iacute;nima de 46 lugares cada;</p>\n","unidade":"UN","valor_referencia":2000,"valor_vencedor":2000,"quantidade":4},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"ANDRÉ LUIS PIROLLA","documento":"07.426.180/0001-17","descricao":"SERVIÇO DE TRANSPORTE","descricao_adicional":"<p style=\"text-align: justify;\">Transporte de estudantes no dia 22/04/2026, contemplando o&nbsp;trecho Rolante/RS &ndash; Imb&eacute;/RS &ndash; Tramanda&iacute;/RS &ndash; Rolante/RS, com disponibiliza&ccedil;&atilde;o de 02 (dois) ve&iacute;culos com capacidade m&iacute;nima de 46 lugares cada.</p>\n","unidade":"UN","valor_referencia":1800,"valor_vencedor":1800,"quantidade":2}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE TRANSPORTE","descricao_adicional":"<p style=\"text-align:justify\">Transporte de estudantes no dia&nbsp;14/04/2026, contemplando o trecho Rolante/RS &ndash; Canela/RS &ndash; Rolante/RS, com disponibiliza&ccedil;&atilde;o de 01 (um) ve&iacute;culo com capacidade m&iacute;nima de 46 lugares;&nbsp;</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1700},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE TRANSPORTE","descricao_adicional":"<p>Transporte de estudantes no dia&nbsp;17/04/2026, contemplando o&nbsp;trecho Rolante/RS &ndash; Canela/RS &ndash; Gramado/RS &ndash; Rolante/RS, com disponibiliza&ccedil;&atilde;o de 04 (quatro) ve&iacute;culos com capacidade m&iacute;nima de 46 lugares cada;</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":2000},
+{"lote":0,"item":3,"descricao":"SERVIÇO DE TRANSPORTE","descricao_adicional":"<p style=\"text-align: justify;\">Transporte de estudantes no dia 22/04/2026, contemplando o&nbsp;trecho Rolante/RS &ndash; Imb&eacute;/RS &ndash; Tramanda&iacute;/RS &ndash; Rolante/RS, com disponibiliza&ccedil;&atilde;o de 02 (dois) ve&iacute;culos com capacidade m&iacute;nima de 46 lugares cada.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":1800}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f470ac72-a785-4be6-b04b-1fdbf9f6a6c0"},
+{"sequencia":2,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"cec28498-f872-4708-b24c-4a04db03aa2d"},
+{"sequencia":3,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"4fd09009-46f2-4811-b038-81326032a96b"},
+{"sequencia":4,"data":"2026-04-10","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9c93d4d8-469b-4ca2-92bd-c459a6041ed8"},
+{"sequencia":5,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"834568c1-37ce-49e7-949f-0f7c06aa1c05"},
+{"sequencia":6,"data":null,"tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"74ef9e53-6916-4ad6-803f-6bc28e79b129"}
+]
+}

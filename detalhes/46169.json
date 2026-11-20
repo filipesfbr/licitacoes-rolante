@@ -1,0 +1,21 @@
+{"codigo":46169,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ALLIANCE CONSULTORIA E ASSESSORIA EM GESTAO LTDA","documento":"58.550.545/0001-51","descricao":"SERVIÇO DE AUDITORIA TÉCNICA","descricao_adicional":null,"unidade":"UN","valor_referencia":50000,"valor_vencedor":50000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE AUDITORIA TÉCNICA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":50000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-13","tipo":"","fase":"Fase Interna","link_publico":"e1874faf-5dea-40df-9aee-2df7da1e1209"},
+{"sequencia":2,"data":"2025-09-22","tipo":"","fase":"Fase Interna","link_publico":"91d7162f-b5e0-403e-aa69-89c28584faa3"},
+{"sequencia":3,"data":"2025-12-09","tipo":"","fase":"Fase Interna","link_publico":"f61e278e-4809-4202-bb84-8fe890ee855e"},
+{"sequencia":4,"data":"2025-06-10","tipo":"","fase":"Fase Interna","link_publico":"88a40c33-5021-4653-8316-3cd5bcc79b4d"},
+{"sequencia":5,"data":"2025-06-10","tipo":"","fase":"Fase Interna","link_publico":"5a25813e-f650-4edf-9ca7-3db858db5ddf"},
+{"sequencia":6,"data":"2025-06-10","tipo":"","fase":"Fase Interna","link_publico":"ace2a5c4-9d37-42dd-8a94-d06ad8acb297"},
+{"sequencia":7,"data":"2025-06-10","tipo":"","fase":"Fase Interna","link_publico":"c76109c3-329f-4398-8f29-777179829e6c"},
+{"sequencia":8,"data":"2025-06-10","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"0e1c3799-a7ed-48c0-a371-ee3b30a334d9"},
+{"sequencia":9,"data":"2025-06-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"a4ddf919-7cb8-4042-ae44-5497f8b3db05"},
+{"sequencia":10,"data":"2025-06-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"28317fb3-98da-433e-a02d-b70eb5df1261"},
+{"sequencia":11,"data":"2025-06-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"2f62e63e-7b91-44b6-91bd-d55b80e6bc20"}
+]
+}

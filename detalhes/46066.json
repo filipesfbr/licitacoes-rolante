@@ -1,0 +1,17 @@
+{"codigo":46066,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"BANRISUL SOLUCOES EM PAGAMENTOS S.A. - INSTITUICAO DE PAGAMENTO","documento":"92.934.215/0001-06","descricao":"PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO, GERENCIAMENTO, EMISSÃO E FORNECIMENTO DE CARTÃO MAGNÉTICO, APRESENTADO NA FORMA DE UM CARTÃO PLÁSTICO DE USO PESSOAL E INTRANSFERÍVEL.","descricao_adicional":"","unidade":"UN","valor_referencia":0.0001,"valor_vencedor":0.0001,"quantidade":3200}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO, GERENCIAMENTO, EMISSÃO E FORNECIMENTO DE CARTÃO MAGNÉTICO, APRESENTADO NA FORMA DE UM CARTÃO PLÁSTICO DE USO PESSOAL E INTRANSFERÍVEL.","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":3200,"valor_referencia":0.0001}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-08","tipo":"","fase":"Fase Interna","link_publico":"85322035-0b2b-4320-aeb9-ea228947dd10"},
+{"sequencia":2,"data":"2026-01-08","tipo":"","fase":"Fase Interna","link_publico":"d4384270-7dd7-4ed0-a6cc-484e784b069c"},
+{"sequencia":3,"data":"2026-01-08","tipo":"","fase":"Fase Interna","link_publico":"025cafb7-6f91-494e-b8ab-b921b4c7d093"},
+{"sequencia":4,"data":"2026-01-08","tipo":"","fase":"Fase Interna","link_publico":"a0940c4d-4cd5-41e4-80a3-8739077ebdc4"},
+{"sequencia":5,"data":"2026-01-08","tipo":"","fase":"Fase Interna","link_publico":"09b77aef-43ea-43f5-9098-3300d38b8161"},
+{"sequencia":6,"data":"2026-01-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"ad8e69ec-6943-4066-a791-04c20fb84544"},
+{"sequencia":7,"data":"2026-01-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"d7c08cd7-8d8c-478c-83f1-a342d4ccd2d8"}
+]
+}

@@ -1,0 +1,13 @@
+{"codigo":46248,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"JOSE CARLOS DE ASSIS PRODUCOES ARTISTICAS LTDA","documento":"43.706.788/0001-69","descricao":"SERVIÇO DE APRESENTAÇÃO MUSICAL","descricao_adicional":null,"unidade":"UN","valor_referencia":300000,"valor_vencedor":300000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE APRESENTAÇÃO MUSICAL","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":300000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-02-18","tipo":"","fase":"Fase Interna","link_publico":"cfd8a463-d57e-4ef7-b417-024f5d27e669"},
+{"sequencia":2,"data":"2025-02-06","tipo":"","fase":"Fase Interna","link_publico":"9523328b-1eec-4602-b762-f96c96c37bc9"},
+{"sequencia":3,"data":"2025-02-07","tipo":"","fase":"Fase Interna","link_publico":"871c9954-cf53-4ec8-a8cb-3dc30724da38"}
+]
+}

@@ -1,0 +1,16 @@
+{"codigo":46239,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"JORNAL REPERCUSSAO LTDA","documento":"17.376.797/0001-29","descricao":"PROJETO REPERCUSSÃO NA ESCOLA","descricao_adicional":null,"unidade":"UN","valor_referencia":1865.6,"valor_vencedor":1865.6,"quantidade":42}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PROJETO REPERCUSSÃO NA ESCOLA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":42,"valor_referencia":1865.6}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-02-28","tipo":"","fase":"Fase Interna","link_publico":"75f3af82-d583-4fc3-9c91-1450b75a811f"},
+{"sequencia":2,"data":"2025-02-27","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"173de4c1-0636-40d3-be09-f4361b5fbeb5"},
+{"sequencia":3,"data":"2025-02-27","tipo":"","fase":"Fase Interna","link_publico":"bce40115-3fe7-4c96-b9f9-5451657f60f3"},
+{"sequencia":4,"data":"2025-02-27","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"c9417cd9-9d48-4ec3-8f3a-b503727d7a34"},
+{"sequencia":5,"data":"2025-03-10","tipo":"","fase":"Fase Interna","link_publico":"90dc9018-238f-4a69-9293-c27d2e0ded73"},
+{"sequencia":6,"data":"2025-02-28","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"a8ccc5b4-19f3-4d07-977f-ad05fd1ac648"}
+]
+}

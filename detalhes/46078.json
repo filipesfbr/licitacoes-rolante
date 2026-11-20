@@ -1,0 +1,16 @@
+{"codigo":46078,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"LONNA LOCACAO DE ESTRUTURAS MOVEIS LTDA","documento":"58.094.692/0001-64","descricao":"LOCAÇÃO DE ESTRUTURAS DE PALCO","descricao_adicional":null,"unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE ESTRUTURAS DE PALCO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"7ead1684-db8a-4fb3-b457-60ad56fa8bc3"},
+{"sequencia":2,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"a9fba317-33e2-4cee-b73c-bc680a955b9b"},
+{"sequencia":3,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"3743324e-de2f-4e14-b4f1-69c58c0b142c"},
+{"sequencia":4,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"b286f226-7404-412a-944e-97de241b475c"},
+{"sequencia":5,"data":"2025-12-03","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"707e9ec3-be8d-4361-af51-46c7e2b5427d"},
+{"sequencia":6,"data":"2025-12-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"3f1f0d3f-4d48-4a7a-ac21-9dbf8761e910"}
+]
+}

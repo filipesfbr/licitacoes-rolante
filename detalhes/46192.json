@@ -1,0 +1,47 @@
+{"codigo":46192,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":7,"valor_vencedor":7,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":3980,"valor_vencedor":3980,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":1290,"valor_vencedor":1290,"quantidade":1},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":2690,"valor_vencedor":2690,"quantidade":1},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":52,"valor_vencedor":52,"quantidade":1},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":8350,"valor_vencedor":8350,"quantidade":1},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":745,"valor_vencedor":745,"quantidade":1},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":85,"valor_vencedor":85,"quantidade":1},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":128,"valor_vencedor":128,"quantidade":1},
+{"lote":0,"item":10,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":138,"valor_vencedor":138,"quantidade":1},
+{"lote":0,"item":11,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":1750,"valor_vencedor":1750,"quantidade":1},
+{"lote":0,"item":12,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":1600,"valor_vencedor":1600,"quantidade":1},
+{"lote":0,"item":13,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":17,"valor_vencedor":17,"quantidade":1},
+{"lote":0,"item":14,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":2250,"valor_vencedor":2250,"quantidade":1},
+{"lote":0,"item":15,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":250,"valor_vencedor":250,"quantidade":1},
+{"lote":0,"item":16,"pessoa_fisica":false,"fornecedor":"AUTO PECAS ADRIANO LTDA - ME","documento":"92.698.422/0001-09","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":220,"valor_vencedor":220,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":7},
+{"lote":0,"item":2,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":3980},
+{"lote":0,"item":3,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1290},
+{"lote":0,"item":4,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2690},
+{"lote":0,"item":5,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":52},
+{"lote":0,"item":6,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":8350},
+{"lote":0,"item":7,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":745},
+{"lote":0,"item":8,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":85},
+{"lote":0,"item":9,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":128},
+{"lote":0,"item":10,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":138},
+{"lote":0,"item":11,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1750},
+{"lote":0,"item":12,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1600},
+{"lote":0,"item":13,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":17},
+{"lote":0,"item":14,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2250},
+{"lote":0,"item":15,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":250},
+{"lote":0,"item":16,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":220}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"c8e9ac00-376f-442a-a23b-e14b2b06ad04"},
+{"sequencia":2,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"f1fffe89-6f24-41f6-ad01-624c8ff4aaa1"},
+{"sequencia":3,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"d05c954d-8b5b-472a-a8c6-156fb2c9b95b"},
+{"sequencia":4,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"4cdee360-0188-4815-826c-d0ad960cd5c0"},
+{"sequencia":5,"data":"2025-05-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"92c66ce9-fd23-4c92-ab39-84d134351eed"},
+{"sequencia":6,"data":"2025-05-06","tipo":"Outros documentos","fase":"Publicação","link_publico":"73e61edd-2f5f-4b10-b170-fe618d60df94"},
+{"sequencia":7,"data":"2025-05-07","tipo":"Outros documentos","fase":"Publicação","link_publico":"ea49719a-2f8e-4a39-963f-555fb494bc90"}
+]
+}

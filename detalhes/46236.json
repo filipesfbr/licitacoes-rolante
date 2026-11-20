@@ -1,0 +1,14 @@
+{"codigo":46236,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"FONTOURA & NOVASKI LTDA","documento":"28.970.695/0001-53","descricao":"LOCAÇÃO DE TRENZINHO COM MOTORISTA PARA PASSEIOS EDUCATIVOS, COM CAPACIDADE MINIMA PARA PESSOAS. DEVERÁ ESTAR INCLUSO NO VALOR DAS DIÁRIAS TODOS OS CUSTOS NECESSÁRIOS PARA A REALIZAÇÃO DO SERVIÇO, COMO MOTORISTA QUALIFICADO PARA CONDUZIR O TRENZINHO DE FORMA SEGURA E RESPONSÁVEL, COMBUSTÍVEL...","descricao_adicional":null,"unidade":"UN","valor_referencia":3200,"valor_vencedor":3200,"quantidade":5}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE TRENZINHO COM MOTORISTA PARA PASSEIOS EDUCATIVOS, COM CAPACIDADE MINIMA PARA PESSOAS. DEVERÁ ESTAR INCLUSO NO VALOR DAS DIÁRIAS TODOS OS CUSTOS NECESSÁRIOS PARA A REALIZAÇÃO DO SERVIÇO, COMO MOTORISTA QUALIFICADO PARA CONDUZIR O TRENZINHO DE FORMA SEGURA E RESPONSÁVEL, COMBUSTÍVEL...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":5,"valor_referencia":3200}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-07","tipo":"","fase":"Fase Interna","link_publico":"1ab4ef92-f96d-468b-8e84-e40c86188b78"},
+{"sequencia":2,"data":"2025-03-07","tipo":"","fase":"Fase Interna","link_publico":"0fd48b92-9d9a-45a9-8c9b-683fb1c9855b"},
+{"sequencia":3,"data":"2025-03-07","tipo":"","fase":"Fase Interna","link_publico":"f9689b7b-0c3f-4aed-a31d-035ef7b13973"},
+{"sequencia":4,"data":"2025-03-10","tipo":"","fase":"Fase Interna","link_publico":"a2cf407a-5c45-48e2-8ad0-d0c711bd4602"}
+]
+}

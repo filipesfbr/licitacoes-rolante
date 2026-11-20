@@ -1,0 +1,18 @@
+{"codigo":46063,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MARCOS ANTONIO DE OLIVEIRA SOARES - ME","documento":"08.100.127/0001-94","descricao":"PNEU 275/80, R22.5, 16 LONAS, RADIAL, BORRACHUDO.","descricao_adicional":null,"unidade":"UN","valor_referencia":1600.5,"valor_vencedor":1600.5,"quantidade":8},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MARCOS ANTONIO DE OLIVEIRA SOARES - ME","documento":"08.100.127/0001-94","descricao":"PNEU 275/80 R22,5,  16 LONAS, RADIAL, LISO.","descricao_adicional":null,"unidade":"UN","valor_referencia":1580,"valor_vencedor":1580,"quantidade":4}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PNEU 275/80, R22.5, 16 LONAS, RADIAL, BORRACHUDO.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":8,"valor_referencia":1600.5},
+{"lote":0,"item":2,"descricao":"PNEU 275/80 R22,5,  16 LONAS, RADIAL, LISO.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":1580}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"e5264d0f-6ca4-42d4-ae68-a1a00cbe2f69"},
+{"sequencia":2,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"bf57db1d-f7cb-4f08-943a-4a48e39aa0aa"},
+{"sequencia":3,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"2da93d26-5989-44a2-9310-50440c1577eb"},
+{"sequencia":4,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"d01cfd88-16b0-48e8-8084-d6b4c31d8954"},
+{"sequencia":5,"data":"2026-01-15","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"4006d473-f255-4cf1-a439-45b91050b450"},
+{"sequencia":6,"data":"2026-01-16","tipo":"Outros documentos","fase":"Publicação","link_publico":"375d31bc-7ae6-4257-a8a5-c890a7ad50b7"}
+]
+}

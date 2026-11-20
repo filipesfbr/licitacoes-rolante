@@ -1,0 +1,23 @@
+{"codigo":54791,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"EMEI MEU RECANTO","documento":"04.686.228/0001-38","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"959f7b05-febc-4c0e-8502-c4db2ca47172"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"48a87749-17fd-4ac2-934b-b1a777a6e319"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"62b64552-2c7f-4786-9ff9-e074e6b9f60d"},
+{"sequencia":4,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"5a3ead72-43cd-44e1-a6b1-246133a2102f"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"52204886-766e-4efa-8a67-852650ee176b"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"bf02c34b-3fe9-4d38-a13d-2ffa20d9c91d"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"94397444-1977-4a56-ab09-a2d23a06ef46"},
+{"sequencia":8,"data":"2026-08-06","tipo":"ETP","fase":"Fase Interna","link_publico":"c3370ab1-c755-4176-ae7d-482c47fe0f5a"},
+{"sequencia":9,"data":"2026-08-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a850cbe5-44b5-4938-b104-876acf4d00a4"},
+{"sequencia":10,"data":"2026-08-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ce9976bb-e20e-4f0f-a589-7bd264ca2f3d"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4e529619-713f-4bf5-9bc4-113c3da30f86"},
+{"sequencia":12,"data":"2026-08-20","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"147162b7-ac5b-4013-8442-a87d106c998a"},
+{"sequencia":13,"data":"2026-08-21","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"94e7f201-4ec5-4e83-82de-daf975a7e3a7"}
+]
+}

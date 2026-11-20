@@ -1,0 +1,55 @@
+{"codigo":46183,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"COOPERBONJE - COOPERATIVA DE BOM JESUS","documento":"45.781.131/0001-91","descricao":"LOTE II - OPERAÇÃO DA CENTRAL DE TRIAGEM E ESTAÇÃO DE TRANSBORDO DOS RESÍDUOS SÓLIDOS URBANOS NA LOCALIDADE GLÓRIA","descricao_adicional":"<p>Lote II &#8211; operação da central de triagem e estação de transbordo dos resíduos sólidos domésticos na localidade Glória</p>","unidade":"UN","valor_referencia":83033.88,"valor_vencedor":76317.76,"quantidade":33.23822},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"TAZAY TRANSPORTES LTDA","documento":"07.986.606/0001-97","descricao":"LOTE III - TRANSPORTE DOS REJEITOS DOS RESÍDUOS SÓLIDOS URBANOS DA ESTAÇÃO DE TRANSBORDO NA LOCALIDADE GLÓRIA ATÉ ATERRO SANITÁRIO EXECUTOR DO LOTE IV","descricao_adicional":"<p><strong>Lote III &#8211; transporte dos rejeitos dos resíduos sólidos domésticos da estação de transbordo na localidade Glória até aterro sanitário executor do Lote IV</strong></p>","unidade":"UN","valor_referencia":163.75,"valor_vencedor":99.65,"quantidade":6672}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOTE II - OPERAÇÃO DA CENTRAL DE TRIAGEM E ESTAÇÃO DE TRANSBORDO DOS RESÍDUOS SÓLIDOS URBANOS NA LOCALIDADE GLÓRIA","descricao_adicional":"<p>Lote II &#8211; operação da central de triagem e estação de transbordo dos resíduos sólidos domésticos na localidade Glória</p>","unidade":"UN","quantidade_min":0,"quantidade_max":33.23822,"valor_referencia":83033.88},
+{"lote":0,"item":2,"descricao":"LOTE III - TRANSPORTE DOS REJEITOS DOS RESÍDUOS SÓLIDOS URBANOS DA ESTAÇÃO DE TRANSBORDO NA LOCALIDADE GLÓRIA ATÉ ATERRO SANITÁRIO EXECUTOR DO LOTE IV","descricao_adicional":"<p><strong>Lote III &#8211; transporte dos rejeitos dos resíduos sólidos domésticos da estação de transbordo na localidade Glória até aterro sanitário executor do Lote IV</strong></p>","unidade":"UN","quantidade_min":0,"quantidade_max":6672,"valor_referencia":163.75}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-19","tipo":"","fase":"Fase Interna","link_publico":"511f4e0d-f2f0-464a-8039-5f8174eb0444"},
+{"sequencia":2,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"272c33cb-6df0-451f-b802-f0464e18b69e"},
+{"sequencia":3,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"49be863b-2657-4ba2-b377-4c9343e60f3f"},
+{"sequencia":4,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"ae041c29-41c0-499e-ac13-bfbf6984ff3b"},
+{"sequencia":5,"data":"2025-05-23","tipo":"","fase":"Fase Interna","link_publico":"d25861a4-009d-4871-8c03-7299ca1ad0ba"},
+{"sequencia":6,"data":"2025-05-23","tipo":"","fase":"Fase Interna","link_publico":"d58693b1-1346-48cf-b2d3-74ffd8dcfb41"},
+{"sequencia":7,"data":"2025-05-23","tipo":"","fase":"Fase Interna","link_publico":"aa771aae-f677-4536-ac9c-7e9aea6651d3"},
+{"sequencia":8,"data":"2025-05-23","tipo":"","fase":"Fase Interna","link_publico":"8743e6e1-d37c-4d0a-9f1c-37153147252d"},
+{"sequencia":9,"data":"2025-05-23","tipo":"","fase":"Fase Interna","link_publico":"14b396c8-7f55-4274-8758-5d3378951fc1"},
+{"sequencia":10,"data":"2025-05-23","tipo":"","fase":"Fase Interna","link_publico":"4fc6ae9d-6991-4f3b-8307-007eded01bb4"},
+{"sequencia":11,"data":"2025-05-23","tipo":"","fase":"Fase Interna","link_publico":"e4844fb5-2b65-4ddb-be05-f914d3e37ed5"},
+{"sequencia":12,"data":"2025-05-23","tipo":"","fase":"Fase Interna","link_publico":"6161c18b-79df-4c64-9710-b5d1af5c5fa7"},
+{"sequencia":13,"data":"2025-05-23","tipo":"","fase":"Fase Interna","link_publico":"512ee96e-d367-4e5a-80cd-499e3656b35d"},
+{"sequencia":14,"data":"2025-07-02","tipo":"","fase":"Fase Interna","link_publico":"f376d381-e38b-4842-bec8-0f5985f1aefb"},
+{"sequencia":15,"data":"2025-07-02","tipo":"","fase":"Fase Interna","link_publico":"67c0aacb-62a0-4ec7-ab28-1f20c9fc615c"},
+{"sequencia":16,"data":"2025-07-02","tipo":"","fase":"Fase Interna","link_publico":"859fc68b-a1b7-4e0b-899c-203b6affbc7e"},
+{"sequencia":17,"data":"2025-07-02","tipo":"","fase":"Fase Interna","link_publico":"f75d99f7-18c8-4d06-a5a2-57051aa1087c"},
+{"sequencia":18,"data":"2025-07-02","tipo":"","fase":"Fase Interna","link_publico":"4228c9c1-9e26-41d9-bdd8-209092a545d5"},
+{"sequencia":19,"data":"2025-07-02","tipo":"","fase":"Fase Interna","link_publico":"a662afce-37a4-4db7-a470-7b16aa2746f3"},
+{"sequencia":20,"data":"2025-07-02","tipo":"","fase":"Fase Interna","link_publico":"18adfd47-c620-4467-8ddc-5c9ebd20b66d"},
+{"sequencia":21,"data":"2025-07-02","tipo":"","fase":"Fase Interna","link_publico":"c2ba1555-aa23-42ae-96a3-15f118df3e24"},
+{"sequencia":22,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"dde9bf39-09f6-4d87-937c-e6ba0d8cc5b9"},
+{"sequencia":23,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"858add5f-dc3e-4ad3-a2f8-c7835971d9f6"},
+{"sequencia":24,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"8347b3a7-b781-43b7-82cf-32edc828a033"},
+{"sequencia":25,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"4132f11b-057b-496f-b358-34d130f1141f"},
+{"sequencia":26,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"83b77b45-8e24-473f-9822-94cb3a2e26bd"},
+{"sequencia":27,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"741fe7e3-a4e0-4a58-96ad-f6f5b9462a41"},
+{"sequencia":28,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"d84d89fb-b962-4625-8444-811a945c3eea"},
+{"sequencia":29,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"4a73fcbb-6fa3-4d8d-8eae-2357571b9e55"},
+{"sequencia":30,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"f486b3a7-f1a6-408a-a4ee-5221ae72bb77"},
+{"sequencia":31,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"81b34893-3977-4592-9807-04201fcc8a5a"},
+{"sequencia":32,"data":"2025-08-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"63b2e99a-8815-404c-b07a-19200d211446"},
+{"sequencia":33,"data":"2025-08-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"6f21a8eb-2b7c-4572-bdcc-0921ebbd5e9d"},
+{"sequencia":34,"data":"2025-08-04","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"66d12566-93cb-4f0a-87cb-8556ecfe1eff"},
+{"sequencia":35,"data":"2025-06-04","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"04e1dcba-c0e8-430a-bb31-29ae02516dbf"},
+{"sequencia":36,"data":"2025-07-02","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"7b30669f-a016-4e9b-a66c-a1734b0145b7"},
+{"sequencia":37,"data":"2025-07-02","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"dfe232cf-4f65-435a-b329-fc9684951a7c"},
+{"sequencia":38,"data":"2025-05-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"d9a7dcf0-1f56-464d-bedc-c9c48d677be3"},
+{"sequencia":39,"data":"2025-05-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"31760867-ab01-4852-ae1a-964e58e02810"},
+{"sequencia":40,"data":"2025-06-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"4284bac3-9a72-4a2e-a673-b3e5634f7ed8"},
+{"sequencia":41,"data":"2025-06-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"da203f3c-1b1c-48d0-b97b-78f5f8bff13a"},
+{"sequencia":42,"data":"2025-07-02","tipo":"Outros documentos","fase":"Publicação","link_publico":"0e592c22-a13f-481a-ba12-fd799a435426"},
+{"sequencia":43,"data":"2025-07-02","tipo":"Outros documentos","fase":"Publicação","link_publico":"29bd9328-7372-424c-a751-20c7db746749"}
+]
+}

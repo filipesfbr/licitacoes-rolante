@@ -1,0 +1,24 @@
+{"codigo":46217,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DE NIGRIS DISTRIBUIDORA DE VEÍCULOS LTDA","documento":"61.591.459/0001-00","descricao":"CAMINHÃO TRAÇÃO 6X4; PESO BRUTO TOTAL HOMOLOGADO DE 23.000 KG; ANO CORRENTE (ZERO KM); MOTOR ALIMENTADO A DIESEL, POTÊNCIA DE 286 CV; CABINE PARA MOTORISTA E 2 PASSAGEIROS EQUIPADA COM DUAS PORTAS E AR-CONDICIONADO, PINTADA NA COR BRANCA OU PRATA - DEFINIDA NA EMISSÃO DA ORDEM DE FORNECIMENTO....","descricao_adicional":null,"unidade":"UN","valor_referencia":584000,"valor_vencedor":584000,"quantidade":3}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CAMINHÃO TRAÇÃO 6X4; PESO BRUTO TOTAL HOMOLOGADO DE 23.000 KG; ANO CORRENTE (ZERO KM); MOTOR ALIMENTADO A DIESEL, POTÊNCIA DE 286 CV; CABINE PARA MOTORISTA E 2 PASSAGEIROS EQUIPADA COM DUAS PORTAS E AR-CONDICIONADO, PINTADA NA COR BRANCA OU PRATA - DEFINIDA NA EMISSÃO DA ORDEM DE FORNECIMENTO....","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":584000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-08","tipo":"","fase":"Fase Interna","link_publico":"756ab274-50e1-4d91-96b7-746b03b3c2ed"},
+{"sequencia":2,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"47eb7636-242f-41bb-ad30-99fafd002478"},
+{"sequencia":3,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"c0959be8-edbf-44a1-a320-d21c5400d94b"},
+{"sequencia":4,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"814e32bb-a74e-4c99-9d1f-e59ef2895818"},
+{"sequencia":5,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"5aa01a6b-90ac-468b-8586-d86d2d2b3afc"},
+{"sequencia":6,"data":"2025-04-07","tipo":"","fase":"Fase Interna","link_publico":"61f890e1-7b21-47d8-93ff-816b690f22af"},
+{"sequencia":7,"data":"2025-04-10","tipo":"","fase":"Fase Interna","link_publico":"14169f9a-048a-4c9e-bd0b-e52b5491e3da"},
+{"sequencia":8,"data":"2025-04-16","tipo":"","fase":"Fase Interna","link_publico":"cfbee6e5-2b24-4722-a773-4e6d2194cc72"},
+{"sequencia":9,"data":"2025-04-16","tipo":"","fase":"Fase Interna","link_publico":"c118d3db-c21a-481d-be9a-4a25e72c4008"},
+{"sequencia":10,"data":"2025-04-14","tipo":"","fase":"Fase Interna","link_publico":"6c483907-fc6e-433d-949f-0919786245b4"},
+{"sequencia":11,"data":"2025-04-11","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"611cfb50-da29-4d05-80c8-ad3225c37275"},
+{"sequencia":12,"data":"2025-04-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"74644de9-f386-431d-8809-19179558c959"},
+{"sequencia":13,"data":"2025-04-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"7e9a55f4-d2cb-4900-bd14-90a42acefdde"},
+{"sequencia":14,"data":"2025-04-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"a474e372-79d1-48e1-a254-b58c08141a27"}
+]
+}

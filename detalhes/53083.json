@@ -1,0 +1,29 @@
+{"codigo":53083,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO MORADORES BAIRRO RIO BRANCO","documento":"92.401.264/0001-75","descricao":"CONJUNTO DE 1 MESA E 2 BANCOS DE MADEIRA","descricao_adicional":"","unidade":"CJ","valor_referencia":0,"valor_vencedor":950,"quantidade":30},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO MORADORES BAIRRO RIO BRANCO","documento":"92.401.264/0001-75","descricao":"FREEZER HORIZONTAL","descricao_adicional":"<p>Consul 414 l - 2 portas</p>\n","unidade":"UN","valor_referencia":0,"valor_vencedor":3799,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO MORADORES BAIRRO RIO BRANCO","documento":"92.401.264/0001-75","descricao":"REFRIGERADOR/GELADEIRA","descricao_adicional":"<p>Panasonic 387 litros - 2 portas - Frostfree</p>\n","unidade":"UN","valor_referencia":0,"valor_vencedor":3699,"quantidade":1},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO MORADORES BAIRRO RIO BRANCO","documento":"92.401.264/0001-75","descricao":"AREIÃO","descricao_adicional":"","unidade":"M3","valor_referencia":0,"valor_vencedor":222.12,"quantidade":0.25},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO MORADORES BAIRRO RIO BRANCO","documento":"92.401.264/0001-75","descricao":"CAL HIDRATADA 20KG","descricao_adicional":"","unidade":"SC","valor_referencia":0,"valor_vencedor":20,"quantidade":5},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO MORADORES BAIRRO RIO BRANCO","documento":"92.401.264/0001-75","descricao":"CIMENTO EM SACO","descricao_adicional":"","unidade":"SC","valor_referencia":0,"valor_vencedor":51.9,"quantidade":5},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO MORADORES BAIRRO RIO BRANCO","documento":"92.401.264/0001-75","descricao":"AREIA MÉDIA","descricao_adicional":"","unidade":"M3","valor_referencia":0,"valor_vencedor":124.9,"quantidade":2},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO MORADORES BAIRRO RIO BRANCO","documento":"92.401.264/0001-75","descricao":"SERVIÇO","descricao_adicional":"","unidade":"UN","valor_referencia":0,"valor_vencedor":1532.17,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONJUNTO DE 1 MESA E 2 BANCOS DE MADEIRA","descricao_adicional":"","unidade":"CJ","quantidade_min":0,"quantidade_max":30,"valor_referencia":0},
+{"lote":0,"item":2,"descricao":"FREEZER HORIZONTAL","descricao_adicional":"<p>Consul 414 l - 2 portas</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":0},
+{"lote":0,"item":3,"descricao":"REFRIGERADOR/GELADEIRA","descricao_adicional":"<p>Panasonic 387 litros - 2 portas - Frostfree</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":0},
+{"lote":0,"item":4,"descricao":"AREIÃO","descricao_adicional":"","unidade":"M3","quantidade_min":0,"quantidade_max":0.25,"valor_referencia":0},
+{"lote":0,"item":5,"descricao":"CAL HIDRATADA 20KG","descricao_adicional":"","unidade":"SC","quantidade_min":0,"quantidade_max":5,"valor_referencia":0},
+{"lote":0,"item":6,"descricao":"CIMENTO EM SACO","descricao_adicional":"","unidade":"SC","quantidade_min":0,"quantidade_max":5,"valor_referencia":0},
+{"lote":0,"item":7,"descricao":"AREIA MÉDIA","descricao_adicional":"","unidade":"M3","quantidade_min":0,"quantidade_max":2,"valor_referencia":0},
+{"lote":0,"item":8,"descricao":"SERVIÇO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":0}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"102fd5f7-60c3-4ea0-93ff-c8cd07dc049c"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"113ea8b3-be5a-4522-954e-6c5eff5f13be"},
+{"sequencia":3,"data":"2026-04-22","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3c313a9f-67b6-427d-812e-9b6f26820111"},
+{"sequencia":4,"data":"2026-04-23","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"e6e2468f-4ace-46f4-bd56-740c20486d7a"},
+{"sequencia":5,"data":"2026-04-24","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"8d95ed40-b341-4fa1-9b8b-0332bb1a1197"}
+]
+}

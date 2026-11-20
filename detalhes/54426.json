@@ -1,0 +1,17 @@
+{"codigo":54426,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"EDU MAQUINAS LTDA","documento":"03.642.663/0001-06","descricao":"MATERIAL DIVERSO PARA REFORMA.","descricao_adicional":"<p>Material para reforma completa da esteira transportadora de res&iacute;duos da central de triagem de Rolante, medindo 13 m de comprimento, consistindo em: troca de lona, lixamento, pintura, substitui&ccedil;&atilde;o de pe&ccedil;as, rolamentos, componentes el&eacute;tricos, entre outros necess&aacute;rios ao pleno funcionamento do equipamento, compat&iacute;vel com a atividade desenvolvida.</p>\n","unidade":"UN","valor_referencia":16000,"valor_vencedor":16000,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"EDU MAQUINAS LTDA","documento":"03.642.663/0001-06","descricao":"MÃO-DE-OBRA","descricao_adicional":"<p>Servi&ccedil;o de m&atilde;o de obra para reforma completa da esteira transportadora de res&iacute;duos da central de triagem de Rolante, medindo 13 m de comprimento, consistindo em: troca de lona, lixamento, pintura, substitui&ccedil;&atilde;o de pe&ccedil;as, rolamentos, componentes el&eacute;tricos, entre outros necess&aacute;rios ao pleno funcionamento do equipamento, compat&iacute;vel com a atividade desenvolvida.</p>\n","unidade":"UN","valor_referencia":16000,"valor_vencedor":16000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MATERIAL DIVERSO PARA REFORMA.","descricao_adicional":"<p>Material para reforma completa da esteira transportadora de res&iacute;duos da central de triagem de Rolante, medindo 13 m de comprimento, consistindo em: troca de lona, lixamento, pintura, substitui&ccedil;&atilde;o de pe&ccedil;as, rolamentos, componentes el&eacute;tricos, entre outros necess&aacute;rios ao pleno funcionamento do equipamento, compat&iacute;vel com a atividade desenvolvida.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":16000},
+{"lote":0,"item":2,"descricao":"MÃO-DE-OBRA","descricao_adicional":"<p>Servi&ccedil;o de m&atilde;o de obra para reforma completa da esteira transportadora de res&iacute;duos da central de triagem de Rolante, medindo 13 m de comprimento, consistindo em: troca de lona, lixamento, pintura, substitui&ccedil;&atilde;o de pe&ccedil;as, rolamentos, componentes el&eacute;tricos, entre outros necess&aacute;rios ao pleno funcionamento do equipamento, compat&iacute;vel com a atividade desenvolvida.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":16000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"1842678e-83d7-4093-8be1-2c278092e10b"},
+{"sequencia":2,"data":"2026-07-22","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8e63e04d-70f3-4784-85cd-e87c3eab078b"},
+{"sequencia":3,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"dd6b7276-2525-471a-8605-88c8245d99f3"},
+{"sequencia":4,"data":"2026-07-23","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"54f81e79-4ea6-4fe4-ae6d-17afb19c7a0e"},
+{"sequencia":5,"data":"2026-07-24","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"f5e18b24-fc0d-4703-a121-c00cfb908861"}
+]
+}

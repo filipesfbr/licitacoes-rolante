@@ -1,0 +1,16 @@
+{"codigo":46188,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SDCOMERCIAL EQUIPAMENTOS","documento":"44.802.526/0001-60","descricao":"MÁQUINA DE PINTURA VIÁRIA AIRLESS","descricao_adicional":null,"unidade":"UN","valor_referencia":30000,"valor_vencedor":30000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MÁQUINA DE PINTURA VIÁRIA AIRLESS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":30000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"b983e4c0-e97e-4b6d-bd86-5c2b0a7b77ac"},
+{"sequencia":2,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"bac17881-1835-4f2c-abf4-6aaf7f6d1cde"},
+{"sequencia":3,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"b6fafd9a-d57f-4860-abb0-48b7af26adb0"},
+{"sequencia":4,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"aa1e2442-d291-4c10-8f98-7a11e9955840"},
+{"sequencia":5,"data":"2025-05-14","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"7a06e366-c764-4f31-a61f-07067eebf2c2"},
+{"sequencia":6,"data":"2025-05-14","tipo":"Outros documentos","fase":"Publicação","link_publico":"dbce8cb8-54f3-4927-aace-e77b4f512df9"}
+]
+}

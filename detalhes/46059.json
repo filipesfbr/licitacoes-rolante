@@ -1,0 +1,23 @@
+{"codigo":46059,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GRA ASSESSORIA E CONSULTORIA EM NEGOCIOS INTERNACI","documento":"14.767.899/0001-87","descricao":"MINIESCAVADEIRA 1. ESPECIFICAÇÕES MÍNIMAS: 1.1. NOMENCLATURA: MINIESCAVADEIRA HIDRÁULICA; 1.2. CARACTERÍSTICAS GERAIS: 1.2.1. ANO DE FABRICAÇÃO 2024, NOVA (ZERO HORA). 1.2.2. POSSUIR OS EQUIPAMENTOS OBRIGATÓRIOS EXIGIDOS PELO CONTRAN; 1.2.3. CABINE FECHADA, COM PROTEÇÃO CONTRA CAPOTAMENTO; 1.2.4....","descricao_adicional":null,"unidade":"UN","valor_referencia":286500,"valor_vencedor":286500,"quantidade":2}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MINIESCAVADEIRA 1. ESPECIFICAÇÕES MÍNIMAS: 1.1. NOMENCLATURA: MINIESCAVADEIRA HIDRÁULICA; 1.2. CARACTERÍSTICAS GERAIS: 1.2.1. ANO DE FABRICAÇÃO 2024, NOVA (ZERO HORA). 1.2.2. POSSUIR OS EQUIPAMENTOS OBRIGATÓRIOS EXIGIDOS PELO CONTRAN; 1.2.3. CABINE FECHADA, COM PROTEÇÃO CONTRA CAPOTAMENTO; 1.2.4....","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":286500}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-27","tipo":"","fase":"Fase Interna","link_publico":"8ba9dbe3-a187-4656-ad39-518c0957a6e2"},
+{"sequencia":2,"data":"2026-01-21","tipo":"","fase":"Fase Interna","link_publico":"7221e8a5-3686-41c3-b81d-ab1bf6ad8bae"},
+{"sequencia":3,"data":"2026-01-21","tipo":"","fase":"Fase Interna","link_publico":"8294d67e-d762-4551-a58a-63f251c546ea"},
+{"sequencia":4,"data":"2026-01-21","tipo":"","fase":"Fase Interna","link_publico":"5f6c041f-4460-4576-babf-41fdc7433cbe"},
+{"sequencia":5,"data":"2026-01-21","tipo":"","fase":"Fase Interna","link_publico":"b1419c84-b8e2-4a74-8000-fd3a09e6d1f1"},
+{"sequencia":6,"data":"2026-01-21","tipo":"","fase":"Fase Interna","link_publico":"96899d93-4ced-4d50-892c-4182cb394984"},
+{"sequencia":7,"data":"2026-01-21","tipo":"","fase":"Fase Interna","link_publico":"27ed1054-5a27-4a64-85e5-852fa6d27d3d"},
+{"sequencia":8,"data":"2026-01-22","tipo":"","fase":"Fase Interna","link_publico":"40301d63-72c9-48dc-b5d4-084710bb1de3"},
+{"sequencia":9,"data":"2026-01-22","tipo":"","fase":"Fase Interna","link_publico":"655f7e2f-da42-40e8-a20f-cba148c9b481"},
+{"sequencia":10,"data":"2026-01-22","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"0e80fd4a-9703-4822-be6a-88019c9195b0"},
+{"sequencia":11,"data":"2026-01-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"d8cfa0c5-2a61-4e14-9f6c-b337bdc50b02"},
+{"sequencia":12,"data":"2026-01-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"9e9a1aa3-c5ea-459a-8108-c749abb57319"},
+{"sequencia":13,"data":"2026-01-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"cf112a1b-d105-4956-9a9a-c85f393e650b"}
+]
+}

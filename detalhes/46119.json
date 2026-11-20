@@ -1,0 +1,27 @@
+{"codigo":46119,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"TRACADO CONSTRUCOES E SERVICOS LTDA","documento":"00.472.805/0003-08","descricao":"EMULSÃO ASFÁLTICA RR-2C","descricao_adicional":"","unidade":"UN","valor_referencia":9.7,"valor_vencedor":9.7,"quantidade":1800},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MT ASFALTOS LTDA","documento":"40.170.297/0001-58","descricao":"ASFALTO A FRIO TIPO CONCRETO BETUMINOSO USINADO A FRIO (CBUQ FRIO)  EMBALAGEM: SACO DE 25 KG  APLICAÇÃO: PRONTA APLICAÇÃO EM SERVIÇOS DE TAPA-BURACO E RECOMPOSIÇÃO DE PAVIMENTO.  CARACTERÍSTICAS: PRODUTO DE PRIMEIRA LINHA, PRONTO PARA USO, COM AGREGADOS E LIGANTE ASFÁLTICO MODIFICADOS PARA...","descricao_adicional":"","unidade":"UN","valor_referencia":26.79,"valor_vencedor":20.5,"quantidade":2500}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"EMULSÃO ASFÁLTICA RR-2C","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1800,"valor_referencia":9.7},
+{"lote":0,"item":2,"descricao":"ASFALTO A FRIO TIPO CONCRETO BETUMINOSO USINADO A FRIO (CBUQ FRIO)  EMBALAGEM: SACO DE 25 KG  APLICAÇÃO: PRONTA APLICAÇÃO EM SERVIÇOS DE TAPA-BURACO E RECOMPOSIÇÃO DE PAVIMENTO.  CARACTERÍSTICAS: PRODUTO DE PRIMEIRA LINHA, PRONTO PARA USO, COM AGREGADOS E LIGANTE ASFÁLTICO MODIFICADOS PARA...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":2500,"valor_referencia":26.79}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-30","tipo":"","fase":"Fase Interna","link_publico":"657e1348-c4d6-4cbe-a73c-02667df10fae"},
+{"sequencia":2,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"81c1309d-6800-4029-a9b1-7dbf28da5636"},
+{"sequencia":3,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"b453e96d-7e6b-4131-a80a-50abcca2a2f5"},
+{"sequencia":4,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"14b7c2ee-3c4e-4ea4-a26c-71abff965d16"},
+{"sequencia":5,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"56a53c80-3b8e-49ab-ad58-2dfeb9e3d500"},
+{"sequencia":6,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"12afcd78-61e7-4790-a519-6335041d230c"},
+{"sequencia":7,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"c559419b-1f93-4d91-8df0-8a3f245003f7"},
+{"sequencia":8,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"2b17d85d-bf29-4122-ba19-f5e5a775c74d"},
+{"sequencia":9,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"045df059-3f5f-4d15-a6d7-04a35d973a1c"},
+{"sequencia":10,"data":"2025-10-13","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"3a27b1e7-1fd0-40e4-bf85-71ad902a86aa"},
+{"sequencia":11,"data":"2025-09-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"28084964-a7de-4c48-833b-519dcba05ef9"},
+{"sequencia":12,"data":"2025-09-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"b59ac84c-6978-412c-9211-da8d403c92db"},
+{"sequencia":13,"data":"2025-09-30","tipo":"Outros documentos","fase":"Publicação","link_publico":"371abed9-a3bf-4481-944b-4090367fc822"},
+{"sequencia":14,"data":"2025-09-30","tipo":"Outros documentos","fase":"Publicação","link_publico":"69e2c543-0c2d-4269-8dd8-bdb9bf485244"},
+{"sequencia":15,"data":"2025-10-14","tipo":"Outros documentos","fase":"Publicação","link_publico":"33685709-1a47-4456-b81e-8b88ba16e63e"}
+]
+}

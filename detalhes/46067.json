@@ -1,0 +1,20 @@
+{"codigo":46067,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO BENEFICENTE EVANGELICA DA FLORESTA IMPERIAL DE NO","documento":"91.695.577/0002-00","descricao":"ACOLHIMENTO INSTITUCIONAL, POR DETERMINAÇÃO JUDICIAL, PARA MENORES, DE 7 A 18 ANOS INCOMPLETOS (MASCULINO/FEMININO).","descricao_adicional":null,"unidade":"UN","valor_referencia":4350,"valor_vencedor":4350,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ACOLHIMENTO INSTITUCIONAL, POR DETERMINAÇÃO JUDICIAL, PARA MENORES, DE 7 A 18 ANOS INCOMPLETOS (MASCULINO/FEMININO).","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":6,"valor_referencia":4350}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"cdce4fd3-3de3-4779-b319-7fcf2bd88e86"},
+{"sequencia":2,"data":"2026-01-06","tipo":"","fase":"Fase Interna","link_publico":"1c6d0591-42da-4651-a257-0d3d87b4806e"},
+{"sequencia":3,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"8514a33f-e656-4d57-b32e-8ee3e037bda5"},
+{"sequencia":4,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"28d51df8-61a5-4f39-89c6-ac2642ca8466"},
+{"sequencia":5,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"2ed593a6-0df9-4887-bca1-fdc199ea823f"},
+{"sequencia":6,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"7df4f5f4-bc82-4cf0-99f2-0fe6833fdc52"},
+{"sequencia":7,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"9292ad63-1baf-4e65-8769-2192f909437d"},
+{"sequencia":8,"data":"2025-12-22","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"fb72eef2-f816-4dc8-bb9a-d145ab5db4c7"},
+{"sequencia":9,"data":"2025-12-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"883d8abb-4802-45b8-8be5-d73518201947"},
+{"sequencia":10,"data":"2026-02-23","tipo":"","fase":"Fase Interna","link_publico":"85a60347-a0e5-45f5-9deb-a810a9a272e3"}
+]
+}

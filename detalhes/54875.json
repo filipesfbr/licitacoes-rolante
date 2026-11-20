@@ -1,0 +1,28 @@
+{"codigo":54875,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DE EVENTOS BIER ROCK","documento":"36.239.546/0001-47","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>O apoio financeiro para a execu&ccedil;&atilde;o do 8&ordm; Bier Rock&nbsp;compreender&aacute; a loca&ccedil;&atilde;o&nbsp;de <strong>estrutura de palco, som e ilumina&ccedil;&atilde;o</strong>, necess&aacute;rios&nbsp;do evento, conforme especifica&ccedil;&otilde;es e quantitativos previstos no Plano de Trabalho encaminhado junto a este processo.</p>\n","unidade":"UN","valor_referencia":5000,"valor_vencedor":5000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>O apoio financeiro para a execu&ccedil;&atilde;o do 8&ordm; Bier Rock&nbsp;compreender&aacute; a loca&ccedil;&atilde;o&nbsp;de <strong>estrutura de palco, som e ilumina&ccedil;&atilde;o</strong>, necess&aacute;rios&nbsp;do evento, conforme especifica&ccedil;&otilde;es e quantitativos previstos no Plano de Trabalho encaminhado junto a este processo.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":5000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"570b88ca-072a-4ea8-9ea0-6d35f594d61e"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d3fc3eee-14e1-4e45-96f2-949f747f3de7"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4cb358c2-ff7f-4988-861e-c7ece1870ead"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f18e54b0-fc2e-42a6-bde2-2f5bae97f26d"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d78b75e7-bb83-48db-b0f9-ac0c6f18a473"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0a68b95d-25e4-4aac-8009-65cbd6146a36"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8c240b33-bd1d-433b-9730-c13d15632e12"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8943966a-4ab5-4e0a-b37f-5c8744a1dcf8"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8ce67e7f-b673-4f7c-88ce-ba30e06f2a5f"},
+{"sequencia":10,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"e5c2db9b-79f0-4512-8eb8-03f8255da82e"},
+{"sequencia":11,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"15fb5fde-ccc8-401f-935e-0143175add9e"},
+{"sequencia":12,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"f916550c-4d9c-4112-bade-293732ebbefc"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"395ac34d-375f-41ba-af4b-506f4652dac5"},
+{"sequencia":14,"data":"2026-08-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2d50f133-63dc-4480-92ec-92b47722d5ce"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"98197b32-abfd-4e5d-b493-821187d083ca"},
+{"sequencia":16,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"19ba4377-1d40-460d-bfb5-563ad2fe50aa"},
+{"sequencia":17,"data":"2026-08-27","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"c1a8ae03-da4e-4120-8cb5-ac1f5be19795"},
+{"sequencia":18,"data":"2026-08-28","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"afce8cb0-1a9f-4b77-ab5a-c95e4721e3b6"}
+]
+}

@@ -1,0 +1,26 @@
+{"codigo":46124,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"POSTES DO SUL COMERCIO DE MADEIRAS LTDA","documento":"42.830.678/0001-41","descricao":"POSTE CÔNICO DE CONCRETO","descricao_adicional":null,"unidade":"UN","valor_referencia":600,"valor_vencedor":600,"quantidade":8},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"POSTES DO SUL COMERCIO DE MADEIRAS LTDA","documento":"42.830.678/0001-41","descricao":"POSTE CÔNICO DE CONCRETO","descricao_adicional":null,"unidade":"UN","valor_referencia":600,"valor_vencedor":600,"quantidade":15},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"POSTES DO SUL COMERCIO DE MADEIRAS LTDA","documento":"42.830.678/0001-41","descricao":"POSTE CÔNICO DE CONCRETO","descricao_adicional":null,"unidade":"UN","valor_referencia":750,"valor_vencedor":750,"quantidade":4},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"POSTES DO SUL COMERCIO DE MADEIRAS LTDA","documento":"42.830.678/0001-41","descricao":"POSTE CÔNICO DE CONCRETO","descricao_adicional":null,"unidade":"UN","valor_referencia":1100,"valor_vencedor":1100,"quantidade":3},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"POSTES DO SUL COMERCIO DE MADEIRAS LTDA","documento":"42.830.678/0001-41","descricao":"SERVIÇO DE FRETE.","descricao_adicional":null,"unidade":"UN","valor_referencia":900,"valor_vencedor":900,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"POSTE CÔNICO DE CONCRETO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":8,"valor_referencia":600},
+{"lote":0,"item":2,"descricao":"POSTE CÔNICO DE CONCRETO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":15,"valor_referencia":600},
+{"lote":0,"item":3,"descricao":"POSTE CÔNICO DE CONCRETO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":750},
+{"lote":0,"item":4,"descricao":"POSTE CÔNICO DE CONCRETO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":1100},
+{"lote":0,"item":5,"descricao":"SERVIÇO DE FRETE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":900}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-12","tipo":"","fase":"Fase Interna","link_publico":"f82b1e9d-3c07-4f0b-be5f-34f9d9577aca"},
+{"sequencia":2,"data":"2025-09-12","tipo":"","fase":"Fase Interna","link_publico":"10565700-3bd7-4d4a-a40e-539e703a45aa"},
+{"sequencia":3,"data":"2025-09-12","tipo":"","fase":"Fase Interna","link_publico":"795e728f-7176-4508-bdbb-dd1be7a0ef40"},
+{"sequencia":4,"data":"2025-09-12","tipo":"","fase":"Fase Interna","link_publico":"140c1259-5871-4e93-9e96-5c754503137b"},
+{"sequencia":5,"data":"2025-09-12","tipo":"","fase":"Fase Interna","link_publico":"701c4042-7c56-401d-bfae-abb97e219a2c"},
+{"sequencia":6,"data":"2025-09-12","tipo":"","fase":"Fase Interna","link_publico":"84002609-491c-4dda-855d-08c35a4e2d06"},
+{"sequencia":7,"data":"2025-09-12","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"1fe5735d-a067-4be3-8c23-c3065c8888f1"},
+{"sequencia":8,"data":"2025-09-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"fbe5b401-8944-483b-8bc8-257208081a83"}
+]
+}

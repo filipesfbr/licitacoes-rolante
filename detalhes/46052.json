@@ -1,0 +1,15 @@
+{"codigo":46052,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SANDRO MARCELO WASEM - CONFEIT.  SAN DÉA","documento":"05.353.549/0001-83","descricao":"COQUETEL PARA EVENTOS","descricao_adicional":"<p><strong>Itens que compõe o coquetel: </strong>Mini Croissant de frango e goiabada &#8211;Aprox. 6cm; Pastéis de carne, strogonoff, frango e coxinhas; Folhados assados &#8211; Aprox. 30g;&nbsp;Mini pizza &#8211; Aprox. 6cm de diâmetro; Polenta frita - Porções de aprox. 100g; Iscas de frango - Porções de aprox. 100g; Massa penne ao molho branco - Porções de aprox. 100g.</p>","unidade":"UN","valor_referencia":45,"valor_vencedor":45,"quantidade":700}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"COQUETEL PARA EVENTOS","descricao_adicional":"<p><strong>Itens que compõe o coquetel: </strong>Mini Croissant de frango e goiabada &#8211;Aprox. 6cm; Pastéis de carne, strogonoff, frango e coxinhas; Folhados assados &#8211; Aprox. 30g;&nbsp;Mini pizza &#8211; Aprox. 6cm de diâmetro; Polenta frita - Porções de aprox. 100g; Iscas de frango - Porções de aprox. 100g; Massa penne ao molho branco - Porções de aprox. 100g.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":700,"valor_referencia":45}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-04","tipo":"","fase":"Fase Interna","link_publico":"ae42b05d-4460-4d81-8f89-f75d8c133068"},
+{"sequencia":2,"data":"2026-02-04","tipo":"","fase":"Fase Interna","link_publico":"4722d7d4-6ab3-4968-ac2c-74856c0365f6"},
+{"sequencia":3,"data":"2026-02-04","tipo":"","fase":"Fase Interna","link_publico":"3c589ae0-913f-4887-85fd-167205f60463"},
+{"sequencia":4,"data":"2026-02-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"0b49c6e7-1c2d-4466-97fc-d82129bab575"},
+{"sequencia":5,"data":"2026-02-05","tipo":"Outros documentos","fase":"Publicação","link_publico":"cec92f55-dc36-4deb-831b-6560991c33fd"}
+]
+}

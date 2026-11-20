@@ -1,0 +1,17 @@
+{"codigo":46238,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"LUCIANA LOHDER DA SILVA LTDA","documento":"57.792.785/0001-08","descricao":"ASSESSORIA DIVERSA.","descricao_adicional":null,"unidade":"UN","valor_referencia":8900,"valor_vencedor":8900,"quantidade":6}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ASSESSORIA DIVERSA.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":6,"valor_referencia":8900}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-05","tipo":"","fase":"Fase Interna","link_publico":"e39436d5-fa6d-4e32-8a26-efb606de7e6b"},
+{"sequencia":2,"data":"2025-02-28","tipo":"","fase":"Fase Interna","link_publico":"6ebe4ec1-5f0f-462c-b2b7-487cc6f2d0e7"},
+{"sequencia":3,"data":"2025-02-28","tipo":"","fase":"Fase Interna","link_publico":"babd486d-5415-4d1e-82e0-426d76ce99e5"},
+{"sequencia":4,"data":"2025-02-28","tipo":"","fase":"Fase Interna","link_publico":"3dea2604-47ff-487b-b88b-2fb238ef510a"},
+{"sequencia":5,"data":"2025-03-06","tipo":"","fase":"Fase Interna","link_publico":"6e3cb47d-20bc-43e7-b4ca-c5a200f4957c"},
+{"sequencia":6,"data":"2025-02-28","tipo":"Outros documentos","fase":"Publicação","link_publico":"c6637bc3-b1a0-42f2-9c38-2d828dae181e"},
+{"sequencia":7,"data":"2025-03-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"f0fdce91-7b93-4c6b-9df6-e071af22758e"}
+]
+}

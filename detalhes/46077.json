@@ -1,0 +1,38 @@
+{"codigo":46077,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ATLÂNTICA HIDROSOLUÇÕES LTDA","documento":"32.598.168/0001-37","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE MATERIAL E MÃO DE OBRA PARA PERFURAÇÃO/CONSTRUÇÃO DE POÇO TUBULAR PROFUNDO NA LOCALIDADE CANTA GALO, ZONA RURAL DO MUNICÍPIO, CONFORME ESPECIFICAÇÕES, QUANTIDADES, CONDIÇÕES E DEMAIS DOCUMENTOS TÉCNICOS EM ANEXO.","descricao_adicional":null,"unidade":"UN","valor_referencia":116689.66,"valor_vencedor":89900,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE MATERIAL E MÃO DE OBRA PARA PERFURAÇÃO/CONSTRUÇÃO DE POÇO TUBULAR PROFUNDO NA LOCALIDADE CANTA GALO, ZONA RURAL DO MUNICÍPIO, CONFORME ESPECIFICAÇÕES, QUANTIDADES, CONDIÇÕES E DEMAIS DOCUMENTOS TÉCNICOS EM ANEXO.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":116689.66}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-08","tipo":"","fase":"Fase Interna","link_publico":"585dbc01-82c6-484f-8c2b-262684d6f5fc"},
+{"sequencia":2,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"17e15c2d-27c3-42be-9b40-510dae9d78a1"},
+{"sequencia":3,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"69fa196d-44a2-4f6d-b278-1e252ab206e2"},
+{"sequencia":4,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"99d76e3d-d340-4e38-914a-252f5e0933f4"},
+{"sequencia":5,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"e0291a0e-6341-416c-b46f-50fd6352de93"},
+{"sequencia":6,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"167d62a6-edcc-40a1-b853-2ef633b2966e"},
+{"sequencia":7,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"02bb1aee-a303-4e32-a97e-330c65bdac1b"},
+{"sequencia":8,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"180a0fbc-d7fe-4655-ae2b-0c867ee844bd"},
+{"sequencia":9,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"06ca13c6-94a0-4918-9b44-08e6bb9f5794"},
+{"sequencia":10,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"7bbcb76b-3acc-46d3-b0bb-1e9f55c76d38"},
+{"sequencia":11,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"31f3c1a3-aea1-4533-b3f4-9e478efaece8"},
+{"sequencia":12,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"9cb1f13f-f173-49b9-ad7a-9c9021bc3ac6"},
+{"sequencia":13,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"0a9983ca-0b2b-469a-a9a6-e079bb86bf6b"},
+{"sequencia":14,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"9faf3a24-4eb3-4998-b0b6-d924f8d72075"},
+{"sequencia":15,"data":"2025-12-05","tipo":"","fase":"Fase Interna","link_publico":"b4c54d81-097a-47c0-ab43-1e27a47970a2"},
+{"sequencia":16,"data":"2025-12-05","tipo":"","fase":"Fase Interna","link_publico":"61bb7cad-11b1-4275-ae19-d0d986238b6f"},
+{"sequencia":17,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"926db484-8309-4fc1-bb74-6e1fc9ea1160"},
+{"sequencia":18,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"a2abad2e-2992-40f3-ad6d-696beed4e6e4"},
+{"sequencia":19,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"0f4e29b1-ce8f-42d8-bcb5-5f93fff3eb66"},
+{"sequencia":20,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"8c680806-2f0c-44af-8266-447dfbc0a15c"},
+{"sequencia":21,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"9a7b4236-8f7e-40d6-99f5-f93012572e5a"},
+{"sequencia":22,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"f885d087-c094-4258-969a-0b682ea75b9e"},
+{"sequencia":23,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"b5e26c1b-cf51-49ff-958d-7b5b0fcdd974"},
+{"sequencia":24,"data":"2025-12-22","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"687fbd4f-0656-42fe-a304-5a96e5e1f3e5"},
+{"sequencia":25,"data":"2025-12-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"e05f805e-aa2a-450a-b1b6-df8e2b624543"},
+{"sequencia":26,"data":"2025-12-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"06295116-ec65-4ad2-8f83-e4e29323bb66"},
+{"sequencia":27,"data":"2025-12-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"6f63d5c2-13c8-4381-b30f-e87a8c0437dc"},
+{"sequencia":28,"data":"2025-12-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"b4b987d9-6cba-44bb-8b63-c68e37c4da8c"}
+]
+}

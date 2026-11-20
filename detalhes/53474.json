@@ -1,0 +1,32 @@
+{"codigo":53474,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MIL ASSESSORIA E CONSULTORIA CONTABIL E EMPRESARIAL LTDA","documento":"08.305.593/0001-06","descricao":"PRESTAÇÃO DE SERVIÇOS TÉCNICOS PROFISSIONAIS DE ASSESSORIA.","descricao_adicional":"<p style=\"text-align:justify\">Presta&ccedil;&atilde;o de servi&ccedil;os de assessoria/consultoria relativo ao SIOPE - Sistema de Informa&ccedil;&otilde;es sobre Or&ccedil;amentos P&uacute;blicos em Educa&ccedil;&atilde;o, incluindo alimenta&ccedil;&atilde;o, confer&ecirc;ncia, an&aacute;lise e transmiss&atilde;o de dados, acompanhamento de &iacute;ndices, corre&ccedil;&atilde;o de inconsist&ecirc;ncias e suporte t&eacute;cnico, pelo per&iacute;odo de 10 meses.&nbsp;</p>\n\n<p style=\"text-align:justify\">&nbsp;</p>\n","unidade":"MES","valor_referencia":1750,"valor_vencedor":1750,"quantidade":10}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PRESTAÇÃO DE SERVIÇOS TÉCNICOS PROFISSIONAIS DE ASSESSORIA.","descricao_adicional":"<p style=\"text-align:justify\">Presta&ccedil;&atilde;o de servi&ccedil;os de assessoria/consultoria relativo ao SIOPE - Sistema de Informa&ccedil;&otilde;es sobre Or&ccedil;amentos P&uacute;blicos em Educa&ccedil;&atilde;o, incluindo alimenta&ccedil;&atilde;o, confer&ecirc;ncia, an&aacute;lise e transmiss&atilde;o de dados, acompanhamento de &iacute;ndices, corre&ccedil;&atilde;o de inconsist&ecirc;ncias e suporte t&eacute;cnico, pelo per&iacute;odo de 10 meses.&nbsp;</p>\n\n<p style=\"text-align:justify\">&nbsp;</p>\n","unidade":"MES","quantidade_min":0,"quantidade_max":10,"valor_referencia":1750}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"c4f79670-5cef-4849-8621-c65fc146c82d"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c9e276b1-e640-4d15-b43a-0f0f86000af5"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4aa72313-fd72-4db9-a44d-6cdeb074a13e"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d7fe8f0f-b401-4d2d-9802-402aa4ab1f93"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fe4ca100-cfe5-49c4-b638-7068b8b3188a"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"23d9fb1e-ce7c-4660-8280-a6a253660edc"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a0451637-33ae-4997-b9c4-283f815b0263"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"df383b98-e657-4c50-b2ec-ec0b45f091f3"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"83de2610-2e7d-402b-b5f0-f021e350997f"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"aeaaf237-9756-4681-97a7-a7e435c8ab14"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"081334db-d6ba-4a53-b921-8f6ea5338345"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3f2b249a-7b3d-41cc-848a-300c802df777"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"edd8c2ba-0919-46aa-9349-fe8df013363b"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4e4fd239-3289-431f-89a2-85627faecf55"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c4c5f028-a502-4b9a-9804-4cac94e893dd"},
+{"sequencia":16,"data":null,"tipo":"Comprovação de notória especialização","fase":"Fase Interna","link_publico":"d3a23596-d5e8-4577-8055-58384da076b9"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7f4ca9ab-075e-439e-8d8d-483ecb0b3a00"},
+{"sequencia":18,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"08257255-2f95-4507-ac15-87e573fb768f"},
+{"sequencia":19,"data":"2026-05-13","tipo":"ETP","fase":"Fase Interna","link_publico":"882df275-d308-4ed4-b9ef-444c3bd0e9f8"},
+{"sequencia":20,"data":"2026-05-13","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3d656e5a-7af6-4849-836b-a2b63fe510a6"},
+{"sequencia":21,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"19593b52-9d96-436c-9c28-30ba68ec0059"},
+{"sequencia":22,"data":"2026-05-20","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"0c5e6e03-a092-41f9-9c33-8c04a8636fc4"}
+]
+}

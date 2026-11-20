@@ -1,0 +1,27 @@
+{"codigo":55712,
+"vencedores":[]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DA OBRA DE PAVIMENTAÇÃO DE PASSEIOS PÚBLICOS EM BLOCOS DE CONCRETO INTERTRAVADO","descricao_adicional":"<p style=\"text-align:justify\"><span style=\"color:#000000\">Contrata&ccedil;&atilde;o de empresa especializada para execu&ccedil;&atilde;o da obra de pavimenta&ccedil;&atilde;o de passeios p&uacute;blicos com blocos de concreto intertravado, , abrangendo uma &aacute;rea total de 1.875,40 m&sup2; (um mil, oitocentos e setenta e cinco metros e quarenta dec&iacute;metros quadrados), sendo 1.298,40 m&sup2; (um mil, duzentos e noventa e oito metros e quarenta dec&iacute;metros quadrados) na Rua Vereador Alcides Pandolfo, 441,00 m&sup2; (quatrocentos e quarenta e um metros quadrados) na Rua Vereador Benjamin Konrath e 136,00m&sup2; (cento e trinta e seis metros quadrados) na Rua Presidente Costa e Silva, com recursos oriundos de Emenda Impositiva N&deg; 01 ao Projeto de Lei n&deg; 138/2025, de autoria do Vereador Luan Samuel Cardoso da Silva, Emenda Impositiva N&deg; 02 ao Projeto de Lei n&deg; 138/2025, de autoria do Vereador Valdemir Gomes Gon&ccedil;alves - Neco e o restante de contrapartida municipal, conforme projeto, memorial descritivo, planilha or&ccedil;ament&aacute;ria e demais documentos que integram este processo.</span></p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":293606.22}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Detalhamento BDI","fase":"Fase Interna","link_publico":"6762a7be-41af-49d9-af80-b0d5903e70be"},
+{"sequencia":2,"data":"2026-09-30","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"f1a38a5a-67ac-4e12-9078-52b04f2c536f"},
+{"sequencia":3,"data":null,"tipo":"Detalhamento encargos sociais","fase":"Fase Interna","link_publico":"e143eb8f-8632-4424-8a87-4d70ec664621"},
+{"sequencia":4,"data":null,"tipo":"Cronograma","fase":"Fase Interna","link_publico":"5547d042-54cf-4120-b00f-aa803d36b8bb"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"390d8865-9559-4c93-9b28-468dd668ea99"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"988fbeda-17a3-4dfe-a002-84c328031b5c"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4fdd61b7-41e5-4e1b-bb38-5a8e13ebed95"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f663ea41-1e07-4595-b290-3741eb3a5944"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"79988b28-d069-4e42-9b6e-ce46f6c1f44e"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a6ef4f12-ba97-4944-848f-ea05f7852327"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"936c4eeb-fb65-4a81-91c8-8e034a9e6b4d"},
+{"sequencia":12,"data":"2026-11-09","tipo":"ETP","fase":"Fase Interna","link_publico":"3a0ec9f3-04d6-4146-b739-da5bafa29673"},
+{"sequencia":13,"data":"2026-11-09","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9a1ff2cb-af5f-4eef-90a1-fa41fe438783"},
+{"sequencia":14,"data":null,"tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"2a4d4e7d-ebae-4ba3-9617-5b1bd334af94"},
+{"sequencia":15,"data":"2026-11-12","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"42e32c92-7d6d-4901-8372-9639c7c04ca3"},
+{"sequencia":16,"data":"2026-11-13","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"09e06127-a080-4982-8c7f-16230dd26c8c"},
+{"sequencia":17,"data":"2026-11-13","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"adc72471-5ef8-4290-baf1-fbc3dfe7c8a1"},
+{"sequencia":18,"data":"2026-11-13","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"87ba1a9a-40df-4375-8678-0d1edf7fab9b"},
+{"sequencia":19,"data":"2026-11-13","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"f92dfbb4-4096-42d6-bc3e-676ffe6f26b1"}
+]
+}

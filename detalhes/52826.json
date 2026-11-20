@@ -1,0 +1,26 @@
+{"codigo":52826,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"PORTA DE PVC","descricao_adicional":"<p>Banheiro 69,5x204,8x16,3</p>\n","unidade":"UN","valor_referencia":1600,"valor_vencedor":1600,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"PORTA DE PVC","descricao_adicional":"<p>Gabinete p/sala de reuni&otilde;es 85,3x216,3x31,3</p>\n","unidade":"UN","valor_referencia":1800,"valor_vencedor":1800,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"PORTA DE PVC","descricao_adicional":"<p>Porta de correr 94,8x217x17,3</p>\n","unidade":"UN","valor_referencia":2400,"valor_vencedor":2400,"quantidade":1},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"PORTA DE PVC","descricao_adicional":"<p>Porta de correr 87,4x215,7x31,6</p>\n","unidade":"UN","valor_referencia":2210,"valor_vencedor":2210,"quantidade":1},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"PORTA DE PVC","descricao_adicional":"<p>Entrada gabinete 94,5x214,8x17,2</p>\n","unidade":"UN","valor_referencia":1620,"valor_vencedor":1620,"quantidade":1},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"PORTA DE PVC","descricao_adicional":"<p>Porta ante sala 93,7x214,7x18</p>\n","unidade":"UN","valor_referencia":1620,"valor_vencedor":1620,"quantidade":1},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"PORTA DE PVC","descricao_adicional":"<p>Porta vai e vem corredor 84,7x230,2x30,5</p>\n","unidade":"UN","valor_referencia":3350,"valor_vencedor":3350,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PORTA DE PVC","descricao_adicional":"<p>Banheiro 69,5x204,8x16,3</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1600},
+{"lote":0,"item":2,"descricao":"PORTA DE PVC","descricao_adicional":"<p>Gabinete p/sala de reuni&otilde;es 85,3x216,3x31,3</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1800},
+{"lote":0,"item":3,"descricao":"PORTA DE PVC","descricao_adicional":"<p>Porta de correr 94,8x217x17,3</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2400},
+{"lote":0,"item":4,"descricao":"PORTA DE PVC","descricao_adicional":"<p>Porta de correr 87,4x215,7x31,6</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2210},
+{"lote":0,"item":5,"descricao":"PORTA DE PVC","descricao_adicional":"<p>Entrada gabinete 94,5x214,8x17,2</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1620},
+{"lote":0,"item":6,"descricao":"PORTA DE PVC","descricao_adicional":"<p>Porta ante sala 93,7x214,7x18</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1620},
+{"lote":0,"item":7,"descricao":"PORTA DE PVC","descricao_adicional":"<p>Porta vai e vem corredor 84,7x230,2x30,5</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":3350}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-04-01","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8a0443fe-15cf-4284-bb36-2588b0db5b5a"},
+{"sequencia":2,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"10efe6b4-4969-43f6-9f65-c0d834301290"},
+{"sequencia":3,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"bc23ad06-0ac4-47ee-9dbb-6ae44ec8f9a8"},
+{"sequencia":4,"data":null,"tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"cf43241e-d87d-4915-9099-098ba16d588b"}
+]
+}

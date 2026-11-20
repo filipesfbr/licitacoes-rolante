@@ -1,0 +1,28 @@
+{"codigo":54087,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"C.F. DE LIRA GOMES LTDA","documento":"05.162.027/0001-02","descricao":"CAMISETA","descricao_adicional":"","unidade":"UN","valor_referencia":29.158,"valor_vencedor":17,"quantidade":300}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CAMISETA","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":300,"valor_referencia":29.158}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-06-22","tipo":"ETP","fase":"Fase Interna","link_publico":"fe89dad2-3391-4fe6-a25a-d19ec9d70f5a"},
+{"sequencia":2,"data":"2026-06-22","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0c656608-4311-4541-9c58-734451b143d8"},
+{"sequencia":3,"data":"2026-07-01","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"8ea33e67-bc1e-49e2-ac1a-9a4b25396fb0"},
+{"sequencia":4,"data":"2026-07-02","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"002b688f-d138-48c3-b089-96a51f88c17f"},
+{"sequencia":5,"data":"2026-07-02","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"576acc80-82a1-4fa9-84ae-62e1c21c1466"},
+{"sequencia":6,"data":"2026-07-02","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"52578eb9-dcc0-41b9-837b-1ce6dcbb7b21"},
+{"sequencia":7,"data":"2026-07-02","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"9aa5a7b2-ffc7-4b12-ae7d-dff0091a1d1a"},
+{"sequencia":8,"data":"2026-07-16","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"59df97f2-dbd9-4c69-baef-2d6247bb8c0b"},
+{"sequencia":9,"data":"2026-07-16","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"https://anexoscontabilidade.s3.us-west-2.amazonaws.com/1093/womwj4aov8app0n4dioq_15%20%20DIDANNA_HABILITACAO_CF%20de%20LIRA%2027_07.zip?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFRWBYIEERIVG3JQ%2F20261120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261120T183633Z&X-Amz-SignedHeaders=host&X-Amz-Signature=595f0794188a9fc767e067f3063f330147ddc9215050307c6a6007ab2814cf9a"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c7362a29-50b4-4f92-9d19-bacd95b9d552"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1b8a0e29-c1c3-47d0-9d26-cb7449fd0915"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"929b5be3-4c97-4535-84e4-70f8ec02d035"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"add2c2d1-5e46-4742-ac70-1cbf0f7087bf"},
+{"sequencia":14,"data":null,"tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"7ef94c39-f8ff-4231-a05f-00b9ab772bef"},
+{"sequencia":15,"data":null,"tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"e1be95ef-6474-49f2-bb73-deed094643ca"},
+{"sequencia":16,"data":null,"tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"e3556066-afe4-4545-b88e-dcdeb7b711ed"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"af115bea-9dfa-4810-80c4-97eac23ae368"},
+{"sequencia":18,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"29411aed-d280-465d-b2dd-5a3751786560"}
+]
+}

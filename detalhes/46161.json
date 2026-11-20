@@ -1,0 +1,19 @@
+{"codigo":46161,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"UNI-K ARQUITETURA COMPLETA LTDA","documento":"21.961.029/0001-00","descricao":"SERVICO DE ELABORAÇÃO DE PROJETO","descricao_adicional":null,"unidade":"UN","valor_referencia":10720,"valor_vencedor":10720,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"UNI-K ARQUITETURA COMPLETA LTDA","documento":"21.961.029/0001-00","descricao":"SERVICO DE ELABORAÇÃO DE PROJETO","descricao_adicional":null,"unidade":"UN","valor_referencia":6700,"valor_vencedor":6700,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVICO DE ELABORAÇÃO DE PROJETO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":10720},
+{"lote":0,"item":2,"descricao":"SERVICO DE ELABORAÇÃO DE PROJETO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":6700}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-26","tipo":"","fase":"Fase Interna","link_publico":"ec471614-6705-4428-ad3a-d5af94714cb9"},
+{"sequencia":2,"data":"2025-06-25","tipo":"","fase":"Fase Interna","link_publico":"8121af22-9be2-4ed0-a335-0366e0d79794"},
+{"sequencia":3,"data":"2025-06-25","tipo":"","fase":"Fase Interna","link_publico":"1050a1eb-e41e-4b19-a0da-f0dd971e154f"},
+{"sequencia":4,"data":"2025-06-25","tipo":"","fase":"Fase Interna","link_publico":"8c25e7ce-5df9-4c8e-b334-625857615cc5"},
+{"sequencia":5,"data":"2025-06-25","tipo":"","fase":"Fase Interna","link_publico":"2a83a71c-2b5f-4e4d-ace7-a54c1cd80216"},
+{"sequencia":6,"data":"2025-06-25","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"89cc2ba1-26f6-43a7-8ef1-fc7b54392557"},
+{"sequencia":7,"data":"2025-06-26","tipo":"Outros documentos","fase":"Publicação","link_publico":"499d2cf4-63f5-4db2-bca3-f5f531c63191"}
+]
+}

@@ -1,0 +1,25 @@
+{"codigo":46068,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GENTE SEGURADORA SA","documento":"90.180.605/0001-02","descricao":"CONTRATAÇÃO DE SEGURO PARA VEÍCULO - COBERTURA TOTAL (COMPREENSIVA), INCLUINDO: \n- COBERTURA PARA COLISÃO, ROUBO, FURTO E INCÊNDIO;\n- RCF - DANOS MATERIAIS: R$ 150.000,00;\n- RCF - DANOS CORPORAIS: R$ 150.000,00;\n- APP - MORTE POR PASSAGEIRO: R$ 10.000,00;\n- APP - INVALIDEZ PERMANENTE POR...","descricao_adicional":"<p>Marca/modelo: CHEVROLET/MONTANA MT&nbsp;Ano/modelo: 2025/2026&nbsp;Chassi: 9BGEA43T0TB152557</p>\n","unidade":"UN","valor_referencia":3751.43,"valor_vencedor":782.48,"quantidade":2},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"GENTE SEGURADORA SA","documento":"90.180.605/0001-02","descricao":"CONTRATAÇÃO DE SEGURO PARA VEÍCULO - COBERTURA TOTAL (COMPREENSIVA), INCLUINDO: \n- COBERTURA PARA COLISÃO, ROUBO, FURTO E INCÊNDIO;\n- RCF - DANOS MATERIAIS: R$ 150.000,00;\n- RCF - DANOS CORPORAIS: R$ 150.000,00;\n- APP - MORTE POR PASSAGEIRO: R$ 10.000,00;\n- APP - INVALIDEZ PERMANENTE POR...","descricao_adicional":"","unidade":"UN","valor_referencia":3248.46,"valor_vencedor":733.62,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE SEGURO PARA VEÍCULO - COBERTURA TOTAL (COMPREENSIVA), INCLUINDO: \n- COBERTURA PARA COLISÃO, ROUBO, FURTO E INCÊNDIO;\n- RCF - DANOS MATERIAIS: R$ 150.000,00;\n- RCF - DANOS CORPORAIS: R$ 150.000,00;\n- APP - MORTE POR PASSAGEIRO: R$ 10.000,00;\n- APP - INVALIDEZ PERMANENTE POR...","descricao_adicional":"<p>Marca/modelo: CHEVROLET/MONTANA MT&nbsp;Ano/modelo: 2025/2026&nbsp;Chassi: 9BGEA43T0TB152557</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":3751.43},
+{"lote":0,"item":2,"descricao":"CONTRATAÇÃO DE SEGURO PARA VEÍCULO - COBERTURA TOTAL (COMPREENSIVA), INCLUINDO: \n- COBERTURA PARA COLISÃO, ROUBO, FURTO E INCÊNDIO;\n- RCF - DANOS MATERIAIS: R$ 150.000,00;\n- RCF - DANOS CORPORAIS: R$ 150.000,00;\n- APP - MORTE POR PASSAGEIRO: R$ 10.000,00;\n- APP - INVALIDEZ PERMANENTE POR...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":3248.46}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"c35b376a-0e70-4e82-8977-9e9edabfa520"},
+{"sequencia":2,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"0f3db8bc-51d9-45a3-b189-c506872648c7"},
+{"sequencia":3,"data":"2025-12-18","tipo":"","fase":"Fase Interna","link_publico":"ba1223c5-1d88-49e1-b633-68367610c847"},
+{"sequencia":4,"data":"2025-12-18","tipo":"","fase":"Fase Interna","link_publico":"be66ab4a-9d8d-4b4a-ab90-15e1e4b582cc"},
+{"sequencia":5,"data":"2025-12-18","tipo":"","fase":"Fase Interna","link_publico":"8f1716a2-11a3-4539-bbcf-a52252184c0a"},
+{"sequencia":6,"data":"2026-01-14","tipo":"","fase":"Fase Interna","link_publico":"b9e5c78e-420d-4b7b-a1da-00fc3f1b580a"},
+{"sequencia":7,"data":"2026-01-14","tipo":"","fase":"Fase Interna","link_publico":"4e88934d-b031-4034-858b-fb2be2c4311d"},
+{"sequencia":8,"data":"2026-01-14","tipo":"","fase":"Fase Interna","link_publico":"5061a4f8-c687-40c5-b628-b0d586c79114"},
+{"sequencia":9,"data":"2026-01-14","tipo":"","fase":"Fase Interna","link_publico":"1dfa2135-a52d-40c7-92aa-f3f3f40954da"},
+{"sequencia":10,"data":"2026-01-14","tipo":"","fase":"Fase Interna","link_publico":"fb1d1f14-e9d8-43bf-8026-f663e80e3cd1"},
+{"sequencia":11,"data":"2026-01-14","tipo":"","fase":"Fase Interna","link_publico":"c288ce29-4966-48fd-ae3b-240bcac14ab2"},
+{"sequencia":12,"data":"2025-12-19","tipo":"Outros documentos","fase":"Publicação","link_publico":"98b13f7b-2fa5-44e8-9924-412da145d320"},
+{"sequencia":13,"data":"2025-12-19","tipo":"Outros documentos","fase":"Publicação","link_publico":"e34ae609-a4cb-43c2-b54d-9925fa3fbca7"}
+]
+}

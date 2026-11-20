@@ -1,0 +1,18 @@
+{"codigo":46153,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":true,"descricao":"LOCAÇÃO DE IMÓVEL.","descricao_adicional":null,"unidade":"UN","valor_referencia":2666.67,"valor_vencedor":2750.97,"quantidade":24.33}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE IMÓVEL.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":2666.67}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-07-11","tipo":"","fase":"Fase Interna","link_publico":"7f62e144-06a4-4052-923e-a937b57bd68c"},
+{"sequencia":2,"data":"2026-01-07","tipo":"","fase":"Fase Interna","link_publico":"b77cd080-a7d8-41ec-ae5d-b1ef94bc5806"},
+{"sequencia":3,"data":"2025-07-10","tipo":"","fase":"Fase Interna","link_publico":"e6f9c4c0-b5d6-4370-8837-03c3e465375c"},
+{"sequencia":4,"data":"2025-07-10","tipo":"","fase":"Fase Interna","link_publico":"d552bd9e-3f45-479a-82c2-e825a702fa57"},
+{"sequencia":5,"data":"2025-07-11","tipo":"","fase":"Fase Interna","link_publico":"28035985-abe7-4be6-9b19-21ec3b0fda6c"},
+{"sequencia":6,"data":"2025-07-11","tipo":"","fase":"Fase Interna","link_publico":"c1cdaa73-cfaa-4025-b19b-faeb849f29c0"},
+{"sequencia":7,"data":"2025-07-10","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"2492047b-2c73-49af-8dcb-5a41177f2f29"},
+{"sequencia":8,"data":"2025-07-14","tipo":"Outros documentos","fase":"Publicação","link_publico":"9d818262-af9a-4e6d-81bf-4b4a187258af"}
+]
+}

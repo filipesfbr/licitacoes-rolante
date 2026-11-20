@@ -1,0 +1,30 @@
+{"codigo":46219,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SS SERVIÇOS MECANICOS LTDA","documento":"37.128.265/0001-80","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":1950,"valor_vencedor":1950,"quantidade":2},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"SS SERVIÇOS MECANICOS LTDA","documento":"37.128.265/0001-80","descricao":"CROMAGEM","descricao_adicional":null,"unidade":"UN","valor_referencia":1100,"valor_vencedor":1100,"quantidade":2},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"SS SERVIÇOS MECANICOS LTDA","documento":"37.128.265/0001-80","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":1950,"valor_vencedor":1950,"quantidade":1},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"SS SERVIÇOS MECANICOS LTDA","documento":"37.128.265/0001-80","descricao":"CROMAGEM","descricao_adicional":null,"unidade":"UN","valor_referencia":1100,"valor_vencedor":1100,"quantidade":1},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"SS SERVIÇOS MECANICOS LTDA","documento":"37.128.265/0001-80","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":1650,"valor_vencedor":1650,"quantidade":1},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"SS SERVIÇOS MECANICOS LTDA","documento":"37.128.265/0001-80","descricao":"CROMAGEM","descricao_adicional":null,"unidade":"UN","valor_referencia":1100,"valor_vencedor":1100,"quantidade":1},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"SS SERVIÇOS MECANICOS LTDA","documento":"37.128.265/0001-80","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":950,"valor_vencedor":950,"quantidade":1},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"SS SERVIÇOS MECANICOS LTDA","documento":"37.128.265/0001-80","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":6800,"valor_vencedor":6800,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":1950},
+{"lote":0,"item":2,"descricao":"CROMAGEM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":1100},
+{"lote":0,"item":3,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1950},
+{"lote":0,"item":4,"descricao":"CROMAGEM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1100},
+{"lote":0,"item":5,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1650},
+{"lote":0,"item":6,"descricao":"CROMAGEM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1100},
+{"lote":0,"item":7,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":950},
+{"lote":0,"item":8,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":6800}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-03","tipo":"","fase":"Fase Interna","link_publico":"a6043d18-9a1b-4787-a51c-0ed922a44128"},
+{"sequencia":2,"data":"2025-04-03","tipo":"","fase":"Fase Interna","link_publico":"69ee266c-6248-4dff-be81-bd9c24ed1c9f"},
+{"sequencia":3,"data":"2025-04-03","tipo":"","fase":"Fase Interna","link_publico":"21544599-98e4-4363-8bd9-e21e3579b5c2"},
+{"sequencia":4,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"c879ff2c-5ae3-4cdd-a06a-fae8415621cb"},
+{"sequencia":5,"data":"2025-04-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"f4065b3e-eacc-459b-9c83-cb6b05c62ffe"},
+{"sequencia":6,"data":"2025-04-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"98016642-5b3a-4e78-a23e-322f649cc209"}
+]
+}

@@ -1,0 +1,16 @@
+{"codigo":46043,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"FONTOURA & NOVASKI LTDA","documento":"28.970.695/0001-53","descricao":"LOCAÇÃO DE TRENZINHO COM MOTORISTA PARA PASSEIOS EDUCATIVOS, COM CAPACIDADE MINIMA PARA 40 PESSOAS. DEVERÁ ESTAR INCLUSO NO VALOR DAS DIÁRIAS TODOS OS CUSTOS NECESSÁRIOS PARA A REALIZAÇÃO DO SERVIÇO, COMO MOTORISTA QUALIFICADO PARA CONDUZIR O TRENZINHO DE FORMA SEGURA E RESPONSÁVEL, COMBUSTÍVEL...","descricao_adicional":"","unidade":"UN","valor_referencia":3572,"valor_vencedor":3572,"quantidade":7}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE TRENZINHO COM MOTORISTA PARA PASSEIOS EDUCATIVOS, COM CAPACIDADE MINIMA PARA 40 PESSOAS. DEVERÁ ESTAR INCLUSO NO VALOR DAS DIÁRIAS TODOS OS CUSTOS NECESSÁRIOS PARA A REALIZAÇÃO DO SERVIÇO, COMO MOTORISTA QUALIFICADO PARA CONDUZIR O TRENZINHO DE FORMA SEGURA E RESPONSÁVEL, COMBUSTÍVEL...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":7,"valor_referencia":3572}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fdf6fd5f-d625-4bcb-9aaa-87f7757462b4"},
+{"sequencia":2,"data":"2026-02-26","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"12e1f0b6-75f6-4f6c-a3f0-3fc53bcc28df"},
+{"sequencia":3,"data":"2026-02-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"44cc6b22-f1ba-4d76-955a-5973e8e1d945"},
+{"sequencia":4,"data":"2026-02-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0eade19b-4091-4559-80b2-65b2eeed0728"},
+{"sequencia":5,"data":"2026-02-26","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"aacd29dd-d699-4840-9bf4-f93bf3a2742f"},
+{"sequencia":6,"data":"2026-02-27","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"f1940d07-67a8-4440-a12b-8a137b15a05f"}
+]
+}

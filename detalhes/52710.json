@@ -1,0 +1,15 @@
+{"codigo":52710,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":true,"descricao":"LOCAÇÃO DE TERRENO URBANO","descricao_adicional":"","unidade":"MES","valor_referencia":1500,"valor_vencedor":1500,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE TERRENO URBANO","descricao_adicional":"","unidade":"MES","quantidade_min":0,"quantidade_max":12,"valor_referencia":1500}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"9d9711f6-41eb-445b-be11-d178a26b9070"},
+{"sequencia":2,"data":"2026-03-24","tipo":"ETP","fase":"Fase Interna","link_publico":"36eea073-bc11-441a-b80b-7da9ef6222a5"},
+{"sequencia":3,"data":"2026-03-24","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"85ca8c14-6fac-49ef-9b10-a19a66252399"},
+{"sequencia":4,"data":"2026-03-25","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"72c94c4a-d27a-4e4f-8275-ac6856a8d40e"},
+{"sequencia":5,"data":null,"tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"340e4cae-fbbf-41c2-8df6-fbe5369192eb"}
+]
+}

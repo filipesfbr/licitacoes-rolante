@@ -1,0 +1,27 @@
+{"codigo":54825,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"AUTO ELETRICA RENCK  LTDA.","documento":"00.815.185/0001-92","descricao":"SERVIÇO DE INSTALAÇÃO DE EQUIPAMENTO.","descricao_adicional":"<p>Servi&ccedil;o de instala&ccedil;&atilde;o de 48&nbsp;rastreadores veiculares no sistema de Frotas do Municipio</p>\n","unidade":"UN","valor_referencia":4272,"valor_vencedor":4272,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"STAR SERVICOS DE INTERNET LTDA","documento":"18.968.664/0001-04","descricao":"SERVIÇO DE MONITORAMENTO VEICULAR","descricao_adicional":"<p>Servi&ccedil;o de autorrastreamento veicular em 6 veiculos da Frota da Secretaria Municipal de Educa&ccedil;&atilde;o por 12 meses</p>\n","unidade":"UN","valor_referencia":49,"valor_vencedor":49,"quantidade":72},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"STAR SERVICOS DE INTERNET LTDA","documento":"18.968.664/0001-04","descricao":"SERVIÇO DE MONITORAMENTO VEICULAR","descricao_adicional":"<p>Servi&ccedil;o de autorrastreamento veicular em 15&nbsp;veiculos da Frota da Secretaria Municipal de Saude por 12 meses</p>\n","unidade":"UN","valor_referencia":49,"valor_vencedor":49,"quantidade":180},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"STAR SERVICOS DE INTERNET LTDA","documento":"18.968.664/0001-04","descricao":"SERVIÇO DE MONITORAMENTO VEICULAR","descricao_adicional":"<p>Servi&ccedil;o de autorrastreamento veicular em 27&nbsp;veiculos da Frota da Secretaria Municipal de Administra&ccedil;&atilde;o</p>\n","unidade":"UN","valor_referencia":49,"valor_vencedor":49,"quantidade":324}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE INSTALAÇÃO DE EQUIPAMENTO.","descricao_adicional":"<p>Servi&ccedil;o de instala&ccedil;&atilde;o de 48&nbsp;rastreadores veiculares no sistema de Frotas do Municipio</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":4272},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE MONITORAMENTO VEICULAR","descricao_adicional":"<p>Servi&ccedil;o de autorrastreamento veicular em 6 veiculos da Frota da Secretaria Municipal de Educa&ccedil;&atilde;o por 12 meses</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":72,"valor_referencia":49},
+{"lote":0,"item":3,"descricao":"SERVIÇO DE MONITORAMENTO VEICULAR","descricao_adicional":"<p>Servi&ccedil;o de autorrastreamento veicular em 15&nbsp;veiculos da Frota da Secretaria Municipal de Saude por 12 meses</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":180,"valor_referencia":49},
+{"lote":0,"item":4,"descricao":"SERVIÇO DE MONITORAMENTO VEICULAR","descricao_adicional":"<p>Servi&ccedil;o de autorrastreamento veicular em 27&nbsp;veiculos da Frota da Secretaria Municipal de Administra&ccedil;&atilde;o</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":324,"valor_referencia":49}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"290e1bcc-01e8-4572-a485-edb139b6063a"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"866252e8-6d3d-40c1-ad61-86be26d08c27"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"bd62ec26-ec3c-498b-8f61-628ee1dbeafb"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"19d23b24-426f-437f-811b-9d9ff9092daf"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"599d38e2-abfe-440c-8951-8b386da2419b"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"407a13f0-616c-4fc5-ab6f-77e6e3347532"},
+{"sequencia":7,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"f8cd4acd-e82a-4bd1-84d1-56f446bf5b9b"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8fb703f0-9f8c-4d93-92c0-e9240fbcbf95"},
+{"sequencia":9,"data":"2026-08-24","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c0de21ed-9053-42fc-ac15-8ff00c1ab6e8"},
+{"sequencia":10,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"d249b82f-347c-459a-bbe5-b29bcbe60cb4"},
+{"sequencia":11,"data":"2026-08-26","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"ede69a60-dfae-4c7d-ae9c-4eb34f4f0e55"}
+]
+}

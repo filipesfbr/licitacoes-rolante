@@ -1,0 +1,16 @@
+{"codigo":54848,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DEPORTT INSTALACOES ELETRICAS LTDA.","documento":"43.095.631/0001-44","descricao":"SERVIÇO DE ELETRICISTA O VALOR REFERE-SE A 01(UMA) HORA DE SERVIÇO\n TÉCNICO DE 01 ELETRICISTA COM SEUS EQUIPAMENTOS DE SEGURANÇA\n INDIVIDUAL (EPI'S) E TODAS AS FERRAMENTAS PARA BEM EXECUTAR OS\n SERVIÇOS.","descricao_adicional":"","unidade":"H","valor_referencia":48,"valor_vencedor":48,"quantidade":500}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE ELETRICISTA O VALOR REFERE-SE A 01(UMA) HORA DE SERVIÇO\n TÉCNICO DE 01 ELETRICISTA COM SEUS EQUIPAMENTOS DE SEGURANÇA\n INDIVIDUAL (EPI'S) E TODAS AS FERRAMENTAS PARA BEM EXECUTAR OS\n SERVIÇOS.","descricao_adicional":"","unidade":"H","quantidade_min":0,"quantidade_max":500,"valor_referencia":48}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"5ad2cba1-bb20-40eb-b539-2006559c915a"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"80ecbe7b-11c3-42de-afb8-a9b9adf091f5"},
+{"sequencia":3,"data":"2026-08-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"915011d1-933f-4fe5-b93a-3655c3dc2421"},
+{"sequencia":4,"data":"2026-08-26","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"7acb6b27-8540-4a6a-8eaf-3fffdc93d09a"},
+{"sequencia":5,"data":"2026-08-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9306167b-e43c-4297-bbbf-2eeff9b44ded"},
+{"sequencia":6,"data":"2026-08-27","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"cbb9cc95-bcce-46d3-af48-cdebe622804e"}
+]
+}

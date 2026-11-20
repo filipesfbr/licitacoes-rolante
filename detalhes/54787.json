@@ -1,0 +1,28 @@
+{"codigo":54787,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DE PAIS E MESTRES DA ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL KLEMENS BLEY","documento":"10.979.189/0001-60","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"1cf47f12-09f7-42fa-9ede-ca8a8aac06c0"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"752a21e5-28ba-4d6d-82a7-f4fccbff5858"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ffc0176a-b1df-43f2-bae4-00c620217b68"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f9bcb677-9d23-40cb-b32e-49c15e98b83b"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"bced19e2-0f79-4210-a4c6-f4300c76babe"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"159fed87-483d-4a47-a556-2ce718fe5047"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a661569c-934e-4ec8-8807-e94f8b7df56f"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"99d77a75-177e-4a2d-87c3-9af6eabd3c1d"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"19b576e3-13b6-42b4-9787-f17feffe48b8"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cfae432b-6194-434e-bce2-65c27ce8b076"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0f316fe8-cbc8-4dad-b2de-ed75724b5f56"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"35cbdc14-2183-4f44-9347-105f0b2c41d6"},
+{"sequencia":13,"data":"2026-08-06","tipo":"ETP","fase":"Fase Interna","link_publico":"b06eb66d-1b41-4ab3-b1fa-53adaba4811a"},
+{"sequencia":14,"data":"2026-08-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a3635b49-a768-443f-a916-8a02722a8a7c"},
+{"sequencia":15,"data":"2026-08-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"249780ac-8e85-4b4b-9820-0a21f133631b"},
+{"sequencia":16,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"9149ed3c-3478-4f63-8467-6a42256ba7c7"},
+{"sequencia":17,"data":"2026-08-21","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"46a2dd6f-6066-418d-a621-5047c6f265a7"},
+{"sequencia":18,"data":"2026-08-21","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"fd31940b-3972-40ba-926d-07a3b89d5523"}
+]
+}

@@ -1,0 +1,38 @@
+{"codigo":46098,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"VITOR DIOGO WENDLING - EPP","documento":"23.588.621/0001-33","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA \tEM FORNECIMENTO E INSTALAÇÃO DE CLIMATIZAÇÃO DE AMBIENTE INTERNO","descricao_adicional":null,"unidade":"UN","valor_referencia":80310.43,"valor_vencedor":80310.43,"quantidade":2}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA \tEM FORNECIMENTO E INSTALAÇÃO DE CLIMATIZAÇÃO DE AMBIENTE INTERNO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":80310.43}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-19","tipo":"","fase":"Fase Interna","link_publico":"642ca9fd-b383-4e2b-8f37-eab9157e57ba"},
+{"sequencia":2,"data":"2025-12-02","tipo":"","fase":"Fase Interna","link_publico":"14170287-6b32-46d8-af05-414aaf7d1771"},
+{"sequencia":3,"data":"2026-01-09","tipo":"","fase":"Fase Interna","link_publico":"6efed755-1f8e-4f36-a537-7660fb1fe630"},
+{"sequencia":4,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"1317c0fa-367e-423e-a50e-17744404f5eb"},
+{"sequencia":5,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"9a3dfd22-79b0-41b6-b4bc-43b770765207"},
+{"sequencia":6,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"4bcc4396-3385-47f9-967c-097bf48e8353"},
+{"sequencia":7,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"c2d2ad21-081f-4298-800b-3f4083d1af02"},
+{"sequencia":8,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"d6212117-1ace-4a58-887e-b4a1e4d0e350"},
+{"sequencia":9,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"e1c7d654-b17e-469c-8ea6-fb4418b88af5"},
+{"sequencia":10,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"3d9d78b7-fc06-424d-a493-d75336b3ede3"},
+{"sequencia":11,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"fd18c22b-2155-4191-b1bb-297c05e8bc8d"},
+{"sequencia":12,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"c1886dff-381f-4017-a050-44655a590365"},
+{"sequencia":13,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"0fed8d06-66c7-4433-8f3a-3fb785a71fc9"},
+{"sequencia":14,"data":"2025-10-21","tipo":"","fase":"Fase Interna","link_publico":"35e24faa-0556-4490-82eb-c0e35d7c0e2b"},
+{"sequencia":15,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"9d75fd65-0a59-41b8-9701-3669895be8c8"},
+{"sequencia":16,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"b81405e5-150d-4006-9e03-2b08a8bab384"},
+{"sequencia":17,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"17db32e7-3ef6-40a6-9c95-ec43ec54a77c"},
+{"sequencia":18,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"beb413ee-7944-4ed9-9de9-8e08deee1f8b"},
+{"sequencia":19,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"509ddc25-ab58-4f76-bacf-44d13239e5cc"},
+{"sequencia":20,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"a223b15b-3de8-49c5-9ab8-6327687f4777"},
+{"sequencia":21,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"d3227bd0-34b1-4171-9087-b71346af443b"},
+{"sequencia":22,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"76ca7f46-8c71-4903-81e0-4bce5569d462"},
+{"sequencia":23,"data":"2025-11-17","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"0b4da5df-7e78-4d80-97a2-1287974440d8"},
+{"sequencia":24,"data":"2025-11-17","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"a1c7b941-3f55-416c-98d8-f41a94c29779"},
+{"sequencia":25,"data":"2025-10-21","tipo":"Outros documentos","fase":"Publicação","link_publico":"23bbf608-8ceb-4bfa-9409-bb9d44c32598"},
+{"sequencia":26,"data":"2025-10-21","tipo":"Outros documentos","fase":"Publicação","link_publico":"f030c43d-f0c1-4f4f-b66c-f03e3f842111"},
+{"sequencia":27,"data":"2025-10-21","tipo":"Outros documentos","fase":"Publicação","link_publico":"e6cb7700-81dc-43fd-a676-d482e29d9e7f"},
+{"sequencia":28,"data":"2025-11-21","tipo":"Outros documentos","fase":"Publicação","link_publico":"7ab77c23-09c0-4cac-ad75-8fbc27151003"}
+]
+}

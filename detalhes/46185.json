@@ -1,0 +1,19 @@
+{"codigo":46185,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"L B BENEFICIAMENTO DE MADEIRAS LTDA.","documento":"05.164.039/0001-68","descricao":"MADEIRA ROLIÇA EUCALIPTO","descricao_adicional":null,"unidade":"UN","valor_referencia":72,"valor_vencedor":72,"quantidade":88},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"L B BENEFICIAMENTO DE MADEIRAS LTDA.","documento":"05.164.039/0001-68","descricao":"MADEIRA","descricao_adicional":null,"unidade":"UN","valor_referencia":135,"valor_vencedor":135,"quantidade":60},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"L B BENEFICIAMENTO DE MADEIRAS LTDA.","documento":"05.164.039/0001-68","descricao":"MADEIRA","descricao_adicional":null,"unidade":"UN","valor_referencia":67.5,"valor_vencedor":67.5,"quantidade":40}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MADEIRA ROLIÇA EUCALIPTO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":88,"valor_referencia":72},
+{"lote":0,"item":2,"descricao":"MADEIRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":60,"valor_referencia":135},
+{"lote":0,"item":3,"descricao":"MADEIRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":40,"valor_referencia":67.5}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"a95b0907-0d87-4863-97dc-a2a21a595617"},
+{"sequencia":2,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"94c41acc-ad08-465f-81db-d6da505cc14e"},
+{"sequencia":3,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"9544a9bb-a680-4854-8b9a-ba29b3182235"},
+{"sequencia":4,"data":"2025-05-19","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"cde0ed5d-3a68-400b-84c0-103a620efa98"},
+{"sequencia":5,"data":"2025-05-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"d4ddf2d4-b612-482e-8b92-f4e457877d09"}
+]
+}

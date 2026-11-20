@@ -1,0 +1,27 @@
+{"codigo":46104,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"JEFERSON M DA SILVA BRANDEBURSKI","documento":"40.651.006/0001-43","descricao":"ADUBO QUIMICO NPK 05-20-20 SACO 50 KG","descricao_adicional":null,"unidade":"UN","valor_referencia":160.82,"valor_vencedor":137.5,"quantidade":317},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"JEFERSON M DA SILVA BRANDEBURSKI","documento":"40.651.006/0001-43","descricao":"ADUBO QUIMICO NPK 05-20-20 SACO 50 KG","descricao_adicional":null,"unidade":"UN","valor_referencia":160.82,"valor_vencedor":137.5,"quantidade":77}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ADUBO QUIMICO NPK 05-20-20 SACO 50 KG","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":317,"valor_referencia":160.82},
+{"lote":0,"item":2,"descricao":"ADUBO QUIMICO NPK 05-20-20 SACO 50 KG","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":77,"valor_referencia":160.82}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-15","tipo":"","fase":"Fase Interna","link_publico":"1f47cf94-19e8-4be9-a509-80d5ea1ec4eb"},
+{"sequencia":2,"data":"2025-10-15","tipo":"","fase":"Fase Interna","link_publico":"37b02a2c-fc17-4d85-bf3d-2c68383b123b"},
+{"sequencia":3,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"8f884b8a-e23b-4d7d-bafe-a19d808a4286"},
+{"sequencia":4,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"5dfd20c7-eb68-46c8-9ac1-48df3578ac73"},
+{"sequencia":5,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"816a2c3b-7ced-411b-8e42-0dc59dff7987"},
+{"sequencia":6,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"dd0ec3d1-e8fa-4e65-b6cb-062200270e18"},
+{"sequencia":7,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"aa359e8c-69fd-465e-99a5-7d653d3063f5"},
+{"sequencia":8,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"81dbb5c2-a41a-4613-bd2f-de8fc8a0eb92"},
+{"sequencia":9,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"6aa5991f-43e5-40dc-b3a3-131e85064f68"},
+{"sequencia":10,"data":"2025-11-03","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"14e8b378-8fdc-4776-8753-0e4e4ed4a0b4"},
+{"sequencia":11,"data":"2025-11-03","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"d230a2f7-e695-414e-82c6-ce9f28c34a67"},
+{"sequencia":12,"data":"2025-10-15","tipo":"Outros documentos","fase":"Publicação","link_publico":"70312fdb-9320-4f91-8c69-4f1f4ee5e9b3"},
+{"sequencia":13,"data":"2025-10-15","tipo":"Outros documentos","fase":"Publicação","link_publico":"e9fd4e00-f5f7-4ef7-ab6e-b71125b08d1b"},
+{"sequencia":14,"data":"2025-10-15","tipo":"Outros documentos","fase":"Publicação","link_publico":"7dc35be7-716d-40d2-a553-477c3bebe963"},
+{"sequencia":15,"data":"2025-11-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"c69fb99a-c668-438d-a45b-f85ea094c6c8"}
+]
+}

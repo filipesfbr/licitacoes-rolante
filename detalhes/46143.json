@@ -1,0 +1,32 @@
+{"codigo":46143,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"INDUSTRIA TEXTIL BORMAG LTDA","documento":"09.391.424/0001-07","descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","valor_referencia":130,"valor_vencedor":130,"quantidade":10},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"INDUSTRIA TEXTIL BORMAG LTDA","documento":"09.391.424/0001-07","descricao":"CALÇA BRANCA EM TECIDO OXFORD","descricao_adicional":null,"unidade":"UN","valor_referencia":87,"valor_vencedor":87,"quantidade":50},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"INDUSTRIA TEXTIL BORMAG LTDA","documento":"09.391.424/0001-07","descricao":"CALÇA BRANCA EM TECIDO OXFORD","descricao_adicional":null,"unidade":"UN","valor_referencia":77,"valor_vencedor":77,"quantidade":40},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"INDUSTRIA TEXTIL BORMAG LTDA","documento":"09.391.424/0001-07","descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","valor_referencia":170,"valor_vencedor":170,"quantidade":10},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"INDUSTRIA TEXTIL BORMAG LTDA","documento":"09.391.424/0001-07","descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","valor_referencia":130,"valor_vencedor":130,"quantidade":5},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"INDUSTRIA TEXTIL BORMAG LTDA","documento":"09.391.424/0001-07","descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","valor_referencia":216,"valor_vencedor":216,"quantidade":8},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"INDUSTRIA TEXTIL BORMAG LTDA","documento":"09.391.424/0001-07","descricao":"CALÇA BRANCA EM TECIDO OXFORD","descricao_adicional":null,"unidade":"UN","valor_referencia":87,"valor_vencedor":87,"quantidade":8},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"INDUSTRIA TEXTIL BORMAG LTDA","documento":"09.391.424/0001-07","descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","valor_referencia":216,"valor_vencedor":216,"quantidade":11},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"INDUSTRIA TEXTIL BORMAG LTDA","documento":"09.391.424/0001-07","descricao":"SAIA PLISSADA EM TECIDO OXFORD BRANCO","descricao_adicional":null,"unidade":"UN","valor_referencia":67,"valor_vencedor":67,"quantidade":36}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":130},
+{"lote":0,"item":2,"descricao":"CALÇA BRANCA EM TECIDO OXFORD","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":50,"valor_referencia":87},
+{"lote":0,"item":3,"descricao":"CALÇA BRANCA EM TECIDO OXFORD","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":40,"valor_referencia":77},
+{"lote":0,"item":4,"descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":170},
+{"lote":0,"item":5,"descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":5,"valor_referencia":130},
+{"lote":0,"item":6,"descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":8,"valor_referencia":216},
+{"lote":0,"item":7,"descricao":"CALÇA BRANCA EM TECIDO OXFORD","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":8,"valor_referencia":87},
+{"lote":0,"item":8,"descricao":"COLETE EM TECIDO OXFORD PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":11,"valor_referencia":216},
+{"lote":0,"item":9,"descricao":"SAIA PLISSADA EM TECIDO OXFORD BRANCO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":36,"valor_referencia":67}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"83126f11-00e2-4cf1-9520-dd5b21582bd5"},
+{"sequencia":2,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"43fe1c92-70a1-4893-91f2-751fd2d46bb3"},
+{"sequencia":3,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"c6ada79d-c23f-4ab0-b156-b0f9117451fd"},
+{"sequencia":4,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"4e2b93c4-870c-4b95-8620-9938108022a3"},
+{"sequencia":5,"data":"2025-08-05","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"45fb72a2-6560-485f-bc57-69e733e02e98"},
+{"sequencia":6,"data":"2025-08-06","tipo":"Outros documentos","fase":"Publicação","link_publico":"1dc5ce3c-9a9e-4074-9afc-feed85f98fc6"}
+]
+}

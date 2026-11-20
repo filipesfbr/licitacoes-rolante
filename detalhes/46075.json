@@ -1,0 +1,16 @@
+{"codigo":46075,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MAURICIO ALEXANDRE CORNELY ***.***.***-**","documento":"36.946.627/0001-87","descricao":"SERVIÇO DE OFICINAS, APRESENTAÇÕES ARTÍSTICAS E CULTURAIS.","descricao_adicional":null,"unidade":"UN","valor_referencia":45000,"valor_vencedor":45000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE OFICINAS, APRESENTAÇÕES ARTÍSTICAS E CULTURAIS.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":45000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"91585c81-c8b7-42d5-a8e6-9217ca6653ea"},
+{"sequencia":2,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"8f3ac74c-02e9-4c5c-a00c-69e37475e414"},
+{"sequencia":3,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"f05ecae5-26f1-44ce-a849-d067dde0ec22"},
+{"sequencia":4,"data":"2025-12-04","tipo":"","fase":"Fase Interna","link_publico":"be4527a5-c3f7-4f3e-a70c-39999bd6e47f"},
+{"sequencia":5,"data":"2025-12-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"5881f98d-d811-4c65-9019-a9fa280bb8e7"},
+{"sequencia":6,"data":"2025-12-05","tipo":"Outros documentos","fase":"Publicação","link_publico":"c38a3c84-c7fb-4212-9fbf-28c522956e19"}
+]
+}

@@ -1,0 +1,18 @@
+{"codigo":53325,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO CULTURAL TA ROLANDO ARTE","documento":"08.962.341/0001-50","descricao":"SERVIÇO DE CURADORIA DE EVENTO","descricao_adicional":"","unidade":"UST","valor_referencia":60000,"valor_vencedor":60000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE CURADORIA DE EVENTO","descricao_adicional":"","unidade":"UST","quantidade_min":0,"quantidade_max":1,"valor_referencia":60000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"67dfb526-96e3-491a-a8d9-5161250635bd"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"be46353e-0dcf-4276-8182-e5100a9d4da9"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0a8be119-7aa6-4c78-9723-30f416eca725"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3d486a89-187e-44c7-8347-21d93ea77ed7"},
+{"sequencia":5,"data":"2026-05-05","tipo":"ETP","fase":"Fase Interna","link_publico":"75212f42-b7cc-4b9b-b9ba-37a4edc1e403"},
+{"sequencia":6,"data":"2026-05-05","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1583904d-351a-42f1-88f5-4ba15f52ea74"},
+{"sequencia":7,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"606fef2f-af76-413e-8190-1890323f1b71"},
+{"sequencia":8,"data":"2026-05-11","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"9c1d7619-f5d4-458c-bb93-e5d67d95e53b"}
+]
+}

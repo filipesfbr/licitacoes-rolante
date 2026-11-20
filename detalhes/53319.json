@@ -1,0 +1,27 @@
+{"codigo":53319,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"42.660.841 NATHIELY SILVEIRA CALISTO DE SOUZA","documento":"42.660.841/0001-75","descricao":"SERVIÇO DE OFICINA PEDAGÓGICA","descricao_adicional":null,"unidade":"UN","valor_referencia":1023.75,"valor_vencedor":1023.75,"quantidade":8}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE OFICINA PEDAGÓGICA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":8,"valor_referencia":1023.75}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"60319e1b-d78b-4cfa-b6ff-ac6d8d496c66"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9cf34ea2-1ad1-4277-924d-0570bf15ab46"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3cb4e164-7644-4ad6-bbc0-42530a20d3a6"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1a158e07-e3ed-442a-9c4a-0fbe416d31f9"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c37471e7-05ac-4fc9-b476-57ac924e737e"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0bf52e3a-6882-4a0d-9318-d337dfe8206c"},
+{"sequencia":7,"data":"2026-05-05","tipo":"ETP","fase":"Fase Interna","link_publico":"809f3ebb-16b0-4ae3-887f-c87834b6c220"},
+{"sequencia":8,"data":"2026-05-05","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3641cdc3-2c46-4d27-b945-e256c768c07f"},
+{"sequencia":9,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"9c695b7d-01e9-4e95-b821-67b426313609"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fc45b7fd-84e0-427f-8f27-b03fbc8b8dbc"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6b525742-70c4-4cd6-a894-59fc87cf9c61"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4ec2c09c-f858-410e-9230-2022c468166e"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2adfd0d9-32e8-4afc-bc51-635f46fb28b9"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f66b6cb2-fcf3-403f-937d-a6538f798fc9"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e15ff4aa-6e55-4d02-9c5d-ba53a20fa91f"},
+{"sequencia":16,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"f5eed70c-b6a2-4aad-9a8d-505913fb72b0"},
+{"sequencia":17,"data":"2026-05-11","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"ec9a1b5a-3d7d-440d-a68a-6316fb57fdff"}
+]
+}

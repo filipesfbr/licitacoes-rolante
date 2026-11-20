@@ -1,0 +1,31 @@
+{"codigo":54079,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"FUNDACAO EDUCACIONAL ENCOSTA INFERIOR DO NORDESTE","documento":"97.763.593/0001-80","descricao":"FORMAÇÃO CONTINUADA","descricao_adicional":"","unidade":"H","valor_referencia":231.0126,"valor_vencedor":231.0126,"quantidade":79}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"FORMAÇÃO CONTINUADA","descricao_adicional":"","unidade":"H","quantidade_min":0,"quantidade_max":79,"valor_referencia":231.0126}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"3c916bea-6fc6-4854-a51d-de03a1dc6377"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"738cb9d6-361f-454c-ae49-7fc574c93566"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"625f064d-1b95-4b51-80b8-291278299616"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f6442381-78cb-4864-8aae-e45311a79151"},
+{"sequencia":5,"data":null,"tipo":"Comprovação de notória especialização","fase":"Fase Interna","link_publico":"582a410b-f3d7-4ae7-b6a1-ca9b203bf5ef"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b67e8b6a-a24b-4b7a-aa18-c5d9f195ab94"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"656f87a0-b2f4-489d-813a-e19c61b42d93"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"318ae887-dea6-4a9a-8408-262939d6c0fc"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7cad89d5-156e-4fb2-8625-123ac10e921d"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"361ca9e4-1be5-4fe9-8387-988f1c55f5dd"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d9c3284a-9f57-489a-8564-b3a535c4884f"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0bd2fd11-2f5d-4c00-9d30-2c3fc76a6eaf"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fda4239c-588d-4190-91f1-2366352604c0"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"303c7035-99bf-4cde-a2ed-2a70cd7afff6"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1c2da408-ba61-422b-932f-d59c818bd7f8"},
+{"sequencia":16,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"710f3052-8bd6-4008-bdef-3fbd8eec447a"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9af4845c-c06d-42f5-95ee-69e12af176c3"},
+{"sequencia":18,"data":"2026-06-25","tipo":"ETP","fase":"Fase Interna","link_publico":"3e23354b-8aa5-4c28-926c-2faf2baa61be"},
+{"sequencia":19,"data":"2026-06-25","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1baf2394-6511-4eb0-a12e-18df66f788cf"},
+{"sequencia":20,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"22255406-fe8c-4b1f-8777-c870d6520f3b"},
+{"sequencia":21,"data":null,"tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"2b7e9fe4-88d7-4e9e-801b-cf29d159483e"}
+]
+}

@@ -1,0 +1,31 @@
+{"codigo":55743,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO MOTO CLUBE TEAM 222","documento":"54.138.650/0001-27","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","valor_referencia":6000,"valor_vencedor":6000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":6000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"425898fb-2e3c-460e-af3e-ad3d3e1ba835"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"310b2e59-8702-4032-b7b1-1fd188b383a3"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f9d74743-3758-4b87-ba15-d51ae9ae7951"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6f5d45ef-50c2-4fbd-8dcb-84ccd62e4edb"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7bb65d60-1baa-45c8-909f-9c03acf79b7b"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"dc09328e-15af-4db1-9c53-ad7b8986fdc2"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8cfd3757-8408-4d03-b954-9b7cb74a915c"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7b5ff406-e9ad-4155-a932-440628e67039"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3188bd34-e84e-488c-bd7e-86dfaebfd5fc"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6533f0cd-b4ad-435d-9bf3-b2067f9fa79b"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b9ededbf-f9f1-4312-9632-462ea506950d"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"91bd767e-81bb-463b-9054-3935a27c4b53"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"dac30fc1-d570-40e5-ba48-59cea48f07ba"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d8bfe7c0-cd03-44f5-a346-2ca42c73e153"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5a0b9545-9bcf-414d-ab54-e678a958e383"},
+{"sequencia":16,"data":"2026-11-09","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c37aa601-6b77-4852-85cc-a0c0f9f83666"},
+{"sequencia":17,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"5833b426-021c-424c-a50f-ebe92cca2bd4"},
+{"sequencia":18,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"a79405c3-057e-4d37-bdac-926416b99ca5"},
+{"sequencia":19,"data":"2026-11-13","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"07921c34-9a3d-4954-82c9-ede9d2a3d257"},
+{"sequencia":20,"data":"2026-11-13","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"16846a92-a143-42fb-b22a-fb74cc547e71"},
+{"sequencia":21,"data":"2026-11-16","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"0470699f-e120-4e37-b063-958a76c3ec83"}
+]
+}

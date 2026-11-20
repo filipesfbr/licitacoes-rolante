@@ -1,0 +1,15 @@
+{"codigo":53318,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"66.296.009 FRANCIS KLOPPENBURG","documento":"66.296.009/0001-08","descricao":"AMBIENTAÇÃO CENOGRÁFICA","descricao_adicional":"<p style=\"text-align:justify\">Ambienta&ccedil;&atilde;o cenogr&aacute;fica incluindo portal cenogr&aacute;fico, livro cenogr&aacute;fico gigante, assentos estofados, fechamento decorativo em tecido, livros suspensos com lumin&aacute;ria. Est&aacute; incluso no valor todos os materiais necess&aacute;rios para execu&ccedil;&atilde;o, transporte, montagem e demontagem.</p>\n","unidade":"UN","valor_referencia":13700,"valor_vencedor":13700,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"AMBIENTAÇÃO CENOGRÁFICA","descricao_adicional":"<p style=\"text-align:justify\">Ambienta&ccedil;&atilde;o cenogr&aacute;fica incluindo portal cenogr&aacute;fico, livro cenogr&aacute;fico gigante, assentos estofados, fechamento decorativo em tecido, livros suspensos com lumin&aacute;ria. Est&aacute; incluso no valor todos os materiais necess&aacute;rios para execu&ccedil;&atilde;o, transporte, montagem e demontagem.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":13700}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"6e2402c8-a524-4a25-bbcb-93801f1fb135"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c79b9338-5773-4a84-9f46-d336363f4d77"},
+{"sequencia":3,"data":"2026-05-07","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"614cf58a-1b67-426a-8c24-b854c578b3b2"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"5c7cf2b5-f801-4a40-a97c-89e97f3037e2"},
+{"sequencia":5,"data":"2026-05-11","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"52229911-efe2-48f8-81ea-dc7cffa83f53"}
+]
+}

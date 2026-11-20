@@ -1,0 +1,28 @@
+{"codigo":54983,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CASTRO & ROCHA LTDA","documento":"32.185.141/0002-01","descricao":"SERVIÇOS TÉCNICOS ESPECIALIZADOS","descricao_adicional":"<p>COM FORNECIMENTO DE EQUIPAMENTO COM ALCANCE DE AT&Eacute; 13&nbsp;METROS, MOTORISTA E ELETRECISTA.</p>\n","unidade":"H","valor_referencia":190.27,"valor_vencedor":190.27,"quantidade":160}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS TÉCNICOS ESPECIALIZADOS","descricao_adicional":"<p>COM FORNECIMENTO DE EQUIPAMENTO COM ALCANCE DE AT&Eacute; 13&nbsp;METROS, MOTORISTA E ELETRECISTA.</p>\n","unidade":"H","quantidade_min":0,"quantidade_max":160,"valor_referencia":190.27}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"01136a23-22f7-40ef-ae2f-d8b2fd4aaf22"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d2d2f0c4-896a-4f84-948c-a1d5d1347c24"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c7c38ad2-eb4f-4005-8d6f-3351ee1aecca"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"23de2a91-c787-44ea-96b1-402bc602586d"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"340496f1-f997-47f5-a349-34472b1bfc38"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6fc734db-282b-401d-bf76-6ee30475673b"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d4d72449-7a74-4321-8d46-f0d9084efe17"},
+{"sequencia":8,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"ed564780-9485-4ffc-8656-c338971c4da6"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5e7016b7-79a9-4f0e-9ec3-eb5a5d07e1bd"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4def63a9-6d4c-4c32-b524-53954d8a6638"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fe302252-6de3-44ec-bd2a-efae5f9d3f16"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e917565a-4662-4b54-b970-169760ba9f3d"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"60bbef36-9185-454a-901e-94e5969eeb2d"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c9692456-faf0-4d57-8291-8f1830340b8e"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"29a341b1-ae18-4ff0-af8a-f0c419b420d6"},
+{"sequencia":16,"data":"2026-09-08","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2963937a-e0dd-465b-a790-8d3a5f7fe86f"},
+{"sequencia":17,"data":"2026-09-08","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"5e68eb79-45e0-4baf-93ce-d72fdc5c12fc"},
+{"sequencia":18,"data":"2026-09-09","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"8c212cf8-282e-4718-82a6-b0e9055cf45d"}
+]
+}

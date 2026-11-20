@@ -1,0 +1,54 @@
+{"codigo":46210,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"RETIFICA","descricao_adicional":null,"unidade":"UN","valor_referencia":17000,"valor_vencedor":17000,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":13000,"valor_vencedor":13000,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":2500,"valor_vencedor":2500,"quantidade":1},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":600,"valor_vencedor":600,"quantidade":1},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":480,"valor_vencedor":480,"quantidade":1},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":468,"valor_vencedor":468,"quantidade":1},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":2195,"valor_vencedor":2195,"quantidade":1},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":2129,"valor_vencedor":2129,"quantidade":1},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":323,"valor_vencedor":323,"quantidade":2},
+{"lote":0,"item":10,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":200,"valor_vencedor":200,"quantidade":1},
+{"lote":0,"item":11,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":382,"valor_vencedor":382,"quantidade":1},
+{"lote":0,"item":12,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":200,"valor_vencedor":200,"quantidade":1},
+{"lote":0,"item":13,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":200,"valor_vencedor":200,"quantidade":1},
+{"lote":0,"item":14,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":100,"valor_vencedor":100,"quantidade":2},
+{"lote":0,"item":15,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":15,"valor_vencedor":15,"quantidade":10},
+{"lote":0,"item":16,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":31,"valor_vencedor":31,"quantidade":2},
+{"lote":0,"item":17,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":350,"valor_vencedor":350,"quantidade":1},
+{"lote":0,"item":18,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":350,"valor_vencedor":350,"quantidade":1},
+{"lote":0,"item":19,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":12000,"valor_vencedor":12000,"quantidade":1},
+{"lote":0,"item":20,"pessoa_fisica":false,"fornecedor":"MECANICA BONICAR LTDA - ME","documento":"14.218.206/0001-05","descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","valor_referencia":250,"valor_vencedor":250,"quantidade":2}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"RETIFICA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":17000},
+{"lote":0,"item":2,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":13000},
+{"lote":0,"item":3,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2500},
+{"lote":0,"item":4,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":600},
+{"lote":0,"item":5,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":480},
+{"lote":0,"item":6,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":468},
+{"lote":0,"item":7,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2195},
+{"lote":0,"item":8,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2129},
+{"lote":0,"item":9,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":323},
+{"lote":0,"item":10,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":200},
+{"lote":0,"item":11,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":382},
+{"lote":0,"item":12,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":200},
+{"lote":0,"item":13,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":200},
+{"lote":0,"item":14,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":100},
+{"lote":0,"item":15,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":15},
+{"lote":0,"item":16,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":31},
+{"lote":0,"item":17,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":350},
+{"lote":0,"item":18,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":350},
+{"lote":0,"item":19,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":12000},
+{"lote":0,"item":20,"descricao":"PEÇAS PARA VEÍCULOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":250}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"3d8c609e-5d87-413f-8103-b22ed32e1ea5"},
+{"sequencia":2,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"b2e61f89-7535-4aca-8638-7e148a5735b3"},
+{"sequencia":3,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"eeb97fc8-fe87-43b3-aca8-efc489d46cbf"},
+{"sequencia":4,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"028f255e-f6b0-463d-8b5a-846d90c5d3ac"},
+{"sequencia":5,"data":"2025-04-09","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"3cb537a2-0da2-43ac-8a39-4b8c820511e1"},
+{"sequencia":6,"data":"2025-04-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"2eaa46ea-a179-4809-8971-cdff56b9b612"}
+]
+}

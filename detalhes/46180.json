@@ -1,0 +1,32 @@
+{"codigo":46180,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"NELSON OSVALDO DE SOUZA EIRELI - ME","documento":"17.273.348/0001-55","descricao":"TUBO DE CONCRETO SIMPLES DE 30X100CM, TIPO MACHO E FÊMEA.","descricao_adicional":"","unidade":"UN","valor_referencia":47.8,"valor_vencedor":31.68,"quantidade":200},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"NELSON OSVALDO DE SOUZA EIRELI - ME","documento":"17.273.348/0001-55","descricao":"TUBO DE CONCRETO SIMPLES 40X100 CM MF","descricao_adicional":"","unidade":"UN","valor_referencia":63.38,"valor_vencedor":45.5,"quantidade":500},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"NELSON OSVALDO DE SOUZA EIRELI - ME","documento":"17.273.348/0001-55","descricao":"TUBO DE CONCRETO SIMPLES 60X100 CM MF","descricao_adicional":"","unidade":"UN","valor_referencia":118.15,"valor_vencedor":85.1,"quantidade":500},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"NELSON OSVALDO DE SOUZA EIRELI - ME","documento":"17.273.348/0001-55","descricao":"TUBO DE CONCRETO ARMADO 100X100 CM MF","descricao_adicional":"","unidade":"UN","valor_referencia":415,"valor_vencedor":435,"quantidade":300},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"NELSON OSVALDO DE SOUZA EIRELI - ME","documento":"17.273.348/0001-55","descricao":"TUBO DE CONCRETO SIMPLES 100X100 CM MF","descricao_adicional":"","unidade":"UN","valor_referencia":535.58,"valor_vencedor":336,"quantidade":500}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"TUBO DE CONCRETO SIMPLES DE 30X100CM, TIPO MACHO E FÊMEA.","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":47.8},
+{"lote":0,"item":2,"descricao":"TUBO DE CONCRETO SIMPLES 40X100 CM MF","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":500,"valor_referencia":63.38},
+{"lote":0,"item":3,"descricao":"TUBO DE CONCRETO SIMPLES 60X100 CM MF","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":500,"valor_referencia":118.15},
+{"lote":0,"item":4,"descricao":"TUBO DE CONCRETO ARMADO 100X100 CM MF","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":300,"valor_referencia":415},
+{"lote":0,"item":5,"descricao":"TUBO DE CONCRETO SIMPLES 100X100 CM MF","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":500,"valor_referencia":535.58}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"5f20ea71-be72-4c4d-aed4-54554b998504"},
+{"sequencia":2,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"2927408b-c499-445d-9a76-66bc8f3c4a81"},
+{"sequencia":3,"data":"2025-06-18","tipo":"","fase":"Fase Interna","link_publico":"6411da12-ab5a-473e-a325-01cc198e6455"},
+{"sequencia":4,"data":"2025-06-18","tipo":"","fase":"Fase Interna","link_publico":"16c0639c-8085-42e7-884a-83e7406c63b2"},
+{"sequencia":5,"data":"2025-06-18","tipo":"","fase":"Fase Interna","link_publico":"4e81bf61-1390-4214-8023-9f571759807f"},
+{"sequencia":6,"data":"2025-06-18","tipo":"","fase":"Fase Interna","link_publico":"f9e981d2-7043-44a1-937e-caf9b963df76"},
+{"sequencia":7,"data":"2025-06-18","tipo":"","fase":"Fase Interna","link_publico":"edb5f259-09da-4e5a-bcce-dd385212c632"},
+{"sequencia":8,"data":"2025-06-18","tipo":"","fase":"Fase Interna","link_publico":"d34b0978-d84f-46cc-a236-2dceab325893"},
+{"sequencia":9,"data":"2025-06-18","tipo":"","fase":"Fase Interna","link_publico":"ba0b023b-4626-457a-85ca-780d844ef149"},
+{"sequencia":10,"data":"2025-06-18","tipo":"","fase":"Fase Interna","link_publico":"e01267bb-0e20-4089-8334-6e3c03364cfa"},
+{"sequencia":11,"data":"2025-06-17","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"c7050aea-6ddf-4e99-aa97-21e7be353748"},
+{"sequencia":12,"data":"2025-06-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"55527c8c-c776-4f06-81e2-1780793965eb"},
+{"sequencia":13,"data":"2025-06-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"9de8c8b7-f36d-4a90-8009-aee6c77f1199"},
+{"sequencia":14,"data":"2025-06-19","tipo":"Outros documentos","fase":"Publicação","link_publico":"27a33fbd-6eb1-4a19-aa80-923e57ae9ff3"}
+]
+}

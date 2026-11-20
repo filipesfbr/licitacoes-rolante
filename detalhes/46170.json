@@ -1,0 +1,21 @@
+{"codigo":46170,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"IMPAKTO COMERCIO DE ESPUMAS LTDA","documento":"24.198.177/0001-02","descricao":"ALMOFADA","descricao_adicional":null,"unidade":"UN","valor_referencia":27.43,"valor_vencedor":27.43,"quantidade":180},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"IMPAKTO COMERCIO DE ESPUMAS LTDA","documento":"24.198.177/0001-02","descricao":"COLCHONETE","descricao_adicional":null,"unidade":"UN","valor_referencia":86.46,"valor_vencedor":86.46,"quantidade":400},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"IMPAKTO COMERCIO DE ESPUMAS LTDA","documento":"24.198.177/0001-02","descricao":"SERVIÇO DE FRETE.","descricao_adicional":null,"unidade":"UN","valor_referencia":654.2,"valor_vencedor":654.2,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ALMOFADA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":180,"valor_referencia":27.43},
+{"lote":0,"item":2,"descricao":"COLCHONETE","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":400,"valor_referencia":86.46},
+{"lote":0,"item":3,"descricao":"SERVIÇO DE FRETE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":654.2}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-10","tipo":"","fase":"Fase Interna","link_publico":"6fa43a1b-5426-4138-ae6b-29891d3aa394"},
+{"sequencia":2,"data":"2025-06-10","tipo":"","fase":"Fase Interna","link_publico":"54afec12-1003-494a-93af-89c409bc1d76"},
+{"sequencia":3,"data":"2025-06-10","tipo":"","fase":"Fase Interna","link_publico":"2f7ab49f-d311-459e-a6c7-bb9afc14b09d"},
+{"sequencia":4,"data":"2025-06-10","tipo":"","fase":"Fase Interna","link_publico":"9ccd526c-fc03-425d-a36a-dd51eed474c5"},
+{"sequencia":5,"data":"2025-06-10","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"8914d3c0-aaee-4471-93ba-4f9248e5942f"},
+{"sequencia":6,"data":"2025-06-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"6c213c15-2ea2-4f48-8e22-19984c48d6cd"},
+{"sequencia":7,"data":"2025-06-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"c0b1ffad-3862-42d9-a4a2-36e8d16b0f12"}
+]
+}

@@ -1,0 +1,16 @@
+{"codigo":46088,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"LOJAS BECKER LTDA.","documento":"04.415.928/0235-62","descricao":"SMART TV 55\" UHD 4K","descricao_adicional":null,"unidade":"UN","valor_referencia":2399,"valor_vencedor":2399,"quantidade":6}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SMART TV 55\" UHD 4K","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":6,"valor_referencia":2399}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"c718afbf-fb3a-4fdd-aee2-0a2c960242dc"},
+{"sequencia":2,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"b382b9a9-b729-4025-a18d-75baefbe9522"},
+{"sequencia":3,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"2acda6d9-522c-4311-b954-aae505610b8a"},
+{"sequencia":4,"data":"2025-11-07","tipo":"","fase":"Fase Interna","link_publico":"a3081a1f-b645-42a8-a116-5333a4fc08f7"},
+{"sequencia":5,"data":"2025-11-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"c10e8422-4dd0-4738-adad-d8d912af8b45"},
+{"sequencia":6,"data":"2025-11-07","tipo":"Outros documentos","fase":"Publicação","link_publico":"3374bb2c-ac66-4430-ae5e-8455f73e3f96"}
+]
+}

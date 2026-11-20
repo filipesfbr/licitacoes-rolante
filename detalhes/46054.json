@@ -1,0 +1,28 @@
+{"codigo":46054,
+"vencedores":[
+{"lote":1,"item":1,"pessoa_fisica":false,"fornecedor":"AMPLAMED SERVIÇOS MEDICOS LTDA","documento":"05.782.814/0001-49","descricao":"EXAME DE ENDOSCOPIA","descricao_adicional":"","unidade":"UN","valor_referencia":587.79,"valor_vencedor":587.79,"quantidade":200},
+{"lote":1,"item":2,"pessoa_fisica":false,"fornecedor":"AMPLAMED SERVIÇOS MEDICOS LTDA","documento":"05.782.814/0001-49","descricao":"BIÓPSISA","descricao_adicional":"","unidade":"UN","valor_referencia":129.59,"valor_vencedor":129.59,"quantidade":300},
+{"lote":2,"item":1,"pessoa_fisica":false,"fornecedor":"AMPLAMED SERVIÇOS MEDICOS LTDA","documento":"05.782.814/0001-49","descricao":"COLONOSCOPIA","descricao_adicional":"","unidade":"UN","valor_referencia":760.8,"valor_vencedor":760.8,"quantidade":200},
+{"lote":2,"item":2,"pessoa_fisica":false,"fornecedor":"AMPLAMED SERVIÇOS MEDICOS LTDA","documento":"05.782.814/0001-49","descricao":"BIÓPSISA","descricao_adicional":"","unidade":"UN","valor_referencia":129.59,"valor_vencedor":129.59,"quantidade":300}
+]
+,"itens":[
+{"lote":1,"item":1,"descricao":"EXAME DE ENDOSCOPIA","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":587.79},
+{"lote":1,"item":2,"descricao":"BIÓPSISA","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":300,"valor_referencia":129.59},
+{"lote":2,"item":1,"descricao":"COLONOSCOPIA","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":760.8},
+{"lote":2,"item":2,"descricao":"BIÓPSISA","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":300,"valor_referencia":129.59}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-28","tipo":"","fase":"Fase Interna","link_publico":"381fb5b8-eb0b-41ff-a0e3-c9aad3a82a63"},
+{"sequencia":2,"data":"2026-01-28","tipo":"","fase":"Fase Interna","link_publico":"1922ce0f-0ccf-46be-8df8-bf1a080284d3"},
+{"sequencia":3,"data":"2026-01-28","tipo":"","fase":"Fase Interna","link_publico":"f987bcd0-4d55-4af3-b4a9-7bbd6816c308"},
+{"sequencia":4,"data":"2026-02-12","tipo":"","fase":"Fase Interna","link_publico":"d81f2eeb-6b2a-4162-ab46-e6f0e1db9806"},
+{"sequencia":5,"data":"2026-02-12","tipo":"","fase":"Fase Interna","link_publico":"e8eec195-0a1b-4cab-971a-1b89ca722c9c"},
+{"sequencia":6,"data":"2026-02-12","tipo":"","fase":"Fase Interna","link_publico":"8c827335-0d67-430a-99b2-06f6fa9b7f25"},
+{"sequencia":7,"data":"2026-02-12","tipo":"","fase":"Fase Interna","link_publico":"9593f7b9-b66e-49d1-b2ff-34f38bdfd49b"},
+{"sequencia":8,"data":"2026-02-12","tipo":"","fase":"Fase Interna","link_publico":"ed87143f-096f-49ce-98c6-86cafa8402fc"},
+{"sequencia":9,"data":"2026-02-13","tipo":"","fase":"Fase Interna","link_publico":"df47f826-9057-42e9-bde6-7502f3addb32"},
+{"sequencia":10,"data":"2026-01-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"be15d9d4-465f-41d2-b603-6454cf32ef04"},
+{"sequencia":11,"data":"2026-01-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"54c8cbc6-01af-4e4e-9763-1c17937e35aa"},
+{"sequencia":12,"data":"2026-02-13","tipo":"Outros documentos","fase":"Publicação","link_publico":"7ab205c7-a73c-4474-adc3-40ca634c116b"}
+]
+}

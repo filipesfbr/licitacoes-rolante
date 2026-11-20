@@ -1,0 +1,19 @@
+{"codigo":55754,
+"vencedores":[]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CUCA COM RECHEIO","descricao_adicional":"<p><span style=\"font-size:12px\">CUCA COM RECHEIOS DIVERSOS, EMBALADA, DESCRI&Ccedil;&Atilde;O DOS INGREDIENTES,&nbsp; PESO, DATA DE VALIDADE E FABRICA&Ccedil;&Atilde;O NO ROTULO, COM PESO APROXIMADO DE 800 GRAMAS</span></p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":210,"valor_referencia":20.75},
+{"lote":0,"item":2,"descricao":"CUCA SEM RECHEIO","descricao_adicional":"<p>CUCA SEM RECHEIO, COM PESO APROXIMADO DE 800 GRAMAS, EMBALADA, COM DESCRI&Ccedil;&Atilde;O DE INGREDIENTES, DATA DE FABRICA&Ccedil;&Atilde;O E VALIDADE IMPRESSA&nbsp; NO ROTULO&nbsp;</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":560,"valor_referencia":14.3},
+{"lote":0,"item":3,"descricao":"LANCHE","descricao_adicional":"<p>Lanche embalado em embalagem pl&aacute;stica contendo : 1 fatia de bolo (100 gr),&nbsp; 1 fatia de pizza (100 gr),2 pasteis ( 30gr cada), 1 cachorro quente ,&nbsp; (p&atilde;o de 50 gr.,com salsicha picada, molho e batata palha) e 2 canap&eacute;s(maionese, picles e frios) de 25gr. cada.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":2500,"valor_referencia":13.16}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"86c8ef35-66a5-4af4-b992-ea9734e8a00b"},
+{"sequencia":2,"data":"2026-11-12","tipo":"ETP","fase":"Fase Interna","link_publico":"bb9a5a59-8d60-4f40-a7a7-45efd2573b30"},
+{"sequencia":3,"data":"2026-11-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"dc428ea9-ce0c-49fc-88a4-ef3d46283c81"},
+{"sequencia":4,"data":"2026-11-17","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"518ad35c-704c-4a3e-b29a-38089343e5fe"},
+{"sequencia":5,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"ac518eb9-92ff-49ab-ac86-9609ef6d4978"},
+{"sequencia":6,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"7f8d94a9-d90c-4784-8079-d510d53f3565"},
+{"sequencia":7,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"58145700-7cdb-40d8-9a32-6bb71cc0bb72"},
+{"sequencia":8,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"485fe1d8-0abf-4f24-98e3-40f33b003a7d"},
+{"sequencia":9,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"31f14f85-b194-4867-9c36-dae92d391bb3"}
+]
+}

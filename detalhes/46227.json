@@ -1,0 +1,30 @@
+{"codigo":46227,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"BOMBA HIDRAULICA.","descricao_adicional":null,"unidade":"UN","valor_referencia":3489,"valor_vencedor":3489,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"FLUIDO 10W30","descricao_adicional":null,"unidade":"UN","valor_referencia":37,"valor_vencedor":37,"quantidade":42},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"PETRONAS URANIA LD7 15W.","descricao_adicional":null,"unidade":"UN","valor_referencia":34,"valor_vencedor":34,"quantidade":10},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"FILTRO DE ÓLEO MOTOR","descricao_adicional":null,"unidade":"UN","valor_referencia":97,"valor_vencedor":97,"quantidade":1},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"FILTRO DO DIESEL","descricao_adicional":null,"unidade":"UN","valor_referencia":149,"valor_vencedor":149,"quantidade":1},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"FILTRO SEPARADOR","descricao_adicional":null,"unidade":"UN","valor_referencia":154,"valor_vencedor":154,"quantidade":1},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"EIXO DE ACIONAMENTO","descricao_adicional":null,"unidade":"UN","valor_referencia":1469,"valor_vencedor":1469,"quantidade":1},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"MECANICA CARAVAGGIO LTDA","documento":"45.255.523/0001-17","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":4440,"valor_vencedor":4440,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"BOMBA HIDRAULICA.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":3489},
+{"lote":0,"item":2,"descricao":"FLUIDO 10W30","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":42,"valor_referencia":37},
+{"lote":0,"item":3,"descricao":"PETRONAS URANIA LD7 15W.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":34},
+{"lote":0,"item":4,"descricao":"FILTRO DE ÓLEO MOTOR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":97},
+{"lote":0,"item":5,"descricao":"FILTRO DO DIESEL","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":149},
+{"lote":0,"item":6,"descricao":"FILTRO SEPARADOR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":154},
+{"lote":0,"item":7,"descricao":"EIXO DE ACIONAMENTO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1469},
+{"lote":0,"item":8,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":4440}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"5c17d70c-dd67-43e9-9161-34d1db4cc500"},
+{"sequencia":2,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"62897acd-1bd2-4ef1-abcc-40c17a479658"},
+{"sequencia":3,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"8207318e-ae69-4774-aac2-e0e454d5022a"},
+{"sequencia":4,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"6ce5f5b1-5166-4da2-a20e-33c8dd89f711"},
+{"sequencia":5,"data":"2025-04-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"364104a4-99ab-4f73-b891-f36e0bba0cc9"},
+{"sequencia":6,"data":"2025-03-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"e4bc096a-0f32-47c0-9e98-254c9f9a4c48"}
+]
+}

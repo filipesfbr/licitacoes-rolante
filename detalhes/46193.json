@@ -1,0 +1,29 @@
+{"codigo":46193,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MASON EQUIPAMENTOS AGRICOLAS LTDA","documento":"40.551.745/0004-06","descricao":"TRATOR AGRÍCOLA PLATAFORMADO COM RODADO TRASEIRO 18.4-34 E DIANTEIRO 14.9-24, COM 115 CAVALOS DE POTÊNCIA, COM 2 VCR, TOMADA DE FORÇA INDEPENTEDENTE, LEVANTE HIDRÁULICO DE 3 PONTOS COM CAPACIDADE DE NO OLHAL DE 4950KG, COM TORQUE MÁXIMO DE 460MN EM 1500RPM, TRANSMISSÃO 12 VELOCIDADE A FRENTE E 12...","descricao_adicional":null,"unidade":"UN","valor_referencia":264000,"valor_vencedor":264000,"quantidade":2}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"TRATOR AGRÍCOLA PLATAFORMADO COM RODADO TRASEIRO 18.4-34 E DIANTEIRO 14.9-24, COM 115 CAVALOS DE POTÊNCIA, COM 2 VCR, TOMADA DE FORÇA INDEPENTEDENTE, LEVANTE HIDRÁULICO DE 3 PONTOS COM CAPACIDADE DE NO OLHAL DE 4950KG, COM TORQUE MÁXIMO DE 460MN EM 1500RPM, TRANSMISSÃO 12 VELOCIDADE A FRENTE E 12...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":264000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"8098b12d-e156-426c-82dc-fa3b346daae0"},
+{"sequencia":2,"data":"2025-05-05","tipo":"","fase":"Fase Interna","link_publico":"c2cd91e8-d89d-4ca6-b579-9c6358164d29"},
+{"sequencia":3,"data":"2025-05-05","tipo":"","fase":"Fase Interna","link_publico":"9b45cd40-8454-4582-b6e7-cb9d3555f466"},
+{"sequencia":4,"data":"2025-05-05","tipo":"","fase":"Fase Interna","link_publico":"a99bd1d1-a985-40a7-9bae-42fa5df3549d"},
+{"sequencia":5,"data":"2025-05-05","tipo":"","fase":"Fase Interna","link_publico":"dd8b39c8-f296-4965-9816-8f007fdfb646"},
+{"sequencia":6,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"e5dced1f-6b3c-4c89-b9a4-00b1b54cfb27"},
+{"sequencia":7,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"ddd49346-4f4c-46fb-8edd-5be2db6a9b7f"},
+{"sequencia":8,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"e2f7e055-54fd-431b-bfa8-bad2ba280d27"},
+{"sequencia":9,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"39f7966b-3e95-4ad4-82a2-09e47c9fd347"},
+{"sequencia":10,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"9c96c386-c9d2-4b05-b1d8-61dabf8a43a1"},
+{"sequencia":11,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"89028b95-d262-4bdf-87da-7913881f37df"},
+{"sequencia":12,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"141855e3-1864-4e4c-9551-f8dd7d9a99d5"},
+{"sequencia":13,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"2da91145-87a3-4bf7-8bb2-057e6f32b992"},
+{"sequencia":14,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"5d40bcf6-6523-456e-a319-fdc27e979cb5"},
+{"sequencia":15,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"f43ec025-b052-4cbd-91a4-9014d7d513cd"},
+{"sequencia":16,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"539094bc-5be6-4c03-834c-b98bf9231595"},
+{"sequencia":17,"data":"2025-05-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"a03fd694-6229-4ff2-8e47-30d58e0caeaf"},
+{"sequencia":18,"data":"2025-05-06","tipo":"Outros documentos","fase":"Publicação","link_publico":"64ecf394-b37f-4d04-84f3-45e58971f5ec"},
+{"sequencia":19,"data":"2025-05-06","tipo":"Outros documentos","fase":"Publicação","link_publico":"b8cdf29e-bbc5-48de-a5ac-4a9ab613e6f7"}
+]
+}

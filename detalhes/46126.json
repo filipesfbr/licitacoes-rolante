@@ -1,0 +1,26 @@
+{"codigo":46126,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DISTRIBUIDORA DE GAS ARNOLD LTDA","documento":"05.842.443/0001-43","descricao":"CARGA DE GÁS P-13","descricao_adicional":"","unidade":"UN","valor_referencia":109.63,"valor_vencedor":99.15,"quantidade":1400},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"DISTRIBUIDORA DE GAS ARNOLD LTDA","documento":"05.842.443/0001-43","descricao":"CARGA DE GÁS P-45","descricao_adicional":"","unidade":"UN","valor_referencia":388.87,"valor_vencedor":398.67,"quantidade":600}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CARGA DE GÁS P-13","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1400,"valor_referencia":109.63},
+{"lote":0,"item":2,"descricao":"CARGA DE GÁS P-45","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":600,"valor_referencia":388.87}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-11","tipo":"","fase":"Fase Interna","link_publico":"3925abf5-516c-47f7-9dfe-608f002d748e"},
+{"sequencia":2,"data":"2025-10-01","tipo":"","fase":"Fase Interna","link_publico":"bef88aa2-40da-4897-8008-1ea68b094627"},
+{"sequencia":3,"data":"2025-10-01","tipo":"","fase":"Fase Interna","link_publico":"8c7ad1c1-c7af-4a45-9b19-2fa91762ad2d"},
+{"sequencia":4,"data":"2025-10-01","tipo":"","fase":"Fase Interna","link_publico":"7fa3a767-0604-4498-8fe0-eeb3e8c37eb7"},
+{"sequencia":5,"data":"2025-10-01","tipo":"","fase":"Fase Interna","link_publico":"b03a3878-23dc-40d0-8047-6cb865cc1f82"},
+{"sequencia":6,"data":"2025-10-01","tipo":"","fase":"Fase Interna","link_publico":"119c9a3e-5875-45b5-a74b-2a92435ccbd5"},
+{"sequencia":7,"data":"2025-10-01","tipo":"","fase":"Fase Interna","link_publico":"f70b7fc5-5ba2-4d64-8d93-a2d482676757"},
+{"sequencia":8,"data":"2025-10-01","tipo":"","fase":"Fase Interna","link_publico":"a35d3e0b-ef37-49f6-83e1-9bd2b87d7132"},
+{"sequencia":9,"data":"2025-10-01","tipo":"","fase":"Fase Interna","link_publico":"2040c3ec-655c-4053-8481-91ab84b0f6d0"},
+{"sequencia":10,"data":"2025-10-01","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"bdbeff05-f15a-43b7-a14a-5d5de6190e09"},
+{"sequencia":11,"data":"2025-09-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"b6457c3e-83be-4e59-8154-869f8b5fda88"},
+{"sequencia":12,"data":"2025-09-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"24364cec-131f-4201-bb99-39e68dafe7b0"},
+{"sequencia":13,"data":"2025-10-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"44ddaeab-da04-47eb-a559-01066a4ac5ed"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3bf5bfe6-e64e-47bb-8a17-44e9e3f0a3e2"}
+]
+}

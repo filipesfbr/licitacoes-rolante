@@ -1,0 +1,18 @@
+{"codigo":46199,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GABRIELA RODRIGUES LTDA","documento":"13.438.355/0001-09","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO E IMPLANTAÇÃO DO \"PROGRAMA RECICLE BEM, FAÇA O BEM\", PROGRAMA EDUCACIONAL COM VIÉS DE SUSTENTABILIDADE, DESTINADO ÀS ESCOLAS DA REDE MUNICIPAL DE ENSINO","descricao_adicional":null,"unidade":"UN","valor_referencia":398,"valor_vencedor":398,"quantidade":2936.99749}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO E IMPLANTAÇÃO DO \"PROGRAMA RECICLE BEM, FAÇA O BEM\", PROGRAMA EDUCACIONAL COM VIÉS DE SUSTENTABILIDADE, DESTINADO ÀS ESCOLAS DA REDE MUNICIPAL DE ENSINO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2350,"valor_referencia":398}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-28","tipo":"","fase":"Fase Interna","link_publico":"f6a6259e-9327-44e1-870f-b4dae5ee0084"},
+{"sequencia":2,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"efd4b6b1-aa14-41ce-a6c2-22684f91fdae"},
+{"sequencia":3,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"1be80197-3886-4bfb-94a3-15f9f855a971"},
+{"sequencia":4,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"91b18254-6919-4af0-80dd-d6446a2f2b9c"},
+{"sequencia":5,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"f8ba178d-79b8-4c32-a047-a0d1d8c6c389"},
+{"sequencia":6,"data":"2025-04-29","tipo":"","fase":"Fase Interna","link_publico":"d2caaaf7-9105-4396-92f8-14f7a8536989"},
+{"sequencia":7,"data":"2025-04-25","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"e5b168e1-6f2d-43cf-87cb-80c9251f48f7"},
+{"sequencia":8,"data":"2025-04-28","tipo":"Outros documentos","fase":"Publicação","link_publico":"deb0c863-7259-4b03-958f-2ee2dc5402d8"}
+]
+}

@@ -1,0 +1,22 @@
+{"codigo":54425,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"INSTITUTO MAO AMIGA MOSTARDAS","documento":"28.076.623/0001-67","descricao":"ACOLHIMENTO INSTITUCIONAL, POR DETERMINAÇÃO JUDICIAL, PARA MENORES, DE 7 A 18 ANOS INCOMPLETOS (MASCULINO/FEMININO).","descricao_adicional":"","unidade":"MES","valor_referencia":6400,"valor_vencedor":6400,"quantidade":6}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ACOLHIMENTO INSTITUCIONAL, POR DETERMINAÇÃO JUDICIAL, PARA MENORES, DE 7 A 18 ANOS INCOMPLETOS (MASCULINO/FEMININO).","descricao_adicional":"","unidade":"MES","quantidade_min":0,"quantidade_max":6,"valor_referencia":6400}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"0c71ae5f-1758-42c2-bad7-73486abd129d"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f32f6ceb-3754-4bc0-ab93-817adc3ac4ff"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"905874bc-6f1a-4a0e-bc0e-5c2646b95254"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8494ff5a-5406-496c-a765-2bab9fae11d3"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b4be0bb1-a9a5-47c5-a23f-57e8d5a6b1d0"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4fea2a83-90e0-4c35-88cf-2226032d6d9f"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d1783855-1d2b-4b93-be53-143f6759b168"},
+{"sequencia":8,"data":"2026-07-21","tipo":"ETP","fase":"Fase Interna","link_publico":"6947e810-4200-4856-8ef6-2da9537ac416"},
+{"sequencia":9,"data":"2026-07-21","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"92d65016-0d3a-43ca-9606-f54865cffd88"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fc6090e7-4d89-4582-8b71-19cbfae46bb2"},
+{"sequencia":11,"data":"2026-07-22","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"4841363a-9da5-4e3e-a770-0a76d7280e62"},
+{"sequencia":12,"data":"2026-07-23","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"a1363d03-142c-4f20-9831-eb74ecc75b83"}
+]
+}

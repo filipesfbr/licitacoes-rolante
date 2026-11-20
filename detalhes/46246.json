@@ -1,0 +1,18 @@
+{"codigo":46246,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ABRIGINDO JORGE MARTINS","documento":"29.697.876/0001-10","descricao":"LIMPEZA URBANA - VARRIÇÃO RUAS","descricao_adicional":null,"unidade":"UN","valor_referencia":10756.53,"valor_vencedor":10756.53,"quantidade":6}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LIMPEZA URBANA - VARRIÇÃO RUAS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":10756.53}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-02-19","tipo":"","fase":"Fase Interna","link_publico":"69d4a02e-cfe3-42d3-8f1c-13a679e9aa02"},
+{"sequencia":2,"data":"2025-06-23","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a7f66f2a-c659-4e4b-a5ee-209fba64a8b8"},
+{"sequencia":3,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"2ee46e25-fed0-4777-b366-fd223cc4e9d4"},
+{"sequencia":4,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"a3551f9e-b9b8-4d66-a047-945c0b87e53e"},
+{"sequencia":5,"data":"2025-07-28","tipo":"","fase":"Fase Interna","link_publico":"1ec4eb3e-bbae-4be9-b0f8-517b03ac8fe5"},
+{"sequencia":6,"data":"2025-02-10","tipo":"","fase":"Fase Interna","link_publico":"eeedcd45-d38b-42cb-9b2a-02ff772825fa"},
+{"sequencia":7,"data":"2025-02-10","tipo":"","fase":"Fase Interna","link_publico":"590c0442-1865-4b03-b38f-4ad48e24ae92"},
+{"sequencia":8,"data":"2025-02-19","tipo":"","fase":"Fase Interna","link_publico":"46eba1ea-3f08-4bd1-81fe-97e5114e4ccd"}
+]
+}

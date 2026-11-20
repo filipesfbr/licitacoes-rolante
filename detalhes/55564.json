@@ -1,0 +1,26 @@
+{"codigo":55564,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CTG PASSO DOS TROPEIROS","documento":"88.372.750/0001-35","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","valor_referencia":21628,"valor_vencedor":21628,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":21628}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cd28500d-c45c-4474-b927-d66da8f4c9fb"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a760cb97-8763-47c5-8ce8-d1be1aca447b"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"862fe5b5-8a5b-4d4d-84b9-bfc73075d1b5"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"73b0da14-2f22-482d-a739-7fc28efd6812"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"74b60be2-60b4-4c4b-9405-bf674562a036"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c2657103-d7c4-4412-abc6-c3f66a623b55"},
+{"sequencia":7,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"a1e22caa-bdc4-469d-8e38-fb51cb5c1eff"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9c8738f3-37c3-4d86-9dad-89508c68f2c0"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2027e888-46b7-47c2-9708-9ee11ee98612"},
+{"sequencia":10,"data":"2026-10-29","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6ff52f82-20f1-43e5-b0bf-61c6a92e4769"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"eb359cc8-e0c1-4ed5-9600-6273e04e5eca"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1ebd0dbb-2f41-4515-a71b-dec7f79fb9a5"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7aa99972-1929-4b54-afe7-639971fdd475"},
+{"sequencia":14,"data":"2026-10-30","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"394a506e-89ac-41e1-970c-1de4b7659f98"},
+{"sequencia":15,"data":"2026-10-29","tipo":"ETP","fase":"Fase Interna","link_publico":"7184ff49-0af9-4f49-905d-88a8a6d63ba6"},
+{"sequencia":16,"data":"2026-11-04","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"b72a910a-e44f-472f-96a5-afb5d5682a93"}
+]
+}

@@ -1,0 +1,24 @@
+{"codigo":46200,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ABF DISTRIBUIDORA DE ALIMENTOS LTDA","documento":"43.463.101/0001-01","descricao":"KIT DE ALIMENTOS (CESTA BÁSICA), CONTENDO OS SEGUINTES ITENS:\n- 5 KG DE ARROZ TIPO 1;\n- 2 KG DE FEIJÃO PRETO TIPO 1;\n- 2 KG DE FARINHA DE TRIGO TIPO 1;\n- 2 KG DE FARINHA DE MILHO, MÉDIA, TIPO 1;\n- 1 KG DE SAL REFINADO, IODADO, TIPO 1;\n- 2 KG DE AÇÚCAR CRISTAL, TIPO 1;\n- 1 KG DE MASSA, TIPO...","descricao_adicional":"","unidade":"KIT","valor_referencia":81.89,"valor_vencedor":59.23,"quantidade":2668}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"KIT DE ALIMENTOS (CESTA BÁSICA), CONTENDO OS SEGUINTES ITENS:\n- 5 KG DE ARROZ TIPO 1;\n- 2 KG DE FEIJÃO PRETO TIPO 1;\n- 2 KG DE FARINHA DE TRIGO TIPO 1;\n- 2 KG DE FARINHA DE MILHO, MÉDIA, TIPO 1;\n- 1 KG DE SAL REFINADO, IODADO, TIPO 1;\n- 2 KG DE AÇÚCAR CRISTAL, TIPO 1;\n- 1 KG DE MASSA, TIPO...","descricao_adicional":"","unidade":"KIT","quantidade_min":0,"quantidade_max":2668,"valor_referencia":81.89}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-24","tipo":"","fase":"Fase Interna","link_publico":"6faeb61f-ddfd-4572-a66a-2eb38c3f9c81"},
+{"sequencia":2,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"4c0c5317-78fe-46b7-97dd-5bbe9509f0fd"},
+{"sequencia":3,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"094d7dfa-e27d-4a88-b50c-aeaca7f1c1a8"},
+{"sequencia":4,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"0ee11e17-5ea3-472a-a7a1-1647f0a6135f"},
+{"sequencia":5,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"c397964a-c506-4ec7-afac-ddd5274c7237"},
+{"sequencia":6,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"19cbd2fc-9374-4442-a4cc-37ceb309a76f"},
+{"sequencia":7,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"7a0007d1-6b6d-4f1b-87f4-befe2c6af3b7"},
+{"sequencia":8,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"b392d9f5-64bf-490f-8bc6-7dff63a6a0c5"},
+{"sequencia":9,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"f4cfb57f-24db-4840-aecc-47e29c37228b"},
+{"sequencia":10,"data":"2025-05-14","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"ae3d7d29-4725-4267-ae10-6ff09a99c1f3"},
+{"sequencia":11,"data":"2025-04-25","tipo":"Outros documentos","fase":"Publicação","link_publico":"8559f3bf-eaf8-41d6-8d29-7817d6a6439c"},
+{"sequencia":12,"data":"2025-04-25","tipo":"Outros documentos","fase":"Publicação","link_publico":"f622580b-211b-44e4-8598-60e5fa3c37d5"},
+{"sequencia":13,"data":"2025-04-25","tipo":"Outros documentos","fase":"Publicação","link_publico":"99df45ee-2c66-4f52-a697-ba5937a98f62"},
+{"sequencia":14,"data":"2025-05-15","tipo":"Outros documentos","fase":"Publicação","link_publico":"46eb3094-c369-4713-bcd3-85fe3ff1e7df"}
+]
+}

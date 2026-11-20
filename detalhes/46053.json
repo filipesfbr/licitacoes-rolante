@@ -1,0 +1,16 @@
+{"codigo":46053,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ANDERSON LAURO DA SILVA","documento":"58.922.165/0001-09","descricao":"SERVIÇO DE PINTURA","descricao_adicional":"","unidade":"UN","valor_referencia":27,"valor_vencedor":27,"quantidade":1000}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE PINTURA","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1000,"valor_referencia":27}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-10","tipo":"","fase":"Fase Interna","link_publico":"2d571df0-2aaf-46b1-866f-81bb69f40fb5"},
+{"sequencia":2,"data":"2026-02-03","tipo":"","fase":"Fase Interna","link_publico":"4b01eee9-30de-4046-94a1-5cbfb273e20b"},
+{"sequencia":3,"data":"2026-02-03","tipo":"","fase":"Fase Interna","link_publico":"eb833255-cc7e-45fc-9444-dbcba5a5efd4"},
+{"sequencia":4,"data":"2026-02-03","tipo":"","fase":"Fase Interna","link_publico":"1ad50fbd-2a10-4308-97d8-226da9f5b1ee"},
+{"sequencia":5,"data":"2026-02-03","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"133a1bea-7b80-4f38-ac24-054b016323bf"},
+{"sequencia":6,"data":"2026-02-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"1d9c0270-dcc0-4f30-87ea-b4099baf4e68"}
+]
+}

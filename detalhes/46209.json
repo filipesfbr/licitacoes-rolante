@@ -1,0 +1,36 @@
+{"codigo":46209,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DRR LOCADORA DE VEICULOS LTDA","documento":"08.537.467/0001-87","descricao":"LOCAÇÃO DE VEÍCULO DE 7 LUGARES, AUTOMÁTICO, MOTORIZAÇÃO DE NO\nMÍNIMO 1.8, ANO 2024/2025 OU SUPERIOR, COM AR CONDICIONADO, DIREÇÃO\nHIDRÁULICA, VIDROS E TRAVAS ELÉTRICAS, RÁDIO AM/FM, BAGAGEIRO COM NO\nMÍNIMO 160 LITROS. O VEICULO DEVERÁ POSSUIR NO MÍNIMO OS SEGUINTES\nDISPOSITIVOS: SER AUTOMÁTICO,...","descricao_adicional":"<p>Valor correspondente a 6 veículos ao valor unitário de R$ 4.997,54/mês, total mensal de R$ 29.985,24.</p>","unidade":"UN","valor_referencia":4997.54,"valor_vencedor":4058.1,"quantidade":154.594},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"DRR LOCADORA DE VEICULOS LTDA","documento":"08.537.467/0001-87","descricao":"LOCAÇÃO DE VEÍCULO SEDAN, 5 LUGARES , MOTORIZAÇÃO DE NO MÍNIMO 1.0, ANO\n2024/2025 OU SUPERIOR, COM AR CONDICIONADO, DIREÇÃO HIDRÁULICA, VIDROS E\nTRAVAS ELÉTRICAS, RÁDIO AM/FM, BAGAGEIRO DE NO MÍNIMO 470 LITROS.\nMOTORIZAÇÃO DE NO MÍNIMO 1.0, ANO 2024/2025 OU SUPERIOR, COM AR\nCONDICIONADO, DIREÇÃO...","descricao_adicional":"<p><span style=\"color: #000000; font-family: tahoma, open-sans; font-size: 10.6667px; white-space: normal; float: none; display: inline;\">Valor correspondente a 4 veículos ao valor unitário de R$ 3.428,23/mês, total mensal de R$ 13.712,92</span></p>","unidade":"UN","valor_referencia":3428.23,"valor_vencedor":2750,"quantidade":48.15455},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"DRR LOCADORA DE VEICULOS LTDA","documento":"08.537.467/0001-87","descricao":"LOCAÇAO DE VEICULO: TIPO PASSEIO COR:\nBRANCO, CAPACIDADE MÍNIMA: 5 LUGARES PORTAS: 4 PORTAS PORTE/CONFIGURAÇÃO: HATCH COMPACTO OU MÉDIO COMBUSTÍVEL: FLEX (ÁLCOOL/GASOLINA) POTÊNCIA DO MOTOR: 1.0 - 82CV(ÁLC.) / 77CV(GAS.) CILINDROS (MÍNIMO): 3 EM LINHA TRANSVERSAL COM CILIDRADA UNITÁRIA DE 330CM3...","descricao_adicional":"<p><span style=\"color: #000000; font-family: tahoma, open-sans; font-size: 10.6667px; white-space: normal; float: none; display: inline;\">Valor correspondente a 2 veículos ao valor unitário de R$ 2.745,62/mês, total mensal de R$ 5.491,24.</span></p>","unidade":"UN","valor_referencia":2745.62,"valor_vencedor":2530,"quantidade":25}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE VEÍCULO DE 7 LUGARES, AUTOMÁTICO, MOTORIZAÇÃO DE NO\nMÍNIMO 1.8, ANO 2024/2025 OU SUPERIOR, COM AR CONDICIONADO, DIREÇÃO\nHIDRÁULICA, VIDROS E TRAVAS ELÉTRICAS, RÁDIO AM/FM, BAGAGEIRO COM NO\nMÍNIMO 160 LITROS. O VEICULO DEVERÁ POSSUIR NO MÍNIMO OS SEGUINTES\nDISPOSITIVOS: SER AUTOMÁTICO,...","descricao_adicional":"<p>Valor correspondente a 6 veículos ao valor unitário de R$ 4.997,54/mês, total mensal de R$ 29.985,24.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":72,"valor_referencia":4997.54},
+{"lote":0,"item":2,"descricao":"LOCAÇÃO DE VEÍCULO SEDAN, 5 LUGARES , MOTORIZAÇÃO DE NO MÍNIMO 1.0, ANO\n2024/2025 OU SUPERIOR, COM AR CONDICIONADO, DIREÇÃO HIDRÁULICA, VIDROS E\nTRAVAS ELÉTRICAS, RÁDIO AM/FM, BAGAGEIRO DE NO MÍNIMO 470 LITROS.\nMOTORIZAÇÃO DE NO MÍNIMO 1.0, ANO 2024/2025 OU SUPERIOR, COM AR\nCONDICIONADO, DIREÇÃO...","descricao_adicional":"<p><span style=\"color: #000000; font-family: tahoma, open-sans; font-size: 10.6667px; white-space: normal; float: none; display: inline;\">Valor correspondente a 4 veículos ao valor unitário de R$ 3.428,23/mês, total mensal de R$ 13.712,92</span></p>","unidade":"UN","quantidade_min":0,"quantidade_max":48,"valor_referencia":3428.23},
+{"lote":0,"item":3,"descricao":"LOCAÇAO DE VEICULO: TIPO PASSEIO COR:\nBRANCO, CAPACIDADE MÍNIMA: 5 LUGARES PORTAS: 4 PORTAS PORTE/CONFIGURAÇÃO: HATCH COMPACTO OU MÉDIO COMBUSTÍVEL: FLEX (ÁLCOOL/GASOLINA) POTÊNCIA DO MOTOR: 1.0 - 82CV(ÁLC.) / 77CV(GAS.) CILINDROS (MÍNIMO): 3 EM LINHA TRANSVERSAL COM CILIDRADA UNITÁRIA DE 330CM3...","descricao_adicional":"<p><span style=\"color: #000000; font-family: tahoma, open-sans; font-size: 10.6667px; white-space: normal; float: none; display: inline;\">Valor correspondente a 2 veículos ao valor unitário de R$ 2.745,62/mês, total mensal de R$ 5.491,24.</span></p>","unidade":"UN","quantidade_min":0,"quantidade_max":24,"valor_referencia":2745.62}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-20","tipo":"","fase":"Fase Interna","link_publico":"3c66d53e-b0a0-4009-a8a8-dd1a451f7acc"},
+{"sequencia":2,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"75915054-c2ef-489d-aca8-df5405857721"},
+{"sequencia":3,"data":"2025-07-15","tipo":"","fase":"Fase Interna","link_publico":"897f21ab-1d4b-4bbc-aedf-c765bf1355e7"},
+{"sequencia":4,"data":"2025-07-18","tipo":"","fase":"Fase Interna","link_publico":"166ea567-ea85-4a67-9fee-eb6e1829757c"},
+{"sequencia":5,"data":"2026-01-07","tipo":"","fase":"Fase Interna","link_publico":"abafcfb9-b001-4868-9cb2-5fcd4626a866"},
+{"sequencia":6,"data":"2026-01-07","tipo":"","fase":"Fase Interna","link_publico":"b43f5c5b-5276-4f1e-9f37-84d908bc76e7"},
+{"sequencia":7,"data":"2026-01-07","tipo":"","fase":"Fase Interna","link_publico":"677a61c9-0d13-43ba-b633-80c704a2237d"},
+{"sequencia":8,"data":"2026-01-07","tipo":"","fase":"Fase Interna","link_publico":"032fe1e7-7353-41bc-909e-45e5f00492bd"},
+{"sequencia":9,"data":"2025-04-22","tipo":"","fase":"Fase Interna","link_publico":"436bf3ca-7205-4649-9a45-998eb5888b0d"},
+{"sequencia":10,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"ad123a61-3fc0-49dd-ab95-338b1629dc34"},
+{"sequencia":11,"data":"2025-05-09","tipo":"","fase":"Fase Interna","link_publico":"8b309b85-4547-4bdf-8c69-7401be60a645"},
+{"sequencia":12,"data":"2025-05-09","tipo":"","fase":"Fase Interna","link_publico":"a1a521bd-6aac-4eb5-83d7-7275b4f67d07"},
+{"sequencia":13,"data":"2025-05-09","tipo":"","fase":"Fase Interna","link_publico":"e523064f-8548-452c-87a2-2643d5e85e49"},
+{"sequencia":14,"data":"2025-05-09","tipo":"","fase":"Fase Interna","link_publico":"594a3588-ae40-4cb5-a091-003073050953"},
+{"sequencia":15,"data":"2025-05-09","tipo":"","fase":"Fase Interna","link_publico":"df9ce80e-c1fa-4259-a566-2ac745cc4530"},
+{"sequencia":16,"data":"2025-05-09","tipo":"","fase":"Fase Interna","link_publico":"ce12e280-985c-44ef-9887-5086356e33e3"},
+{"sequencia":17,"data":"2025-05-08","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"33422a6e-ddb1-4217-a346-04aeeb4b0917"},
+{"sequencia":18,"data":"2025-04-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"d35b857a-89fe-467b-9dcb-93e3d422e016"},
+{"sequencia":19,"data":"2025-04-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"798c41a3-4f82-40e8-8e3a-834fda9ed5ef"},
+{"sequencia":20,"data":"2025-04-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"5a2e53af-2184-4752-9340-5b4b3bdd38f9"},
+{"sequencia":21,"data":"2025-05-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"834c91ca-db80-4e55-817b-3e53678494ae"},
+{"sequencia":22,"data":"2026-02-10","tipo":"","fase":"Fase Interna","link_publico":"47dcb3b9-5216-4ef3-b750-ae5494eac0ae"}
+]
+}

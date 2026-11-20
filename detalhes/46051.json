@@ -1,0 +1,15 @@
+{"codigo":46051,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MORBACH PRODUTORA  DE EVENTOS LTDA ME","documento":"16.842.893/0001-52","descricao":"LOCAÇÃO DE MÓVEIS E UTENSÍLIOS","descricao_adicional":null,"unidade":"UN","valor_referencia":3.9881,"valor_vencedor":3.9881,"quantidade":4691}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE MÓVEIS E UTENSÍLIOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4691,"valor_referencia":3.9881}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-09","tipo":"","fase":"Fase Interna","link_publico":"6143df20-4b4d-414b-bf53-30efd9dd23e7"},
+{"sequencia":2,"data":"2026-02-09","tipo":"","fase":"Fase Interna","link_publico":"659239ef-503e-437f-a297-35ead9dacb0c"},
+{"sequencia":3,"data":"2026-02-09","tipo":"","fase":"Fase Interna","link_publico":"5a81ced6-b9aa-4d16-a8b5-1d930fd6a549"},
+{"sequencia":4,"data":"2026-02-09","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"32565fd2-eaeb-4a53-aa99-22c28fd2848c"},
+{"sequencia":5,"data":"2026-02-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"79194502-b404-4cf8-b100-74abc1cb3d8a"}
+]
+}

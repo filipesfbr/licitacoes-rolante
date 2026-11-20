@@ -1,0 +1,18 @@
+{"codigo":46191,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"FUNDACAO EDUCACIONAL ENCOSTA INFERIOR DO NORDESTE","documento":"97.763.593/0001-80","descricao":"SERVIÇO DE CAPACITAÇÃO DE PROFESSORES","descricao_adicional":null,"unidade":"UN","valor_referencia":816.6667,"valor_vencedor":816.6667,"quantidade":6},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"FUNDACAO EDUCACIONAL ENCOSTA INFERIOR DO NORDESTE","documento":"97.763.593/0001-80","descricao":"SERVIÇO DE CAPACITAÇÃO DE PROFESSORES","descricao_adicional":null,"unidade":"UN","valor_referencia":240,"valor_vencedor":240,"quantidade":40}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE CAPACITAÇÃO DE PROFESSORES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":6,"valor_referencia":816.6667},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE CAPACITAÇÃO DE PROFESSORES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":40,"valor_referencia":240}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"c2018fe2-fe83-488d-a94e-aa6d6c75e8e5"},
+{"sequencia":2,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"1c8a1fb7-568e-4252-8643-71f5dba1ea42"},
+{"sequencia":3,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"cf9f05d2-a17a-4623-bc10-0fea7648dddf"},
+{"sequencia":4,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"36af081c-abd4-4df5-ab71-884da88d7d12"},
+{"sequencia":5,"data":"2025-05-07","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"8723b341-86ef-44d9-a8d4-6cca5076d512"},
+{"sequencia":6,"data":"2025-05-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"3150743e-b5f5-43d6-8f6f-e58a3cb46410"}
+]
+}

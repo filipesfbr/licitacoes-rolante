@@ -1,0 +1,38 @@
+{"codigo":46235,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"QUALITY & CIA PROMOÇÃO DE EVENTOS ESPORTIVOS EIRELI","documento":"40.372.565/0001-14","descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE FUTSAL","descricao_adicional":"<p>ARBITRAGEM DE FUTSAL</p>\n","unidade":"JG","valor_referencia":435.63,"valor_vencedor":435,"quantidade":150},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE FUTEBOL SETE","descricao_adicional":"<p>ARBITRAGEM PARA FUTEBOL SETE</p>\n","unidade":"JG","valor_referencia":449.34,"valor_vencedor":440,"quantidade":180},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"QUALITY & CIA PROMOÇÃO DE EVENTOS ESPORTIVOS EIRELI","documento":"40.372.565/0001-14","descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE VOLEI","descricao_adicional":"<p>ARBITRAGEM PARA VOLEI</p>\n","unidade":"JG","valor_referencia":433.65,"valor_vencedor":433,"quantidade":50},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"QUALITY & CIA PROMOÇÃO DE EVENTOS ESPORTIVOS EIRELI","documento":"40.372.565/0001-14","descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DE FUTEBOL(PRIMEIRA FASE + SEMI FINAL)","descricao_adicional":"<p>ARBITRAGEM PARA FUTEBOL</p>\n","unidade":"JG","valor_referencia":1177.34,"valor_vencedor":1177,"quantidade":50},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"QUALITY & CIA PROMOÇÃO DE EVENTOS ESPORTIVOS EIRELI","documento":"40.372.565/0001-14","descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DE FUTEBOL(FINAIS)","descricao_adicional":"<p>ARBITRAGEM PARA FUTEBOL FINAIS</p>\n","unidade":"JG","valor_referencia":6676.35,"valor_vencedor":6676,"quantidade":2},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DA SEMANA DA PATRIA","descricao_adicional":"<p>ARBITRAGEM PARA SEMANA DA PATRIA</p>\n","unidade":"RD","valor_referencia":1553.74,"valor_vencedor":1535,"quantidade":12},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇO DE ARBITRAGEM PARA OS JERS(JOGOS ESCOLARES  DE ROLANTE)","descricao_adicional":"<p>ARBITRAGEM PARA JERS</p>\n","unidade":"RD","valor_referencia":1506,"valor_vencedor":1485,"quantidade":24},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"QUALITY & CIA PROMOÇÃO DE EVENTOS ESPORTIVOS EIRELI","documento":"40.372.565/0001-14","descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE VOLEI DE PRAIA","descricao_adicional":"<p>ARBITRAGEM PARA VOLEI DE PRAIA</p>\n","unidade":"JG","valor_referencia":166.25,"valor_vencedor":166,"quantidade":120},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DE FUTEVOLEI","descricao_adicional":"<p>ARBITRAGEM PARA FUTEVOLEI</p>\n","unidade":"JG","valor_referencia":152.25,"valor_vencedor":150,"quantidade":80},
+{"lote":0,"item":10,"pessoa_fisica":false,"fornecedor":"DELAR JOST - ME","documento":"14.787.871/0001-01","descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE BEACH TENNIS","descricao_adicional":"<p>ARBITRAGEM PARA BEACH TENNIS</p>\n","unidade":"JG","valor_referencia":170,"valor_vencedor":168,"quantidade":120}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE FUTSAL","descricao_adicional":"<p>ARBITRAGEM DE FUTSAL</p>\n","unidade":"JG","quantidade_min":0,"quantidade_max":150,"valor_referencia":435.63},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE FUTEBOL SETE","descricao_adicional":"<p>ARBITRAGEM PARA FUTEBOL SETE</p>\n","unidade":"JG","quantidade_min":0,"quantidade_max":180,"valor_referencia":449.34},
+{"lote":0,"item":3,"descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE VOLEI","descricao_adicional":"<p>ARBITRAGEM PARA VOLEI</p>\n","unidade":"JG","quantidade_min":0,"quantidade_max":50,"valor_referencia":433.65},
+{"lote":0,"item":4,"descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DE FUTEBOL(PRIMEIRA FASE + SEMI FINAL)","descricao_adicional":"<p>ARBITRAGEM PARA FUTEBOL</p>\n","unidade":"JG","quantidade_min":0,"quantidade_max":50,"valor_referencia":1177.34},
+{"lote":0,"item":5,"descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DE FUTEBOL(FINAIS)","descricao_adicional":"<p>ARBITRAGEM PARA FUTEBOL FINAIS</p>\n","unidade":"JG","quantidade_min":0,"quantidade_max":2,"valor_referencia":6676.35},
+{"lote":0,"item":6,"descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DA SEMANA DA PATRIA","descricao_adicional":"<p>ARBITRAGEM PARA SEMANA DA PATRIA</p>\n","unidade":"RD","quantidade_min":0,"quantidade_max":12,"valor_referencia":1553.74},
+{"lote":0,"item":7,"descricao":"SERVIÇO DE ARBITRAGEM PARA OS JERS(JOGOS ESCOLARES  DE ROLANTE)","descricao_adicional":"<p>ARBITRAGEM PARA JERS</p>\n","unidade":"RD","quantidade_min":0,"quantidade_max":24,"valor_referencia":1506},
+{"lote":0,"item":8,"descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE VOLEI DE PRAIA","descricao_adicional":"<p>ARBITRAGEM PARA VOLEI DE PRAIA</p>\n","unidade":"JG","quantidade_min":0,"quantidade_max":120,"valor_referencia":166.25},
+{"lote":0,"item":9,"descricao":"SERVIÇO DE ARBITRAGEM PARA JOGOS DE FUTEVOLEI","descricao_adicional":"<p>ARBITRAGEM PARA FUTEVOLEI</p>\n","unidade":"JG","quantidade_min":0,"quantidade_max":80,"valor_referencia":152.25},
+{"lote":0,"item":10,"descricao":"SERVIÇO DE ARBITRAGEM PARA OS JOGOS DE BEACH TENNIS","descricao_adicional":"<p>ARBITRAGEM PARA BEACH TENNIS</p>\n","unidade":"JG","quantidade_min":0,"quantidade_max":120,"valor_referencia":170}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-10","tipo":"","fase":"Fase Interna","link_publico":"ed83e907-84b6-450d-981e-761a5b629fd2"},
+{"sequencia":2,"data":"2025-03-27","tipo":"","fase":"Fase Interna","link_publico":"fa0fc42e-9c1d-4ad0-9f1e-a1e9edf31a18"},
+{"sequencia":3,"data":"2025-03-27","tipo":"","fase":"Fase Interna","link_publico":"c7d08dde-5c96-4542-9da0-dcb3c3a5f32e"},
+{"sequencia":4,"data":"2025-03-27","tipo":"","fase":"Fase Interna","link_publico":"ecae6c49-35e9-4325-957e-ce14cebd66a4"},
+{"sequencia":5,"data":"2025-03-27","tipo":"","fase":"Fase Interna","link_publico":"ad3d510c-2c58-45d5-8568-0a23448dc796"},
+{"sequencia":6,"data":"2025-03-27","tipo":"","fase":"Fase Interna","link_publico":"066e090c-6f1c-49cc-a431-e33327d02ea5"},
+{"sequencia":7,"data":"2025-03-27","tipo":"","fase":"Fase Interna","link_publico":"decf6c4c-8e63-452c-a1d6-e7b347594d5d"},
+{"sequencia":8,"data":"2025-03-25","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"1888b91f-e97e-42e3-9141-d0cb0d2547b5"},
+{"sequencia":9,"data":"2025-03-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"5dbed252-5af5-4743-ba61-2368a7e981d7"},
+{"sequencia":10,"data":"2025-03-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"36d2f1bf-a2bc-4ac7-a612-0a171173c603"}
+]
+}

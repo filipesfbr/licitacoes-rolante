@@ -1,0 +1,18 @@
+{"codigo":46196,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CLINICA MEDICA IGREJINHA LTDA","documento":"23.305.143/0001-07","descricao":"SERVIÇOS MÉDICOS DE OFTALMOLOGIA.","descricao_adicional":null,"unidade":"UN","valor_referencia":4000,"valor_vencedor":4000,"quantidade":24}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS MÉDICOS DE OFTALMOLOGIA.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":4000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-07-09","tipo":"","fase":"Fase Interna","link_publico":"88001ff1-6446-48d4-b6ce-a9e1ffc920d1"},
+{"sequencia":2,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"c1b526ed-bdbf-4798-8980-c283df879edd"},
+{"sequencia":3,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"ff956e6a-3ac2-4fd7-a3d5-2c7895411858"},
+{"sequencia":4,"data":"2025-07-10","tipo":"","fase":"Fase Interna","link_publico":"ec4bea48-a7a3-422f-a436-0344f77d2a2d"},
+{"sequencia":5,"data":"2025-07-10","tipo":"","fase":"Fase Interna","link_publico":"786b8d67-da83-4057-8e0c-03cf4cbddaa5"},
+{"sequencia":6,"data":"2025-07-30","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"71b63b7b-e416-4e10-a544-291aac8d7855"},
+{"sequencia":7,"data":"2025-05-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"2d8b44c4-aab5-4ec4-b149-446cb1f20a7a"},
+{"sequencia":8,"data":"2025-05-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"344884ec-fbb7-4b4f-b5a0-6fb52b96ae83"}
+]
+}

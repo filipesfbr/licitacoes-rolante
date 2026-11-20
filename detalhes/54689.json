@@ -1,0 +1,19 @@
+{"codigo":54689,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOC DE PAIS E MESTRES DA ESC MUN DE ENSINO FUND HUGO ZIMMER","documento":"94.725.157/0001-28","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"49726e9d-cef5-4889-93d4-083fc3f55267"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"191f3860-ce53-4e3b-9d3c-71645f825fe2"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"96262378-9a5d-4279-83b5-eb339635f8b7"},
+{"sequencia":4,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"f6355f4c-f443-459d-964a-b403b2f762fb"},
+{"sequencia":5,"data":"2026-08-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d7842e59-5f04-4824-8b93-2b7993ffa3fa"},
+{"sequencia":6,"data":"2026-08-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"33696189-900c-4515-93a7-ba0be149dd9c"},
+{"sequencia":7,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"4df02f10-88c3-47ee-a1cd-480495a8dbd3"},
+{"sequencia":8,"data":"2026-08-13","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"2ac0ce28-57f4-400c-b28f-8bcd3e1332c6"},
+{"sequencia":9,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"17472adc-51ac-429c-aa50-f06d0fe9120c"}
+]
+}

@@ -1,0 +1,16 @@
+{"codigo":46064,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"KIRA RECREACAO INFANTIL LTDA","documento":"31.776.450/0001-02","descricao":"SERVIÇOS DE RECREAÇÃO, PINTURA DE ROSTO E MODELAGEM DE BALÕES.","descricao_adicional":"<p>Contratação de empresa especializada para a prestação de serviços de recreação, atividades de pintura de rosto e modelagem de balões, incluindo a prestação integral dos serviços, o fornecimento de todos os materiais necessários para a execução das atividades, bem como as despesas com deslocamento, hospedagem e alimentação dos profissionais, no período de&nbsp;<span style=\"font-size: 8pt;\">13/01/2026 e 30/01/2026, totalizando 12 (doze) dias de atividades, a serem realizadas nos turnos manhã e tarde, nos endereços das escolas da rede municipal de educação, conforme cronograma estabelecido pela Secretaria Municipal de Educação.</span></p>","unidade":"UN","valor_referencia":13680,"valor_vencedor":13680,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS DE RECREAÇÃO, PINTURA DE ROSTO E MODELAGEM DE BALÕES.","descricao_adicional":"<p>Contratação de empresa especializada para a prestação de serviços de recreação, atividades de pintura de rosto e modelagem de balões, incluindo a prestação integral dos serviços, o fornecimento de todos os materiais necessários para a execução das atividades, bem como as despesas com deslocamento, hospedagem e alimentação dos profissionais, no período de&nbsp;<span style=\"font-size: 8pt;\">13/01/2026 e 30/01/2026, totalizando 12 (doze) dias de atividades, a serem realizadas nos turnos manhã e tarde, nos endereços das escolas da rede municipal de educação, conforme cronograma estabelecido pela Secretaria Municipal de Educação.</span></p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":13680}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-13","tipo":"","fase":"Fase Interna","link_publico":"0c96f623-47da-4e57-8459-56a7a2fd6b8b"},
+{"sequencia":2,"data":"2026-01-13","tipo":"","fase":"Fase Interna","link_publico":"ee48333c-c4ff-49c6-bf14-9dadb4342016"},
+{"sequencia":3,"data":"2026-01-13","tipo":"","fase":"Fase Interna","link_publico":"6de78bcb-ce02-4905-b6c0-928178ae71ca"},
+{"sequencia":4,"data":"2026-01-13","tipo":"","fase":"Fase Interna","link_publico":"a0039219-221e-4e0d-8b5f-69dc9c253a7b"},
+{"sequencia":5,"data":"2026-01-13","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"6f329159-fae5-42f8-83b0-8d3ad2464b7a"},
+{"sequencia":6,"data":"2026-01-14","tipo":"Outros documentos","fase":"Publicação","link_publico":"10cdebfd-6171-4d0a-baeb-c5ae074698d6"}
+]
+}

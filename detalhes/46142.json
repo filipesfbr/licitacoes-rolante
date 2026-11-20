@@ -1,0 +1,30 @@
+{"codigo":46142,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"IVG BRASIL LTDA.","documento":"36.519.422/0001-15","descricao":"ÔNIBUS RURAL ESCOLAR (ORE 2) - TRANSMISSÃO MECÂNICA","descricao_adicional":null,"unidade":"UN","valor_referencia":421971.65,"valor_vencedor":421971.65,"quantidade":2},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"AGRALE S/A","documento":"88.610.324/0001-92","descricao":"ÔNIBUS RURAL ESCOLAR ORE 0 (4X4) TRANSMISSÃO MECÂNICA","descricao_adicional":null,"unidade":"UN","valor_referencia":716875.3,"valor_vencedor":716875.3,"quantidade":3.00001}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ÔNIBUS RURAL ESCOLAR (ORE 2) - TRANSMISSÃO MECÂNICA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":421971.65},
+{"lote":0,"item":2,"descricao":"ÔNIBUS RURAL ESCOLAR ORE 0 (4X4) TRANSMISSÃO MECÂNICA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":716875.3}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"27baae13-ae3d-45e6-9961-12f0fc0f042d"},
+{"sequencia":2,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"8c156e75-772a-45ee-9c90-4bc115b7a649"},
+{"sequencia":3,"data":"2025-08-07","tipo":"","fase":"Fase Interna","link_publico":"e3f29733-3cb7-40da-8f17-838c58bb1e40"},
+{"sequencia":4,"data":"2025-08-07","tipo":"","fase":"Fase Interna","link_publico":"627a44a8-ada9-413a-a1f7-a445018b80dd"},
+{"sequencia":5,"data":"2025-08-07","tipo":"","fase":"Fase Interna","link_publico":"7b82105c-5658-44e3-863d-912cd84ffe11"},
+{"sequencia":6,"data":"2025-08-07","tipo":"","fase":"Fase Interna","link_publico":"db7dd907-6199-487c-8cb8-5c3e1dd6c126"},
+{"sequencia":7,"data":"2025-08-08","tipo":"","fase":"Fase Interna","link_publico":"3f359755-ad66-426b-a97d-4039bad6f65b"},
+{"sequencia":8,"data":"2025-08-08","tipo":"","fase":"Fase Interna","link_publico":"ee147bfe-9737-4428-9b71-d6806e10787b"},
+{"sequencia":9,"data":"2025-08-08","tipo":"","fase":"Fase Interna","link_publico":"92db6a5d-5130-4c12-b4fb-5c488399db4d"},
+{"sequencia":10,"data":"2025-08-08","tipo":"","fase":"Fase Interna","link_publico":"30b05a95-83be-42d8-ac74-7dae8694ebc1"},
+{"sequencia":11,"data":"2025-08-08","tipo":"","fase":"Fase Interna","link_publico":"2e3db103-86d0-4f2e-833e-03e861255582"},
+{"sequencia":12,"data":"2025-08-08","tipo":"","fase":"Fase Interna","link_publico":"dd5237ae-279e-4edc-9bec-307094164e02"},
+{"sequencia":13,"data":"2025-08-08","tipo":"","fase":"Fase Interna","link_publico":"d61f5d45-0a32-45f9-8a22-5401d4cacd47"},
+{"sequencia":14,"data":"2025-08-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"fd9ab97d-69a9-4ab9-8419-0b505072bfe1"},
+{"sequencia":15,"data":"2025-08-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"0c073cdc-6a01-41ee-bca3-baf5df02c81c"},
+{"sequencia":16,"data":"2025-08-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"97cdc2d2-7569-4838-b474-0fe25d4df2f2"},
+{"sequencia":17,"data":"2025-08-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"5ed111c2-ff50-4dd4-90ae-39283a93401f"},
+{"sequencia":18,"data":"2025-08-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"ef89a477-a150-4153-90aa-42a6b9fcb084"}
+]
+}

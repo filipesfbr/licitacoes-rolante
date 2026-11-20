@@ -1,0 +1,17 @@
+{"codigo":46042,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO COMUNITÁRIA DE ILHA NOVA - ASCOMIN","documento":"93.240.463/0001-01","descricao":"APRESENTAÇÃO DE GRUPO DE DANÇA FOLCLÓRICA","descricao_adicional":null,"unidade":"UN","valor_referencia":2444.4444,"valor_vencedor":2444.4444,"quantidade":9}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"APRESENTAÇÃO DE GRUPO DE DANÇA FOLCLÓRICA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":9,"valor_referencia":2444.4444}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5c069503-0006-40b7-918d-898c87908902"},
+{"sequencia":2,"data":"2026-02-26","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"9aab6210-e77a-4eaa-bcfc-c73255b984a5"},
+{"sequencia":3,"data":"2026-02-26","tipo":"ETP","fase":"Fase Interna","link_publico":"42eddba4-6986-4e9d-8a74-754d2c0d2e0a"},
+{"sequencia":4,"data":"2026-02-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"82c7d229-2105-46cb-8f4e-a50bddd231d1"},
+{"sequencia":5,"data":"2026-02-26","tipo":"Comprovação de exclusividade","fase":"Fase Interna","link_publico":"80ef255b-2e6a-4208-b124-f22177a16ce4"},
+{"sequencia":6,"data":"2026-02-26","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"b335d0b2-0e93-4826-a933-e4e5c6466783"},
+{"sequencia":7,"data":"2026-02-27","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"0f24444c-51a5-45ea-aae2-5e3850a0d71b"}
+]
+}

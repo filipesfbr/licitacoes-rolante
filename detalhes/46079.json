@@ -1,0 +1,20 @@
+{"codigo":46079,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":true,"descricao":"LOCAÇÃO DE IMÓVEL PARA EXTRAÇÃO DE SAIBRO.LOCALIDADE DA FAZENDA FLESCH.","descricao_adicional":null,"unidade":"UN","valor_referencia":3738.9,"valor_vencedor":3738.9,"quantidade":23}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE IMÓVEL PARA EXTRAÇÃO DE SAIBRO.LOCALIDADE DA FAZENDA FLESCH.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":3738.9}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"029be557-e7d7-4fd9-97a9-ede14bcf87cd"},
+{"sequencia":2,"data":"2026-01-15","tipo":"","fase":"Fase Interna","link_publico":"672016b7-45fb-4bda-a698-a9992fbaf762"},
+{"sequencia":3,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"663b6dd5-0101-4109-8919-8405a1a296a7"},
+{"sequencia":4,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"ab3ca902-befc-4fef-8460-2c523193b909"},
+{"sequencia":5,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"3b606449-fef8-464c-a601-a948f32f0a24"},
+{"sequencia":6,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"0a371e19-f256-42a3-8a51-bac44a477eaa"},
+{"sequencia":7,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"44e67435-3ab2-4464-85ae-74f9ab4213ab"},
+{"sequencia":8,"data":"2025-12-03","tipo":"","fase":"Fase Interna","link_publico":"5cbba103-c781-411a-b8bf-12dabecf6f66"},
+{"sequencia":9,"data":"2025-12-03","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"f81cfce7-a619-42d7-bad9-303e441801b5"},
+{"sequencia":10,"data":"2025-12-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"11466c24-08e7-4faa-bc2f-669199734463"}
+]
+}

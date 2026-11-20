@@ -1,0 +1,53 @@
+{"codigo":46116,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MICROTECNICA INFORMATICA LTDA.","documento":"01.590.728/0009-30","descricao":"LIQUIDIFICADOR COMERCIAL DE 8 L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","valor_referencia":926.34,"valor_vencedor":926.34,"quantidade":38},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MICROTECNICA INFORMATICA LTDA.","documento":"01.590.728/0009-30","descricao":"LIQUIDIFICADOR COMERCIAL DE 15 L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","valor_referencia":1908.18,"valor_vencedor":1908.18,"quantidade":6},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"MASTER ELETRODOMESTICO LTDA.","documento":"33.859.616/0001-71","descricao":"BEBEDOURO INDUSTRIAL DE 25 LITROS,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","valor_referencia":1449,"valor_vencedor":1449,"quantidade":30},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"FRILUX INDUSTRIA E COMERCIO DE REFRIGERACAO LTDA.","documento":"05.730.111/0001-77","descricao":"FREEZER VERTICAL COMERCIAL DE 500 L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","valor_referencia":6900,"valor_vencedor":6900,"quantidade":4},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"FRILUX INDUSTRIA E COMERCIO DE REFRIGERACAO LTDA.","documento":"05.730.111/0001-77","descricao":"GELADEIRA VERTICAL INDUSTRIAL DE 4 PORTAS,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","valor_referencia":5950,"valor_vencedor":5950,"quantidade":22},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"MICROTECNICA INFORMATICA LTDA.","documento":"01.590.728/0009-30","descricao":"FOGÃO COMERCIAL 6 QUEIMADORES - 1 FORNO,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","valor_referencia":3304.2,"valor_vencedor":3304.2,"quantidade":28},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"G PANIZ INDUSTRIA DE EQUIPAMENTOS PARA ALIMENTACAO LTDA.","documento":"90.771.833/0001-49","descricao":"BATEDEIRA PLANETÁRIA 5L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","valor_referencia":2250,"valor_vencedor":2250,"quantidade":36},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"CANTARES MAGANIZE LTDA.","documento":"07.831.740/0001-19","descricao":"BATEDEIRA PLANETÁRIA 12L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","valor_referencia":3352,"valor_vencedor":3352,"quantidade":6}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LIQUIDIFICADOR COMERCIAL DE 8 L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":19,"valor_referencia":926.34},
+{"lote":0,"item":2,"descricao":"LIQUIDIFICADOR COMERCIAL DE 15 L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":1908.18},
+{"lote":0,"item":3,"descricao":"BEBEDOURO INDUSTRIAL DE 25 LITROS,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":15,"valor_referencia":1449},
+{"lote":0,"item":4,"descricao":"FREEZER VERTICAL COMERCIAL DE 500 L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":6900},
+{"lote":0,"item":5,"descricao":"GELADEIRA VERTICAL INDUSTRIAL DE 4 PORTAS,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":11,"valor_referencia":5950},
+{"lote":0,"item":6,"descricao":"FOGÃO COMERCIAL 6 QUEIMADORES - 1 FORNO,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":14,"valor_referencia":3304.2},
+{"lote":0,"item":7,"descricao":"BATEDEIRA PLANETÁRIA 5L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":18,"valor_referencia":2250},
+{"lote":0,"item":8,"descricao":"BATEDEIRA PLANETÁRIA 12L,  CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":3352}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-09","tipo":"","fase":"Fase Interna","link_publico":"f125624e-8059-4581-9525-263b578023dc"},
+{"sequencia":2,"data":"2025-10-10","tipo":"","fase":"Fase Interna","link_publico":"b17943d5-3bcd-44e3-bb03-69fbdfc2a4ea"},
+{"sequencia":3,"data":"2025-10-10","tipo":"","fase":"Fase Interna","link_publico":"eaf11298-68cb-4752-a166-5c871d146edc"},
+{"sequencia":4,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"0428ef81-51de-41b2-925f-01d454bba43f"},
+{"sequencia":5,"data":"2025-10-10","tipo":"","fase":"Fase Interna","link_publico":"90b569c3-e200-4a68-9804-74829e436e10"},
+{"sequencia":6,"data":"2025-10-10","tipo":"","fase":"Fase Interna","link_publico":"6ed6e45a-a1c8-408f-b447-b694cc849dad"},
+{"sequencia":7,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"53f8b263-8961-4552-8806-fc07308d5fc6"},
+{"sequencia":8,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"cb7a70a4-312f-4840-b65c-200bb4fc21e3"},
+{"sequencia":9,"data":"2025-09-26","tipo":"","fase":"Fase Interna","link_publico":"0d03f857-1785-45d1-8361-f8ffd5c6fb55"},
+{"sequencia":10,"data":"2025-09-26","tipo":"","fase":"Fase Interna","link_publico":"7c0aa9b7-ce68-4d94-a822-c5ee0f0400eb"},
+{"sequencia":11,"data":"2025-09-26","tipo":"","fase":"Fase Interna","link_publico":"aed228ac-90ff-4245-968e-2ff001a09f4e"},
+{"sequencia":12,"data":"2025-09-26","tipo":"","fase":"Fase Interna","link_publico":"f915f81a-edf3-4dd5-be28-857d6083c3d4"},
+{"sequencia":13,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"6e140595-460d-4dec-a848-f16c711b7b56"},
+{"sequencia":14,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"14426dc4-11e4-4eb1-b7a2-5ed7b3c31460"},
+{"sequencia":15,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"fd11b508-0ebb-4020-a804-e6483ca5a8c8"},
+{"sequencia":16,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"a736e873-0378-4b97-9580-230d7b7dbb26"},
+{"sequencia":17,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"68a2a307-54f0-4a1a-940a-a9fb6648acde"},
+{"sequencia":18,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"358234ce-b873-4cd1-abf0-41275d11984f"},
+{"sequencia":19,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"d29981d1-9e24-484e-b364-723ab7e5e67a"},
+{"sequencia":20,"data":"2025-09-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"0b96ba0f-97d1-4926-8f65-d2e9eb1c760d"},
+{"sequencia":21,"data":"2025-09-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"dcd76dce-fbf8-4696-8e69-2928ce873bb8"},
+{"sequencia":22,"data":"2025-09-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"9483d588-23e9-45ca-a0ab-9c45d58b85aa"},
+{"sequencia":23,"data":"2025-09-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"caf3018f-2324-473b-9942-b84c53d37ccb"},
+{"sequencia":24,"data":"2025-09-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"94e15f1f-510c-49cc-93b6-87c717652c94"},
+{"sequencia":25,"data":"2025-09-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"91078a64-c30d-4749-a5ab-010c23740eb7"},
+{"sequencia":26,"data":"2025-09-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"7b45cdf4-bdf5-41ca-b1db-a5c1e4c85e64"},
+{"sequencia":27,"data":"2025-09-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"f851f377-3ab4-4df4-8873-e85b4417a7a6"},
+{"sequencia":28,"data":"2025-09-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"5cf2b700-f40d-42e2-920c-9d52cc95e596"},
+{"sequencia":29,"data":"2025-09-30","tipo":"Outros documentos","fase":"Publicação","link_publico":"43514860-9fd0-42ec-8545-0090857266e8"}
+]
+}

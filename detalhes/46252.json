@@ -1,0 +1,11 @@
+{"codigo":46252,
+"vencedores":[]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CAFÉ DA MANHÃ","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":510,"valor_referencia":38}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-01-31","tipo":"","fase":"Fase Interna","link_publico":"a94a7297-ecba-4274-be61-e6412076ad0a"},
+{"sequencia":2,"data":"2025-01-31","tipo":"","fase":"Fase Interna","link_publico":"35845312-9ba1-4d83-ba6f-411b5c192a84"},
+{"sequencia":3,"data":"2025-02-07","tipo":"","fase":"Fase Interna","link_publico":"a09f68dc-047e-48f4-80c3-d1cf812e85fb"}
+]
+}

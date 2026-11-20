@@ -1,0 +1,17 @@
+{"codigo":46226,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"AURELIO EDINEI FLESCH","documento":"36.532.324/0001-18","descricao":"CONTRATAÇAO DE EMPRESA PARA DISPONIBILIZAR EDUCADOR FÍSICO PARA REALIZAR ATIVIDADES COM GRUPOS DE TERCEIRA IDADE. CARGA HORARIA: 20 HORAS SEMANAIS","descricao_adicional":null,"unidade":"UN","valor_referencia":3500,"valor_vencedor":3500,"quantidade":10}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇAO DE EMPRESA PARA DISPONIBILIZAR EDUCADOR FÍSICO PARA REALIZAR ATIVIDADES COM GRUPOS DE TERCEIRA IDADE. CARGA HORARIA: 20 HORAS SEMANAIS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":3500}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-20","tipo":"","fase":"Fase Interna","link_publico":"cb737896-77e9-4517-bd6a-510ec30b8c23"},
+{"sequencia":2,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"6211f1fd-ffec-417f-abd6-2f9906bae534"},
+{"sequencia":3,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"00074565-3d3b-4640-b43a-ff28cf257a69"},
+{"sequencia":4,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"a59ecc77-a918-4880-9f96-e7c6e0eff4e0"},
+{"sequencia":5,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"53cc71b4-2273-402a-8838-3f8a314fdb00"},
+{"sequencia":6,"data":"2025-04-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"50506b69-c6e2-40b2-976f-778be357a67d"},
+{"sequencia":7,"data":"2025-03-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"e6935bdd-155c-40ab-83c5-ce6d87df98f8"}
+]
+}

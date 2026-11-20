@@ -1,0 +1,17 @@
+{"codigo":46190,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"RAI LUIZ BONALUME","documento":"35.901.924/0001-43","descricao":"ASSESSORIA DIVERSA.","descricao_adicional":null,"unidade":"UN","valor_referencia":62.5,"valor_vencedor":62.5,"quantidade":384}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ASSESSORIA DIVERSA.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":384,"valor_referencia":62.5}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-14","tipo":"","fase":"Fase Interna","link_publico":"f4d4234a-e4c7-4ae9-b0b4-fe987c4287c7"},
+{"sequencia":2,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"695395d3-4b31-4007-98e9-feb134f930ab"},
+{"sequencia":3,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"a4e7a795-2b0d-485b-b590-9df3a067ca5e"},
+{"sequencia":4,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"b612730d-f5a1-4a49-865a-5bf9799598e5"},
+{"sequencia":5,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"25529446-5da0-4457-8ec7-32fd3076ffa3"},
+{"sequencia":6,"data":"2025-05-07","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"a1ea230f-f196-4be2-8c15-36857a563aa3"},
+{"sequencia":7,"data":"2025-05-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"256f738d-453c-4216-8d06-96e021d301da"}
+]
+}

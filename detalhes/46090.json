@@ -1,0 +1,16 @@
+{"codigo":46090,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ELITE PLAYGROUND COMERCIO DE BRINQUEDOS LTDA","documento":"03.384.999/0001-08","descricao":"PLAYGROUND DE PLÁSTICO COLORIDO MÚLTIPLAS ATIVIDADES REVESTIDO COM ACABAMENTO DE POLIPROPILENO E POLIETILENO.","descricao_adicional":null,"unidade":"UN","valor_referencia":16500,"valor_vencedor":16500,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PLAYGROUND DE PLÁSTICO COLORIDO MÚLTIPLAS ATIVIDADES REVESTIDO COM ACABAMENTO DE POLIPROPILENO E POLIETILENO.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":16500}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"df4af1c6-fd93-40d1-af80-b5d5f680d456"},
+{"sequencia":2,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"ea6daa79-13c9-4b3e-b216-2464ba3e7d7b"},
+{"sequencia":3,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"9cdf9629-94c1-44cb-9968-cfc44ee571bd"},
+{"sequencia":4,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"5fd662dc-c821-4652-bb95-40f84bb98ba4"},
+{"sequencia":5,"data":"2025-11-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"677154f6-bcf6-4dff-b82f-f45efa18ab4f"},
+{"sequencia":6,"data":"2025-11-07","tipo":"Outros documentos","fase":"Publicação","link_publico":"e262831f-c832-4bf7-b214-7e602c261b0f"}
+]
+}

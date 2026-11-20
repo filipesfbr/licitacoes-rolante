@@ -1,0 +1,16 @@
+{"codigo":46174,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"LOJAS BECKER LTDA.","documento":"04.415.928/0235-62","descricao":"SECADORA DE ROUPA COM CAPACIDADE PARA 10KG. 220V COM GARANTIA DE 1 ANO","descricao_adicional":null,"unidade":"UN","valor_referencia":1889,"valor_vencedor":1889,"quantidade":9}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SECADORA DE ROUPA COM CAPACIDADE PARA 10KG. 220V COM GARANTIA DE 1 ANO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":9,"valor_referencia":1889}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-30","tipo":"","fase":"Fase Interna","link_publico":"d79a5a4a-6509-41f3-834b-66c1d930f4f8"},
+{"sequencia":2,"data":"2025-05-30","tipo":"","fase":"Fase Interna","link_publico":"3c3f0e17-9d6e-4512-8149-efc7aa395cbb"},
+{"sequencia":3,"data":"2025-05-30","tipo":"","fase":"Fase Interna","link_publico":"28369495-d3c1-4ca1-b50e-1fb4aaa7462b"},
+{"sequencia":4,"data":"2025-05-30","tipo":"","fase":"Fase Interna","link_publico":"a8e64e44-45cc-42e1-851a-fca9f1abe0bb"},
+{"sequencia":5,"data":"2025-05-30","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"3125adb8-d4e7-4937-89b7-e233f78ef44a"},
+{"sequencia":6,"data":"2025-06-02","tipo":"Outros documentos","fase":"Publicação","link_publico":"6820bb60-d6a3-4f8e-9309-310562433210"}
+]
+}

@@ -1,0 +1,58 @@
+{"codigo":46213,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"G8 CONSTRUÇÕES","documento":"51.801.434/0001-21","descricao":"MURO DE CONTENÇÃO (GABIÃO) NA ESTRADA BARRINHA, LOCALIDADE MASCARADA, ROLANTE/RS - META 02","descricao_adicional":null,"unidade":"UN","valor_referencia":148343.62,"valor_vencedor":103000,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"G8 CONSTRUÇÕES","documento":"51.801.434/0001-21","descricao":"MURO DE CONTENÇÃO (GABIÃO) NA ESTRADA DO MORRO DO GARCIA, LOCALIDADE MORRO GRANDE, ROLANTE/RS - META 03","descricao_adicional":null,"unidade":"UN","valor_referencia":199491.92,"valor_vencedor":139500,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"LAJECRIL ARTEFATOS DE CIMENTO LTDA","documento":"03.326.193/0001-63","descricao":"MURO DE CONTENÇÃO (GABIÃO) NA RUA IVO SCHENKEL, LOCALIDADE MASCARADA, ROLANTE/RS - META 02","descricao_adicional":null,"unidade":"UN","valor_referencia":826267.8,"valor_vencedor":619700.85,"quantidade":1},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"G8 CONSTRUÇÕES","documento":"51.801.434/0001-21","descricao":"MURO DE CONTENÇÃO (GABIÃO) NA RUA GUILHERME EMIG, BAIRRO RIO BRANCO, ROLANTE/RS - META 02","descricao_adicional":null,"unidade":"UN","valor_referencia":202721.74,"valor_vencedor":141500,"quantidade":1},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"G8 CONSTRUÇÕES","documento":"51.801.434/0001-21","descricao":"MURO DE CONTENÇÃO (GABIÃO) NA LOCALIDADE DE AREIA, ROLANTE/RS - META 02","descricao_adicional":null,"unidade":"UN","valor_referencia":303589.48,"valor_vencedor":212512.64,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MURO DE CONTENÇÃO (GABIÃO) NA ESTRADA BARRINHA, LOCALIDADE MASCARADA, ROLANTE/RS - META 02","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":148343.62},
+{"lote":0,"item":2,"descricao":"MURO DE CONTENÇÃO (GABIÃO) NA ESTRADA DO MORRO DO GARCIA, LOCALIDADE MORRO GRANDE, ROLANTE/RS - META 03","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":199491.92},
+{"lote":0,"item":3,"descricao":"MURO DE CONTENÇÃO (GABIÃO) NA RUA IVO SCHENKEL, LOCALIDADE MASCARADA, ROLANTE/RS - META 02","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":826267.8},
+{"lote":0,"item":4,"descricao":"MURO DE CONTENÇÃO (GABIÃO) NA RUA GUILHERME EMIG, BAIRRO RIO BRANCO, ROLANTE/RS - META 02","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":202721.74},
+{"lote":0,"item":5,"descricao":"MURO DE CONTENÇÃO (GABIÃO) NA LOCALIDADE DE AREIA, ROLANTE/RS - META 02","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":303589.48}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-13","tipo":"","fase":"Fase Interna","link_publico":"98fc91dc-da00-4011-974b-c91d6dabfde4"},
+{"sequencia":2,"data":"2025-06-13","tipo":"","fase":"Fase Interna","link_publico":"fab26300-10b0-4a17-ac96-9d6f4b37f700"},
+{"sequencia":3,"data":"2025-06-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"52681aed-402f-428d-b5ed-2b11800158c5"},
+{"sequencia":4,"data":"2025-07-25","tipo":"","fase":"Fase Interna","link_publico":"386dec3b-67b3-4b41-bc65-f783ab7ac50f"},
+{"sequencia":5,"data":"2025-07-25","tipo":"","fase":"Fase Interna","link_publico":"47d18c56-0a34-4418-aa56-d2399826e3fe"},
+{"sequencia":6,"data":"2025-08-29","tipo":"","fase":"Fase Interna","link_publico":"31c0c64a-946a-4b28-9764-0b0cf4aaea1b"},
+{"sequencia":7,"data":"2025-08-29","tipo":"","fase":"Fase Interna","link_publico":"3cc6bcbe-e949-4ce5-a5ee-018abea75e5c"},
+{"sequencia":8,"data":"2025-10-08","tipo":"","fase":"Fase Interna","link_publico":"6b9da41c-82a3-4e8f-9a62-67558d89f193"},
+{"sequencia":9,"data":"2025-12-09","tipo":"","fase":"Fase Interna","link_publico":"1d4259c6-999f-45f4-beb6-ed8c6e3a7518"},
+{"sequencia":10,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"19dd236b-7f0a-44ac-bec6-591bcce5f086"},
+{"sequencia":11,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"85bc626d-54f0-4655-bad9-3ed2ed2044ff"},
+{"sequencia":12,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"841be80c-ed2f-4fd6-b1e4-f0f623e752ba"},
+{"sequencia":13,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"7bdd76a5-7cc5-4b59-9744-b3cd0a6e6481"},
+{"sequencia":14,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"b9d5b2c9-c307-432f-b66e-2f239a9cea3b"},
+{"sequencia":15,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"2d760c73-6482-47f6-94bc-6dcbe40ac109"},
+{"sequencia":16,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"90ef601e-a330-4588-bdda-59f6c9d43e38"},
+{"sequencia":17,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"9a7e742e-4766-4574-9d96-306ea7929730"},
+{"sequencia":18,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"6cd2d084-0e13-489c-9f2b-2193cd66a5d6"},
+{"sequencia":19,"data":"2025-04-10","tipo":"","fase":"Fase Interna","link_publico":"e0dca416-da6b-4c93-baf0-8021c41dc9a8"},
+{"sequencia":20,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"621a58e3-40b1-429c-b0b7-224b992f0e49"},
+{"sequencia":21,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"fe95028b-858c-45f7-b756-7d774e24ef07"},
+{"sequencia":22,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"2df3eb78-59ca-48d4-afb7-bdbf75f19008"},
+{"sequencia":23,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"be791e21-2fdc-4f62-be6d-2de953ba474f"},
+{"sequencia":24,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"fe7d43e2-7716-4666-9096-fd9d71bbb457"},
+{"sequencia":25,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"6bb2039d-d746-4c29-8987-7380f224ca77"},
+{"sequencia":26,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"833865e2-ff08-438a-ac4b-3d51887d51df"},
+{"sequencia":27,"data":"2025-06-04","tipo":"","fase":"Fase Interna","link_publico":"f7bb27d5-472b-4583-908d-4814f7f3004f"},
+{"sequencia":28,"data":"2025-06-04","tipo":"","fase":"Fase Interna","link_publico":"1fe011df-d3c7-449f-9e0e-be3f1ee9707c"},
+{"sequencia":29,"data":"2025-06-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"4f172e36-851a-4f15-b64b-2d58f9613092"},
+{"sequencia":30,"data":"2025-06-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"30912026-3696-41c4-97cb-e8e8ae00ccf2"},
+{"sequencia":31,"data":"2025-08-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"bba91d16-31c3-427d-9320-75d22eb38fba"},
+{"sequencia":32,"data":"2025-06-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"be7965ba-5578-48bc-aa35-a71dfca3347a"},
+{"sequencia":33,"data":"2025-06-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"3a3b496d-ab79-49d8-9829-fa65b96f96c6"},
+{"sequencia":34,"data":"2025-06-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"e187151a-91ab-437e-ba11-e7ad55984f9c"},
+{"sequencia":35,"data":"2025-08-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"cd29fc3a-54d2-4127-b8fa-e8062206f787"},
+{"sequencia":36,"data":"2025-05-29","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"7ea42276-b14c-4817-8110-9e23e6819eb5"},
+{"sequencia":37,"data":"2025-04-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"be3d070a-9cb6-4c62-992c-8a17487a71d1"},
+{"sequencia":38,"data":"2025-04-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"688c2582-ede1-4371-87c1-4ddc9106b726"},
+{"sequencia":39,"data":"2025-04-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"10326a88-ae02-4af5-bef2-442d8a2c0910"},
+{"sequencia":40,"data":"2025-04-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"d6d85764-bc5b-46c7-9be2-6fad4adc6f32"}
+]
+}

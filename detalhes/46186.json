@@ -1,0 +1,18 @@
+{"codigo":46186,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"TRANS CAPAZ TRANSPORTES LTDA","documento":"19.088.967/0001-03","descricao":"SERVIÇO DE LIMPEZA","descricao_adicional":"<p>LAVAGEM/LIMPEZA DA RUA COBERTA &#8211; SERVIÇO POR EMPREITADA.</p>\n<p>MATERIAIS E EQUIPAMENTOS PARA EXECUÇÃO DO SERVIÇO POR CONTA DO CONTRATADO.</p>","unidade":"UN","valor_referencia":8500,"valor_vencedor":8500,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"TRANS CAPAZ TRANSPORTES LTDA","documento":"19.088.967/0001-03","descricao":"SERVIÇO DE PINTURA","descricao_adicional":"<p>PINTURA DA RUA COBERTA &#8211; SERVIÇO POR EMPREITADA.</p>\n<p>MATERIAIS PARA A PINTURA POR CONTA DO CONTRATANTE.</p>","unidade":"UN","valor_referencia":12500,"valor_vencedor":12500,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE LIMPEZA","descricao_adicional":"<p>LAVAGEM/LIMPEZA DA RUA COBERTA &#8211; SERVIÇO POR EMPREITADA.</p>\n<p>MATERIAIS E EQUIPAMENTOS PARA EXECUÇÃO DO SERVIÇO POR CONTA DO CONTRATADO.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":8500},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE PINTURA","descricao_adicional":"<p>PINTURA DA RUA COBERTA &#8211; SERVIÇO POR EMPREITADA.</p>\n<p>MATERIAIS PARA A PINTURA POR CONTA DO CONTRATANTE.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":12500}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"d60b5bb3-79b1-4d1e-a1c5-407f86fdacab"},
+{"sequencia":2,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"b9dde948-0222-4db3-b82b-785a2d83a6e2"},
+{"sequencia":3,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"1ff6ba6a-0359-4ffe-ad7a-6b2cbaffb0c0"},
+{"sequencia":4,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"f1e094c9-1ed4-4e9e-b0c0-3477d37f00af"},
+{"sequencia":5,"data":"2025-05-19","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"90b73c80-4eef-4ac8-aeee-bdb154c8e0c3"},
+{"sequencia":6,"data":"2025-05-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"1c13da24-403a-4616-95d0-53764ce1c6c9"}
+]
+}

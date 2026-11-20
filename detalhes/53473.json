@@ -1,0 +1,17 @@
+{"codigo":53473,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MAX BEBEDOUROS LTDA","documento":"58.669.993/0001-79","descricao":"BEBEDOURO","descricao_adicional":"<p style=\"text-align:justify\"><strong>Bebedouro Industrial 25 litros 220V -&nbsp;</strong>Estrutura em Inox; P&eacute;s regul&aacute;veis; Termostato para ajuste de temperatura; 2 Sa&iacute;das de &aacute;gua: 1 torneira de &aacute;gua natural e 1 gelada; Torneiras em inox ou material similar; Filtro purificador de &aacute;gua; Aparador de &aacute;gua refor&ccedil;ado.</p>\n","unidade":"UN","valor_referencia":2332,"valor_vencedor":2332,"quantidade":5},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MAX BEBEDOUROS LTDA","documento":"58.669.993/0001-79","descricao":"BEBEDOURO","descricao_adicional":"<p style=\"text-align:justify\"><strong>Bebedouro Industrial 50 litros 220V -&nbsp;</strong>Estrutura em Inox; P&eacute;s regul&aacute;veis; Termostato para ajuste de temperatura; 2 Sa&iacute;das de &aacute;gua: 1 torneira de &aacute;gua natural e 1 gelada; Torneiras em inox ou material similar; Filtro purificador de &aacute;gua; Aparador de &aacute;gua refor&ccedil;ado.</p>\n","unidade":"UN","valor_referencia":2737,"valor_vencedor":2737,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"BEBEDOURO","descricao_adicional":"<p style=\"text-align:justify\"><strong>Bebedouro Industrial 25 litros 220V -&nbsp;</strong>Estrutura em Inox; P&eacute;s regul&aacute;veis; Termostato para ajuste de temperatura; 2 Sa&iacute;das de &aacute;gua: 1 torneira de &aacute;gua natural e 1 gelada; Torneiras em inox ou material similar; Filtro purificador de &aacute;gua; Aparador de &aacute;gua refor&ccedil;ado.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":5,"valor_referencia":2332},
+{"lote":0,"item":2,"descricao":"BEBEDOURO","descricao_adicional":"<p style=\"text-align:justify\"><strong>Bebedouro Industrial 50 litros 220V -&nbsp;</strong>Estrutura em Inox; P&eacute;s regul&aacute;veis; Termostato para ajuste de temperatura; 2 Sa&iacute;das de &aacute;gua: 1 torneira de &aacute;gua natural e 1 gelada; Torneiras em inox ou material similar; Filtro purificador de &aacute;gua; Aparador de &aacute;gua refor&ccedil;ado.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2737}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"e61a87da-542d-434f-b2f3-60c857fd13aa"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e6135075-cc54-413c-a353-dbfe56b88f6c"},
+{"sequencia":3,"data":"2026-05-15","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fa78edee-6d82-4153-98c3-2b386c592415"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"a0c26532-cd06-4173-af1f-c5f73f1a0328"},
+{"sequencia":5,"data":"2026-05-20","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"97b71555-5a23-4b6d-9ca8-77e96bfe8d19"}
+]
+}

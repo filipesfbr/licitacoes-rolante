@@ -1,0 +1,25 @@
+{"codigo":46162,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"NM INDUSTRIA E COMERCIO DE MAQUINAS AGRICOLAS LTDA","documento":"24.735.598/0001-25","descricao":"COLHEDORA DE FORRAGEMDE ÁREA TOTAL, COM ÁREA DE CORTE DE 01M DE LARGURA, TRATORIZADO, EQUIPADO COM 02 TAMBORES RECOLHEDORES COM DISCOS COM FACAS DE ALTA VELOCIDADE EM CADA TAMBOR,TRANSMISSÃO POR COROA E PINHÃO COM CAIXA BLINDADA, COM 04 ROLOS INTERNOS ( SEM TRANSMISSÃO POR CORRENTE ), SENDO 02...","descricao_adicional":null,"unidade":"UN","valor_referencia":75109,"valor_vencedor":70000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"COLHEDORA DE FORRAGEMDE ÁREA TOTAL, COM ÁREA DE CORTE DE 01M DE LARGURA, TRATORIZADO, EQUIPADO COM 02 TAMBORES RECOLHEDORES COM DISCOS COM FACAS DE ALTA VELOCIDADE EM CADA TAMBOR,TRANSMISSÃO POR COROA E PINHÃO COM CAIXA BLINDADA, COM 04 ROLOS INTERNOS ( SEM TRANSMISSÃO POR CORRENTE ), SENDO 02...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":75109}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"c6961d3d-7771-4031-b4e4-b1f762e49e3d"},
+{"sequencia":2,"data":"2025-06-24","tipo":"","fase":"Fase Interna","link_publico":"abd28fd0-7efa-4310-a70c-eddd514f5550"},
+{"sequencia":3,"data":"2025-06-24","tipo":"","fase":"Fase Interna","link_publico":"4ecdfba9-22d5-4261-966c-0fe238fc1a02"},
+{"sequencia":4,"data":"2025-06-24","tipo":"","fase":"Fase Interna","link_publico":"aee9203a-ca2d-41cf-b943-24f79abf0c66"},
+{"sequencia":5,"data":"2025-07-30","tipo":"","fase":"Fase Interna","link_publico":"9d56ac6c-705c-448f-96c4-a35892bd9eac"},
+{"sequencia":6,"data":"2025-07-30","tipo":"","fase":"Fase Interna","link_publico":"b8e425f7-9a51-416b-a011-5935082d25ed"},
+{"sequencia":7,"data":"2025-07-30","tipo":"","fase":"Fase Interna","link_publico":"a88ab068-b177-4fe4-a6c9-34ee814be0ca"},
+{"sequencia":8,"data":"2025-07-30","tipo":"","fase":"Fase Interna","link_publico":"ed84ab5e-f18e-455b-98d1-b6e91b5a11ff"},
+{"sequencia":9,"data":"2025-07-30","tipo":"","fase":"Fase Interna","link_publico":"b817307e-b50a-4cf8-8d07-e385bd9d75dc"},
+{"sequencia":10,"data":"2025-07-30","tipo":"","fase":"Fase Interna","link_publico":"225a9f77-5eac-42db-a2cb-f464dee0878f"},
+{"sequencia":11,"data":"2025-07-30","tipo":"","fase":"Fase Interna","link_publico":"e6bd5eb5-90bf-4b4f-8128-8ace2fee2327"},
+{"sequencia":12,"data":"2025-07-30","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"312eb12f-c48c-4447-b079-be7613d946de"},
+{"sequencia":13,"data":"2025-06-24","tipo":"Outros documentos","fase":"Publicação","link_publico":"4021f9c6-02ed-493b-ab22-6f4c5792f1aa"},
+{"sequencia":14,"data":"2025-06-24","tipo":"Outros documentos","fase":"Publicação","link_publico":"6bbcb300-502e-4832-a5b8-4797be2bad30"},
+{"sequencia":15,"data":"2025-06-24","tipo":"Outros documentos","fase":"Publicação","link_publico":"1efbd963-7f98-4fa2-a8d8-beeab51fa7b4"}
+]
+}

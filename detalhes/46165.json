@@ -1,0 +1,18 @@
+{"codigo":46165,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"LÂMPADAS VAPOR SÓDIO 70W.","descricao_adicional":null,"unidade":"UN","valor_referencia":16.49,"valor_vencedor":16.49,"quantidade":400},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"REATOR ELETROMAGNETICO PARA UMA LÂMPADA A VAPOR DE SÓDIO 70W, 220V 60HZ, FP 0,92; IGNITOR INTERNO; USO EXTERNO; BASE PARA RELE INCORPORADO NO TOPO CAIXA; EM AÇO SAE 1020; ACABAMENTO EM PINTURA A PÓ OU EPOXI, FABRICAÇÃO NACIONAL, SELO DO PROCEL.","descricao_adicional":null,"unidade":"UN","valor_referencia":87.41,"valor_vencedor":87.41,"quantidade":200}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LÂMPADAS VAPOR SÓDIO 70W.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":400,"valor_referencia":16.49},
+{"lote":0,"item":2,"descricao":"REATOR ELETROMAGNETICO PARA UMA LÂMPADA A VAPOR DE SÓDIO 70W, 220V 60HZ, FP 0,92; IGNITOR INTERNO; USO EXTERNO; BASE PARA RELE INCORPORADO NO TOPO CAIXA; EM AÇO SAE 1020; ACABAMENTO EM PINTURA A PÓ OU EPOXI, FABRICAÇÃO NACIONAL, SELO DO PROCEL.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":87.41}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"d80b6aaf-56c0-4e90-b599-0ae69370c8a2"},
+{"sequencia":2,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"4e87540c-90c8-4724-b43c-7685769ac7b6"},
+{"sequencia":3,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"d5e69ddb-0387-4f0c-bf96-5d7b8341b1f5"},
+{"sequencia":4,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"f873cd23-775f-4629-b6a1-1f926ca4be6c"},
+{"sequencia":5,"data":"2025-06-23","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"c1071b77-d583-4823-a31a-8a34f73daac1"},
+{"sequencia":6,"data":"2025-06-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"d9819ccd-a099-46fd-820a-e9e6ac58b70d"}
+]
+}

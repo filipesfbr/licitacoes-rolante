@@ -1,0 +1,18 @@
+{"codigo":46056,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"JORNAL REPERCUSSAO LTDA","documento":"17.376.797/0001-29","descricao":"PROJETO REPERCUSSÃO NA ESCOLA","descricao_adicional":"","unidade":"UN","valor_referencia":2979,"valor_vencedor":2979,"quantidade":42}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PROJETO REPERCUSSÃO NA ESCOLA","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":42,"valor_referencia":2979}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-27","tipo":"","fase":"Fase Interna","link_publico":"052c032c-1f58-4a36-ac0f-0e61b76685d7"},
+{"sequencia":2,"data":"2026-01-27","tipo":"","fase":"Fase Interna","link_publico":"459ddeac-2670-4912-be07-ab37b6ee540d"},
+{"sequencia":3,"data":"2026-01-27","tipo":"","fase":"Fase Interna","link_publico":"858a5a98-04b1-4ee4-aa20-fc50d0467b29"},
+{"sequencia":4,"data":"2026-01-27","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"d2532bd2-9edc-4a6f-a2d7-9b4c1f490152"},
+{"sequencia":5,"data":"2026-01-29","tipo":"","fase":"Fase Interna","link_publico":"d20a4dca-89ba-4a42-8bed-085ac6e1ac69"},
+{"sequencia":6,"data":"2026-01-28","tipo":"","fase":"Fase Interna","link_publico":"3e659526-020e-4a80-a631-2ca7667ec91c"},
+{"sequencia":7,"data":"2026-01-28","tipo":"","fase":"Fase Interna","link_publico":"157e1e8f-606e-47a9-bcab-5a398b5cdb79"},
+{"sequencia":8,"data":"2026-01-28","tipo":"Outros documentos","fase":"Publicação","link_publico":"27ca29ba-237b-4ac3-9057-2408711a121f"}
+]
+}

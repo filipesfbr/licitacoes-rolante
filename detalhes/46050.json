@@ -1,0 +1,15 @@
+{"codigo":46050,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"RAFAEL BARBOSA PALESTRAS E TREINAMENTOS LTDA","documento":"56.389.503/0001-55","descricao":"SERVIÇO DE PALESTRANTE","descricao_adicional":"<p>Palestra com Rafa Barbosa, incluindo a prestação de serviço e todas as despesas de deslocamento, hospedagem e alimentação.</p>","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE PALESTRANTE","descricao_adicional":"<p>Palestra com Rafa Barbosa, incluindo a prestação de serviço e todas as despesas de deslocamento, hospedagem e alimentação.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-09","tipo":"","fase":"Fase Interna","link_publico":"529d2c68-0efc-443e-982b-64e2fef44799"},
+{"sequencia":2,"data":"2026-02-09","tipo":"","fase":"Fase Interna","link_publico":"618878ce-60ea-4b2d-9a9b-4e92f9f96762"},
+{"sequencia":3,"data":"2026-02-09","tipo":"","fase":"Fase Interna","link_publico":"50b95c03-b4b9-46bc-b4bf-089707bf4e2f"},
+{"sequencia":4,"data":"2026-02-09","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"ff550319-0559-4948-9506-435b4c4d8b48"},
+{"sequencia":5,"data":"2026-02-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"3829b70c-aa7f-49e6-841b-0a5e222b9938"}
+]
+}

@@ -1,0 +1,30 @@
+{"codigo":53159,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC RS","documento":"03.422.707/0001-84","descricao":"CURSO","descricao_adicional":"<p>Curso Qualifica&ccedil;&atilde;o em Monitor de Turismo Local</p>\n","unidade":"UN","valor_referencia":23700,"valor_vencedor":23700,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC RS","documento":"03.422.707/0001-84","descricao":"CURSO","descricao_adicional":"<p>Curso de Qualifica&ccedil;&atilde;o em Marketing Digital e Estrat&eacute;gico- do Branding &agrave; Inteligencia Artificial&nbsp;</p>\n","unidade":"UN","valor_referencia":21999.9,"valor_vencedor":21999.9,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CURSO","descricao_adicional":"<p>Curso Qualifica&ccedil;&atilde;o em Monitor de Turismo Local</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":23700},
+{"lote":0,"item":2,"descricao":"CURSO","descricao_adicional":"<p>Curso de Qualifica&ccedil;&atilde;o em Marketing Digital e Estrat&eacute;gico- do Branding &agrave; Inteligencia Artificial&nbsp;</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":21999.9}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c8d0e900-9aaa-4eb7-94e8-215e7bfdfccf"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"717da287-db5c-4871-aae6-301e82e61dc2"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d31a3154-1d9b-4af2-8cd2-340869fcf1f8"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"842028e6-b294-4faa-b7f7-d8f8a32320b6"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5277ea82-dc14-4062-88e1-6af5dfa79a35"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0e7e80b5-c687-410a-9bab-a82b1cbb3877"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1d9c5aed-42c5-451b-9597-0e1ace944114"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e32840eb-8158-4aaf-be45-05da4aec7fc7"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a2838114-60cb-4cba-85cd-a1dffe24cf0b"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"58cc8151-f685-49b6-95c0-c7bde8b4ba90"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1be005a0-0d23-4160-96fd-7dd44c416cbd"},
+{"sequencia":12,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"5fbdde3d-04d5-44df-8a60-783a74bad449"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b105f4d0-c3ae-4336-bbcc-36c7f117d558"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cc48341f-8f0b-4566-9f54-8d11774f5f36"},
+{"sequencia":15,"data":"2026-04-28","tipo":"ETP","fase":"Fase Interna","link_publico":"5593f85a-5349-4fc5-a70b-feea83c98f4b"},
+{"sequencia":16,"data":"2026-04-28","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a1b8c8ec-fb82-41ff-ba66-7db78fe3481a"},
+{"sequencia":17,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"02917721-1ab8-4450-a367-93174f710843"},
+{"sequencia":18,"data":"2026-04-29","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"d37202a2-9e6e-4c95-a866-94ca703e2825"}
+]
+}

@@ -1,0 +1,35 @@
+{"codigo":53151,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SINDICATO DOS TRABALHADORES NO CALCADO DE ROLANTE","documento":"91.110.569/0001-65","descricao":"LOCAÇÃO DE IMÓVEL PARA SINE/FGTAS","descricao_adicional":"<p>SALA COMERCIAL NO ANDAR DE T&Eacute;RREO MEDINDO 269 MTS2, SITUADA NA RUA ALFREDO WUST 645 CENTRO ROLANTE; VALOR ATUAL: 4.118,49.</p>\n\n<p>VALOR PROPOSTO COM ATUALIZA&Ccedil;&Atilde;O DO IPCA (3,81%): 4.276,00, INCLUSO NO VALOR AGUA E LUZ.</p>\n","unidade":"MES","valor_referencia":4276,"valor_vencedor":4276,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE IMÓVEL PARA SINE/FGTAS","descricao_adicional":"<p>SALA COMERCIAL NO ANDAR DE T&Eacute;RREO MEDINDO 269 MTS2, SITUADA NA RUA ALFREDO WUST 645 CENTRO ROLANTE; VALOR ATUAL: 4.118,49.</p>\n\n<p>VALOR PROPOSTO COM ATUALIZA&Ccedil;&Atilde;O DO IPCA (3,81%): 4.276,00, INCLUSO NO VALOR AGUA E LUZ.</p>\n","unidade":"MES","quantidade_min":0,"quantidade_max":12,"valor_referencia":4276}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"d6eebcfc-ed15-4dff-ae74-5b6eb36924f9"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"325fab65-08fd-4906-a1d7-2d1b72226e63"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fa10b7d4-6ca8-4e5f-9a01-3816e6cb764b"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5d3851df-afb0-416e-9959-14d0330b52b6"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2f1deb47-bd43-4a40-b34a-7b480be4a2a1"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4de11946-cc3d-4309-a0a1-4c475a173d2b"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c1f59b07-be20-4583-a2fb-daa2d0637ecd"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cef2c076-f615-4a33-a804-7b4c90ac756c"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e74ff55a-b548-40cb-8c25-70772c482f2a"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"bfadddfe-01a6-40d9-a0db-e7154116960e"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c68ce48a-5051-4536-acc0-2fef8fa6b5eb"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"16da4bdb-a985-4316-8f72-6cf9b91f65ad"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"dbcc92d2-a9bf-4874-953a-84822c2c3073"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3f81cc9b-8da0-4b41-b9a3-8568bc6512da"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a98188d3-4190-4d3e-ad73-5e401f9643ea"},
+{"sequencia":16,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8cf11c95-7997-49b9-9943-b6c550ea6825"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7c094698-5b6b-43f3-a051-b8c6eca0544b"},
+{"sequencia":18,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d664786d-087d-4550-a79d-ed71e9b57ef5"},
+{"sequencia":19,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"08a98dbf-4223-4917-9fc9-14007e3875a1"},
+{"sequencia":20,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2298e30c-1b08-42db-8ee2-9423bda7c142"},
+{"sequencia":21,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"92aa429c-ed65-4777-b16d-81a8b67fbe65"},
+{"sequencia":22,"data":"2026-04-27","tipo":"ETP","fase":"Fase Interna","link_publico":"ab9360c4-2759-483b-9e03-61b0b220546e"},
+{"sequencia":23,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7d77a656-ea28-46fa-83f5-3ad1f28de258"},
+{"sequencia":24,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"e55cc563-6358-4d46-9cbf-790787c71be2"},
+{"sequencia":25,"data":"2026-04-29","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"af105555-9dc3-4267-9b7a-80f732a44eae"}
+]
+}

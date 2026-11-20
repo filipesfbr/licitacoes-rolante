@@ -1,0 +1,28 @@
+{"codigo":46096,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SINOSCAR SA","documento":"91.688.234/0001-29","descricao":"VEÍCULO ZERO KM, NOVO, COM FABRICAÇÃO ANO 2025, MODELO 2025, OU SUPERIOR, COR BRANCA, 7 LUGARES, COM AS SEGUINTES ESPECIFICAÇÕES MÍNIMAS E ITENS ORIGINAIS DA LINHA DE MONTAGEM DA FABRICANTE: MOTOR FLEX (ÁLCOOL E GASOLINA), COM POTÊNCIA MÍNIMA DE 105 CV QUANDO ABASTECIDO 100% GASOLINA, CAPACIDADE...","descricao_adicional":null,"unidade":"UN","valor_referencia":152556.5,"valor_vencedor":148000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"VEÍCULO ZERO KM, NOVO, COM FABRICAÇÃO ANO 2025, MODELO 2025, OU SUPERIOR, COR BRANCA, 7 LUGARES, COM AS SEGUINTES ESPECIFICAÇÕES MÍNIMAS E ITENS ORIGINAIS DA LINHA DE MONTAGEM DA FABRICANTE: MOTOR FLEX (ÁLCOOL E GASOLINA), COM POTÊNCIA MÍNIMA DE 105 CV QUANDO ABASTECIDO 100% GASOLINA, CAPACIDADE...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":152556.5}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-24","tipo":"","fase":"Fase Interna","link_publico":"90cf34eb-21da-48c5-b7e8-ac45b11483cd"},
+{"sequencia":2,"data":"2025-10-21","tipo":"","fase":"Fase Interna","link_publico":"38188dae-6dda-4ec4-8c27-8a6faa18d798"},
+{"sequencia":3,"data":"2025-10-21","tipo":"","fase":"Fase Interna","link_publico":"9c52e46d-7828-4036-9973-ac431858f729"},
+{"sequencia":4,"data":"2025-10-21","tipo":"","fase":"Fase Interna","link_publico":"7afbdb82-8c90-4a56-8773-8f5154e794a8"},
+{"sequencia":5,"data":"2025-10-22","tipo":"","fase":"Fase Interna","link_publico":"9066e8bb-e27f-407a-baf6-5e4ec3f4c800"},
+{"sequencia":6,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"e79539b1-0c59-4d14-8e54-b542500c48df"},
+{"sequencia":7,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"2bf0a1d1-c83b-4be3-9f85-c4a26c9bea98"},
+{"sequencia":8,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"a67be987-9bdb-472c-9117-27723e47eddb"},
+{"sequencia":9,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"46375b68-4ba5-4af6-981e-790bf29182f0"},
+{"sequencia":10,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"a8fbd27d-bfd2-45b6-b354-e6a00a072165"},
+{"sequencia":11,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"b28ea95e-a2b8-4e5e-936c-eadf37653723"},
+{"sequencia":12,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"9d3b60ec-e7c1-4c35-9c35-b97009c93d51"},
+{"sequencia":13,"data":"2025-11-24","tipo":"","fase":"Fase Interna","link_publico":"e7046a58-e34d-496e-8445-9355e7fc727c"},
+{"sequencia":14,"data":"2025-11-17","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"47753279-f7db-4832-993c-d0b3a6c0819c"},
+{"sequencia":15,"data":"2025-10-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"6a60f42d-e591-4794-96e8-815fd9e73303"},
+{"sequencia":16,"data":"2025-10-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"1ea82b29-1039-4f5f-859d-61c00f7bc4a1"},
+{"sequencia":17,"data":"2025-10-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"1a455319-9d19-419e-a088-a52522a9d27d"},
+{"sequencia":18,"data":"2025-11-21","tipo":"Outros documentos","fase":"Publicação","link_publico":"07e32467-d235-4f67-ac97-2ddae2f70050"}
+]
+}

@@ -1,0 +1,19 @@
+{"codigo":54703,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"APM EMEI PRIMEIROS PASSOS","documento":"20.853.653/0001-20","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"32ebfee0-d37b-42b4-9e97-68123719d666"},
+{"sequencia":2,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"3a13d008-f4c8-4964-9609-bf8d85e06ef2"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6d537856-338c-4a22-81d5-d9909986a342"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a9bedc80-ce34-487a-8fb8-48aa8dcde26c"},
+{"sequencia":5,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"c0bee3a5-d9ef-49f4-8162-6ed72cf325a9"},
+{"sequencia":6,"data":"2026-08-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"82618b40-211d-4642-808b-94de65d76367"},
+{"sequencia":7,"data":"2026-08-13","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f46afedf-f34d-4e92-a735-998a3fff75a1"},
+{"sequencia":8,"data":"2026-08-13","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"4b179a0d-2230-4913-9dce-db59970f42e4"},
+{"sequencia":9,"data":"2026-08-14","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"f1a96b8d-570c-431f-9f79-0584c421167d"}
+]
+}

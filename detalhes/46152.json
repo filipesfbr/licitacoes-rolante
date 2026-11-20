@@ -1,0 +1,16 @@
+{"codigo":46152,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"TUBOSSINOS TUBOS DE CONCRETO PARA SANEAMENTO EIRELI EPP","documento":"09.140.305/0001-73","descricao":"ADUELAS DE CONCRETO DE SECÇÃO RETANGULAR COM AS DIMENSÕES INTERNAS DE 2 X 2 X 1 MT. EXECUÇÃO EM CONCRETO ARMADO COM EXPESSURA DE 15 CM, CARGA DE TRÂNSITO DE 45 TONELADAS.","descricao_adicional":null,"unidade":"UN","valor_referencia":3300,"valor_vencedor":3300,"quantidade":15}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ADUELAS DE CONCRETO DE SECÇÃO RETANGULAR COM AS DIMENSÕES INTERNAS DE 2 X 2 X 1 MT. EXECUÇÃO EM CONCRETO ARMADO COM EXPESSURA DE 15 CM, CARGA DE TRÂNSITO DE 45 TONELADAS.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":15,"valor_referencia":3300}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-07-11","tipo":"","fase":"Fase Interna","link_publico":"7063661c-f964-4b2b-b362-25b0d8d748e6"},
+{"sequencia":2,"data":"2025-07-11","tipo":"","fase":"Fase Interna","link_publico":"95f197fa-9e5a-4752-ae8f-16cd6ee85614"},
+{"sequencia":3,"data":"2025-07-11","tipo":"","fase":"Fase Interna","link_publico":"3aa24c56-5987-4eb6-99da-0eebb1f82af0"},
+{"sequencia":4,"data":"2025-07-11","tipo":"","fase":"Fase Interna","link_publico":"853b0268-8293-44ae-9a39-8e7a6cd86a0e"},
+{"sequencia":5,"data":"2025-07-11","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"b01b8ee1-c0f6-4674-b923-9a71b207f198"},
+{"sequencia":6,"data":"2025-07-14","tipo":"Outros documentos","fase":"Publicação","link_publico":"8cc95264-4c7b-4290-acbd-c1ddeba92fa9"}
+]
+}

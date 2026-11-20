@@ -1,0 +1,17 @@
+{"codigo":52926,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"EDITORA ACESSO POPULAR LTDA","documento":"07.436.019/0001-24","descricao":"LIVRO","descricao_adicional":"<p>Livro &quot;O que te faz voar?&quot;, de autoria de Chris Dias, Editora Acesso Popular Ltda.</p>\n","unidade":"UN","valor_referencia":48,"valor_vencedor":48,"quantidade":175},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"EDITORA ACESSO POPULAR LTDA","documento":"07.436.019/0001-24","descricao":"LIVRO","descricao_adicional":"<p>Livro &quot;Kombina com o qu&ecirc;?&quot;, de autoria de Chris Dias, Editora Acesso Popular Ltda.</p>\n","unidade":"UN","valor_referencia":48,"valor_vencedor":48,"quantidade":175}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LIVRO","descricao_adicional":"<p>Livro &quot;O que te faz voar?&quot;, de autoria de Chris Dias, Editora Acesso Popular Ltda.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":175,"valor_referencia":48},
+{"lote":0,"item":2,"descricao":"LIVRO","descricao_adicional":"<p>Livro &quot;Kombina com o qu&ecirc;?&quot;, de autoria de Chris Dias, Editora Acesso Popular Ltda.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":175,"valor_referencia":48}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"6c35f721-cd6e-498f-879c-bdc725a4befd"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9919ec90-f554-43f1-90b1-1dbc787d25df"},
+{"sequencia":3,"data":"2026-04-08","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c7e30dfa-26fa-4027-ad21-d15709e719b3"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"a36159ee-bbeb-47f0-b0cc-c0f815d89176"},
+{"sequencia":5,"data":null,"tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"d41b0dcd-04f2-4fb5-8bc8-7d3b3a5ec99f"}
+]
+}

@@ -1,0 +1,14 @@
+{"codigo":52946,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CLINICA MEDICA TIMMEN LTDA","documento":"07.884.484/0001-28","descricao":"EXAME MÉDICO","descricao_adicional":"","unidade":"UN","valor_referencia":50,"valor_vencedor":50,"quantidade":400}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"EXAME MÉDICO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":400,"valor_referencia":50}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"7958e140-2a17-4a64-832e-7473cb6ea737"},
+{"sequencia":2,"data":"2026-04-10","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f542e818-777b-4099-962f-2ff307f75620"},
+{"sequencia":3,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"8eb55da0-8165-46f6-93ea-2ae48f0b1bf9"},
+{"sequencia":4,"data":"2026-04-15","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"dd9249d0-aef9-421e-92af-08250d923860"}
+]
+}

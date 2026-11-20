@@ -1,0 +1,19 @@
+{"codigo":46250,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MATTOS & MANINI ADVOGADOS","documento":"22.026.558/0001-89","descricao":"PRESTAÇÃO DE SERVIÇOS TÉCNICOS PROFISSIONAIS DE ASSESSORIA.\r\nPRESTAÇÃO DE SERVIÇOS TÉCNICOS PROFISSIONAIS ESPECIALIZADOS DE ASSESSORIA, NAS ÁREAS JURÍDICA, ADMINISTRAÇÃO DE PESSOAL, ORÇAMENTÁRIA, CONTÁBIL, LEGISLATIVO E DE TREINAMENTO DE SERVIDORES.","descricao_adicional":null,"unidade":"UN","valor_referencia":10800,"valor_vencedor":10800,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PRESTAÇÃO DE SERVIÇOS TÉCNICOS PROFISSIONAIS DE ASSESSORIA.\r\nPRESTAÇÃO DE SERVIÇOS TÉCNICOS PROFISSIONAIS ESPECIALIZADOS DE ASSESSORIA, NAS ÁREAS JURÍDICA, ADMINISTRAÇÃO DE PESSOAL, ORÇAMENTÁRIA, CONTÁBIL, LEGISLATIVO E DE TREINAMENTO DE SERVIDORES.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":10800}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-02-18","tipo":"","fase":"Fase Interna","link_publico":"75a3d76f-c1f3-4863-887c-8f9bd0ea8a0d"},
+{"sequencia":2,"data":"2025-06-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cac72dc1-6cf3-4a0d-87ef-14982155db16"},
+{"sequencia":3,"data":"2025-02-05","tipo":"","fase":"Fase Interna","link_publico":"bf54cda5-f8c1-470e-a16f-55d6bf64636e"},
+{"sequencia":4,"data":"2025-02-05","tipo":"","fase":"Fase Interna","link_publico":"14323f60-120d-49a4-80e7-fe2adfcd6c30"},
+{"sequencia":5,"data":"2025-02-18","tipo":"","fase":"Fase Interna","link_publico":"cbf449ce-bedf-44ef-88a7-34bc0152a297"},
+{"sequencia":6,"data":"2025-02-18","tipo":"","fase":"Fase Interna","link_publico":"275f945e-112b-479d-8294-05592f176ccf"},
+{"sequencia":7,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"b7c5c80e-b50b-4151-8a98-2714a5fec901"},
+{"sequencia":8,"data":"2025-04-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"040b232a-c51a-4850-a906-28b0998d4968"},
+{"sequencia":9,"data":"2025-01-31","tipo":"Outros documentos","fase":"Publicação","link_publico":"7debc8a2-b738-4192-8b88-9504d8a5289a"}
+]
+}

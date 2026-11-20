@@ -1,0 +1,17 @@
+{"codigo":46189,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DANIEL R MOTA","documento":"10.459.585/0001-66","descricao":"SERVIÇOS DE INSTRUTOR DE DANÇAS FOLCLÓRICAS.","descricao_adicional":"<p>Formação e instrução de grupos de danças folclóricas alemãs, italianas, gauchescas, portuguesas e salão no período de Maio de 2026 a Abril de 2026, sendo o atendimento de 8 horas semanais.</p>","unidade":"UN","valor_referencia":2000,"valor_vencedor":2000,"quantidade":24}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS DE INSTRUTOR DE DANÇAS FOLCLÓRICAS.","descricao_adicional":"<p>Formação e instrução de grupos de danças folclóricas alemãs, italianas, gauchescas, portuguesas e salão no período de Maio de 2026 a Abril de 2026, sendo o atendimento de 8 horas semanais.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":2000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-12","tipo":"","fase":"Fase Interna","link_publico":"ac5bb758-53ec-4fee-bb6d-ff1daa084365"},
+{"sequencia":2,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"da9483ed-890c-45a8-b1bf-d56d51afc160"},
+{"sequencia":3,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"941ec59f-0d5a-4735-822c-bd10a7472b56"},
+{"sequencia":4,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"5b3c8ff0-367c-4c56-9280-14392419a4e4"},
+{"sequencia":5,"data":"2025-05-07","tipo":"","fase":"Fase Interna","link_publico":"04466607-b476-4c67-9d99-c56e979c92f5"},
+{"sequencia":6,"data":"2025-05-07","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"09534a6a-91b9-4781-86b5-f9ec2159389c"},
+{"sequencia":7,"data":"2025-05-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"a4741e70-b0f7-4c05-a8fe-194be41f2a38"}
+]
+}

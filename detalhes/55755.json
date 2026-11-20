@@ -1,0 +1,21 @@
+{"codigo":55755,
+"vencedores":[]
+,"itens":[
+{"lote":0,"item":1,"descricao":"VIAGEM DE IDA E VOLTA, PARA TRAMANDAI (176,10 KM)","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":2211.76},
+{"lote":0,"item":2,"descricao":"VIAGEM DE IDA E VOLTA PARA PORTO ALEGRE (234 KM)","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":2314.4},
+{"lote":0,"item":3,"descricao":"VIAGEM DE IDA E VOLTA PARA GRAMADO (132 KM)","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":3,"valor_referencia":2121.2},
+{"lote":0,"item":4,"descricao":"VIAGEM IDA E VOLTA PARA ATÉ PARQUE DA CUCA(88KM)CONF.SMDS","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":1770.8}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"905a239f-05a7-4b4f-8a76-cf9991063a50"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"78649c07-0836-4169-a656-b1bee5b33da1"},
+{"sequencia":3,"data":"2026-11-12","tipo":"ETP","fase":"Fase Interna","link_publico":"f83e694c-bd85-4caa-afe4-c1fd7c633a4d"},
+{"sequencia":4,"data":"2026-11-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6e704c4b-274d-41db-a8b8-8a9d0a76a09c"},
+{"sequencia":5,"data":"2026-11-17","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"0e1133eb-ba63-4062-af6a-131e07b3f068"},
+{"sequencia":6,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"d26e7a08-b636-48d8-87c2-30d6226dfc80"},
+{"sequencia":7,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"0c4a8536-5fe2-41f7-8e98-736e01215f0a"},
+{"sequencia":8,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"d57b2da1-c10d-43dd-8b32-2625d6157cfc"},
+{"sequencia":9,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"ce76da59-6781-4aea-b7c5-bdbe39f26cff"},
+{"sequencia":10,"data":"2026-11-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"702f8f30-80d0-4561-8871-b19fa1936842"}
+]
+}

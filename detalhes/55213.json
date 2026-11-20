@@ -1,0 +1,23 @@
+{"codigo":55213,
+"vencedores":[]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DA OBRA DE PAVIMENTAÇÃO DA ESTRADA MUNICIPAL CANTO DOS CARDOSO","descricao_adicional":"","unidade":"UN","quantidade_min":1,"quantidade_max":1,"valor_referencia":166162.29}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-06-30","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"4b1b0850-0cf9-4ceb-90c5-e88e780ecfff"},
+{"sequencia":2,"data":null,"tipo":"Cronograma","fase":"Fase Interna","link_publico":"f7c12418-97df-4ae9-839a-979f6e37635e"},
+{"sequencia":3,"data":null,"tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"5b7d65a9-0cc3-4942-a135-3ce01a11e514"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c1220168-c267-4fb6-a3b0-7810954989d7"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8cf614fc-3b9a-46d8-8df6-333a53fc4af8"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"08a64982-42cb-4572-8f79-e07d6817cb5d"},
+{"sequencia":7,"data":null,"tipo":"Detalhamento encargos sociais","fase":"Fase Interna","link_publico":"be59711d-df94-4b39-9207-d316584b0d0e"},
+{"sequencia":8,"data":null,"tipo":"Detalhamento BDI","fase":"Fase Interna","link_publico":"28553dc3-64a4-418e-a505-664714d74f1f"},
+{"sequencia":9,"data":"2026-09-17","tipo":"ETP","fase":"Fase Interna","link_publico":"cc61f214-a8be-4d2a-bf65-231621a70b1e"},
+{"sequencia":10,"data":"2026-09-17","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"46dfb39f-3b20-4966-bd03-caf7456919d9"},
+{"sequencia":11,"data":"2026-09-30","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"8e61e635-b4c4-4b35-86e9-389128f9db2d"},
+{"sequencia":12,"data":"2026-10-05","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"a7e95881-47e7-40b0-b321-0ca9900c723c"},
+{"sequencia":13,"data":"2026-10-05","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"15bdf2c6-40f4-43d7-93f0-28c8da4eca17"},
+{"sequencia":14,"data":"2026-10-05","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"69f43822-8022-43d4-b5a2-3262e448335f"},
+{"sequencia":15,"data":"2026-10-05","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"a6be46a0-bd9a-49f5-a64c-198977713ff4"}
+]
+}

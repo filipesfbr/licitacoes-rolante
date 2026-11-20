@@ -1,0 +1,36 @@
+{"codigo":46140,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"JOEL TEIXEIRA DA SILVA","documento":"34.797.283/0001-66","descricao":"OFICINAS DE MÚSICA","descricao_adicional":"<p>OFICINAS DE MUSIC PARA USUÁRIOS ATENDIDOS PELO SCFV (SERVIÇO DE CONVIVÊNCIA E FORTALECIMENTO DE VÍNCULOS ).</p>","unidade":"UN","valor_referencia":72.39,"valor_vencedor":57.86,"quantidade":2080},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"FLAVIA DOS SANTOS","documento":"30.154.277/0001-30","descricao":"OFICINAS DE MANICURE","descricao_adicional":"<p>OFICINAS DE MANICURE PARA USUÁRIOS DO SCFV (SERVIÇO DE CONVIVÊNCIA E FORTALECIMENTO DE VINCULOS)</p>","unidade":"UN","valor_referencia":89.67,"valor_vencedor":44.83,"quantidade":1160},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"RAI LUIZ BONALUME","documento":"35.901.924/0001-43","descricao":"ASSESSORIA E ORGANIZAÇÃO DE EVENTOS E OFICINAS DE TEATRO","descricao_adicional":null,"unidade":"UN","valor_referencia":86.9,"valor_vencedor":49.99,"quantidade":1300}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"OFICINAS DE MÚSICA","descricao_adicional":"<p>OFICINAS DE MUSIC PARA USUÁRIOS ATENDIDOS PELO SCFV (SERVIÇO DE CONVIVÊNCIA E FORTALECIMENTO DE VÍNCULOS ).</p>","unidade":"UN","quantidade_min":0,"quantidade_max":2080,"valor_referencia":72.39},
+{"lote":0,"item":2,"descricao":"OFICINAS DE MANICURE","descricao_adicional":"<p>OFICINAS DE MANICURE PARA USUÁRIOS DO SCFV (SERVIÇO DE CONVIVÊNCIA E FORTALECIMENTO DE VINCULOS)</p>","unidade":"UN","quantidade_min":0,"quantidade_max":624,"valor_referencia":89.67},
+{"lote":0,"item":3,"descricao":"OFICINAS DE DANÇA CONTEMPORÂNEA E BALLET","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1040,"valor_referencia":79.42},
+{"lote":0,"item":4,"descricao":"ASSESSORIA E ORGANIZAÇÃO DE EVENTOS E OFICINAS DE TEATRO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1300,"valor_referencia":86.9}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-25","tipo":"","fase":"Fase Interna","link_publico":"9474fc80-f11a-43cc-9ba2-f216244c3770"},
+{"sequencia":2,"data":"2025-09-25","tipo":"","fase":"Fase Interna","link_publico":"f202d74e-591c-4960-826f-d38be7554e7f"},
+{"sequencia":3,"data":"2025-09-25","tipo":"","fase":"Fase Interna","link_publico":"f0bbfdd0-2477-489b-81de-0d6d3924fd51"},
+{"sequencia":4,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"985dab6d-219b-4f76-ab3a-d151b63200da"},
+{"sequencia":5,"data":"2026-01-14","tipo":"","fase":"Fase Interna","link_publico":"fd91f380-e462-473c-9bd5-0bdf3754fc73"},
+{"sequencia":6,"data":"2026-01-14","tipo":"","fase":"Fase Interna","link_publico":"c4a4ca65-edfd-43a9-a943-6274e7e1b199"},
+{"sequencia":7,"data":"2026-01-14","tipo":"","fase":"Fase Interna","link_publico":"c7a8ae40-a59e-4f8e-8cbc-035fa6f04d8f"},
+{"sequencia":8,"data":"2025-08-15","tipo":"","fase":"Fase Interna","link_publico":"03db5ca9-d7c9-41b1-a378-f61838fa874f"},
+{"sequencia":9,"data":"2025-08-15","tipo":"","fase":"Fase Interna","link_publico":"fd92a985-668a-422c-a4fc-0329dfe71432"},
+{"sequencia":10,"data":"2025-08-15","tipo":"","fase":"Fase Interna","link_publico":"e42c66a4-f9ba-48d8-ab85-366662e9a8b6"},
+{"sequencia":11,"data":"2025-09-23","tipo":"","fase":"Fase Interna","link_publico":"47193a3c-192f-4785-bcac-c009c838f466"},
+{"sequencia":12,"data":"2025-09-23","tipo":"","fase":"Fase Interna","link_publico":"a34629e4-8281-4d32-98d5-d048a93a527c"},
+{"sequencia":13,"data":"2025-09-23","tipo":"","fase":"Fase Interna","link_publico":"ca895b4a-03ae-4167-89a1-0df80bb01583"},
+{"sequencia":14,"data":"2025-09-23","tipo":"","fase":"Fase Interna","link_publico":"f2113f26-d37c-4018-b05d-71ccc9a9c564"},
+{"sequencia":15,"data":"2025-09-23","tipo":"","fase":"Fase Interna","link_publico":"b73ee63d-fbd9-42a4-9bf4-98f5d91b1432"},
+{"sequencia":16,"data":"2025-09-23","tipo":"","fase":"Fase Interna","link_publico":"f9bc4b53-9638-4220-8a7c-4466834a556a"},
+{"sequencia":17,"data":"2025-09-23","tipo":"","fase":"Fase Interna","link_publico":"628270ef-763e-47d4-b498-04fe8c87ecad"},
+{"sequencia":18,"data":"2025-09-23","tipo":"","fase":"Fase Interna","link_publico":"c88bf222-c51d-4d6b-83fa-8f22dd156350"},
+{"sequencia":19,"data":"2025-09-23","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"114c149f-f679-4543-891e-b6b5f622db75"},
+{"sequencia":20,"data":"2025-08-18","tipo":"Outros documentos","fase":"Publicação","link_publico":"1c73dda0-a149-4829-b50c-427d6dc0a2a2"},
+{"sequencia":21,"data":"2025-08-18","tipo":"Outros documentos","fase":"Publicação","link_publico":"280d6457-a20d-4f5a-991c-7c86856029a1"}
+]
+}

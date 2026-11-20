@@ -1,0 +1,16 @@
+{"codigo":55142,
+"vencedores":[]
+,"itens":[
+{"lote":0,"item":1,"descricao":"TIRA REAGENTE PARA DETERMINAÇÃO DE GLICEMIA","descricao_adicional":"<p>caixa com 50 unidades.</p>\n","unidade":"CX","quantidade_min":0,"quantidade_max":2000,"valor_referencia":25.02}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c1d021ac-4b0f-482a-8640-920b8b4a9e09"},
+{"sequencia":2,"data":"2026-09-18","tipo":"ETP","fase":"Fase Interna","link_publico":"6737f7a9-dac7-48f0-bf4f-4a4f1e3e7f1f"},
+{"sequencia":3,"data":"2026-09-18","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5050d996-6f88-4213-881f-f81bc3b9ff1c"},
+{"sequencia":4,"data":"2026-09-24","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"6550df0b-8b74-4c0f-b411-972dd560a2bf"},
+{"sequencia":5,"data":"2026-09-29","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"26e21ab5-282e-4f98-adf0-ec6e59df5e6d"},
+{"sequencia":6,"data":"2026-09-29","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"d8e8002a-73da-42ba-8e21-3143a2490b07"},
+{"sequencia":7,"data":"2026-09-29","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"5308108f-c4eb-41d1-b39b-187eb8b96a9b"},
+{"sequencia":8,"data":"2026-09-29","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"ced71a99-b9f0-438d-9e67-c80a7e689d49"}
+]
+}

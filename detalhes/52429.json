@@ -1,0 +1,46 @@
+{"codigo":52429,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"BARONESA LTDA","documento":"73.993.362/0001-02","descricao":"COLCHONETE MEDINDO 1,20 M X 60 CM X 6 CM, CONFECCIONADO EM ESPUMA DE POLIURETANO COM DENSIDADE MÍNIMA D23, REVESTIDO EM NAPA OU COURVIN, MATERIAL IMPERMEÁVEL, RESISTENTE, ATÓXICO, LAVÁVEL E DE FÁCIL HIGIENIZAÇÃO, COM ACABAMENTO REFORÇADO, COSTURAS REFORÇADAS OU SOLDA ELETRÔNICA NAS EMENDAS, E...","descricao_adicional":"","unidade":"UN","valor_referencia":78.38,"valor_vencedor":68,"quantidade":200},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"BARONESA LTDA","documento":"73.993.362/0001-02","descricao":"COLCHONETE MEDINDO 1,60 M X 60 CM X 6 CM, CONFECCIONADO EM ESPUMA DE POLIURETANO COM DENSIDADE MÍNIMA D23, REVESTIDO EM NAPA OU COURVIN, MATERIAL IMPERMEÁVEL, RESISTENTE, ATÓXICO, LAVÁVEL E DE FÁCIL HIGIENIZAÇÃO, COM ACABAMENTO REFORÇADO, COSTURAS REFORÇADAS OU SOLDA ELETRÔNICA NAS EMENDAS, E...","descricao_adicional":"","unidade":"UN","valor_referencia":81.13,"valor_vencedor":74,"quantidade":100},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"BARONESA LTDA","documento":"73.993.362/0001-02","descricao":"ALMOFADA, MEDINDO 30 CM X 40 CM X 6 CM, CONFECCIONADA EM ESPUMA DE POLIURETANO COM DENSIDADE MÍNIMA D23, REVESTIDA EM NAPA OU COURVIN, MATERIAL IMPERMEÁVEL, RESISTENTE, ATÓXICO, LAVÁVEL E DE FÁCIL HIGIENIZAÇÃO, COM ACABAMENTO REFORÇADO, COSTURAS REFORÇADAS OU SOLDA ELETRÔNICA NAS EMENDAS, E...","descricao_adicional":"","unidade":"UN","valor_referencia":42.65,"valor_vencedor":25,"quantidade":500},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"BARONESA LTDA","documento":"73.993.362/0001-02","descricao":"CAMA ESPUMADA DESMONTÁVEL, MEDINDO APROXIMADAMENTE 1,20 M (COMPRIMENTO) X 60 CM (LARGURA) X 10 CM (ALTURA), CONFECCIONADA EM ESPUMA DE POLIURETANO COM DENSIDADE MÍNIMA D23, COM ESTRUTURA TOTALMENTE ESPUMADA, SEM PARTES RÍGIDAS, ESTRUTURADA DE FORMA MODULAR/DESMONTÁVEL, ADEQUADA AO MÉTODO...","descricao_adicional":"","unidade":"UN","valor_referencia":469.37,"valor_vencedor":390,"quantidade":100}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"COLCHONETE MEDINDO 1,20 M X 60 CM X 6 CM, CONFECCIONADO EM ESPUMA DE POLIURETANO COM DENSIDADE MÍNIMA D23, REVESTIDO EM NAPA OU COURVIN, MATERIAL IMPERMEÁVEL, RESISTENTE, ATÓXICO, LAVÁVEL E DE FÁCIL HIGIENIZAÇÃO, COM ACABAMENTO REFORÇADO, COSTURAS REFORÇADAS OU SOLDA ELETRÔNICA NAS EMENDAS, E...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":78.38},
+{"lote":0,"item":2,"descricao":"COLCHONETE MEDINDO 1,60 M X 60 CM X 6 CM, CONFECCIONADO EM ESPUMA DE POLIURETANO COM DENSIDADE MÍNIMA D23, REVESTIDO EM NAPA OU COURVIN, MATERIAL IMPERMEÁVEL, RESISTENTE, ATÓXICO, LAVÁVEL E DE FÁCIL HIGIENIZAÇÃO, COM ACABAMENTO REFORÇADO, COSTURAS REFORÇADAS OU SOLDA ELETRÔNICA NAS EMENDAS, E...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":100,"valor_referencia":81.13},
+{"lote":0,"item":3,"descricao":"ALMOFADA, MEDINDO 30 CM X 40 CM X 6 CM, CONFECCIONADA EM ESPUMA DE POLIURETANO COM DENSIDADE MÍNIMA D23, REVESTIDA EM NAPA OU COURVIN, MATERIAL IMPERMEÁVEL, RESISTENTE, ATÓXICO, LAVÁVEL E DE FÁCIL HIGIENIZAÇÃO, COM ACABAMENTO REFORÇADO, COSTURAS REFORÇADAS OU SOLDA ELETRÔNICA NAS EMENDAS, E...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":500,"valor_referencia":42.65},
+{"lote":0,"item":4,"descricao":"CAMA ESPUMADA DESMONTÁVEL, MEDINDO APROXIMADAMENTE 1,20 M (COMPRIMENTO) X 60 CM (LARGURA) X 10 CM (ALTURA), CONFECCIONADA EM ESPUMA DE POLIURETANO COM DENSIDADE MÍNIMA D23, COM ESTRUTURA TOTALMENTE ESPUMADA, SEM PARTES RÍGIDAS, ESTRUTURADA DE FORMA MODULAR/DESMONTÁVEL, ADEQUADA AO MÉTODO...","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":100,"valor_referencia":469.37}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"8cfd15c7-7b63-48fc-86db-821043524f06"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f9f369f4-3978-4fee-9610-be5bfc9b2e0c"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2c28e6a2-785b-4443-907a-1d82af220c36"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"77ea7de9-c647-46a6-a207-876f214e4fe9"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"77c3f565-5f90-43e7-a69d-76717b4d46a7"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"17a9ffff-7a53-4dc7-886a-cc279c06eacb"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9f3664fc-bf6b-402b-b01a-8903996eadbf"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1f8b97b8-8099-45c3-9e02-5b03276d2611"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a8eab8aa-ba86-4a91-b13d-6bf4ee7d491f"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4711a91e-e514-4b8d-a8c7-37cd28ad16c8"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9ee66c6f-8a5e-420b-bd42-7e1f82307ed3"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d44ec8e2-ee4c-4db7-801d-23809952b5ae"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"681791d9-9767-432b-8f73-46c563a0a03c"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d7922a36-ff74-45d0-a368-48ce6a322182"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a0204e81-f365-4137-95b3-3eb8a23b5913"},
+{"sequencia":16,"data":null,"tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"75c8cc6b-d5c5-4559-84e6-cb559d0cf881"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6172a7ee-5445-48b0-babd-dc024b70345c"},
+{"sequencia":18,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"291881e9-7e01-43ec-9b9d-8e9cef676da0"},
+{"sequencia":19,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"72ab16da-b99a-4c61-8fd2-e9497335990f"},
+{"sequencia":20,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a2a223c4-3db0-4a07-b70c-855adfbaf2b9"},
+{"sequencia":21,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"368733f7-c0e1-4e7b-a409-42c96529132c"},
+{"sequencia":22,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e25f84a4-5a43-4b98-80b8-55db145a6537"},
+{"sequencia":23,"data":null,"tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"b51760a0-b1a7-43c7-a13d-115fccc4dedf"},
+{"sequencia":24,"data":null,"tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"8a6155f4-f4b7-4070-a63f-38b0b86fc132"},
+{"sequencia":25,"data":null,"tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"310b1b65-94e2-47ce-8520-ddb0a8252376"},
+{"sequencia":26,"data":null,"tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"2cd757fc-fd43-473f-90d0-33aabf14f04a"},
+{"sequencia":27,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"a270c963-3bbc-4129-9e8a-95e1174fb39d"},
+{"sequencia":28,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"d1f5f28c-0e12-470a-8075-8db964dfad24"},
+{"sequencia":29,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"97dfa9d3-0d9c-4237-b1b3-e8c2f7b0d0d4"},
+{"sequencia":30,"data":null,"tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"bbb96b7f-5d73-4981-8bda-8dbc180d794b"}
+]
+}

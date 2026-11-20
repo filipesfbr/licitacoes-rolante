@@ -1,0 +1,29 @@
+{"codigo":46211,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"COMERCIAL ELETRICA G.F LTDA","documento":"86.935.483/0001-31","descricao":"CABO VINIL \"PLASTICHUMBO\" 2X1,5MM², 750V. CLASSE 1. TEMPERA MOLE, ISOLAÇÃO PVC/A 70ºC.","descricao_adicional":null,"unidade":"UN","valor_referencia":3.43,"valor_vencedor":3.43,"quantidade":200},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MATERIAL ELETRICO E FERRAGEM KIRSCH LTDA","documento":"17.292.995/0001-04","descricao":"CABO MULTIPLEX","descricao_adicional":null,"unidade":"UN","valor_referencia":3.1,"valor_vencedor":3.1,"quantidade":200},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"LÂMPADA VAPOR SÓDIO ALTA PRESSÃO; 70W, BULBO OVÓIDE OPALINO; BASE E 27.","descricao_adicional":null,"unidade":"UN","valor_referencia":16.75,"valor_vencedor":16.75,"quantidade":200},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"MACKE & CIA LTDA","documento":"88.279.419/0002-56","descricao":"LÂMPADA VAPOR DE SÓDIO TUBULAR, ALTA PRESSÃO, 100W, E40","descricao_adicional":null,"unidade":"UN","valor_referencia":21.75,"valor_vencedor":21.75,"quantidade":50},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"REATOR ELETROMÁGNÉTICO P/ LÂMAPADA VAPOR DE ALTA PRESSÃO. 70W/220V/60HZ; AFP, COM BASE PARA RELÉ INCOPORADO NO TOPO; USO EXTERNO.","descricao_adicional":null,"unidade":"UN","valor_referencia":89.69,"valor_vencedor":89.69,"quantidade":50},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"REATOR ELETROMÁGNÉTICO PARA LÂMPADA VAPOR DE SÓDIO. ALTA PRESSÃO; 250W/220V/60HZ; AFP; COM BASE PARA RELÉ INCORPORADA NO TOPO; USO EXTERNO.","descricao_adicional":null,"unidade":"UN","valor_referencia":83.7,"valor_vencedor":83.7,"quantidade":20}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CABO VINIL \"PLASTICHUMBO\" 2X1,5MM², 750V. CLASSE 1. TEMPERA MOLE, ISOLAÇÃO PVC/A 70ºC.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":3.43},
+{"lote":0,"item":2,"descricao":"CABO MULTIPLEX","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":3.1},
+{"lote":0,"item":3,"descricao":"LÂMPADA VAPOR SÓDIO ALTA PRESSÃO; 70W, BULBO OVÓIDE OPALINO; BASE E 27.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":16.75},
+{"lote":0,"item":4,"descricao":"LÂMPADA VAPOR DE SÓDIO TUBULAR, ALTA PRESSÃO, 100W, E40","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":50,"valor_referencia":21.75},
+{"lote":0,"item":5,"descricao":"REATOR ELETROMÁGNÉTICO P/ LÂMAPADA VAPOR DE ALTA PRESSÃO. 70W/220V/60HZ; AFP, COM BASE PARA RELÉ INCOPORADO NO TOPO; USO EXTERNO.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":50,"valor_referencia":89.69},
+{"lote":0,"item":6,"descricao":"REATOR ELETROMÁGNÉTICO PARA LÂMPADA VAPOR DE SÓDIO. ALTA PRESSÃO; 250W/220V/60HZ; AFP; COM BASE PARA RELÉ INCORPORADA NO TOPO; USO EXTERNO.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":20,"valor_referencia":83.7}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"8bd84e0a-c639-42ff-b031-9a98e3e10dee"},
+{"sequencia":2,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"a3b79690-9846-4809-b808-fdc7e27d9bb6"},
+{"sequencia":3,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"2b00515e-458c-4eb3-8f66-89b317eea6c8"},
+{"sequencia":4,"data":"2025-04-09","tipo":"","fase":"Fase Interna","link_publico":"292d8eb9-3c86-4b0d-aea7-1797e6bf1f5a"},
+{"sequencia":5,"data":"2025-04-09","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"1ddc4c01-6fcf-4c2d-8291-1a2978cd2bfc"},
+{"sequencia":6,"data":"2025-04-09","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"aa59633f-e842-455c-9399-dc60f0a7f38d"},
+{"sequencia":7,"data":"2025-04-09","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"ee13eb38-cb1a-494f-989f-435b56bb6d63"},
+{"sequencia":8,"data":"2025-04-09","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"084670a8-adaf-4cbd-8d3b-6f4c6222e1fb"},
+{"sequencia":9,"data":"2025-04-10","tipo":"Outros documentos","fase":"Publicação","link_publico":"b3ec05dc-149f-4fd5-95df-416dccca7d1f"}
+]
+}

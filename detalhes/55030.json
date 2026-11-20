@@ -1,0 +1,18 @@
+{"codigo":55030,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CONSELHO COMUNITARIO PRO-SEGURANCA PUBLICA DE ROLANTE","documento":"92.401.389/0001-03","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","valor_referencia":11000,"valor_vencedor":11000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":11000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6b4da87d-8b6f-42dd-9ba4-821dfcb56d89"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"dca1e507-28ad-40b4-a724-8cf16532be5f"},
+{"sequencia":3,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"31af261a-2387-4a4f-a867-1c5d46464e70"},
+{"sequencia":4,"data":"2026-09-04","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"36fb38fa-2a2d-446c-a90a-796f53457d88"},
+{"sequencia":5,"data":"2026-09-14","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"c7aca03f-1f3a-475a-adf5-3b27ecb42515"},
+{"sequencia":6,"data":"2026-09-14","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5c3812e9-5c7b-429f-92c9-46f1bd707807"},
+{"sequencia":7,"data":"2026-09-15","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"09e3e3df-85cd-471c-9e64-bb3b2b8faaf1"},
+{"sequencia":8,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"1e4a84ed-f007-4826-8775-bb61685eaaac"}
+]
+}

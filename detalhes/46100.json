@@ -1,0 +1,24 @@
+{"codigo":46100,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SINOSCAR SA","documento":"91.688.234/0001-29","descricao":"VEÍCULO TIPO PICK-UP, NOVO, CABINE DUPLA, 0 KM, ANO DE FABRICAÇÃO MÍNIMO 2025, MÍNIMO 05 LUGARES, COR BRANCA, MOTOR TURBO COM POTÊNCIA MÍNIMA DE 140 CV, COMBUSTÍVEL FLEX (GASOLINA/ETANOL), ITENS ORIGINAIS DA LINHA DE MONTAGEM DA FABRICANTE: CÂMBIO MANUAL OU AUTOMÁTICO DE 06 VELOCIDADES A FRENTE E...","descricao_adicional":null,"unidade":"UN","valor_referencia":152982.83,"valor_vencedor":147900,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"VEÍCULO TIPO PICK-UP, NOVO, CABINE DUPLA, 0 KM, ANO DE FABRICAÇÃO MÍNIMO 2025, MÍNIMO 05 LUGARES, COR BRANCA, MOTOR TURBO COM POTÊNCIA MÍNIMA DE 140 CV, COMBUSTÍVEL FLEX (GASOLINA/ETANOL), ITENS ORIGINAIS DA LINHA DE MONTAGEM DA FABRICANTE: CÂMBIO MANUAL OU AUTOMÁTICO DE 06 VELOCIDADES A FRENTE E...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":152982.83}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-07","tipo":"","fase":"Fase Interna","link_publico":"2cd43fbd-77ab-4a36-a868-561c4cf9201d"},
+{"sequencia":2,"data":"2025-10-17","tipo":"","fase":"Fase Interna","link_publico":"ed91f610-65a3-48a3-afbe-7a7c186e3332"},
+{"sequencia":3,"data":"2025-10-17","tipo":"","fase":"Fase Interna","link_publico":"bb7c9eb9-830c-48a1-8adb-47b95c06781c"},
+{"sequencia":4,"data":"2025-11-04","tipo":"","fase":"Fase Interna","link_publico":"9b3db542-a4b1-4de1-b425-b304a8e392d8"},
+{"sequencia":5,"data":"2025-11-04","tipo":"","fase":"Fase Interna","link_publico":"6bc8b1dd-db6c-48ab-8fa5-7ff2dbcd9326"},
+{"sequencia":6,"data":"2025-11-04","tipo":"","fase":"Fase Interna","link_publico":"682f9715-c24e-4671-8ab1-71d414865550"},
+{"sequencia":7,"data":"2025-11-04","tipo":"","fase":"Fase Interna","link_publico":"f14753f5-fa06-4b44-a49d-0ccaa5a0057c"},
+{"sequencia":8,"data":"2025-11-04","tipo":"","fase":"Fase Interna","link_publico":"1f2d015e-a183-4a0a-959b-7b817faf93a0"},
+{"sequencia":9,"data":"2025-11-04","tipo":"","fase":"Fase Interna","link_publico":"3b4764df-bd49-4d7c-a412-3d8fb587481c"},
+{"sequencia":10,"data":"2025-11-04","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"d421efd1-a563-457f-a0dc-6c0799d2ed17"},
+{"sequencia":11,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"4439c9f0-16a5-4568-8df1-b5fab84477a2"},
+{"sequencia":12,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"2f853c75-0cbb-4446-8d66-f21bd4f37cab"},
+{"sequencia":13,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"ccec7cee-932c-43b0-aef7-33b2b56cd109"},
+{"sequencia":14,"data":"2025-11-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"02a3fb0c-8b2d-4aa1-9fd7-ee6800794a3d"}
+]
+}

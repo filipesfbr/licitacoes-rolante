@@ -1,0 +1,42 @@
+{"codigo":54141,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MANJATO TRATORES LTDA EPP","documento":"00.492.308/0001-00","descricao":"PLANTADEIRA ADUBADEIRA HIDRÁULICAPIVOTADA NOVA COM NO MINIMO 3 LINHAS DE PLANTIO COM ESPAÇAMENTO ENTRE LNHAS DE 65 A 80CM, ENGATE NOS BRAÇOS HIDRÁULICOS.","descricao_adicional":"<p>Plantadeira /adubadeira de tr&ecirc;s linhas.</p>\n","unidade":"UN","valor_referencia":39577.78,"valor_vencedor":37000,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"POSSELT IMPLEMENTOS MAQUINAS LTDA","documento":"94.747.771/0001-90","descricao":"PLANTADEIRA ADUBADEIRA HIDRÁULICAPIVOTADA NOVA COM NO MINIMO 4 LINHAS DE PLANTIO COM ESPAÇAMENTO ENTRE LNHAS DE 65 A 80CM, ENGATE NOS BRAÇOS HIDRÁULICOS.","descricao_adicional":"<p>PLANTADEIRA ADUBADEIRA HIDR&Aacute;ULICAPIVOTADA NOVA COM NO MINIMO 4 LINHAS DE PLANTIO COM ESPA&Ccedil;AMENTO ENTRE LNHAS DE 65 A 80CM, ENGATE NOS BRA&Ccedil;OS HIDR&Aacute;ULICOS.</p>\n","unidade":"UN","valor_referencia":47216.67,"valor_vencedor":38880,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PLANTADEIRA ADUBADEIRA HIDRÁULICAPIVOTADA NOVA COM NO MINIMO 3 LINHAS DE PLANTIO COM ESPAÇAMENTO ENTRE LNHAS DE 65 A 80CM, ENGATE NOS BRAÇOS HIDRÁULICOS.","descricao_adicional":"<p>Plantadeira /adubadeira de tr&ecirc;s linhas.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":39577.78},
+{"lote":0,"item":2,"descricao":"PLANTADEIRA ADUBADEIRA HIDRÁULICAPIVOTADA NOVA COM NO MINIMO 4 LINHAS DE PLANTIO COM ESPAÇAMENTO ENTRE LNHAS DE 65 A 80CM, ENGATE NOS BRAÇOS HIDRÁULICOS.","descricao_adicional":"<p>PLANTADEIRA ADUBADEIRA HIDR&Aacute;ULICAPIVOTADA NOVA COM NO MINIMO 4 LINHAS DE PLANTIO COM ESPA&Ccedil;AMENTO ENTRE LNHAS DE 65 A 80CM, ENGATE NOS BRA&Ccedil;OS HIDR&Aacute;ULICOS.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":47216.67}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-06-29","tipo":"ETP","fase":"Fase Interna","link_publico":"1ac66f04-dd06-4b53-80a2-31c798fa658d"},
+{"sequencia":2,"data":"2026-06-29","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d8d33608-83da-491d-b6ab-cba2fba3ed17"},
+{"sequencia":3,"data":"2026-07-02","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"cc3f50aa-715b-42eb-8213-c6b8429e4442"},
+{"sequencia":4,"data":"2026-07-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"898cd854-baac-4e5e-a38f-38e2d654c504"},
+{"sequencia":5,"data":"2026-07-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"0f01cc01-5961-489b-8248-96492ee516a9"},
+{"sequencia":6,"data":"2026-07-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"f23a11f4-b390-4885-9e31-caa63e1fbea3"},
+{"sequencia":7,"data":"2026-07-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"7159e4f3-f108-4a03-8c7d-b8443ecf83e4"},
+{"sequencia":8,"data":"2026-07-06","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"6137a4f2-7099-4c6c-8b90-7f96a041855f"},
+{"sequencia":9,"data":"2026-07-09","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"a0e7af67-ec85-488b-a1dd-5b398b241faa"},
+{"sequencia":10,"data":"2026-07-22","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"https://anexoscontabilidade.s3.us-west-2.amazonaws.com/1093/nqgqsa0irwfa95c62csk_Proposta%20de%20Pre%C3%A7os%20ITEM%20001%20E%20002%20E%20HABILITA%C3%87%C3%83O%20MARIA%20CIOLI%20%20ROLANTE%20-RS%20ass.zip?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFRWBYIEERIVG3JQ%2F20261120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261120T183601Z&X-Amz-SignedHeaders=host&X-Amz-Signature=c3b1fee51a9c1c2ee43423e4ebbb6767dd115a8d4613d98ae6c8e7e179539c8a"},
+{"sequencia":11,"data":"2026-07-22","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"https://anexoscontabilidade.s3.us-west-2.amazonaws.com/1093/8rbazaanyw47mfcuo9jw_PROPOSTA%20DE%20PRE%C3%87OS%20ITEM%20001%20E%20002%20E%20FOLDER%20GIHAL%20ROLANTE%20RS.zip?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFRWBYIEERIVG3JQ%2F20261120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261120T183601Z&X-Amz-SignedHeaders=host&X-Amz-Signature=cace235f07cbf622f55347c31717692948f5d95928632a2d9b7e5170db1c4224"},
+{"sequencia":12,"data":"2026-07-31","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b1c147b4-1764-44fe-adf4-1bda693d9f7f"},
+{"sequencia":13,"data":"2026-07-31","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"https://anexoscontabilidade.s3.us-west-2.amazonaws.com/1093/01kqi6g8xopohmnqlzca_HABILITA%C3%87%C3%83O%20POSSELT%20-%20ROLANTE%20-%20PLANTADEIRA.rar?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFRWBYIEERIVG3JQ%2F20261120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261120T183601Z&X-Amz-SignedHeaders=host&X-Amz-Signature=46729e20a3cd84bcf714827f6433e2311a3bc87cb87ad7498bac95842cc4e1df"},
+{"sequencia":14,"data":"2026-07-31","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a5d68e55-6f10-4f54-b3c9-e1a485480051"},
+{"sequencia":15,"data":"2026-08-03","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"70df3e4e-ad0e-46b0-9e9e-74eb13596b89"},
+{"sequencia":16,"data":"2026-08-03","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4e99f81c-7d0c-46d6-a8e3-d5c1f8517c6d"},
+{"sequencia":17,"data":"2026-08-03","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6883eabd-eee0-492d-88ca-f3720ce4dfdb"},
+{"sequencia":18,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3b9ddbcf-896c-4db9-bbc5-08d57ca629a8"},
+{"sequencia":19,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4ccdff75-dd28-4592-8d43-260aef547aa6"},
+{"sequencia":20,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6af29069-a89e-41bd-8315-e6f7c5605a1c"},
+{"sequencia":21,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b3d740e9-913b-477a-8990-be40129f8b82"},
+{"sequencia":22,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"16e97178-fc48-4609-86a1-de4f7c1e57b7"},
+{"sequencia":23,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c93addc4-b5ab-460f-b000-57fc1dfb6907"},
+{"sequencia":24,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0b8f1114-a461-4a41-95c6-c8f763bb9e71"},
+{"sequencia":25,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b216c5f5-9002-415f-adb2-1750c4767cbd"},
+{"sequencia":26,"data":null,"tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"95f25f83-25ff-4f8b-b404-d4ed18f20924"},
+{"sequencia":27,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c6d2a91f-5a36-43ee-bb87-6389f4945bcd"},
+{"sequencia":28,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"15276a59-2aef-4e49-9946-b6f9f21cd843"},
+{"sequencia":29,"data":"2026-08-24","tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"fd76f622-c5ff-4c81-bb62-f007e4fa3a24"},
+{"sequencia":30,"data":"2026-10-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5fbfa266-971e-42f6-b8cb-519208fdf59c"}
+]
+}

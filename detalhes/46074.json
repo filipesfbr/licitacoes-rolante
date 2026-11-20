@@ -1,0 +1,16 @@
+{"codigo":46074,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"BENOIT ELETRODOMESTICOS LTDA","documento":"87.296.026/0061-48","descricao":"CAIXA DE SOM AMPLIFICADA","descricao_adicional":null,"unidade":"UN","valor_referencia":2550,"valor_vencedor":2550,"quantidade":21}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CAIXA DE SOM AMPLIFICADA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":21,"valor_referencia":2550}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-08","tipo":"","fase":"Fase Interna","link_publico":"02520172-f6f0-4570-ae20-fca2f80e1dec"},
+{"sequencia":2,"data":"2025-12-08","tipo":"","fase":"Fase Interna","link_publico":"3181066e-e5dd-4786-a168-dbfe41769d80"},
+{"sequencia":3,"data":"2025-12-08","tipo":"","fase":"Fase Interna","link_publico":"036c9d46-59b8-47b3-853f-53fefdd2145a"},
+{"sequencia":4,"data":"2025-12-08","tipo":"","fase":"Fase Interna","link_publico":"6134c07d-434f-43dc-9de0-65d71178fe8a"},
+{"sequencia":5,"data":"2025-12-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"21a1c5b8-1f2f-4aec-b712-7dd7265a3845"},
+{"sequencia":6,"data":"2025-12-09","tipo":"Outros documentos","fase":"Publicação","link_publico":"216ca62a-a9e3-497e-b0b5-0ff4a9d63fe2"}
+]
+}

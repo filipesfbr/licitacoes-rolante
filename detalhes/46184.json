@@ -1,0 +1,19 @@
+{"codigo":46184,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"TROMBINI PROJETOS E EXECUCOES AMBIENTAIS LTDA - EPP","documento":"19.425.605/0001-52","descricao":"LAUDO DE COBERTURA VEGETAL COM ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA (ART)","descricao_adicional":null,"unidade":"UN","valor_referencia":7500,"valor_vencedor":7500,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"TROMBINI PROJETOS E EXECUCOES AMBIENTAIS LTDA - EPP","documento":"19.425.605/0001-52","descricao":"LAUDO HIDROLÓGICO/HIDRODINÂMICO COM ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA (ART)","descricao_adicional":null,"unidade":"UN","valor_referencia":16800,"valor_vencedor":16800,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LAUDO DE COBERTURA VEGETAL COM ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA (ART)","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":7500},
+{"lote":0,"item":2,"descricao":"LAUDO HIDROLÓGICO/HIDRODINÂMICO COM ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA (ART)","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":16800}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-17","tipo":"","fase":"Fase Interna","link_publico":"6f43c25f-53b8-4b68-9cff-fb60b8166a1f"},
+{"sequencia":2,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"66c5ae1f-e2d8-49c6-8acc-b86a730c3cf7"},
+{"sequencia":3,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"f6bf4b04-8b81-4860-9aed-cdf483085d41"},
+{"sequencia":4,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"140fe44f-4913-426f-9ca7-dc5d0dfea0c2"},
+{"sequencia":5,"data":"2025-05-19","tipo":"","fase":"Fase Interna","link_publico":"78d2941a-256d-4bfe-80b6-cc14f5601dac"},
+{"sequencia":6,"data":"2025-05-19","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"45582cf8-3921-4fb6-b0d6-f8a59a8be4bc"},
+{"sequencia":7,"data":"2025-05-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"c41a08f4-dfd1-407b-afdf-2f93e7352e02"}
+]
+}

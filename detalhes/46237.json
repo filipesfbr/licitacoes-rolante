@@ -1,0 +1,16 @@
+{"codigo":46237,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"FKM ASSESSORIA CONSULTORIA E GESTÃO LDTA","documento":"58.473.170/0001-73","descricao":"ASSESSORIA DIVERSA.","descricao_adicional":"","unidade":"UN","valor_referencia":5100,"valor_vencedor":5100,"quantidade":27}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ASSESSORIA DIVERSA.","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":5100}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"c4484473-72a0-47ea-9970-731ce99f1e21"},
+{"sequencia":2,"data":"2026-01-07","tipo":"","fase":"Fase Interna","link_publico":"9bcb9e66-0981-4e31-a74e-1a0bb1918123"},
+{"sequencia":3,"data":"2025-03-05","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"2b51e8f6-1499-4922-b302-42b309f36d78"},
+{"sequencia":4,"data":"2025-03-06","tipo":"","fase":"Fase Interna","link_publico":"a331e233-4fd7-4be2-96b4-0905db3d55b0"},
+{"sequencia":5,"data":"2025-03-05","tipo":"","fase":"Fase Interna","link_publico":"9593bf61-c8e5-46ed-ba93-63b142f1e0a7"},
+{"sequencia":6,"data":"2025-03-06","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"187600be-941c-45cc-a483-e81029d506d7"}
+]
+}

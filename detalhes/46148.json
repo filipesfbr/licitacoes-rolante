@@ -1,0 +1,34 @@
+{"codigo":46148,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"TROFÉU","descricao_adicional":null,"unidade":"UN","valor_referencia":196,"valor_vencedor":196,"quantidade":4},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"MEDALHA","descricao_adicional":null,"unidade":"UN","valor_referencia":3.5,"valor_vencedor":3.5,"quantidade":1200},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"TAÇA UEFA + PINTURA 60CM","descricao_adicional":null,"unidade":"UN","valor_referencia":560,"valor_vencedor":560,"quantidade":6},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"TAÇA UEFA PRATA 50CM","descricao_adicional":null,"unidade":"UN","valor_referencia":295,"valor_vencedor":295,"quantidade":6},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"TROFÉU DE MDF COM ACRÍLICO ESPELHADO, TAMANHO 45CM","descricao_adicional":null,"unidade":"UN","valor_referencia":187,"valor_vencedor":187,"quantidade":2},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"TROFÉU DE MDF COM ACRÍLICO ESPELHADO, TAMANHO 30CM","descricao_adicional":null,"unidade":"UN","valor_referencia":122,"valor_vencedor":122,"quantidade":2},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"TROFÉU DE VIDRO COM 20CM","descricao_adicional":null,"unidade":"UN","valor_referencia":31,"valor_vencedor":31,"quantidade":131},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"TROFÉU - REF: BOLA 03 - 65CM TROFÉU - REF BOLA 03 - 65CM","descricao_adicional":null,"unidade":"UN","valor_referencia":150,"valor_vencedor":150,"quantidade":7},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"TROFÉU - REF: BOLA 03 - 65CM TROFÉU - REF BOLA 03 - 55CM","descricao_adicional":null,"unidade":"UN","valor_referencia":140,"valor_vencedor":140,"quantidade":7},
+{"lote":0,"item":10,"pessoa_fisica":false,"fornecedor":"MULTI TROFEUS-TROFEUS E MEDALHAS LTDA","documento":"09.498.341/0001-03","descricao":"MEDALHA PERSONALIZADA, 8CM, COM FITA PERSONALIZADA","descricao_adicional":null,"unidade":"UN","valor_referencia":9.6,"valor_vencedor":9.6,"quantidade":496}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"TROFÉU","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":196},
+{"lote":0,"item":2,"descricao":"MEDALHA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1200,"valor_referencia":3.5},
+{"lote":0,"item":3,"descricao":"TAÇA UEFA + PINTURA 60CM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":6,"valor_referencia":560},
+{"lote":0,"item":4,"descricao":"TAÇA UEFA PRATA 50CM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":6,"valor_referencia":295},
+{"lote":0,"item":5,"descricao":"TROFÉU DE MDF COM ACRÍLICO ESPELHADO, TAMANHO 45CM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":187},
+{"lote":0,"item":6,"descricao":"TROFÉU DE MDF COM ACRÍLICO ESPELHADO, TAMANHO 30CM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":122},
+{"lote":0,"item":7,"descricao":"TROFÉU DE VIDRO COM 20CM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":131,"valor_referencia":31},
+{"lote":0,"item":8,"descricao":"TROFÉU - REF: BOLA 03 - 65CM TROFÉU - REF BOLA 03 - 65CM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":7,"valor_referencia":150},
+{"lote":0,"item":9,"descricao":"TROFÉU - REF: BOLA 03 - 65CM TROFÉU - REF BOLA 03 - 55CM","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":7,"valor_referencia":140},
+{"lote":0,"item":10,"descricao":"MEDALHA PERSONALIZADA, 8CM, COM FITA PERSONALIZADA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":496,"valor_referencia":9.6}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-07-21","tipo":"","fase":"Fase Interna","link_publico":"83d2bf87-da8f-488d-b77d-ab1cba9073ea"},
+{"sequencia":2,"data":"2025-07-21","tipo":"","fase":"Fase Interna","link_publico":"ca4ac55f-bc6e-492f-b0f5-e5b8f528657e"},
+{"sequencia":3,"data":"2025-07-21","tipo":"","fase":"Fase Interna","link_publico":"7969999f-3fc7-48b6-a7a3-17c71d510f3d"},
+{"sequencia":4,"data":"2025-07-21","tipo":"","fase":"Fase Interna","link_publico":"92ee8008-b19b-4b9a-a9ea-052e5c827e06"},
+{"sequencia":5,"data":"2025-07-21","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"3cb38f3c-f7be-450e-a766-75b9331970a9"},
+{"sequencia":6,"data":"2025-07-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"3919bc0a-434a-4a0e-b5ed-7dc5efedb1d1"}
+]
+}

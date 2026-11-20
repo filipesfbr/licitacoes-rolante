@@ -1,0 +1,17 @@
+{"codigo":54281,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"PROCERGS-CIA DE PROCES. DE DADOS DO EST DO RIO G S","documento":"87.124.582/0001-04","descricao":"SERVIÇO DE ACESSO VIA TUNELAMENTO INTERNET-JARI","descricao_adicional":null,"unidade":"MES","valor_referencia":20.5,"valor_vencedor":20.5,"quantidade":12},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"PROCERGS-CIA DE PROCES. DE DADOS DO EST DO RIO G S","documento":"87.124.582/0001-04","descricao":"SERVIÇO DE ACESSO VIA TUNELAMENTO INTERNET - SII","descricao_adicional":null,"unidade":"UST","valor_referencia":20.5,"valor_vencedor":20.5,"quantidade":24}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE ACESSO VIA TUNELAMENTO INTERNET-JARI","descricao_adicional":null,"unidade":"MES","quantidade_min":0,"quantidade_max":12,"valor_referencia":20.5},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE ACESSO VIA TUNELAMENTO INTERNET - SII","descricao_adicional":null,"unidade":"UST","quantidade_min":0,"quantidade_max":24,"valor_referencia":20.5}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"4502739b-4380-44fa-b0fe-c2380c22d66a"},
+{"sequencia":2,"data":"2026-07-08","tipo":"ETP","fase":"Fase Interna","link_publico":"f3ade17e-3122-4fe9-8f50-8b2375d499ba"},
+{"sequencia":3,"data":"2026-07-08","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f5662b1d-cf57-4774-813f-eb43473a159b"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"ec0b2559-2e61-4e4b-9d6c-d8d87e4870df"},
+{"sequencia":5,"data":"2026-07-14","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"02d7e9a4-3df7-45fa-bbc7-4304321efaec"}
+]
+}

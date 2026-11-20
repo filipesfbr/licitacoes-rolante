@@ -1,0 +1,23 @@
+{"codigo":46171,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SINOSCAR SA","documento":"91.688.234/0001-29","descricao":"VEICULO PICK UP 5 LUGARES / 2024/2025\nDESCRITIVO MÍNIMO DO VEICULO: VEÍCULO TIPO PICK-UP, NOVO, CABINE DUPLA, 0 KM, ANO DE FABRICAÇÃO MÍNIMO 2024, MÍNIMO 05 LUGARES, COR BRANCA, TRAÇÃO DIANTEIRA 4X2, AIR BAG DUPLO, FREIOS ABS COM EBD, COMBUSTÍVEL FLEX (GASOLINA/ETANOL), CÂMBIO MÍNIMO MANUAL DE 06...","descricao_adicional":null,"unidade":"UN","valor_referencia":144248.25,"valor_vencedor":144248,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"VEICULO PICK UP 5 LUGARES / 2024/2025\nDESCRITIVO MÍNIMO DO VEICULO: VEÍCULO TIPO PICK-UP, NOVO, CABINE DUPLA, 0 KM, ANO DE FABRICAÇÃO MÍNIMO 2024, MÍNIMO 05 LUGARES, COR BRANCA, TRAÇÃO DIANTEIRA 4X2, AIR BAG DUPLO, FREIOS ABS COM EBD, COMBUSTÍVEL FLEX (GASOLINA/ETANOL), CÂMBIO MÍNIMO MANUAL DE 06...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":144248.25}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"27d5f078-51fb-4fc4-9cfd-f5d8d11ae8e4"},
+{"sequencia":2,"data":"2025-06-02","tipo":"","fase":"Fase Interna","link_publico":"90bacd9a-d726-4592-8f26-cce67e70fa8b"},
+{"sequencia":3,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"3214ef12-41af-4213-b7f0-ad19e9bcbc07"},
+{"sequencia":4,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"8059f517-371c-40de-9fa1-8a4e4408ad5a"},
+{"sequencia":5,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"14d4588d-24de-43b2-ba69-526b4b1937fe"},
+{"sequencia":6,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"55dd3211-de4b-47ae-8b01-c8abe13934b7"},
+{"sequencia":7,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"50a7ab9a-b9d6-4e19-b48b-7cea41a665fd"},
+{"sequencia":8,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"7f82c585-5361-489c-aac4-0e2662b6896e"},
+{"sequencia":9,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"e5b99f08-042c-46b2-b993-7b3f9847e9b0"},
+{"sequencia":10,"data":"2025-06-17","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"8aab15e0-2503-4e1f-9c5a-470f71580cea"},
+{"sequencia":11,"data":"2025-06-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"d5c2f624-6bda-4cff-a734-0350bce33e77"},
+{"sequencia":12,"data":"2025-06-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"1d3b426f-d60c-4570-90fc-2ba6fcda253e"},
+{"sequencia":13,"data":"2025-06-03","tipo":"Outros documentos","fase":"Publicação","link_publico":"846917db-56b0-46d0-8b03-9d5e0f32ffe7"}
+]
+}

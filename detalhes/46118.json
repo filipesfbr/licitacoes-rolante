@@ -1,0 +1,46 @@
+{"codigo":46118,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"TERRAPLENAGEM BK LTDA - ME","documento":"13.254.201/0001-67","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE PASSEIOS PÚBLICOS EM BLOCOS DE CONCRETO INTERTRAVADOS, NO BAIRRO CONTESTADO, EM ROLANTE/RS, COM ÁREA TOTAL DE 5.899,70 M² (CINCO MIL OITOCENTOS E NOVENTA E NOVE METROS QUADRADOS E SETENTA CENTÍMETROS QUADRADOS)","descricao_adicional":null,"unidade":"UN","valor_referencia":559088.84,"valor_vencedor":475225,"quantidade":2.17}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE PASSEIOS PÚBLICOS EM BLOCOS DE CONCRETO INTERTRAVADOS, NO BAIRRO CONTESTADO, EM ROLANTE/RS, COM ÁREA TOTAL DE 5.899,70 M² (CINCO MIL OITOCENTOS E NOVENTA E NOVE METROS QUADRADOS E SETENTA CENTÍMETROS QUADRADOS)","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":559088.84}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-19","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"46f87df4-4c71-4489-b1c5-f82d3a1b5bf2"},
+{"sequencia":2,"data":"2025-11-07","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"46ef2472-75f8-4014-9b9d-99694a56ef4e"},
+{"sequencia":3,"data":"2025-12-02","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"17ac9b82-bd39-4dd1-a3cb-da96c198419d"},
+{"sequencia":4,"data":"2026-01-08","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0d241509-a243-43e6-9291-1c5de07051bc"},
+{"sequencia":5,"data":"2025-09-23","tipo":"ETP","fase":"Fase Interna","link_publico":"414b33cd-e93e-4eec-a749-4b2632f056ef"},
+{"sequencia":6,"data":"2025-09-23","tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"84353172-e8f7-457c-8351-f40c5f178423"},
+{"sequencia":7,"data":"2025-09-23","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"aadb0dce-06af-4031-a346-2842660a80b1"},
+{"sequencia":8,"data":"2025-09-23","tipo":"Cronograma","fase":"Fase Interna","link_publico":"dd1bd1d4-5b6f-4e58-ac1b-6fe4689e9d49"},
+{"sequencia":9,"data":"2025-09-23","tipo":"Detalhamento BDI","fase":"Fase Interna","link_publico":"5c7f129d-2947-4f64-93eb-379d7102e7f5"},
+{"sequencia":10,"data":"2025-09-23","tipo":"Detalhamento encargos sociais","fase":"Fase Interna","link_publico":"71839c1f-3eae-4903-97f6-ff71fcda287d"},
+{"sequencia":11,"data":"2025-09-23","tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"8ada0c7b-98fd-466b-b097-e3a9cb5beb44"},
+{"sequencia":12,"data":"2025-09-23","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"297f55b6-65f5-41eb-b72e-088b8815cb65"},
+{"sequencia":13,"data":"2025-09-23","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"770b7cb0-ae65-4e2d-bc2e-982aae151e1c"},
+{"sequencia":14,"data":"2025-09-23","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4ec28880-0842-422f-9411-d47e6a062d51"},
+{"sequencia":15,"data":"2025-09-23","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4b93e929-0250-4856-891c-a23e325edb05"},
+{"sequencia":16,"data":"2025-10-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"53081d71-bfae-433e-838e-c66f92e4fd5d"},
+{"sequencia":17,"data":"2025-11-04","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e4335f62-114b-4963-884d-58a46aade4db"},
+{"sequencia":18,"data":"2025-11-04","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"39276653-93ca-426e-b6d1-a5ca7ec22cac"},
+{"sequencia":19,"data":"2025-11-04","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9ee1f991-cdb4-4091-b4ec-4d0e095119e2"},
+{"sequencia":20,"data":"2025-11-04","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"87fb1a50-6c1a-4834-9b7b-ee8afcf1c84c"},
+{"sequencia":21,"data":"2025-11-04","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9bb2a4f6-49f6-4a3d-a070-ac1013414c3c"},
+{"sequencia":22,"data":"2025-11-04","tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"35c80284-299d-4318-b1c5-288077526476"},
+{"sequencia":23,"data":"2025-11-04","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"76183bb4-09df-4542-9b5f-5dcd10766fb5"},
+{"sequencia":24,"data":"2025-11-04","tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"dd98207c-a714-4a42-a72f-8bdf9b945d97"},
+{"sequencia":25,"data":"2025-11-04","tipo":"Cronograma da proposta vencedora","fase":"Adjudicação/Homologação","link_publico":"88079aa1-e752-448e-8bc1-06d2beb0e6c0"},
+{"sequencia":26,"data":"2025-11-04","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"e9fd31fe-db10-4790-875d-a6b22db652cb"},
+{"sequencia":27,"data":"2025-11-04","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"deeef491-ecb0-47c3-886c-02e1d390bf56"},
+{"sequencia":28,"data":"2025-09-25","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"757205af-30be-4236-b0f7-ce07f4a382c9"},
+{"sequencia":29,"data":"2025-10-06","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"b68554da-22f3-412f-bbc2-b81ba9a81d5d"},
+{"sequencia":30,"data":"2025-09-24","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"508d48c8-2e10-4cea-a38b-230ff7d03a9a"},
+{"sequencia":31,"data":"2025-09-24","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"6bb0bd6b-e645-4d86-b2e3-afbe3f9c4948"},
+{"sequencia":32,"data":"2025-09-25","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"7dd1dcf1-d25d-4459-a1b3-93218360df69"},
+{"sequencia":33,"data":"2025-09-25","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"39e5dd20-e5f3-49a3-a99a-5707ceeb06ab"},
+{"sequencia":34,"data":"2025-09-25","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"8fc230fa-407b-45bb-b3b6-a8d99d1a38c6"},
+{"sequencia":35,"data":"2025-10-06","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"7215f1a9-6b3a-4f6e-97a3-dd5cea2c7319"},
+{"sequencia":36,"data":"2025-10-06","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"dd190c10-2750-42d5-bbfe-c825c5174ac4"}
+]
+}

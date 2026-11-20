@@ -1,0 +1,18 @@
+{"codigo":46102,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ROBERTO WALTHER","documento":"05.766.205/0001-04","descricao":"BUFFET TÉRMICO INFANTIL, EM INOX, COM PASSA PRATO, 6 CUBAS COM TAMPAS, CUBAS DE APROXIMADAMENTE 10CM DE ALTURA, 33CM DE LARGURA E 27CM DE PROFUNDIDADE, 220V, TERMOSTATO COM ESCALA DE ATÉ NO MÍNIMO 80°C, LUZ INDICATIVA DA FUNÇÃO LIGA/DESLIGA, RODÍZIOS GIRATÓRIOS PARA FACILITAR A MOVIMENTAÇÃO E...","descricao_adicional":null,"unidade":"UN","valor_referencia":2410,"valor_vencedor":2410,"quantidade":10},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"ROBERTO WALTHER","documento":"05.766.205/0001-04","descricao":"BUFFET TÉRMICO, EM INOX, COM PASSA PRATO, 6 CUBAS COM TAMPAS, CUBAS DE APROXIMADAMENTE 10CM DE ALTURA, 33CM DE LARGURA E 27CM DE PROFUNDIDADE, 220V, TERMOSTATO COM ESCALA DE ATÉ NO MÍNIMO 80°C, LUZ INDICATIVA DA FUNÇÃO LIGA/DESLIGA, RODÍZIOS GIRATÓRIOS PARA FACILITAR A MOVIMENTAÇÃO E...","descricao_adicional":null,"unidade":"UN","valor_referencia":2690,"valor_vencedor":2690,"quantidade":13}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"BUFFET TÉRMICO INFANTIL, EM INOX, COM PASSA PRATO, 6 CUBAS COM TAMPAS, CUBAS DE APROXIMADAMENTE 10CM DE ALTURA, 33CM DE LARGURA E 27CM DE PROFUNDIDADE, 220V, TERMOSTATO COM ESCALA DE ATÉ NO MÍNIMO 80°C, LUZ INDICATIVA DA FUNÇÃO LIGA/DESLIGA, RODÍZIOS GIRATÓRIOS PARA FACILITAR A MOVIMENTAÇÃO E...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":2410},
+{"lote":0,"item":2,"descricao":"BUFFET TÉRMICO, EM INOX, COM PASSA PRATO, 6 CUBAS COM TAMPAS, CUBAS DE APROXIMADAMENTE 10CM DE ALTURA, 33CM DE LARGURA E 27CM DE PROFUNDIDADE, 220V, TERMOSTATO COM ESCALA DE ATÉ NO MÍNIMO 80°C, LUZ INDICATIVA DA FUNÇÃO LIGA/DESLIGA, RODÍZIOS GIRATÓRIOS PARA FACILITAR A MOVIMENTAÇÃO E...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":13,"valor_referencia":2690}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-17","tipo":"","fase":"Fase Interna","link_publico":"ce5af7eb-0524-425e-b63d-3f526a1d81cf"},
+{"sequencia":2,"data":"2025-10-17","tipo":"","fase":"Fase Interna","link_publico":"c97a5b75-2d00-4d04-a8da-acd7cbcd423a"},
+{"sequencia":3,"data":"2025-10-17","tipo":"","fase":"Fase Interna","link_publico":"425ba0a6-e1ea-450e-ba68-ef2fedcfdde7"},
+{"sequencia":4,"data":"2025-10-17","tipo":"","fase":"Fase Interna","link_publico":"12986cda-4f1e-4643-93e9-94928fb3dd6b"},
+{"sequencia":5,"data":"2025-10-17","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"ec4f82cd-b7b8-4473-8505-5970e3618405"},
+{"sequencia":6,"data":"2025-10-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"b70d9e5b-cc1b-4816-a147-b42b6eadeb16"}
+]
+}

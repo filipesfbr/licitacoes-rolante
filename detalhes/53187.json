@@ -1,0 +1,29 @@
+{"codigo":53187,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"AD PREMIACOES LTDA","documento":"45.326.795/0001-60","descricao":"TROFÉU DE VIDRO COM 20CM","descricao_adicional":"","unidade":"UN","valor_referencia":47.9,"valor_vencedor":47.9,"quantidade":150},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"AD PREMIACOES LTDA","documento":"45.326.795/0001-60","descricao":"MEDALHA","descricao_adicional":"","unidade":"UN","valor_referencia":9,"valor_vencedor":9,"quantidade":2600},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"AD PREMIACOES LTDA","documento":"45.326.795/0001-60","descricao":"TROFÉU","descricao_adicional":"","unidade":"UN","valor_referencia":259,"valor_vencedor":259,"quantidade":10},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"AD PREMIACOES LTDA","documento":"45.326.795/0001-60","descricao":"TROFÉU","descricao_adicional":"","unidade":"UN","valor_referencia":239,"valor_vencedor":239,"quantidade":10},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"AD PREMIACOES LTDA","documento":"45.326.795/0001-60","descricao":"TROFÉU","descricao_adicional":"","unidade":"UN","valor_referencia":319,"valor_vencedor":319,"quantidade":15},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"AD PREMIACOES LTDA","documento":"45.326.795/0001-60","descricao":"TROFÉU","descricao_adicional":"","unidade":"UN","valor_referencia":299,"valor_vencedor":299,"quantidade":15}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"TROFÉU DE VIDRO COM 20CM","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":150,"valor_referencia":47.9},
+{"lote":0,"item":2,"descricao":"MEDALHA","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":2600,"valor_referencia":9},
+{"lote":0,"item":3,"descricao":"TROFÉU","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":259},
+{"lote":0,"item":4,"descricao":"TROFÉU","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":10,"valor_referencia":239},
+{"lote":0,"item":5,"descricao":"TROFÉU","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":15,"valor_referencia":319},
+{"lote":0,"item":6,"descricao":"TROFÉU","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":15,"valor_referencia":299}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"efa7b62d-dac7-4748-8b60-aca95e82c6d9"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c5966501-7dd6-4800-bab4-dae65e4797cf"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3d66fed1-4595-453b-bd8b-80ccf883ce0b"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f16148dc-1afa-4318-9422-58b52e359a44"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3cd5dcb1-40ed-4a7c-acc0-d0567b9e9d71"},
+{"sequencia":6,"data":"2026-04-23","tipo":"ETP","fase":"Fase Interna","link_publico":"c9011d64-0c4f-44ba-92d8-2030f6e046cb"},
+{"sequencia":7,"data":"2026-04-23","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"54d73a16-f83f-4771-a39d-63e3d2937f1b"},
+{"sequencia":8,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"5a5c8168-1726-434c-abfe-e1ddb393cca9"},
+{"sequencia":9,"data":"2026-04-30","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"d35fc18e-948d-4baa-ae1e-80f31ecdcdfd"}
+]
+}

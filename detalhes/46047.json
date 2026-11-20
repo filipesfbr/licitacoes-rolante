@@ -1,0 +1,40 @@
+{"codigo":46047,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"P&V CONSTRUTORA LTDA","documento":"48.661.711/0001-33","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA, PARA A REFORMA DE COZINHA E REFEITÓRIO DE UNIDADE ESCOLAR - EMEF HUGO ZIMMER, LOCALIZADA NA RUA PEDRO CARNEIRO PEREIRA, Nº 281, BAIRRO RIO BRANCO, ROLANTE /RS","descricao_adicional":"<p>&Aacute;rea total a reformar: 174,83m&sup2;</p>\n","unidade":"UN","valor_referencia":582324.83,"valor_vencedor":541990,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA, PARA A REFORMA DE COZINHA E REFEITÓRIO DE UNIDADE ESCOLAR - EMEF HUGO ZIMMER, LOCALIZADA NA RUA PEDRO CARNEIRO PEREIRA, Nº 281, BAIRRO RIO BRANCO, ROLANTE /RS","descricao_adicional":"<p>&Aacute;rea total a reformar: 174,83m&sup2;</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":582324.83}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-12","tipo":"ETP","fase":"Fase Interna","link_publico":"717ef27d-4e29-4e8d-9807-6dfa50f6973d"},
+{"sequencia":2,"data":"2026-02-12","tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"1d3e3dbf-4d25-4ec3-ada0-89e2466cfc10"},
+{"sequencia":3,"data":"2026-02-12","tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"4591a0ad-ed43-4fc3-9c0b-8a6b98b8c0cd"},
+{"sequencia":4,"data":"2026-02-12","tipo":"Detalhamento BDI","fase":"Fase Interna","link_publico":"d3910a02-55fc-476b-9934-66815dad143b"},
+{"sequencia":5,"data":"2026-02-12","tipo":"Cronograma","fase":"Fase Interna","link_publico":"59ef89e4-7c78-4052-86ba-e8b728a8bf22"},
+{"sequencia":6,"data":"2026-02-12","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"132da2ac-0379-4ea2-810e-a70fa2381320"},
+{"sequencia":7,"data":"2026-02-12","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"759be893-dffc-4d23-b0f9-c6a88a44f394"},
+{"sequencia":8,"data":"2026-02-12","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"488bc2ff-4320-4c9c-907f-1bfb04e1786e"},
+{"sequencia":9,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cc019eef-669e-4ffb-9288-02c6b39213ba"},
+{"sequencia":10,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d093363f-8712-480a-8096-63f80b19c160"},
+{"sequencia":11,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2c290d0f-5874-4230-b800-9332655779bd"},
+{"sequencia":12,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3bbffb2b-650a-471f-88ba-009b04f5222e"},
+{"sequencia":13,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3ee17838-f67c-48e5-bef7-9763e74a4da6"},
+{"sequencia":14,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"bb030bdc-5823-48bd-8676-0e3fa7b8ea89"},
+{"sequencia":15,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ffbf5736-838e-454b-97aa-369fac0994f7"},
+{"sequencia":16,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"50c6cb90-045d-438c-abe0-3b1b4988151f"},
+{"sequencia":17,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"755852ae-55c1-49ea-bc25-0dd357dfb761"},
+{"sequencia":18,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"19069e4b-77c2-406b-afd1-a8d2d8243a46"},
+{"sequencia":19,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"52a0bf27-f8af-4d5c-97fb-f44682facfff"},
+{"sequencia":20,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7f0791ac-b673-43af-82a3-cdc2730cf29d"},
+{"sequencia":21,"data":"2026-02-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"71073b47-f030-4644-9e4b-9b01d26bdbdd"},
+{"sequencia":22,"data":"2026-02-12","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"d8593491-7163-45f7-8595-742f6088b09f"},
+{"sequencia":23,"data":"2026-02-13","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"04c1257c-c62b-4f00-8748-f116535836e3"},
+{"sequencia":24,"data":"2026-02-13","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"8eb31e37-df5e-474e-9eb4-ab4bd9d41fbe"},
+{"sequencia":25,"data":null,"tipo":"Detalhamento BDI","fase":"Fase Interna","link_publico":"10c0e5b6-3520-414b-ae09-44f072067d4d"},
+{"sequencia":26,"data":null,"tipo":"Detalhamento encargos sociais","fase":"Fase Interna","link_publico":"167788d7-30f3-48e9-8477-792e67c08ea7"},
+{"sequencia":27,"data":"2026-05-25","tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"01c0e317-245e-4257-a452-66db5bbaa4cd"},
+{"sequencia":28,"data":"2026-05-25","tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"641ecf1c-d0c9-45e8-9ed4-dbc970b91a1d"},
+{"sequencia":29,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"7efaf51e-fdb8-4107-b604-54bce8642298"},
+{"sequencia":30,"data":"2026-05-25","tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"4acd8b04-856e-477b-96a0-9cd7d3ffd104"}
+]
+}

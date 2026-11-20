@@ -1,0 +1,28 @@
+{"codigo":55247,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MG 10 CLUBE DE VOO LIVRE MORRO GRANDE","documento":"92.402.114/0001-86","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>Repasse de recursos financeiros, no valor de <strong>R$ 12.000,00 (doze mil reais)</strong>, ao <strong>MG10 Clube de Voo Livre Morro Grande</strong>, entidade sem fins lucrativos, mediante emenda impositiva de autoria do Vereador Gustavo Madruga da Rosa, para apoio &agrave; realiza&ccedil;&atilde;o do <strong>Campeonato Ga&uacute;cho de Pouso de Precis&atilde;o 2026</strong>, previsto para ocorrer nos dias <strong>10 e 11 de outubro de 2026</strong>, no Parque Municipal da Asa Delta, em Rolante/RS.</p>\n","unidade":"UN","valor_referencia":12000,"valor_vencedor":12000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>Repasse de recursos financeiros, no valor de <strong>R$ 12.000,00 (doze mil reais)</strong>, ao <strong>MG10 Clube de Voo Livre Morro Grande</strong>, entidade sem fins lucrativos, mediante emenda impositiva de autoria do Vereador Gustavo Madruga da Rosa, para apoio &agrave; realiza&ccedil;&atilde;o do <strong>Campeonato Ga&uacute;cho de Pouso de Precis&atilde;o 2026</strong>, previsto para ocorrer nos dias <strong>10 e 11 de outubro de 2026</strong>, no Parque Municipal da Asa Delta, em Rolante/RS.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":12000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c83d78c7-0190-463b-9ed3-fd32189ec901"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c7616a9a-681f-400a-8b7c-af6f15b0d151"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fa8ad3c4-6343-4c7d-8369-26e16049177c"},
+{"sequencia":4,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"f9511b51-85e5-4860-9f86-fba74b8da98b"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f8d16bba-fa18-4aa0-bd12-333c8fb9c948"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cd552ca9-33f9-4fe6-ae2c-b874f2d3534e"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"30263605-4a23-46c5-87c6-fa6358ef162d"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"eca53219-519b-419c-8ad0-b2045446cc5d"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0a9b9845-b7de-4ea9-bc4d-3f7d4a84d4ed"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"368e2731-1e09-49ee-8e6b-cc974f19e5c6"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"894134ba-1089-4a10-be03-9115ab087264"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2b6433bf-7306-44cc-b9d8-34a1dd37944f"},
+{"sequencia":13,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"f99d7d4e-0f77-4c4a-9e70-d0771089c746"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b3920fa9-515c-4405-817d-5cc2ada5dc28"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d1470394-1d49-4d37-aa15-5440efa57372"},
+{"sequencia":16,"data":"2026-09-25","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2ee102db-00b3-4d6b-b985-6590c5a824d2"},
+{"sequencia":17,"data":"2026-10-01","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"ec092acd-ae71-4339-a8ae-1fc685b02320"},
+{"sequencia":18,"data":"2026-10-02","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"cc957818-81c8-4ff4-ade2-e8b9313489aa"}
+]
+}

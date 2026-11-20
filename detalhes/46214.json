@@ -1,0 +1,28 @@
+{"codigo":46214,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SOMA/RS PRODUTOS HOSPITALARES LTDA.","documento":"06.294.126/0001-00","descricao":"GAZE HIDRÓFILA, EM COMPRESSAS, ESTERILIZADAS, 08 DOBRAS, TAMANHO DE 10CMX10CM, 13 FIOS, 100% ALGODÃO, PACOTES CONTENDO 10 COMPRESSAS. CONFORME NORMA DA ABNT NBR 13843. COM DADOS DO FABRICANTE E NÚMERO DE REGISTRO NA ANVISA JUNTO AO PACOTE.","descricao_adicional":"","unidade":"PAC","valor_referencia":1.75,"valor_vencedor":1.08,"quantidade":80000},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"COOPERATIVA CENTRAL DE COOPERATIVAS UNIMED DO RIO GRANDE DO SUL LTDA","documento":"02.494.715/0001-73","descricao":"CURATIVO DE GAZE ALGODONADO COSTURADA ESTÉRIL, 15 CM X 30 CM. EMBALADO INDIVIDUALMENTE. (APÓSITO)","descricao_adicional":"","unidade":"UN","valor_referencia":1.54,"valor_vencedor":0.88,"quantidade":20000}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"GAZE HIDRÓFILA, EM COMPRESSAS, ESTERILIZADAS, 08 DOBRAS, TAMANHO DE 10CMX10CM, 13 FIOS, 100% ALGODÃO, PACOTES CONTENDO 10 COMPRESSAS. CONFORME NORMA DA ABNT NBR 13843. COM DADOS DO FABRICANTE E NÚMERO DE REGISTRO NA ANVISA JUNTO AO PACOTE.","descricao_adicional":"","unidade":"PAC","quantidade_min":0,"quantidade_max":80000,"valor_referencia":1.75},
+{"lote":0,"item":2,"descricao":"CURATIVO DE GAZE ALGODONADO COSTURADA ESTÉRIL, 15 CM X 30 CM. EMBALADO INDIVIDUALMENTE. (APÓSITO)","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":20000,"valor_referencia":1.54}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-11","tipo":"","fase":"Fase Interna","link_publico":"fa5f6cce-adc8-4942-b9b5-af5856839635"},
+{"sequencia":2,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"1ea04f0c-a1ef-49d6-b851-d27f4ef0587b"},
+{"sequencia":3,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"182875d5-4b2d-4587-8d3d-b453ac4a839e"},
+{"sequencia":4,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"b0269eae-e9a0-4f21-a91b-92a972d1ba51"},
+{"sequencia":5,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"a7922ea9-a481-4fab-b42c-02402d11301d"},
+{"sequencia":6,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"0a7051a2-a07b-4050-b682-4772b97b5b67"},
+{"sequencia":7,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"013802c3-d0d4-4ce0-94cf-c84a9c746518"},
+{"sequencia":8,"data":"2025-05-06","tipo":"","fase":"Fase Interna","link_publico":"8eea6301-312b-467f-ba62-31ba9ea95c18"},
+{"sequencia":9,"data":"2025-04-29","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"cf7cc2b5-aaf8-40ec-8e1c-2aa5b76e7ad2"},
+{"sequencia":10,"data":"2025-04-29","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"1c6c5130-dd40-41bf-ab8f-f974e4fa0f6a"},
+{"sequencia":11,"data":"2025-04-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"fff44412-44b5-4754-b13b-01e2b3b227f9"},
+{"sequencia":12,"data":"2025-04-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"9179d1ac-9200-4533-9f60-1157a57276b6"},
+{"sequencia":13,"data":"2025-04-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"4121029b-539b-4dd0-b50f-987d89b1b1a4"},
+{"sequencia":14,"data":"2025-04-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"356816bc-ecf7-41f1-b9cc-3faee8a6f2f8"},
+{"sequencia":15,"data":"2025-04-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"094e3a2d-313d-4480-8c6f-37a52872b70c"},
+{"sequencia":16,"data":"2025-05-05","tipo":"Outros documentos","fase":"Publicação","link_publico":"da3b30c2-5463-409f-b89e-3fc160576ce0"}
+]
+}

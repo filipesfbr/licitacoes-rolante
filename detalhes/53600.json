@@ -1,0 +1,16 @@
+{"codigo":53600,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DESPORTIVA ROLANTE SPORTS","documento":"29.066.114/0001-16","descricao":"PROJETO PEDAGÓGICO","descricao_adicional":"<p>Termo de Fomento para a realiza&ccedil;&atilde;o de aulas de patina&ccedil;&atilde;o para alunos da rede municipal de ensino, cf Plano de Trabalho em anexo.</p>\n","unidade":"UN","valor_referencia":4500,"valor_vencedor":4500,"quantidade":8}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PROJETO PEDAGÓGICO","descricao_adicional":"<p>Termo de Fomento para a realiza&ccedil;&atilde;o de aulas de patina&ccedil;&atilde;o para alunos da rede municipal de ensino, cf Plano de Trabalho em anexo.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":8,"valor_referencia":4500}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"08dcdb45-3a9d-4518-bf77-8f3f1dec61b2"},
+{"sequencia":2,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"c18527e8-2918-4615-bf38-b59ec9db77d5"},
+{"sequencia":3,"data":"2026-05-21","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ac4f499a-29cb-487e-9382-3df0de41c003"},
+{"sequencia":4,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"49abbee9-0542-47ca-834e-1af4aad7baa4"},
+{"sequencia":5,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"8aee31c5-bcbe-428a-8bba-357a2ecacab9"},
+{"sequencia":6,"data":"2026-05-28","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"c8cd2c2d-c561-4ed9-b506-59da34f63556"}
+]
+}

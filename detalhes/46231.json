@@ -1,0 +1,47 @@
+{"codigo":46231,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"ÓLEO 15W40","descricao_adicional":null,"unidade":"UN","valor_referencia":42.05,"valor_vencedor":42.05,"quantidade":25},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"ÓLEO 80W90 20 LITROS","descricao_adicional":null,"unidade":"UN","valor_referencia":42.15,"valor_vencedor":42.15,"quantidade":40},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"FILTRO MOTOR","descricao_adicional":null,"unidade":"UN","valor_referencia":248.9,"valor_vencedor":248.9,"quantidade":1},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":2850,"valor_vencedor":2850,"quantidade":1},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"FILTRO AR EXTERNO","descricao_adicional":null,"unidade":"UN","valor_referencia":465,"valor_vencedor":465,"quantidade":1},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"FILTRO AR INTERNO","descricao_adicional":null,"unidade":"UN","valor_referencia":235,"valor_vencedor":235,"quantidade":1},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"FILTRO DE ÓLEO LUBRIFICANTE FIAT TORO ENDURANCE GASOLINA (LA1255)","descricao_adicional":null,"unidade":"UN","valor_referencia":317.91,"valor_vencedor":317.91,"quantidade":1},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"FILTRO COMBUSTÍVEL","descricao_adicional":null,"unidade":"UN","valor_referencia":410,"valor_vencedor":410,"quantidade":1},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"FILTRO COMBUSTÍVEL","descricao_adicional":null,"unidade":"UN","valor_referencia":418.58,"valor_vencedor":418.58,"quantidade":1},
+{"lote":0,"item":10,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"FLUIDO/ADITIVO PARA RADIADOR 1 LITRO","descricao_adicional":null,"unidade":"UN","valor_referencia":33,"valor_vencedor":33,"quantidade":20},
+{"lote":0,"item":11,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"FLUIDO 10W30","descricao_adicional":null,"unidade":"UN","valor_referencia":39,"valor_vencedor":39,"quantidade":20},
+{"lote":0,"item":12,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"CORREIA MOTOR","descricao_adicional":null,"unidade":"UN","valor_referencia":698.78,"valor_vencedor":698.78,"quantidade":1},
+{"lote":0,"item":13,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"FILTRO DE TRANSMISSÃO","descricao_adicional":null,"unidade":"UN","valor_referencia":610,"valor_vencedor":610,"quantidade":1},
+{"lote":0,"item":14,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"MOTOR VENTILADOR","descricao_adicional":null,"unidade":"UN","valor_referencia":2150,"valor_vencedor":2150,"quantidade":1},
+{"lote":0,"item":15,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"TENSOR CORREIA","descricao_adicional":null,"unidade":"UN","valor_referencia":2400,"valor_vencedor":2400,"quantidade":1},
+{"lote":0,"item":16,"pessoa_fisica":false,"fornecedor":"GLX COMERCIO DE MAQUINAS LTDA","documento":"21.155.314/0001-33","descricao":"SUPORTE DE MOTOR","descricao_adicional":null,"unidade":"UN","valor_referencia":3628.96,"valor_vencedor":3628.96,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ÓLEO 15W40","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":25,"valor_referencia":42.05},
+{"lote":0,"item":2,"descricao":"ÓLEO 80W90 20 LITROS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":40,"valor_referencia":42.15},
+{"lote":0,"item":3,"descricao":"FILTRO MOTOR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":248.9},
+{"lote":0,"item":4,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2850},
+{"lote":0,"item":5,"descricao":"FILTRO AR EXTERNO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":465},
+{"lote":0,"item":6,"descricao":"FILTRO AR INTERNO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":235},
+{"lote":0,"item":7,"descricao":"FILTRO DE ÓLEO LUBRIFICANTE FIAT TORO ENDURANCE GASOLINA (LA1255)","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":317.91},
+{"lote":0,"item":8,"descricao":"FILTRO COMBUSTÍVEL","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":410},
+{"lote":0,"item":9,"descricao":"FILTRO COMBUSTÍVEL","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":418.58},
+{"lote":0,"item":10,"descricao":"FLUIDO/ADITIVO PARA RADIADOR 1 LITRO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":20,"valor_referencia":33},
+{"lote":0,"item":11,"descricao":"FLUIDO 10W30","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":20,"valor_referencia":39},
+{"lote":0,"item":12,"descricao":"CORREIA MOTOR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":698.78},
+{"lote":0,"item":13,"descricao":"FILTRO DE TRANSMISSÃO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":610},
+{"lote":0,"item":14,"descricao":"MOTOR VENTILADOR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2150},
+{"lote":0,"item":15,"descricao":"TENSOR CORREIA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2400},
+{"lote":0,"item":16,"descricao":"SUPORTE DE MOTOR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":3628.96}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-19","tipo":"","fase":"Fase Interna","link_publico":"2d66cf60-e6d0-4dc1-a6f1-4e6e81fc32de"},
+{"sequencia":2,"data":"2025-03-18","tipo":"","fase":"Fase Interna","link_publico":"f27faf6c-7318-4ca1-ab8e-201adabd9a04"},
+{"sequencia":3,"data":"2025-03-18","tipo":"","fase":"Fase Interna","link_publico":"58dd2e8a-e98c-48ac-8e7b-5d6b1eed6daa"},
+{"sequencia":4,"data":"2025-03-18","tipo":"","fase":"Fase Interna","link_publico":"bc46369b-2f17-4a64-a5fa-2f47230d3660"},
+{"sequencia":5,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"771524eb-39cb-4d59-8197-9c2ecdd6f6e1"},
+{"sequencia":6,"data":"2025-04-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"210e79cf-abae-47a8-a21e-c754b77837ca"},
+{"sequencia":7,"data":"2025-03-19","tipo":"Outros documentos","fase":"Publicação","link_publico":"eb51d25e-6193-4fab-982e-59a7fd35ff75"}
+]
+}

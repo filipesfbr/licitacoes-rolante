@@ -1,0 +1,28 @@
+{"codigo":55441,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOC ROLANTENSE PRO PESSOAS PORTADORAS DE NECESSIDADES ESP","documento":"02.097.117/0001-60","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"087f0a8f-99c8-437e-ae22-e4027ed73ab7"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"771bf57e-39f6-45bd-9066-f7f3df54fa08"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b669a8c6-73cb-442e-8955-1530205efbc4"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c3904fde-c516-4ffa-bece-1f50460efe89"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c4184ff4-d291-453f-84f6-61938295181c"},
+{"sequencia":6,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"d0edb54c-249e-4942-b117-d5ced4002941"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"10b538f7-c850-4dd4-a9e4-13150356f540"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"255d9e0a-c288-46a7-8dd6-44d5233c028c"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1c6f3087-2bae-4caf-a59e-bb45721ed4f7"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a591d19b-5035-409b-ab65-cfb80d0adb47"},
+{"sequencia":11,"data":"2026-10-08","tipo":"ETP","fase":"Fase Interna","link_publico":"59dcd811-4953-492b-9083-f0d24b373d27"},
+{"sequencia":12,"data":"2026-10-08","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2e1fe212-4bcf-406e-87ab-d5af28fc0667"},
+{"sequencia":13,"data":"2026-10-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"29178cc7-e978-4013-93ee-0838fefd3c2c"},
+{"sequencia":14,"data":"2026-10-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2e26a9f0-9848-40cd-bca0-0b9029af03e7"},
+{"sequencia":15,"data":"2026-10-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"004966f8-4bc3-4f08-ac2a-22a87624c7a5"},
+{"sequencia":16,"data":"2026-10-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d18e7811-700e-4b1b-85c2-4c330f7f6f53"},
+{"sequencia":17,"data":"2026-10-20","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"7ef5f002-b346-4de4-8b28-905a6dcbdc5c"},
+{"sequencia":18,"data":"2026-10-21","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"76c5026c-b4e0-472d-aea7-287480804b0f"}
+]
+}

@@ -1,0 +1,25 @@
+{"codigo":46112,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"CABO","descricao_adicional":null,"unidade":"UN","valor_referencia":8,"valor_vencedor":8,"quantidade":600},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"ALÇA PREFORMADA","descricao_adicional":null,"unidade":"UN","valor_referencia":18,"valor_vencedor":18,"quantidade":12},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"CABO MULTIPLEX","descricao_adicional":null,"unidade":"UN","valor_referencia":67.55,"valor_vencedor":67.55,"quantidade":520},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"CABO MULTIPLEX","descricao_adicional":null,"unidade":"UN","valor_referencia":42.55,"valor_vencedor":42.55,"quantidade":170},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"ELETRO STAR COMERCIO E REPRESENTACOES LTDA","documento":"88.250.766/0001-75","descricao":"LAÇO DE TOPO PREFORMADO","descricao_adicional":null,"unidade":"UN","valor_referencia":9.9,"valor_vencedor":9.9,"quantidade":16}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CABO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":600,"valor_referencia":8},
+{"lote":0,"item":2,"descricao":"ALÇA PREFORMADA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":18},
+{"lote":0,"item":3,"descricao":"CABO MULTIPLEX","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":520,"valor_referencia":67.55},
+{"lote":0,"item":4,"descricao":"CABO MULTIPLEX","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":170,"valor_referencia":42.55},
+{"lote":0,"item":5,"descricao":"LAÇO DE TOPO PREFORMADO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":16,"valor_referencia":9.9}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-03","tipo":"","fase":"Fase Interna","link_publico":"c02a72fa-3c4d-4f11-8ce2-463dba717db1"},
+{"sequencia":2,"data":"2025-10-03","tipo":"","fase":"Fase Interna","link_publico":"681fa799-009e-4fb4-b242-bc9be72ce209"},
+{"sequencia":3,"data":"2025-10-03","tipo":"","fase":"Fase Interna","link_publico":"92444423-bb99-42c4-917f-81879e1547a7"},
+{"sequencia":4,"data":"2025-10-03","tipo":"","fase":"Fase Interna","link_publico":"2425fc46-79ed-4c48-8452-3c04f27eff99"},
+{"sequencia":5,"data":"2025-10-03","tipo":"","fase":"Fase Interna","link_publico":"a8189f3f-12b9-43c9-919c-19b2e680057f"},
+{"sequencia":6,"data":"2025-10-03","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"9993db17-8637-47f5-9f55-f3b59e4fd3bb"},
+{"sequencia":7,"data":"2025-10-06","tipo":"Outros documentos","fase":"Publicação","link_publico":"f6bc0c49-5822-46e6-b730-ac0b9f9a0742"}
+]
+}

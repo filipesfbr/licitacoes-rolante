@@ -1,0 +1,18 @@
+{"codigo":55348,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DE PAIS E MESTRES DA ESCOLA MUNICIPAL D","documento":"04.574.816/0001-80","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"db36e788-aaf0-4dd3-8eb3-4d0cc5d74511"},
+{"sequencia":2,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"0ff337f6-c395-4292-899d-79cc3452a997"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"013f399c-5d81-43c8-b251-01e0c13304d4"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a677046c-d1e9-4961-bac3-2c3cca09e340"},
+{"sequencia":5,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"86704d66-c0a3-456c-a9c0-684690ccde24"},
+{"sequencia":6,"data":"2026-10-05","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e6cbf84b-b9c4-429f-8aab-70395316edfe"},
+{"sequencia":7,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"851c5706-46a5-4600-b09e-6b61f0303138"},
+{"sequencia":8,"data":"2026-10-13","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"4522aed9-b071-46cc-8a1f-d8c7865ee935"}
+]
+}

@@ -1,0 +1,32 @@
+{"codigo":46224,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MECANICA L&M CAR LTDA.","documento":"88.547.781/0001-80","descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","valor_referencia":2050,"valor_vencedor":2050,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"MECANICA L&M CAR LTDA.","documento":"88.547.781/0001-80","descricao":"BIELETA","descricao_adicional":null,"unidade":"UN","valor_referencia":90,"valor_vencedor":90,"quantidade":2},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"MECANICA L&M CAR LTDA.","documento":"88.547.781/0001-80","descricao":"BUCHA BALANÇA DIANTEIRA","descricao_adicional":null,"unidade":"UN","valor_referencia":60,"valor_vencedor":60,"quantidade":2},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"MECANICA L&M CAR LTDA.","documento":"88.547.781/0001-80","descricao":"BUCHA BALANÇA TRASEIRA","descricao_adicional":null,"unidade":"UN","valor_referencia":90,"valor_vencedor":90,"quantidade":2},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"MECANICA L&M CAR LTDA.","documento":"88.547.781/0001-80","descricao":"FILTRO DE ÓLEO MOTOR","descricao_adicional":null,"unidade":"UN","valor_referencia":45,"valor_vencedor":45,"quantidade":1},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"MECANICA L&M CAR LTDA.","documento":"88.547.781/0001-80","descricao":"KIT AMORTECEDOR TRASEIRO","descricao_adicional":null,"unidade":"UN","valor_referencia":80,"valor_vencedor":80,"quantidade":2},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"MECANICA L&M CAR LTDA.","documento":"88.547.781/0001-80","descricao":"ÓLEO MOTOR","descricao_adicional":null,"unidade":"UN","valor_referencia":120,"valor_vencedor":120,"quantidade":5},
+{"lote":0,"item":8,"pessoa_fisica":false,"fornecedor":"MECANICA L&M CAR LTDA.","documento":"88.547.781/0001-80","descricao":"PROTETOR PARALAMA","descricao_adicional":null,"unidade":"UN","valor_referencia":620,"valor_vencedor":620,"quantidade":1},
+{"lote":0,"item":9,"pessoa_fisica":false,"fornecedor":"MECANICA L&M CAR LTDA.","documento":"88.547.781/0001-80","descricao":"TERMINAL DIREÇÃO","descricao_adicional":null,"unidade":"UN","valor_referencia":170,"valor_vencedor":170,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MÃO-DE-OBRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2050},
+{"lote":0,"item":2,"descricao":"BIELETA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":90},
+{"lote":0,"item":3,"descricao":"BUCHA BALANÇA DIANTEIRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":60},
+{"lote":0,"item":4,"descricao":"BUCHA BALANÇA TRASEIRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":90},
+{"lote":0,"item":5,"descricao":"FILTRO DE ÓLEO MOTOR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":45},
+{"lote":0,"item":6,"descricao":"KIT AMORTECEDOR TRASEIRO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":80},
+{"lote":0,"item":7,"descricao":"ÓLEO MOTOR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":5,"valor_referencia":120},
+{"lote":0,"item":8,"descricao":"PROTETOR PARALAMA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":620},
+{"lote":0,"item":9,"descricao":"TERMINAL DIREÇÃO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":170}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-03-25","tipo":"","fase":"Fase Interna","link_publico":"d8d0e6ea-617f-4248-a915-013ea60e4da7"},
+{"sequencia":2,"data":"2025-03-25","tipo":"","fase":"Fase Interna","link_publico":"778c5ecd-5fa5-4176-bcd6-36648499e0af"},
+{"sequencia":3,"data":"2025-03-25","tipo":"","fase":"Fase Interna","link_publico":"09408c0b-965a-44e6-b134-58b5d609ecf6"},
+{"sequencia":4,"data":"2025-04-08","tipo":"","fase":"Fase Interna","link_publico":"94992cde-fd4e-4309-bbf2-6d7965dacd1a"},
+{"sequencia":5,"data":"2025-04-08","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"be3b5c18-fbd2-4267-aebf-d2191362c71d"},
+{"sequencia":6,"data":"2025-03-26","tipo":"Outros documentos","fase":"Publicação","link_publico":"e775c7a3-34d1-4137-a44a-4a4d235f5b54"}
+]
+}

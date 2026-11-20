@@ -1,0 +1,26 @@
+{"codigo":46198,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GRA ASSESSORIA E CONSULTORIA EM NEGOCIOS INTERNACI","documento":"14.767.899/0001-87","descricao":"MOTONIVELADORA NOVA COM CARACTERÍSTICAS MÍNIMAS: ZERO KM, , ANO E MODELO 2024 \nOU SUPERIOR ,CHASSI ARTICULADO, MOTOR COM POTÊNCIA DE 190 HP, 06 CILINDROS, TURBO ALIMENTADO, \nTIER III, MOVIDO A ÓLEO DIESEL, SISTEMA DE FREIO EM BANHO DE ÓLEO, CABINE FECHADA COM DUAS \nPORTAS, COM AR CONDICIONADO...","descricao_adicional":null,"unidade":"UN","valor_referencia":845000,"valor_vencedor":845000,"quantidade":3}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MOTONIVELADORA NOVA COM CARACTERÍSTICAS MÍNIMAS: ZERO KM, , ANO E MODELO 2024 \nOU SUPERIOR ,CHASSI ARTICULADO, MOTOR COM POTÊNCIA DE 190 HP, 06 CILINDROS, TURBO ALIMENTADO, \nTIER III, MOVIDO A ÓLEO DIESEL, SISTEMA DE FREIO EM BANHO DE ÓLEO, CABINE FECHADA COM DUAS \nPORTAS, COM AR CONDICIONADO...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":845000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-28","tipo":"","fase":"Fase Interna","link_publico":"d8284c8c-8ef8-44c7-8b4c-e03c35f5c76d"},
+{"sequencia":2,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"ad0528f2-11dd-4302-a589-3edcf0b61b65"},
+{"sequencia":3,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"d08971dd-edca-4c37-a577-145750818d7a"},
+{"sequencia":4,"data":"2025-04-28","tipo":"","fase":"Fase Interna","link_publico":"907d6a9e-88e6-4d16-aad8-0195b2b1d3b7"},
+{"sequencia":5,"data":"2025-04-28","tipo":"","fase":"Fase Interna","link_publico":"c2c4135e-87c0-41be-954d-247f32c8a8a9"},
+{"sequencia":6,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"0db910b1-80d0-4c39-9715-8de54f7c4c1d"},
+{"sequencia":7,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"bf792f1b-1ea5-4d59-b8c1-9b6358e0a2bd"},
+{"sequencia":8,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"f4a3c753-6719-47c1-b594-51f8e2e87b17"},
+{"sequencia":9,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"73b4fedd-ab09-4ed1-a0d8-91973d9d8413"},
+{"sequencia":10,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"9a6b2c34-ac93-4528-ac2e-8eb34039639b"},
+{"sequencia":11,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"4d96f531-e0be-4891-a537-f6939472e982"},
+{"sequencia":12,"data":"2025-04-25","tipo":"","fase":"Fase Interna","link_publico":"815089f4-d60c-4f10-bc44-0e152269f1ab"},
+{"sequencia":13,"data":"2025-04-28","tipo":"","fase":"Fase Interna","link_publico":"b7d0db10-b0a9-45f4-982c-11fb893a4475"},
+{"sequencia":14,"data":"2025-04-25","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"faae0411-8806-4111-8110-a85775bd67f1"},
+{"sequencia":15,"data":"2025-04-25","tipo":"Outros documentos","fase":"Publicação","link_publico":"ae25c452-4d54-499f-b677-e724e34f135a"},
+{"sequencia":16,"data":"2025-04-28","tipo":"Outros documentos","fase":"Publicação","link_publico":"cb0ce79b-8d44-4fcd-9482-f2b91f93cdc4"}
+]
+}

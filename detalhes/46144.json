@@ -1,0 +1,20 @@
+{"codigo":46144,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"JOTAGE CREATIVE INDUSTRIA DE CONFECCOES LTDA","documento":"20.147.887/0001-52","descricao":"QUEPE PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","valor_referencia":178.5,"valor_vencedor":178.5,"quantidade":30},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"JOTAGE CREATIVE INDUSTRIA DE CONFECCOES LTDA","documento":"20.147.887/0001-52","descricao":"QUEPE PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","valor_referencia":198.5,"valor_vencedor":198.5,"quantidade":50},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"JOTAGE CREATIVE INDUSTRIA DE CONFECCOES LTDA","documento":"20.147.887/0001-52","descricao":"QUEPE PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","valor_referencia":193.5,"valor_vencedor":193.5,"quantidade":50}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"QUEPE PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":30,"valor_referencia":178.5},
+{"lote":0,"item":2,"descricao":"QUEPE PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":50,"valor_referencia":198.5},
+{"lote":0,"item":3,"descricao":"QUEPE PARA USO DAS BANDAS ESCOLARES","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":50,"valor_referencia":193.5}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"5f3a85c9-8c8b-42eb-bb6b-99247a1f18d6"},
+{"sequencia":2,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"8dbf5b23-c318-49c2-bd76-54299094caf8"},
+{"sequencia":3,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"0d5aaafb-2c99-4ecb-bd4b-1e057fa464fe"},
+{"sequencia":4,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"f6baff1a-97e5-4bb5-a90f-1d7b764b0446"},
+{"sequencia":5,"data":"2025-08-05","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"e4c7e106-31b1-45b6-be74-fb5d42543436"},
+{"sequencia":6,"data":"2025-08-06","tipo":"Outros documentos","fase":"Publicação","link_publico":"95dbe16e-e8c5-4886-8233-77f91f88ae87"}
+]
+}

@@ -1,0 +1,17 @@
+{"codigo":46139,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"JC KOMAC INDUSTRIA E COMERCIO DE PECAS E EQUIPAMENTOS LTDA","documento":"16.103.672/0001-62","descricao":"CABINE AGRÍCOLA MONOBLOCO COM ENTREGA E INSTALAÇÃO MODELO MF 6711, COM AR CONDICIONADO 28.000 BTUS, 6 FARÓIS DE LEDS, 4 DIANTEIROS E 2 TRASEIROS., FILTRO DE CARVÃO ATIVADO-, VIDROS CURVOS TEMPERADOS 6MM-, VIDRO TRASEIRO COM ABERTURA-, BANCO AUXILIAR E TAPETES- ,1 PORTA DE ENTRADA, ESPELHO...","descricao_adicional":null,"unidade":"UN","valor_referencia":34500,"valor_vencedor":34500,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CABINE AGRÍCOLA MONOBLOCO COM ENTREGA E INSTALAÇÃO MODELO MF 6711, COM AR CONDICIONADO 28.000 BTUS, 6 FARÓIS DE LEDS, 4 DIANTEIROS E 2 TRASEIROS., FILTRO DE CARVÃO ATIVADO-, VIDROS CURVOS TEMPERADOS 6MM-, VIDRO TRASEIRO COM ABERTURA-, BANCO AUXILIAR E TAPETES- ,1 PORTA DE ENTRADA, ESPELHO...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":34500}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-19","tipo":"","fase":"Fase Interna","link_publico":"5f74b6af-1c36-44b6-a02c-5815e87d0fee"},
+{"sequencia":2,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"fc88e970-92f4-40bd-8a6c-eb28be2956b0"},
+{"sequencia":3,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"42157b8f-4c16-4eba-a1a5-df58efc7632b"},
+{"sequencia":4,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"44373fd9-6258-4201-b9c3-124332232cdf"},
+{"sequencia":5,"data":"2025-08-18","tipo":"","fase":"Fase Interna","link_publico":"a702ce97-a665-4ea7-a51b-e0eba18f241b"},
+{"sequencia":6,"data":"2025-08-18","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"857b0f38-b3b3-4309-a063-a6363559c007"},
+{"sequencia":7,"data":"2025-08-19","tipo":"Outros documentos","fase":"Publicação","link_publico":"7257de76-65c6-4c27-b4c8-6e746dc4176f"}
+]
+}

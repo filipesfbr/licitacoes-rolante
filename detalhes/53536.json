@@ -1,0 +1,29 @@
+{"codigo":53536,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ANIMO ENGENHARIA E CONSTRUCAO LTDA","documento":"48.885.582/0001-67","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DA OBRA DA ESCADARIA DA CASCATA TRÊS QUEDAS, LOCALIZADA NA LOCALIDADE DA BOA ESPERANÇA, NO MUNICÍPIO DE ROLANTE/RS, COMPREENDENDO A EXECUÇÃO DE ESCADARIA EM ESTRUTURA DE MADEIRA TRATADA EM AUTOCLAVE, COM ÁREA APROXIMADA DE 150 M² (CENTO E...","descricao_adicional":"<p>CINQUENTA METROS QUADRADOS), INCLUINDO FUNDA&Ccedil;&Otilde;ES, SUPERESTRUTURA, GUARDA-CORPOS, CORRIM&Atilde;OS, FIXA&Ccedil;&Otilde;ES E DEMAIS ELEMENTOS CONSTRUTIVOS, BEM COMO A IMPLANTA&Ccedil;&Atilde;O DE ESTRUTURA EM CONCRETO ARMADO DESTINADA AO MONUMENTO DE ACESSO, AL&Eacute;M DA INSTALA&Ccedil;&Atilde;O DE SISTEMAS DE ILUMINA&Ccedil;&Atilde;O, CONFORME PROJETOS, MEMORIAIS DESCRITIVOS, ASSEGURANDO CONDI&Ccedil;&Otilde;ES ADEQUADAS DE SEGURAN&Ccedil;A, DURABILIDADE, ACESSIBILIDADE E USO ORDENADO DO ATRATIVO TUR&Iacute;STICO.</p>\n","unidade":"UN","valor_referencia":292778.44,"valor_vencedor":292000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DA OBRA DA ESCADARIA DA CASCATA TRÊS QUEDAS, LOCALIZADA NA LOCALIDADE DA BOA ESPERANÇA, NO MUNICÍPIO DE ROLANTE/RS, COMPREENDENDO A EXECUÇÃO DE ESCADARIA EM ESTRUTURA DE MADEIRA TRATADA EM AUTOCLAVE, COM ÁREA APROXIMADA DE 150 M² (CENTO E...","descricao_adicional":"<p>CINQUENTA METROS QUADRADOS), INCLUINDO FUNDA&Ccedil;&Otilde;ES, SUPERESTRUTURA, GUARDA-CORPOS, CORRIM&Atilde;OS, FIXA&Ccedil;&Otilde;ES E DEMAIS ELEMENTOS CONSTRUTIVOS, BEM COMO A IMPLANTA&Ccedil;&Atilde;O DE ESTRUTURA EM CONCRETO ARMADO DESTINADA AO MONUMENTO DE ACESSO, AL&Eacute;M DA INSTALA&Ccedil;&Atilde;O DE SISTEMAS DE ILUMINA&Ccedil;&Atilde;O, CONFORME PROJETOS, MEMORIAIS DESCRITIVOS, ASSEGURANDO CONDI&Ccedil;&Otilde;ES ADEQUADAS DE SEGURAN&Ccedil;A, DURABILIDADE, ACESSIBILIDADE E USO ORDENADO DO ATRATIVO TUR&Iacute;STICO.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":292778.44}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Projeto básico/Termo de referência","fase":"Fase Interna","link_publico":"094491d7-46cd-4ecc-bab1-ce3bb4a576e3"},
+{"sequencia":2,"data":"2026-02-28","tipo":"Orçamento-base","fase":"Fase Interna","link_publico":"d86249db-55fe-420d-9fb3-4e2101be3a03"},
+{"sequencia":3,"data":null,"tipo":"Cronograma","fase":"Fase Interna","link_publico":"62ab7312-4182-41ae-9bbf-ae8d2ec57261"},
+{"sequencia":4,"data":null,"tipo":"Detalhamento BDI","fase":"Fase Interna","link_publico":"7d3df0db-814f-430c-b779-e7696788ce17"},
+{"sequencia":5,"data":null,"tipo":"Detalhamento encargos sociais","fase":"Fase Interna","link_publico":"37a08ed5-c1bb-4f5c-bf58-dbe49a9e9df9"},
+{"sequencia":6,"data":"2026-05-19","tipo":"ETP","fase":"Fase Interna","link_publico":"cd244ed1-7b34-4e65-a2dd-27d90ecb0fd0"},
+{"sequencia":7,"data":"2026-05-19","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"19f20c79-a29e-47cf-8422-618e0c910cd4"},
+{"sequencia":8,"data":"2026-05-22","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"86584c18-6eb5-4597-b09d-07fceaa8e7ff"},
+{"sequencia":9,"data":"2026-05-26","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"1cac7069-80f8-4a15-9bc3-7bc9e7bca4c1"},
+{"sequencia":10,"data":"2026-05-26","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"59ae5836-5e1e-47ed-93c0-4c101f7d5ff9"},
+{"sequencia":11,"data":"2026-05-26","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"db1b3fc2-8932-4e6d-87cd-269c8eb27473"},
+{"sequencia":12,"data":"2026-05-26","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"4e3db406-8ef8-40a6-a065-1e0351845db6"},
+{"sequencia":13,"data":null,"tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"108175b8-7f4c-48b6-8aaf-e221e377f5ae"},
+{"sequencia":14,"data":null,"tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"fa82adb2-a92a-42ad-a4e0-1035c4b67411"},
+{"sequencia":15,"data":null,"tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"5645d5bc-e2af-4d89-8d1a-914e7e99157f"},
+{"sequencia":16,"data":null,"tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"905d93d8-4f48-4b2e-bb67-dfec2d7cca39"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"16a44f5d-5eea-4dc3-bb90-4e069013f5eb"},
+{"sequencia":18,"data":null,"tipo":"Outros documentos","fase":"Adjudicação/Homologação","link_publico":"e748b352-7e4b-4ab3-83d9-0d332404ff3b"},
+{"sequencia":19,"data":"2026-07-01","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"701b2adb-71b3-4077-b36f-f348e1ad76e6"}
+]
+}

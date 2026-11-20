@@ -1,0 +1,21 @@
+{"codigo":46089,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"MÓVEL EM MDF SOB MEDIDA","descricao_adicional":null,"unidade":"UN","valor_referencia":8500,"valor_vencedor":8500,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"MÓVEL EM MDF SOB MEDIDA","descricao_adicional":null,"unidade":"UN","valor_referencia":3000,"valor_vencedor":3000,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"FABRICA DE MOVEIS E ESQ. ANGELI LT","documento":"02.338.004/0001-00","descricao":"MÓVEL EM MDF SOB MEDIDA","descricao_adicional":null,"unidade":"UN","valor_referencia":7500,"valor_vencedor":7500,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MÓVEL EM MDF SOB MEDIDA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":8500},
+{"lote":0,"item":2,"descricao":"MÓVEL EM MDF SOB MEDIDA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":3000},
+{"lote":0,"item":3,"descricao":"MÓVEL EM MDF SOB MEDIDA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":7500}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"2b67ec35-b4f7-4242-99d3-ced030423bb7"},
+{"sequencia":2,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"4510e430-39c6-4f25-92ba-94b38c45e090"},
+{"sequencia":3,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"c5d0db36-5ef6-45f4-b827-6c2208cdf180"},
+{"sequencia":4,"data":"2025-11-06","tipo":"","fase":"Fase Interna","link_publico":"a693b24a-3b0d-4eba-b7fe-61df0d85ccaf"},
+{"sequencia":5,"data":"2025-11-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"bc98750d-03e2-4ee4-8e30-d978c76ea429"},
+{"sequencia":6,"data":"2025-11-06","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"423fcc51-656e-4edd-a2c8-05d5d95b999f"},
+{"sequencia":7,"data":"2025-11-07","tipo":"Outros documentos","fase":"Publicação","link_publico":"fcc78938-722b-4cb8-8a7e-da2e1d5a85d3"}
+]
+}

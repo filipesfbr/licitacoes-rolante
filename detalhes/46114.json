@@ -1,0 +1,16 @@
+{"codigo":46114,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SERGIO MAURO DA SILVA SANTOS","documento":"27.081.615/0001-46","descricao":"SERVIÇOS DE SONORIZAÇÃO E ILUMINAÇÃO","descricao_adicional":null,"unidade":"UN","valor_referencia":13600,"valor_vencedor":13600,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS DE SONORIZAÇÃO E ILUMINAÇÃO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":13600}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-30","tipo":"","fase":"Fase Interna","link_publico":"ac37362b-7157-41fd-8c3b-164bf05b8fa3"},
+{"sequencia":2,"data":"2025-09-30","tipo":"","fase":"Fase Interna","link_publico":"318c4173-2232-4b17-8849-99709b4690b6"},
+{"sequencia":3,"data":"2025-09-30","tipo":"","fase":"Fase Interna","link_publico":"85c990f4-0d49-4ba1-98df-bdaf440ba272"},
+{"sequencia":4,"data":"2025-09-30","tipo":"","fase":"Fase Interna","link_publico":"0fa3dea8-6227-4bba-adbe-21475a89d6cd"},
+{"sequencia":5,"data":"2025-09-30","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"eaa77de1-bee7-478b-830d-360771bc87c0"},
+{"sequencia":6,"data":"2025-10-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"a3cc3b82-cb26-4be1-9566-a9cdff929486"}
+]
+}

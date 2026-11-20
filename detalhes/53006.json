@@ -1,0 +1,14 @@
+{"codigo":53006,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"RODRIGO AZEVEDO DE LIMA ***.***.***-**","documento":"21.898.584/0001-34","descricao":"FORMAÇÃO CONTINUADA","descricao_adicional":null,"unidade":"H","valor_referencia":310.3448,"valor_vencedor":310.3448,"quantidade":58}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"FORMAÇÃO CONTINUADA","descricao_adicional":null,"unidade":"H","quantidade_min":0,"quantidade_max":58,"valor_referencia":310.3448}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"75f83ad7-8b09-498a-8d47-48b154c79575"},
+{"sequencia":2,"data":"2026-04-14","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6c2082c1-9e00-40bb-a053-eb963a2969f4"},
+{"sequencia":3,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"724d6517-eaa8-4009-b92d-4ab6cdd7e8b3"},
+{"sequencia":4,"data":"2026-04-17","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"99945713-e94e-4f6e-b3b3-fd514aefa4ca"}
+]
+}

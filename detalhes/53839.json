@@ -1,0 +1,26 @@
+{"codigo":53839,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"UNDIME- UNIÃO NAC. DOS DIRIGENTES MUN. DE EDUCAÇÃO","documento":"05.387.322/0001-59","descricao":"TREINAMENTO/CURSO","descricao_adicional":"<p>Inscri&ccedil;&atilde;o de 35(trinta e cinco)&nbsp;servidores da Secretaria Municipal de Educa&ccedil;&atilde;o e gestores das Escolas da Rede Municipal de Educa&ccedil;&atilde;o no 36&ordm; F&oacute;rum Estadual de Educa&ccedil;&atilde;o do RS e Regi&atilde;o Sul, a se realizar nos dias 17, 18 e 19 de Junho de 2026 no munic&iacute;pio de Porto Alegre/RS.</p>\n","unidade":"UN","valor_referencia":350,"valor_vencedor":350,"quantidade":35}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"TREINAMENTO/CURSO","descricao_adicional":"<p>Inscri&ccedil;&atilde;o de 35(trinta e cinco)&nbsp;servidores da Secretaria Municipal de Educa&ccedil;&atilde;o e gestores das Escolas da Rede Municipal de Educa&ccedil;&atilde;o no 36&ordm; F&oacute;rum Estadual de Educa&ccedil;&atilde;o do RS e Regi&atilde;o Sul, a se realizar nos dias 17, 18 e 19 de Junho de 2026 no munic&iacute;pio de Porto Alegre/RS.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":35,"valor_referencia":350}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f07c7d34-9cac-42be-b132-81e64fef9701"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"aa25b5e6-a8a5-4b73-a8a7-194805ef8925"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4e5fde5b-e680-4ab1-a8b7-68eedaad021c"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c3afdb8d-685d-45b5-af97-d5dbeeae7e01"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"47020db6-33d0-4731-8aab-cab115cc62ba"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"edcd978d-eb4e-42db-895a-604c74f08b10"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e3da2f92-5050-4d58-bb87-9f96a4ec342c"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"39798e99-644d-4832-80f3-7682d83bb190"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a6a33802-389e-4e04-9f83-0029b63beddd"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"99201939-c80b-40d4-9f1b-37a2686485fb"},
+{"sequencia":11,"data":"2026-06-12","tipo":"ETP","fase":"Fase Interna","link_publico":"67172a8b-35c5-4b68-b995-eae4fe901261"},
+{"sequencia":12,"data":"2026-06-12","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"40c13792-43ac-43a2-be57-8a83ccd0e80c"},
+{"sequencia":13,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"272682ad-6a49-4f77-b48e-a5cdfb315d1d"},
+{"sequencia":14,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"9ed6af4d-a39b-47fe-839c-48dfe3ed55f7"},
+{"sequencia":15,"data":null,"tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"d374ad67-cae0-4690-b184-e7b2464db683"},
+{"sequencia":16,"data":null,"tipo":"Comprovação de notória especialização","fase":"Fase Interna","link_publico":"91f52193-7959-4097-9c7f-76604effa365"}
+]
+}

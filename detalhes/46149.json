@@ -1,0 +1,19 @@
+{"codigo":46149,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GEOLAC GEOLOGIA E MEIO AMBIENTE LTDA","documento":"91.053.736/0001-83","descricao":" SERVIÇO TÉCNICO PARA LICENCIAMENTO AMBIENTAL DE SAIBREIRA","descricao_adicional":null,"unidade":"UN","valor_referencia":3850,"valor_vencedor":3850,"quantidade":4},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"GEOLAC GEOLOGIA E MEIO AMBIENTE LTDA","documento":"91.053.736/0001-83","descricao":" SERVIÇO TÉCNICO PARA LICENCIAMENTO AMBIENTAL DE SAIBREIRA","descricao_adicional":null,"unidade":"UN","valor_referencia":3850,"valor_vencedor":3850,"quantidade":4}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":" SERVIÇO TÉCNICO PARA LICENCIAMENTO AMBIENTAL DE SAIBREIRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":3850},
+{"lote":0,"item":2,"descricao":" SERVIÇO TÉCNICO PARA LICENCIAMENTO AMBIENTAL DE SAIBREIRA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":3850}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-07-21","tipo":"","fase":"Fase Interna","link_publico":"c8a192f0-6c7f-4cb0-8bf0-411cb180708f"},
+{"sequencia":2,"data":"2025-07-21","tipo":"","fase":"Fase Interna","link_publico":"8975a50d-eb83-449c-993d-a04cb0c5f587"},
+{"sequencia":3,"data":"2025-07-21","tipo":"","fase":"Fase Interna","link_publico":"fd59d5da-88d3-4c08-8512-707615c1901c"},
+{"sequencia":4,"data":"2025-07-21","tipo":"","fase":"Fase Interna","link_publico":"9850cba0-191b-4378-965f-44c3413e327e"},
+{"sequencia":5,"data":"2025-07-21","tipo":"","fase":"Fase Interna","link_publico":"1712eec8-9f2e-44bd-9b5b-b78c22eed30d"},
+{"sequencia":6,"data":"2025-07-21","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"7b59bc5e-0fc0-4e91-bede-9209ce1d1cd3"},
+{"sequencia":7,"data":"2025-07-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"16ddcb22-72b9-49fa-b255-0026554eb490"}
+]
+}

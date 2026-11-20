@@ -1,0 +1,18 @@
+{"codigo":55338,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CTG PASSO DOS TROPEIROS","documento":"88.372.750/0001-35","descricao":"PROJETO PEDAGÓGICO","descricao_adicional":"<p>Termo de Fomento com o <strong>CTG Passo dos Tropeiros &ndash; 22&ordf; RT</strong>, para execu&ccedil;&atilde;o do projeto <strong>&ldquo;Arte, Dan&ccedil;a e Tradi&ccedil;&atilde;o&rdquo;</strong>, justifica-se pelo relevante interesse p&uacute;blico, cultural e educacional da iniciativa, que prev&ecirc; a realiza&ccedil;&atilde;o de oficinas semanais de dan&ccedil;as tradicionais ga&uacute;chas, atividades relacionadas aos costumes e &agrave; cultura do Rio Grande do Sul e a realiza&ccedil;&atilde;o de festival estudantil durante a Semana Farroupilha.</p>\n","unidade":"UN","valor_referencia":78000,"valor_vencedor":78000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PROJETO PEDAGÓGICO","descricao_adicional":"<p>Termo de Fomento com o <strong>CTG Passo dos Tropeiros &ndash; 22&ordf; RT</strong>, para execu&ccedil;&atilde;o do projeto <strong>&ldquo;Arte, Dan&ccedil;a e Tradi&ccedil;&atilde;o&rdquo;</strong>, justifica-se pelo relevante interesse p&uacute;blico, cultural e educacional da iniciativa, que prev&ecirc; a realiza&ccedil;&atilde;o de oficinas semanais de dan&ccedil;as tradicionais ga&uacute;chas, atividades relacionadas aos costumes e &agrave; cultura do Rio Grande do Sul e a realiza&ccedil;&atilde;o de festival estudantil durante a Semana Farroupilha.</p>\n","unidade":"UN","quantidade_min":1,"quantidade_max":1,"valor_referencia":78000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"f0cf72e0-24ec-4d26-83a2-f167eccb5c6b"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"717ea488-ebe7-4111-8480-acdbaef46537"},
+{"sequencia":3,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"5cbf5ff4-e875-47d5-bdba-15917794299e"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"14f3fea7-b324-487c-b1e7-36ba8f3fbc47"},
+{"sequencia":5,"data":"2026-09-30","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b9e05da1-891a-42e1-82e4-08b7c0c1025d"},
+{"sequencia":6,"data":"2026-10-08","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"8bd37554-0017-4007-9d56-0aa21559e094"},
+{"sequencia":7,"data":"2026-10-08","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5419a825-a008-4e40-b5b8-b1f931153599"},
+{"sequencia":8,"data":"2026-10-13","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"d0ec4bdc-e8ea-46f2-a276-6c52143b74ba"}
+]
+}

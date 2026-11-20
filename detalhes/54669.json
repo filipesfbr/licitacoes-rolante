@@ -1,0 +1,19 @@
+{"codigo":54669,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CIRC PAIS E MESTRES DA E.E.E.B COMENDADOR ALBINO SOUZA CRUZ","documento":"95.213.351/0001-97","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"715a0691-0d66-4d39-8ae8-df91835d0216"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b3373542-66fc-4555-9a5f-d982067d8a20"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ecb18dd2-d280-4b50-a5b4-0d4c1c9be280"},
+{"sequencia":4,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"a06fd6ba-7fcd-4651-94d0-084a51ca97b3"},
+{"sequencia":5,"data":"2026-08-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f82a15ef-9710-4f7c-80de-4bf0c82d2e20"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"856ee07f-331f-49ad-9009-2894e1470583"},
+{"sequencia":7,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"f6f29aaa-f4a9-4ecd-aedf-7932e9a214ec"},
+{"sequencia":8,"data":"2026-08-12","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"d57be8f4-a536-4e5e-9f0e-070ffed3b861"},
+{"sequencia":9,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"66622e65-dfe3-4b76-b94a-eeb84781b9e7"}
+]
+}

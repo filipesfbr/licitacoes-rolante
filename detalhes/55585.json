@@ -1,0 +1,14 @@
+{"codigo":55585,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"TROMBINI PROJETOS E EXECUCOES AMBIENTAIS LTDA - EPP","documento":"19.425.605/0001-52","descricao":"CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS, COM RESPONSABILIDADE TÉCNICA, PARA PRESTAÇÃO DE SERVIÇOS DE BIOLOGIA","descricao_adicional":"","unidade":"H","valor_referencia":114.85,"valor_vencedor":114.85,"quantidade":240}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS, COM RESPONSABILIDADE TÉCNICA, PARA PRESTAÇÃO DE SERVIÇOS DE BIOLOGIA","descricao_adicional":"","unidade":"H","quantidade_min":1,"quantidade_max":240,"valor_referencia":114.85}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"3bb5d743-89f3-42f4-bc54-404748d7a140"},
+{"sequencia":2,"data":"2026-10-27","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c3440e3f-cb44-4d7d-8715-cbe3a05ceb4e"},
+{"sequencia":3,"data":"2026-11-04","tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"7164946b-501c-434e-966a-fdb7503fbfe4"},
+{"sequencia":4,"data":"2026-11-05","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"83a408f6-85a5-41c1-a953-12321514b898"}
+]
+}

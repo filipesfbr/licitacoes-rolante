@@ -1,0 +1,24 @@
+{"codigo":55014,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"VALTER FRAGA NUNES","documento":"59.198.805/0001-34","descricao":"SERVIÇO DE PALESTRANTE","descricao_adicional":"","unidade":"UN","valor_referencia":7500,"valor_vencedor":7500,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE PALESTRANTE","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":7500}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"5d9d0b34-9b4e-427e-8b78-59fcadaee697"},
+{"sequencia":2,"data":null,"tipo":"Comprovação de notória especialização","fase":"Fase Interna","link_publico":"36844e73-3a73-44be-b1d1-791033e4377d"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7d131817-80de-4254-94df-a16f8d9b9164"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"713bfa8e-1c66-44df-be49-8be1b7ccef97"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"64adb42b-8fa3-48d3-b99f-58d95ff19fcb"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"60803a8f-5414-461a-a55f-42cecd398866"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"15565d8e-cfba-4eb7-96c5-c2ba3e59bed3"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"452d2cc5-7028-4855-8b0a-20dc13616232"},
+{"sequencia":9,"data":"2026-09-08","tipo":"ETP","fase":"Fase Interna","link_publico":"1e76fa7d-d798-4492-9a60-632b94bca651"},
+{"sequencia":10,"data":"2026-09-08","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"be86a6d4-ad9b-445c-a19f-d0fc3c3a09b7"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"522f689d-dd71-4972-b898-eaa66316130f"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f32094c6-faa2-4ec2-b321-9371264d29dd"},
+{"sequencia":13,"data":"2026-09-10","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"70fa72af-b06e-4153-9783-b8db06bce88a"},
+{"sequencia":14,"data":"2026-09-11","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"c6a89bc4-6e3b-4459-a022-913ae6aae504"}
+]
+}

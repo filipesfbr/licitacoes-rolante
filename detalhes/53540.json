@@ -1,0 +1,17 @@
+{"codigo":53540,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CARMEN PATRICIA SCHENKEL","documento":"11.670.899/0001-76","descricao":"SAIA","descricao_adicional":"<p style=\"text-align:justify\">Saia em tecido Oxford, com el&aacute;stico e fita para ajuste na cintura, duas cores e um babado.&nbsp;Cores dos tecidos &aacute; combinar. Incluso todos os materiais necess&aacute;rios e m&atilde;o-de-obra. Tamanhos: 3 a 6 anos.</p>\n","unidade":"UN","valor_referencia":79,"valor_vencedor":79,"quantidade":84},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"CARMEN PATRICIA SCHENKEL","documento":"11.670.899/0001-76","descricao":"SAIA","descricao_adicional":"<p style=\"text-align:justify\">Saia em tecido Oxford, com el&aacute;stico e fita para ajuste na cintura, duas cores e um babado. Cores dos tecidos &aacute; combinar. Incluso todos os materiais necess&aacute;rios e m&atilde;o-de-obra. Tamanhos: 7 a 13 anos.</p>\n","unidade":"UN","valor_referencia":109,"valor_vencedor":109,"quantidade":166}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SAIA","descricao_adicional":"<p style=\"text-align:justify\">Saia em tecido Oxford, com el&aacute;stico e fita para ajuste na cintura, duas cores e um babado.&nbsp;Cores dos tecidos &aacute; combinar. Incluso todos os materiais necess&aacute;rios e m&atilde;o-de-obra. Tamanhos: 3 a 6 anos.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":84,"valor_referencia":79},
+{"lote":0,"item":2,"descricao":"SAIA","descricao_adicional":"<p style=\"text-align:justify\">Saia em tecido Oxford, com el&aacute;stico e fita para ajuste na cintura, duas cores e um babado. Cores dos tecidos &aacute; combinar. Incluso todos os materiais necess&aacute;rios e m&atilde;o-de-obra. Tamanhos: 7 a 13 anos.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":166,"valor_referencia":109}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"22eb0d15-8e35-41a7-b412-af25bdc05466"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7d672db2-f2b4-45d3-864a-4eac57312d80"},
+{"sequencia":3,"data":"2026-05-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5bc69d71-e320-45d6-b880-06a8d9d0924f"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"31dd02ac-9484-4263-b9ed-0223bd6fe1b5"},
+{"sequencia":5,"data":null,"tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"27b6b12b-11b3-4dc6-85ea-f18530f2a599"}
+]
+}

@@ -1,0 +1,35 @@
+{"codigo":46131,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SINOSCAR SA","documento":"91.688.234/0001-29","descricao":"VEÍCULO TIPO PICK-UP, NOVO, CABINE DUPLA, 0 KM, ANO DE FABRICAÇÃO MÍNIMO 2025, MÍNIMO 05 LUGARES, COR BRANCA, MOTOR TURBO COM POTÊNCIA MÍNIMA DE 140 CV, COMBUSTÍVEL FLEX (GASOLINA/ETANOL), ITENS ORIGINAIS DA LINHA DE MONTAGEM DA FABRICANTE: CÂMBIO MANUAL OU AUTOMÁTICO DE 06 VELOCIDADES A FRENTE E...","descricao_adicional":null,"unidade":"UN","valor_referencia":153595,"valor_vencedor":137770,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"SINOSCAR SA","documento":"91.688.234/0001-29","descricao":"VEÍCULO ZERO KM, NOVO, COM FABRICAÇÃO ANO 2025, MODELO 2025, OU SUPERIOR, COR BRANCA, 7 LUGARES, COM AS SEGUINTES ESPECIFICAÇÕES MÍNIMAS E ITENS ORIGINAIS DA LINHA DE MONTAGEM DA FABRICANTE: MOTOR FLEX (ÁLCOOL E GASOLINA), COM POTÊNCIA MÍNIMA DE 105 CV QUANDO ABASTECIDO 100% GASOLINA, CAPACIDADE...","descricao_adicional":null,"unidade":"UN","valor_referencia":160421.25,"valor_vencedor":157000,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"ELITE COMERCIO DE MAQUINAS E VEICULOS LTDA","documento":"59.248.333/0001-87","descricao":"VEÍCULO NOVO 0KM, TIPO PICK-UP, CABINE SIMPLES, COR BRANCA, POTÊNCIA MÁXIMA (CV): 98,0 (G) / 107,0 (E); CAPACIDADE DA CAÇAMBA (LITROS): 924; CAPACIDADE DE CARGA (KG): 664; COMPRIMENTO DO VEÍCULO MÍNIMO (MM): 4.474; ENTRE-EIXOS MÍNIMO (MM): 2.737; TANQUE DE COMBUSTÍVEL (LITROS): 55; AIRBAG DUPLO...","descricao_adicional":null,"unidade":"UN","valor_referencia":119808.75,"valor_vencedor":111990,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"VEÍCULO TIPO PICK-UP, NOVO, CABINE DUPLA, 0 KM, ANO DE FABRICAÇÃO MÍNIMO 2025, MÍNIMO 05 LUGARES, COR BRANCA, MOTOR TURBO COM POTÊNCIA MÍNIMA DE 140 CV, COMBUSTÍVEL FLEX (GASOLINA/ETANOL), ITENS ORIGINAIS DA LINHA DE MONTAGEM DA FABRICANTE: CÂMBIO MANUAL OU AUTOMÁTICO DE 06 VELOCIDADES A FRENTE E...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":153595},
+{"lote":0,"item":2,"descricao":"VEÍCULO ZERO KM, NOVO, COM FABRICAÇÃO ANO 2025, MODELO 2025, OU SUPERIOR, COR BRANCA, 7 LUGARES, COM AS SEGUINTES ESPECIFICAÇÕES MÍNIMAS E ITENS ORIGINAIS DA LINHA DE MONTAGEM DA FABRICANTE: MOTOR FLEX (ÁLCOOL E GASOLINA), COM POTÊNCIA MÍNIMA DE 105 CV QUANDO ABASTECIDO 100% GASOLINA, CAPACIDADE...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":160421.25},
+{"lote":0,"item":3,"descricao":"VEÍCULO NOVO 0KM, TIPO PICK-UP, CABINE SIMPLES, COR BRANCA, POTÊNCIA MÁXIMA (CV): 98,0 (G) / 107,0 (E); CAPACIDADE DA CAÇAMBA (LITROS): 924; CAPACIDADE DE CARGA (KG): 664; COMPRIMENTO DO VEÍCULO MÍNIMO (MM): 4.474; ENTRE-EIXOS MÍNIMO (MM): 2.737; TANQUE DE COMBUSTÍVEL (LITROS): 55; AIRBAG DUPLO...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":119808.75}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-22","tipo":"","fase":"Fase Interna","link_publico":"ae4871b9-2856-4153-9b00-9d645a459e5e"},
+{"sequencia":2,"data":"2025-09-22","tipo":"","fase":"Fase Interna","link_publico":"fa5519cd-4f49-4945-9eee-0eabaf769cae"},
+{"sequencia":3,"data":"2025-08-29","tipo":"","fase":"Fase Interna","link_publico":"29640935-59b8-4a20-a56b-20c8b80dc062"},
+{"sequencia":4,"data":"2025-08-29","tipo":"","fase":"Fase Interna","link_publico":"c36895b1-c4ff-4196-931c-df58dc9823c0"},
+{"sequencia":5,"data":"2025-09-05","tipo":"","fase":"Fase Interna","link_publico":"7d031e36-b570-4987-9118-16bf0404340c"},
+{"sequencia":6,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"1a89d93b-58ad-4954-a8e0-e6a8c298f5bb"},
+{"sequencia":7,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"26452d3d-471a-4e95-924f-c9ef5ff67b87"},
+{"sequencia":8,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"76f35b17-194d-4da6-9b2d-4867797558cd"},
+{"sequencia":9,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"3cb0dc9c-2262-4957-87e5-951f0bb73234"},
+{"sequencia":10,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"084d940a-5cf0-4f29-b48e-8f2c8fc40cbc"},
+{"sequencia":11,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"7199648c-7604-4ab4-bd92-1cd13c116a5a"},
+{"sequencia":12,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"b0b86d93-c75b-4694-9d80-a34f2ba7638d"},
+{"sequencia":13,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"2bb7f5b8-fecf-419f-8f0f-c41b264ad37d"},
+{"sequencia":14,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"dcc8a1ee-c78c-4ac5-89c4-0d4c9a300217"},
+{"sequencia":15,"data":"2025-09-02","tipo":"Impugnação contra edital","fase":"Edital Publicado","link_publico":"87cb8ffa-88b1-48a8-a379-6449326f0f51"},
+{"sequencia":16,"data":"2025-09-02","tipo":"Impugnação contra edital","fase":"Edital Publicado","link_publico":"08def4bb-829c-45a4-a96f-5e0815400db1"},
+{"sequencia":17,"data":"2025-09-05","tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"9af4a2b5-0852-4ff2-a799-ccb2fdb4bc11"},
+{"sequencia":18,"data":"2025-09-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"54209231-0c34-44df-aae6-81b361b6d305"},
+{"sequencia":19,"data":"2025-09-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"71e01ba1-1bb9-46dd-8cc5-95e38b389770"},
+{"sequencia":20,"data":"2025-09-05","tipo":"Outros documentos","fase":"Publicação","link_publico":"373f3cc9-63e0-4333-b530-c9b79fb4098f"},
+{"sequencia":21,"data":"2025-09-05","tipo":"Outros documentos","fase":"Publicação","link_publico":"941f6ff1-0c79-4f49-83cb-9e4ae5a09473"}
+]
+}

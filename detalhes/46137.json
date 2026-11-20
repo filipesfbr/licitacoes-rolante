@@ -1,0 +1,31 @@
+{"codigo":46137,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SEGUROS SURA S.A.","documento":"33.065.699/0001-27","descricao":"LOTE AMBULÂNCIA PLACA/FROTA:IVX4230/104,IZK4J94/128,IZK4J95/129,JAP2F94/236,JBL7I11/196,JBX9G91/202","descricao_adicional":"","unidade":"UN","valor_referencia":39511,"valor_vencedor":14756.35,"quantidade":2},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"SEGUROS SURA S.A.","documento":"33.065.699/0001-27","descricao":"FRANQUIA DE SEGURO DE VEÍCULO","descricao_adicional":"<p>SEGURO AUTOMOTIVO com cobertura total, para VE&Iacute;CULOS (TORO) da&nbsp;Secretaria Municipal de Sa&uacute;de e Meio Ambiente</p>\n","unidade":"UN","valor_referencia":242.86,"valor_vencedor":242.86,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"SEGUROS SURA S.A.","documento":"33.065.699/0001-27","descricao":"FRANQUIA DE SEGURO DE VEÍCULO","descricao_adicional":"<p>SEGURO AUTOMOTIVO com cobertura total, para VE&Iacute;CULO&nbsp;(MONTANA LT 1.2 TURBO FLEX 12V 4P MEC) da&nbsp;Secretaria Municipal de Sa&uacute;de e Meio Ambiente</p>\n","unidade":"UN","valor_referencia":1801.52,"valor_vencedor":1801.52,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOTE AMBULÂNCIA PLACA/FROTA:IVX4230/104,IZK4J94/128,IZK4J95/129,JAP2F94/236,JBL7I11/196,JBX9G91/202","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":39511},
+{"lote":0,"item":2,"descricao":"FRANQUIA DE SEGURO DE VEÍCULO","descricao_adicional":"<p>SEGURO AUTOMOTIVO com cobertura total, para VE&Iacute;CULOS (TORO) da&nbsp;Secretaria Municipal de Sa&uacute;de e Meio Ambiente</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":242.86},
+{"lote":0,"item":3,"descricao":"FRANQUIA DE SEGURO DE VEÍCULO","descricao_adicional":"<p>SEGURO AUTOMOTIVO com cobertura total, para VE&Iacute;CULO&nbsp;(MONTANA LT 1.2 TURBO FLEX 12V 4P MEC) da&nbsp;Secretaria Municipal de Sa&uacute;de e Meio Ambiente</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1801.52}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-11","tipo":"","fase":"Fase Interna","link_publico":"be0fb300-0319-425a-a4e5-d1fef0a85a7d"},
+{"sequencia":2,"data":"2025-08-19","tipo":"","fase":"Fase Interna","link_publico":"0d5adac0-da59-4526-8f46-2a310a4e32f5"},
+{"sequencia":3,"data":"2025-08-19","tipo":"","fase":"Fase Interna","link_publico":"2f8e7202-ec44-4599-b819-1dae85f52ea8"},
+{"sequencia":4,"data":"2025-08-19","tipo":"","fase":"Fase Interna","link_publico":"e3333f78-41f0-4aa2-be3b-aa4f42261814"},
+{"sequencia":5,"data":"2025-09-04","tipo":"","fase":"Fase Interna","link_publico":"e6584843-de73-4dd0-9608-af552835af16"},
+{"sequencia":6,"data":"2025-09-04","tipo":"","fase":"Fase Interna","link_publico":"77989e58-d8c6-4169-9a55-9fe05c126ec5"},
+{"sequencia":7,"data":"2025-09-04","tipo":"","fase":"Fase Interna","link_publico":"26595964-a12b-46a5-acde-faadcae8388d"},
+{"sequencia":8,"data":"2025-09-04","tipo":"","fase":"Fase Interna","link_publico":"101a6c01-2599-45f5-8550-44f19b4a22a4"},
+{"sequencia":9,"data":"2025-09-04","tipo":"","fase":"Fase Interna","link_publico":"8ac702f6-a6ec-41ef-98d2-ffe4d7ffde3e"},
+{"sequencia":10,"data":"2025-09-04","tipo":"","fase":"Fase Interna","link_publico":"21e4d475-2edc-4944-87f1-b05061a965bc"},
+{"sequencia":11,"data":"2025-09-04","tipo":"","fase":"Fase Interna","link_publico":"f707a302-3e47-40e0-bf70-ca5c3743b7cc"},
+{"sequencia":12,"data":"2025-09-04","tipo":"","fase":"Fase Interna","link_publico":"15969b8f-625c-4c55-9901-cc8fcb63694d"},
+{"sequencia":13,"data":"2025-09-04","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"54aae97d-b65f-4479-8a96-e3a290bb20ee"},
+{"sequencia":14,"data":"2025-08-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"8400d5d2-42c1-4348-aaf0-d1f64c06a553"},
+{"sequencia":15,"data":"2025-08-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"42c83524-0277-4c46-a811-61beae69fc39"},
+{"sequencia":16,"data":"2025-08-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"2d9540e0-e8ea-4ec0-8cae-e12e159e6e8d"},
+{"sequencia":17,"data":"2025-08-20","tipo":"Outros documentos","fase":"Publicação","link_publico":"dc5f04f2-afef-4627-a477-af9c04195036"}
+]
+}

@@ -1,0 +1,16 @@
+{"codigo":46069,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"D2 CONSULTORIA E NEGÓCIOS LTDA.","documento":"53.018.874/0001-32","descricao":"SERVIÇOS DE DIAGRAMAÇÃO, EDITORAÇÃO, IMPRESSÃO E ENTREGA DE REVISTA INFORMATIVA MUNICIPAL","descricao_adicional":null,"unidade":"UN","valor_referencia":5.5,"valor_vencedor":5.5,"quantidade":5000}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS DE DIAGRAMAÇÃO, EDITORAÇÃO, IMPRESSÃO E ENTREGA DE REVISTA INFORMATIVA MUNICIPAL","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":5000,"valor_referencia":5.5}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-15","tipo":"","fase":"Fase Interna","link_publico":"cacf2a0e-a691-40f7-b50a-5c15ecf3158f"},
+{"sequencia":2,"data":"2025-12-15","tipo":"","fase":"Fase Interna","link_publico":"2ff6741b-6671-485e-aaa2-e7f5a598fac8"},
+{"sequencia":3,"data":"2025-12-15","tipo":"","fase":"Fase Interna","link_publico":"4759d7a0-c68c-49cf-be2e-5f79469b88d1"},
+{"sequencia":4,"data":"2025-12-15","tipo":"","fase":"Fase Interna","link_publico":"5cb19d15-6b75-476c-a623-9276370be315"},
+{"sequencia":5,"data":"2025-12-15","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"f8552fe6-e50f-49f5-a72c-d499655d5b69"},
+{"sequencia":6,"data":"2025-12-16","tipo":"Outros documentos","fase":"Publicação","link_publico":"02c0b4f1-f5d7-4333-8235-b9a5c6f2da5e"}
+]
+}

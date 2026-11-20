@@ -1,0 +1,27 @@
+{"codigo":52928,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DEPORTT INSTALACOES ELETRICAS LTDA.","documento":"43.095.631/0001-44","descricao":"MATERIAIS ELETRICOS DIVERSOS","descricao_adicional":null,"unidade":"UN","valor_referencia":13.6853,"valor_vencedor":13.6853,"quantidade":752.5},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"DEPORTT INSTALACOES ELETRICAS LTDA.","documento":"43.095.631/0001-44","descricao":"SERVIÇOS ELÉTRICOS","descricao_adicional":null,"unidade":"UN","valor_referencia":4900,"valor_vencedor":4900,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MATERIAIS ELETRICOS DIVERSOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":752.5,"valor_referencia":13.6853},
+{"lote":0,"item":2,"descricao":"SERVIÇOS ELÉTRICOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":4900}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a92bf221-7c86-45f1-ad77-51cf57f40576"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7f47b904-723d-45f7-906c-704905ff3944"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"250e2f1c-9e78-40d1-bb9b-37245db463cc"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"686fba5b-0438-46cb-96da-e81e80e989a4"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"46dbf1dc-3a24-4bb3-87f9-04c70f22c329"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5d610d5d-8646-4f73-b8a5-6009cd95f3ee"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"beb40bd5-7075-4e36-9d1a-e765cdb27942"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"dc3540a1-3c56-4722-ba75-bdca241c474d"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8e9c7be7-9ddc-4339-bae2-015e15514d69"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"efd5b9a6-cb88-42f9-8c29-8e51d63fa476"},
+{"sequencia":11,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"6511f9fa-6d8d-49ed-ba9d-24b0f473f89d"},
+{"sequencia":12,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"ede262b3-a8e8-4fe6-98a4-9e145cd166b3"},
+{"sequencia":13,"data":"2026-04-09","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3f82b345-a66a-4e54-a295-d524683b61f0"},
+{"sequencia":14,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"92896864-5912-44b1-bf7d-4ae066245e73"},
+{"sequencia":15,"data":null,"tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"645eee25-2606-4d0a-b371-f4235d53af3b"}
+]
+}

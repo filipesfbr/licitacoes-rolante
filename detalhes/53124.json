@@ -1,0 +1,16 @@
+{"codigo":53124,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DESPORTIVA ROLANTE SPORTS","documento":"29.066.114/0001-16","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":null,"unidade":"UN","valor_referencia":50000,"valor_vencedor":50000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":50000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"c0c694eb-f2a8-436d-8c3e-052fd915298b"},
+{"sequencia":2,"data":"2026-04-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"369ee299-2326-487e-94f1-ed3225734284"},
+{"sequencia":3,"data":"2026-04-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"05a1a1ed-b786-48dc-bc3b-5e0489d1a82b"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"6eb6f7a8-1790-491a-a199-e2483b045c17"},
+{"sequencia":5,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"73201f1c-d8d8-45a3-becf-e40f602f3c14"},
+{"sequencia":6,"data":"2026-04-28","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"e3a8627d-d4f2-4d93-b2c8-a4174a6d65c3"}
+]
+}

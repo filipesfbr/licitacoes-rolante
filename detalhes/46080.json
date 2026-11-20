@@ -1,0 +1,23 @@
+{"codigo":46080,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GERENCIAR SERVICOS, PRODUTOS E TECNOLOGIA LTDA","documento":"40.131.959/0001-80","descricao":"CHROMEBOOK 11.6\"","descricao_adicional":"","unidade":"UN","valor_referencia":1964.25,"valor_vencedor":1899,"quantidade":700}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CHROMEBOOK 11.6\"","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":700,"valor_referencia":1964.25}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-28","tipo":"","fase":"Fase Interna","link_publico":"240e1720-49e6-4bc9-8d45-850554276c43"},
+{"sequencia":2,"data":"2025-12-01","tipo":"","fase":"Fase Interna","link_publico":"e6916bcf-462d-43b9-a35e-6cc563a89e9c"},
+{"sequencia":3,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"ffbbf53f-d9b4-45b6-9a84-39352b2270c6"},
+{"sequencia":4,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"51a444eb-2e10-4fc6-84fc-f4abed7e55b7"},
+{"sequencia":5,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"b661bd9e-6a71-4dc4-bae5-4aa0a5560b0c"},
+{"sequencia":6,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"5f7c0aff-93ac-4920-9218-92808ac11c37"},
+{"sequencia":7,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"a5b81a99-ff6f-492d-b8e7-a3aa171fdd34"},
+{"sequencia":8,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"e0e600c7-682c-47c1-862a-5840f517b4c6"},
+{"sequencia":9,"data":"2025-12-22","tipo":"","fase":"Fase Interna","link_publico":"e6618056-3f9a-43c2-8cb4-40ae41eeda5d"},
+{"sequencia":10,"data":"2025-12-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"cf283cfc-2ade-46c2-ba2c-2d301799f2e0"},
+{"sequencia":11,"data":"2025-12-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"96741971-e0a5-4103-a5e4-0c23f397f1b5"},
+{"sequencia":12,"data":"2025-12-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"e234478f-0f2d-49b5-877f-be200d34bc60"},
+{"sequencia":13,"data":"2025-12-24","tipo":"Outros documentos","fase":"Publicação","link_publico":"a828e9f5-25d1-4744-bca5-4b04374afd93"}
+]
+}

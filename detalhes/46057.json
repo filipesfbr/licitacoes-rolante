@@ -1,0 +1,26 @@
+{"codigo":46057,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"LAURO JOSE FONTANA JUNIOR","documento":"19.921.914/0001-13","descricao":"SERVIÇOS GRÁFICOS PARA IMPRESSÃO E FORNECIMENTO DE AGENDA PERSONALIZADA, CONFORME TERMO DE REFERÊNCIA","descricao_adicional":"<p>Contratação de Serviços Gráficos para impressão e fornecimento de Agenda Personalizada para o ano de 2026, com as seguintes características: Dimensões 20x28cm; Miolo com 365 dias do ano 1x1 cores; 10 páginas para anotações 1x1 cor; 8 páginas personalizadas 4x4 cores; 13 páginas de planner sendo um anual e 12 mensais 4x4 cores. Folhas internas em papel sulfite de 75g; acabamento em capa dura 4x0 cores; Wire-o. Arte desenvolvida pelo contratado.</p>","unidade":"UN","valor_referencia":47.24,"valor_vencedor":14.98,"quantidade":1000},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"GRÁFICA DIRETA LTDA -ME","documento":"17.417.852/0001-81","descricao":"SERVIÇOS GRÁFICOS PARA IMPRESSÃO E FORNECIMENTO DE CADERNOS PERSONALIZADOS, CONFORME TERMO DE REFERÊNCIA","descricao_adicional":"<p>Contratação de Serviços Gráficos para impressão e fornecimento de Caderno Personalizado, com as seguintes características: Dimensões 15x21cm; 100 folhas internas com linhas e espaço para data e dia da semana 1x1 cor; 1 página com calendário anual 4x4 cores; 1 página com planner anual 4x4 cores. Folhas internas em papel sulfite 75g; acabamento em capa dura 4x0 cores; Wire-o. Arte desenvolvida pelo contratado.</p>","unidade":"UN","valor_referencia":27.69,"valor_vencedor":7.79,"quantidade":300}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS GRÁFICOS PARA IMPRESSÃO E FORNECIMENTO DE AGENDA PERSONALIZADA, CONFORME TERMO DE REFERÊNCIA","descricao_adicional":"<p>Contratação de Serviços Gráficos para impressão e fornecimento de Agenda Personalizada para o ano de 2026, com as seguintes características: Dimensões 20x28cm; Miolo com 365 dias do ano 1x1 cores; 10 páginas para anotações 1x1 cor; 8 páginas personalizadas 4x4 cores; 13 páginas de planner sendo um anual e 12 mensais 4x4 cores. Folhas internas em papel sulfite de 75g; acabamento em capa dura 4x0 cores; Wire-o. Arte desenvolvida pelo contratado.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1000,"valor_referencia":47.24},
+{"lote":0,"item":2,"descricao":"SERVIÇOS GRÁFICOS PARA IMPRESSÃO E FORNECIMENTO DE CADERNOS PERSONALIZADOS, CONFORME TERMO DE REFERÊNCIA","descricao_adicional":"<p>Contratação de Serviços Gráficos para impressão e fornecimento de Caderno Personalizado, com as seguintes características: Dimensões 15x21cm; 100 folhas internas com linhas e espaço para data e dia da semana 1x1 cor; 1 página com calendário anual 4x4 cores; 1 página com planner anual 4x4 cores. Folhas internas em papel sulfite 75g; acabamento em capa dura 4x0 cores; Wire-o. Arte desenvolvida pelo contratado.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":300,"valor_referencia":27.69}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-23","tipo":"","fase":"Fase Interna","link_publico":"0ed05199-191c-4114-85c0-55c8dd2aec76"},
+{"sequencia":2,"data":"2026-01-23","tipo":"","fase":"Fase Interna","link_publico":"22fd188b-1c2a-4b18-b669-0f2c6335d82c"},
+{"sequencia":3,"data":"2026-01-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"cc5794bb-9fb0-4d07-8c61-02038936aab6"},
+{"sequencia":4,"data":"2026-01-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"bdfd472d-89bc-4059-9213-8126ded5c16b"},
+{"sequencia":5,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"48bf34e9-1610-46a8-9305-a79339058609"},
+{"sequencia":6,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"bace8a9c-5964-4cbb-8e63-0271716595da"},
+{"sequencia":7,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"43c8dc09-4583-4428-938f-d30a809df5f5"},
+{"sequencia":8,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"36725231-9ab1-4e84-b147-c7c89a2c13a8"},
+{"sequencia":9,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"1029ecbf-2594-4d41-99b2-fd18175a3ffb"},
+{"sequencia":10,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"01003036-75a0-46fc-9c62-4e0106026473"},
+{"sequencia":11,"data":"2026-02-12","tipo":"","fase":"Fase Interna","link_publico":"cc0bc375-4afe-486e-b552-7ecea85eb8ee"},
+{"sequencia":12,"data":"2026-02-11","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"557d54f5-ff94-4644-9d2e-25cd53b890b0"},
+{"sequencia":13,"data":"2026-02-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"675c7d86-8d87-4878-94d4-9e55f7456f80"},
+{"sequencia":14,"data":null,"tipo":"Revogação de ofício","fase":"Fase Interna","link_publico":"c2f2f796-7572-4813-b045-7d812f00edbd"}
+]
+}

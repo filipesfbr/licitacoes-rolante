@@ -1,0 +1,19 @@
+{"codigo":52829,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"LABORATORIO PRO VIDA","documento":"10.644.874/0001-35","descricao":"PRESTAÇÃO DE SERVIÇOS DE EXAMES LABORATORIAIS","descricao_adicional":"","unidade":"UN","valor_referencia":45000,"valor_vencedor":45000,"quantidade":12},
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"BOM PASTOR LABORATORIO CLINICO","documento":"89.667.927/0003-55","descricao":"PRESTAÇÃO DE SERVIÇOS DE EXAMES LABORATORIAIS","descricao_adicional":"","unidade":"UN","valor_referencia":45000,"valor_vencedor":45000,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PRESTAÇÃO DE SERVIÇOS DE EXAMES LABORATORIAIS","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":45000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-03-30","tipo":"ETP","fase":"Fase Interna","link_publico":"27623fe1-4d4e-4d8f-90ca-10e5eba5a77f"},
+{"sequencia":2,"data":"2026-03-30","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b1564005-d405-43cc-bd53-3fd07a1012cc"},
+{"sequencia":3,"data":"2026-04-06","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"fd10a032-a7fc-4a7f-bfdf-f943c462cd11"},
+{"sequencia":4,"data":"2026-04-08","tipo":"Convocação-Aviso de edital","fase":"Fase Interna","link_publico":"4ff7f3ad-f6e9-4cc3-8184-6b1b76c3f9c8"},
+{"sequencia":5,"data":"2026-04-08","tipo":"Convocação-Aviso de edital","fase":"Fase Interna","link_publico":"e936c034-a7c7-42fc-bdd4-4bd2f65c2669"},
+{"sequencia":6,"data":"2026-04-08","tipo":"Convocação-Aviso de edital","fase":"Fase Interna","link_publico":"7bfdab62-7cf1-4257-9785-023a0c14c466"},
+{"sequencia":7,"data":"2026-04-08","tipo":"Convocação-Aviso de edital","fase":"Fase Interna","link_publico":"7bb6206f-3cc2-4440-bdf2-cb95d0c3c300"},
+{"sequencia":8,"data":"2026-06-15","tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"03164e8a-b043-4c30-88d3-8d973e6ec684"}
+]
+}

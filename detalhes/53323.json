@@ -1,0 +1,15 @@
+{"codigo":53323,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SANDER E MACHADO PRODUÇÕES LTDA","documento":"13.224.111/0001-23","descricao":"SERVIÇOS DE ATIVIDADES ARTÍSTICAS","descricao_adicional":null,"unidade":"UN","valor_referencia":13800,"valor_vencedor":13800,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS DE ATIVIDADES ARTÍSTICAS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":13800}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"6feb2695-b2fc-4ae0-bcf0-4f698d72335a"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"57712cf2-bbd3-4657-917b-350e8d71a3ac"},
+{"sequencia":3,"data":"2026-05-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0c251109-5503-4792-aee0-982339f676da"},
+{"sequencia":4,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"fbb79daa-a13e-46e5-90f5-f2c093ce8c77"},
+{"sequencia":5,"data":"2026-05-11","tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"18db3ae8-ddd8-46e4-bbc8-50b1687d42b1"}
+]
+}

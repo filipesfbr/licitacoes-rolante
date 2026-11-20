@@ -1,0 +1,21 @@
+{"codigo":46120,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CLAUDIA S T KORPALSKI  ME","documento":"14.709.827/0001-83","descricao":"COMPRA DE VAGAS DA EDUCAÇÃO INFANTIL","descricao_adicional":null,"unidade":"UN","valor_referencia":36400,"valor_vencedor":36400,"quantidade":22.1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"COMPRA DE VAGAS DA EDUCAÇÃO INFANTIL","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":36400}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-25","tipo":"","fase":"Fase Interna","link_publico":"1ff50dd6-c6ce-40a7-a68e-f2a4f9878b14"},
+{"sequencia":2,"data":"2026-01-07","tipo":"","fase":"Fase Interna","link_publico":"a6a9a0ad-61fe-4f5a-8a45-37e34b7272b1"},
+{"sequencia":3,"data":"2025-09-19","tipo":"","fase":"Fase Interna","link_publico":"08105d0e-d654-40b3-a135-63b1c1e09ada"},
+{"sequencia":4,"data":"2025-09-19","tipo":"","fase":"Fase Interna","link_publico":"c87e8804-8c3c-4631-bae1-f0fe13d3267c"},
+{"sequencia":5,"data":"2025-09-19","tipo":"","fase":"Fase Interna","link_publico":"eae97768-7e78-46da-a7d8-ae962b317122"},
+{"sequencia":6,"data":"2025-09-19","tipo":"","fase":"Fase Interna","link_publico":"bbadcab0-ae0a-4e32-add0-c0d05d84427b"},
+{"sequencia":7,"data":"2025-09-19","tipo":"","fase":"Fase Interna","link_publico":"dbff1024-d624-44b8-9feb-0dc783fd48e8"},
+{"sequencia":8,"data":"2025-09-22","tipo":"","fase":"Fase Interna","link_publico":"8fecec7d-0427-4e48-be90-516f36189493"},
+{"sequencia":9,"data":"2025-09-19","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"de70359f-9cf0-4818-87a5-3554084bdd09"},
+{"sequencia":10,"data":"2025-09-19","tipo":"Outros documentos","fase":"Publicação","link_publico":"3478722f-98f2-4a13-8af7-b7d2bb551c76"},
+{"sequencia":11,"data":"2025-09-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"54b5ea9c-8d42-4528-870d-57ea68da5f1c"}
+]
+}

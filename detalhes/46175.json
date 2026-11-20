@@ -1,0 +1,16 @@
+{"codigo":46175,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SERRALHERIA BEM-TE-VI LTDA - ME","documento":"87.042.446/0001-67","descricao":"COBERTURA EM ESTRUTURA METÁLICA","descricao_adicional":null,"unidade":"UN","valor_referencia":43500,"valor_vencedor":43500,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"COBERTURA EM ESTRUTURA METÁLICA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":43500}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-29","tipo":"","fase":"Fase Interna","link_publico":"9d02fb18-921e-47c3-a25b-75f1d30f51fd"},
+{"sequencia":2,"data":"2025-05-29","tipo":"","fase":"Fase Interna","link_publico":"33d070ab-e006-4642-bf4a-d704873dbb37"},
+{"sequencia":3,"data":"2025-05-29","tipo":"","fase":"Fase Interna","link_publico":"c54a4a99-d16b-4b2f-863a-048fabd99ff7"},
+{"sequencia":4,"data":"2025-05-29","tipo":"","fase":"Fase Interna","link_publico":"7f15ecec-51d4-4ea3-b347-28b12ef1e6f9"},
+{"sequencia":5,"data":"2025-05-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"9a6546f8-e804-4898-8e7f-184275f62803"},
+{"sequencia":6,"data":"2025-05-30","tipo":"Outros documentos","fase":"Publicação","link_publico":"fe0884d5-3ae4-4eda-83e6-1885ea1fd213"}
+]
+}

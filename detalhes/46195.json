@@ -1,0 +1,18 @@
+{"codigo":46195,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"EDERSON IACHINSKI","documento":"57.778.844/0001-85","descricao":"ASSESSORIA TÉCNICA E PEDAGÓGICA","descricao_adicional":null,"unidade":"UN","valor_referencia":3000,"valor_vencedor":3000,"quantidade":28}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ASSESSORIA TÉCNICA E PEDAGÓGICA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":3000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-30","tipo":"","fase":"Fase Interna","link_publico":"d8e59eb0-c37a-486d-8d4f-7dee9445a057"},
+{"sequencia":2,"data":"2026-01-13","tipo":"","fase":"Fase Interna","link_publico":"62066179-790e-4847-b6b8-a7e0aefbeeb4"},
+{"sequencia":3,"data":"2025-04-29","tipo":"","fase":"Fase Interna","link_publico":"43ff3da1-07f4-4185-8aac-9da72eb9aabc"},
+{"sequencia":4,"data":"2025-04-29","tipo":"","fase":"Fase Interna","link_publico":"6ac554de-d2c8-4a28-b597-8d3a0ae2a640"},
+{"sequencia":5,"data":"2025-04-29","tipo":"","fase":"Fase Interna","link_publico":"b9a1eed5-f312-479a-98ff-0ded458eb29f"},
+{"sequencia":6,"data":"2025-04-29","tipo":"","fase":"Fase Interna","link_publico":"e12a6826-a800-403e-8f9a-fc46075a3d5d"},
+{"sequencia":7,"data":"2025-04-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"a7c1912c-f7c2-4de9-804a-a89b385906ca"},
+{"sequencia":8,"data":"2025-04-30","tipo":"Outros documentos","fase":"Publicação","link_publico":"7d1e91ec-be91-4824-80c1-e075f7221892"}
+]
+}

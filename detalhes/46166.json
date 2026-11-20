@@ -1,0 +1,18 @@
+{"codigo":46166,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO EVANGELICA LUTERANA DE BENEFICENCIA","documento":"92.849.850/0001-87","descricao":"ACOLHIMENTO INSTITUCIONAL, POR DETERMINAÇÃO JUDICIAL, PARA MENORES, DE 7 A 18 ANOS INCOMPLETOS (MASCULINO/FEMININO).","descricao_adicional":"<p>ACOLHIMENTO EMERGENCIAL POR DETERMINAÇÃO JUDICIAL, POR 12 MESES PODENDO SER PRORROGADO POR IGUAL PERIODO</p>","unidade":"UN","valor_referencia":7000,"valor_vencedor":7000,"quantidade":14.5762}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ACOLHIMENTO INSTITUCIONAL, POR DETERMINAÇÃO JUDICIAL, PARA MENORES, DE 7 A 18 ANOS INCOMPLETOS (MASCULINO/FEMININO).","descricao_adicional":"<p>ACOLHIMENTO EMERGENCIAL POR DETERMINAÇÃO JUDICIAL, POR 12 MESES PODENDO SER PRORROGADO POR IGUAL PERIODO</p>","unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":7000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-12-15","tipo":"","fase":"Fase Interna","link_publico":"0117aa6e-5ba4-453a-9306-f7e0cb42e12c"},
+{"sequencia":2,"data":"2026-01-13","tipo":"","fase":"Fase Interna","link_publico":"c809168a-0729-4118-8fc6-0d47861751bb"},
+{"sequencia":3,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"7244e41b-84bb-4753-995c-206dedbbaef8"},
+{"sequencia":4,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"cd6ee430-8e70-4898-bdd9-fc82c3a705f1"},
+{"sequencia":5,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"a6584785-b92f-4138-a318-28eec06ca506"},
+{"sequencia":6,"data":"2025-06-23","tipo":"","fase":"Fase Interna","link_publico":"cce1e657-347b-4127-8d20-d34480303b65"},
+{"sequencia":7,"data":"2025-06-23","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"38e67dcb-ed70-4034-9f01-9ac658468389"},
+{"sequencia":8,"data":"2025-06-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"23c5aaf8-38a8-44ea-bf20-400836ca699c"}
+]
+}

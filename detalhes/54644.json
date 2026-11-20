@@ -1,0 +1,19 @@
+{"codigo":54644,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DE PAIS E MESTRES DA ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL INDEPENDENCIA","documento":"90.050.642/0001-98","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2aa8cbc9-bfc2-4494-b72d-a38890ea8f6b"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"55fce349-894c-43eb-931d-1a4519a41dc5"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"9b91003b-d5e8-4e2e-9a12-ad1001060193"},
+{"sequencia":4,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"dbf7b2a2-af9b-4804-ab40-f8d134404737"},
+{"sequencia":5,"data":"2026-08-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f8448538-4998-48ab-b2a5-388d55dd8c74"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"46bd0e51-a2eb-4eff-8e6d-d7428c1e3067"},
+{"sequencia":7,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"80aaf3de-141b-489c-bacf-8fc8ab003a7b"},
+{"sequencia":8,"data":"2026-08-12","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"c291a3c1-7365-4685-8897-7cd5e7511477"},
+{"sequencia":9,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"2a1c6b84-b312-486e-8c02-f86abfc2aef4"}
+]
+}

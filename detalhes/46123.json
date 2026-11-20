@@ -1,0 +1,21 @@
+{"codigo":46123,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"VG TECHNIK ENGENHARIA LTDA","documento":"30.508.492/0001-91","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA ASSESSORIA DE ENGENHARIA CIVIL PARA PROJETOS ESTRUTURAIS E PLANEJAMENTO URBANO, COMPREENDENDO A ELABORAÇÃO DE ESTUDOS, PROJETOS BÁSICOS E EXECUTIVOS COM EMISSÃO DE ART, FISCALIZAÇÃO E ACOMPANHAMENTO DA EXECUÇÃO DE OBRAS EM SUA INTEGRALIDADE, REALIZAÇÃO DE...","descricao_adicional":null,"unidade":"UN","valor_referencia":42240,"valor_vencedor":42240,"quantidade":3}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA ASSESSORIA DE ENGENHARIA CIVIL PARA PROJETOS ESTRUTURAIS E PLANEJAMENTO URBANO, COMPREENDENDO A ELABORAÇÃO DE ESTUDOS, PROJETOS BÁSICOS E EXECUTIVOS COM EMISSÃO DE ART, FISCALIZAÇÃO E ACOMPANHAMENTO DA EXECUÇÃO DE OBRAS EM SUA INTEGRALIDADE, REALIZAÇÃO DE...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":42240}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"b690e2d5-7464-4768-9a3e-0503ea08b6b9"},
+{"sequencia":2,"data":"2026-01-13","tipo":"","fase":"Fase Interna","link_publico":"dfacaf35-0e98-4595-9404-c6724c4161e2"},
+{"sequencia":3,"data":"2025-09-15","tipo":"","fase":"Fase Interna","link_publico":"d6ed5ebc-9225-48bc-8921-7054000062cd"},
+{"sequencia":4,"data":"2025-09-15","tipo":"","fase":"Fase Interna","link_publico":"62e3308b-f565-4895-a583-4e83f12f453b"},
+{"sequencia":5,"data":"2025-09-15","tipo":"","fase":"Fase Interna","link_publico":"1ec00cd4-5544-41de-8ae5-562f10ba7386"},
+{"sequencia":6,"data":"2025-09-15","tipo":"","fase":"Fase Interna","link_publico":"6ce19a09-c3b4-414d-bde9-5e371ed0f13c"},
+{"sequencia":7,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"8859cf0b-5c93-430a-962d-fecd86528de0"},
+{"sequencia":8,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"880a1539-d6bd-4396-b922-4f27713549c0"},
+{"sequencia":9,"data":"2025-09-15","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"b292c1b6-aa75-4e9c-8edf-18ed9318553b"},
+{"sequencia":10,"data":"2025-09-16","tipo":"Outros documentos","fase":"Publicação","link_publico":"b91d1175-b8be-406a-bbc0-689f6891c602"},
+{"sequencia":11,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"218bca74-5fee-422f-9f97-fbaef5101e4f"}
+]
+}

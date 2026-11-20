@@ -1,0 +1,22 @@
+{"codigo":46061,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GRA ASSESSORIA E CONSULTORIA EM NEGOCIOS INTERNACI","documento":"14.767.899/0001-87","descricao":"ROLETE DE MÁQUINA","descricao_adicional":null,"unidade":"UN","valor_referencia":810.52,"valor_vencedor":810.52,"quantidade":4},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"GRA ASSESSORIA E CONSULTORIA EM NEGOCIOS INTERNACI","documento":"14.767.899/0001-87","descricao":"ROLETE DE MÁQUINA","descricao_adicional":null,"unidade":"UN","valor_referencia":910,"valor_vencedor":910,"quantidade":16},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"GRA ASSESSORIA E CONSULTORIA EM NEGOCIOS INTERNACI","documento":"14.767.899/0001-87","descricao":"PARAFUSO","descricao_adicional":null,"unidade":"UN","valor_referencia":43.95,"valor_vencedor":43.95,"quantidade":72},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"GRA ASSESSORIA E CONSULTORIA EM NEGOCIOS INTERNACI","documento":"14.767.899/0001-87","descricao":"PARAFUSO","descricao_adicional":null,"unidade":"UN","valor_referencia":6.28,"valor_vencedor":6.28,"quantidade":16}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ROLETE DE MÁQUINA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":810.52},
+{"lote":0,"item":2,"descricao":"ROLETE DE MÁQUINA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":16,"valor_referencia":910},
+{"lote":0,"item":3,"descricao":"PARAFUSO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":72,"valor_referencia":43.95},
+{"lote":0,"item":4,"descricao":"PARAFUSO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":16,"valor_referencia":6.28}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-20","tipo":"","fase":"Fase Interna","link_publico":"a8055dad-d8c1-4511-9706-f21e7bdb93d7"},
+{"sequencia":2,"data":"2026-01-20","tipo":"","fase":"Fase Interna","link_publico":"071d3dc1-89d6-4285-846c-031710d14c99"},
+{"sequencia":3,"data":"2026-01-20","tipo":"","fase":"Fase Interna","link_publico":"086e54fe-88ec-470e-af4c-602fc3f9557e"},
+{"sequencia":4,"data":"2026-01-20","tipo":"","fase":"Fase Interna","link_publico":"5ce60165-009b-487a-b19b-dd89854866b7"},
+{"sequencia":5,"data":"2026-01-20","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"1384797d-c082-4d06-bba1-6f9ecfbf887f"},
+{"sequencia":6,"data":"2026-01-21","tipo":"Outros documentos","fase":"Publicação","link_publico":"700e7d29-4a08-45f7-95de-c0f2f17d81fa"}
+]
+}

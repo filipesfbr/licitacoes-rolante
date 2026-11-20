@@ -1,0 +1,19 @@
+{"codigo":46187,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CONSTRUTORA E PAVIMENTADORA PAVICON LTDA","documento":"88.256.979/0001-04","descricao":"MATERIAL ASFALTICO CBUQ - INSUMO - USINAGEM DE CONCRETO ASFÁLTICO COM CAP 50/70, PARA CAMADA DE ROLAMENTO, PADRÃO DNIT FAIXA C, EM USINA DE ASFALTO CONTÍNUA DE 80 TON/H. AF_03/2020","descricao_adicional":null,"unidade":"UN","valor_referencia":1790,"valor_vencedor":1790,"quantidade":60},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"CONSTRUTORA E PAVIMENTADORA PAVICON LTDA","documento":"88.256.979/0001-04","descricao":"EMULSÃO ASFÁLTICA RR-1C","descricao_adicional":null,"unidade":"UN","valor_referencia":9.5,"valor_vencedor":9.5,"quantidade":200}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MATERIAL ASFALTICO CBUQ - INSUMO - USINAGEM DE CONCRETO ASFÁLTICO COM CAP 50/70, PARA CAMADA DE ROLAMENTO, PADRÃO DNIT FAIXA C, EM USINA DE ASFALTO CONTÍNUA DE 80 TON/H. AF_03/2020","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":60,"valor_referencia":1790},
+{"lote":0,"item":2,"descricao":"EMULSÃO ASFÁLTICA RR-1C","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":200,"valor_referencia":9.5}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-15","tipo":"","fase":"Fase Interna","link_publico":"470f3c3d-b6c7-458b-b77f-c5e28ed51ed1"},
+{"sequencia":2,"data":"2025-05-15","tipo":"","fase":"Fase Interna","link_publico":"1776370b-c76c-4f3b-9cf1-3d5b73bff2b8"},
+{"sequencia":3,"data":"2025-05-15","tipo":"","fase":"Fase Interna","link_publico":"3ad8e13d-5e02-4ef1-a1e5-446e2377a15f"},
+{"sequencia":4,"data":"2025-05-15","tipo":"","fase":"Fase Interna","link_publico":"4e1e23e2-905e-40c2-a3fe-985b9c2b7e86"},
+{"sequencia":5,"data":"2025-05-15","tipo":"","fase":"Fase Interna","link_publico":"f870f2ab-2606-4e09-b171-e1134f40e664"},
+{"sequencia":6,"data":"2025-05-15","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"eee6b48a-3a9c-4132-a217-c9cc0fdd754e"},
+{"sequencia":7,"data":"2025-05-16","tipo":"Outros documentos","fase":"Publicação","link_publico":"0c6c9263-4796-48f6-8e4b-9418fd3e7b77"}
+]
+}

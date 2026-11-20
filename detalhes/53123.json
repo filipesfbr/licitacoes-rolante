@@ -1,0 +1,29 @@
+{"codigo":53123,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"A TENDA LITERARIA EVENTOS CULTURAIS E PARTICIPACOES LTDA","documento":"22.144.276/0001-86","descricao":"SERVIÇO DE PALESTRANTE","descricao_adicional":"<p style=\"text-align:justify\">Bate-papo interativo com sess&atilde;o de aut&oacute;grafos, ministrado pela escritora Andrea Viviana Taubman, durante a programa&ccedil;&atilde;o da Feira do Livro do Munic&iacute;pio, destinado aos estudantes da rede municipal de educa&ccedil;&atilde;o, contemplando 02 (dois) dias de atividades, com 02 (dois) encontros por dia, totalizando 04 (quatro) encontros.</p>\n","unidade":"UN","valor_referencia":2000,"valor_vencedor":2000,"quantidade":4}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE PALESTRANTE","descricao_adicional":"<p style=\"text-align:justify\">Bate-papo interativo com sess&atilde;o de aut&oacute;grafos, ministrado pela escritora Andrea Viviana Taubman, durante a programa&ccedil;&atilde;o da Feira do Livro do Munic&iacute;pio, destinado aos estudantes da rede municipal de educa&ccedil;&atilde;o, contemplando 02 (dois) dias de atividades, com 02 (dois) encontros por dia, totalizando 04 (quatro) encontros.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":2000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"ee8bb7cb-d690-441b-980a-23f1ecb8929f"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f98a55c0-e055-42c3-ab7f-d4adbc636480"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"740453d4-1853-49b5-a47d-7684fef921b1"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"3c9e2836-2d3c-400d-bc13-b5c1fd72b24d"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5d883d83-8896-4aa6-bb0e-36a0a4e369cb"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b83bb6a4-deef-4899-8ed6-56ea751d2857"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"19922c64-5abf-46b7-afb8-5dec4851c7b2"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6418e222-517d-4147-a2ea-ff8d29795124"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7f10915e-2e84-4912-8eaf-2560079c4336"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d1feb1ca-a944-483d-8914-d10ec1c7bc69"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"41881aca-638b-4d62-876c-9f550a1fc0d1"},
+{"sequencia":12,"data":null,"tipo":"Comprovação de notória especialização","fase":"Fase Interna","link_publico":"dc70c64b-823b-4ea3-9cd1-6a1416738b62"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"d76003a0-df9c-4aa8-b9ef-306ea272a716"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fa941a7b-943a-43af-8952-decf3fd92ac0"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"980aac5b-537d-42b9-b660-0943a9e0120e"},
+{"sequencia":16,"data":"2026-04-23","tipo":"ETP","fase":"Fase Interna","link_publico":"a68d1ae4-0092-42d0-b737-68ab6cb2212d"},
+{"sequencia":17,"data":"2026-04-23","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"60eac4fc-c8c9-4154-816f-5dea58c6cc12"},
+{"sequencia":18,"data":"2026-04-28","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"61fc2e8f-9286-4e3c-a6a8-7848444efcb1"},
+{"sequencia":19,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"cd4406b2-64b5-4e5b-8d9b-3554857c9163"}
+]
+}

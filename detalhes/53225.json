@@ -1,0 +1,31 @@
+{"codigo":53225,
+"vencedores":[]
+,"itens":[
+{"lote":1,"item":1,"descricao":"KIT TENSIONADOR COM RODAS GUIAS, MOLAS, TENSIONADOR PARAFUSOS E VEDAÇÕES","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":19970.6},
+{"lote":1,"item":2,"descricao":"MÃO DE OBRA","descricao_adicional":"","unidade":"M","quantidade_min":0,"quantidade_max":1,"valor_referencia":4492.73}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-04-29","tipo":"ETP","fase":"Fase Interna","link_publico":"7ccc0f9f-542f-4c80-872a-03e71b92ae57"},
+{"sequencia":2,"data":"2026-04-29","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ce3594a3-bc9f-4c6f-955e-8fd2c527da88"},
+{"sequencia":3,"data":"2026-05-04","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"f738fdbf-269d-4aae-9437-48b991571603"},
+{"sequencia":4,"data":"2026-05-07","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"fd52b2e1-db30-4a06-90d6-caeea36a7379"},
+{"sequencia":5,"data":"2026-05-07","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"34083dcd-4655-4aba-ad43-518225ba34b4"},
+{"sequencia":6,"data":"2026-05-07","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"eaeea38d-7f5d-469f-b5ac-753fb8100f69"},
+{"sequencia":7,"data":"2026-05-07","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"03b68cc6-a24d-4e4e-b71d-94c910f00946"},
+{"sequencia":8,"data":"2026-05-07","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"c0575ee0-2202-4f73-accb-b851a634660a"},
+{"sequencia":9,"data":"2026-05-11","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"e3b851d4-2764-496b-9dd4-fb39534631af"},
+{"sequencia":10,"data":"2026-05-12","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"e9cc5868-a41e-4f37-834a-be793bfd8304"},
+{"sequencia":11,"data":"2026-05-12","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"4d44a4c6-f968-4ebf-a7d6-5b14fcf1d387"},
+{"sequencia":12,"data":"2026-05-12","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"3d3d0bf1-d495-4712-9c01-2b2090016ff9"},
+{"sequencia":13,"data":"2026-05-12","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"0e106f73-8fc1-4d82-bd61-00f0533f7f97"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Edital Publicado","link_publico":"e607c776-a516-4152-b43e-13e2d407e1e6"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"84608516-20ca-4c25-bc97-2c388287e87e"},
+{"sequencia":16,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4236ece3-8fef-4682-bf3c-6d38c886a102"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"631205b4-0254-41f7-bb71-2235f6b53a18"},
+{"sequencia":18,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ca4c39b0-9ed9-40e5-a01f-cd0266b303cf"},
+{"sequencia":19,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"071fcefe-c364-4aca-b68a-fdab8bbdd006"},
+{"sequencia":20,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fed4ad64-8f2c-457b-9ef1-a8bd1006a8d8"},
+{"sequencia":21,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e20013a8-58ce-459d-9bc3-67e31ee0c0aa"},
+{"sequencia":22,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0f4590f8-9c43-4520-8e78-97a348b9a2e5"}
+]
+}

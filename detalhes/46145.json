@@ -1,0 +1,20 @@
+{"codigo":46145,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"LUANA YUNES VIEIRA","documento":"56.878.314/0001-46","descricao":"MESA DE TÊNIS DE MESA","descricao_adicional":null,"unidade":"UN","valor_referencia":2990,"valor_vencedor":2990,"quantidade":9},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"LUANA YUNES VIEIRA","documento":"56.878.314/0001-46","descricao":"BOLA DE TENIS DE MESA PROFISSIONAL 3 ESTRELAS","descricao_adicional":null,"unidade":"UN","valor_referencia":5,"valor_vencedor":5,"quantidade":100},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"LUANA YUNES VIEIRA","documento":"56.878.314/0001-46","descricao":"KIT DUAS RAQUETES TENIS DE MESA","descricao_adicional":null,"unidade":"UN","valor_referencia":69.9,"valor_vencedor":69.9,"quantidade":9}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MESA DE TÊNIS DE MESA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":9,"valor_referencia":2990},
+{"lote":0,"item":2,"descricao":"BOLA DE TENIS DE MESA PROFISSIONAL 3 ESTRELAS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":100,"valor_referencia":5},
+{"lote":0,"item":3,"descricao":"KIT DUAS RAQUETES TENIS DE MESA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":9,"valor_referencia":69.9}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-07-31","tipo":"","fase":"Fase Interna","link_publico":"a7a72716-8e4d-4999-aa49-691acc8f2b5f"},
+{"sequencia":2,"data":"2025-07-31","tipo":"","fase":"Fase Interna","link_publico":"8219f712-892c-4979-abec-8084ce2095e5"},
+{"sequencia":3,"data":"2025-07-31","tipo":"","fase":"Fase Interna","link_publico":"2682402b-91e3-4bee-b735-2503eeb3a396"},
+{"sequencia":4,"data":"2025-07-31","tipo":"","fase":"Fase Interna","link_publico":"f6585ab3-f013-46d5-b4ee-8035cef72f39"},
+{"sequencia":5,"data":"2025-07-31","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"6d1ea60e-2364-4efb-a8ba-8376d5319af7"},
+{"sequencia":6,"data":"2025-08-01","tipo":"Outros documentos","fase":"Publicação","link_publico":"0be1235b-298a-4ab4-90c9-2060263ba70b"}
+]
+}

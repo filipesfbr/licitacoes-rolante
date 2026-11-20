@@ -1,0 +1,19 @@
+{"codigo":54846,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GREMIO ESPORTIVO INTERNACIONAL","documento":"01.609.992/0001-11","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","valor_referencia":20000,"valor_vencedor":20000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":20000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7ab4e04d-c50b-4f78-90f2-c148af178b70"},
+{"sequencia":2,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"fa010326-4b48-4d16-8a62-09ff701ced02"},
+{"sequencia":3,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"0cb803b6-ba2c-4bde-9dab-58096f56b54d"},
+{"sequencia":4,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"d03eb383-4925-4d59-a225-3ead3f6e73b5"},
+{"sequencia":5,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"aacc3762-e89b-43d0-8562-0e180a65e719"},
+{"sequencia":6,"data":"2026-08-24","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a11f47b0-0404-4e65-976a-bcf107e02577"},
+{"sequencia":7,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"7e2ae651-aedc-45dc-8afa-22a3e7c0b973"},
+{"sequencia":8,"data":"2026-08-26","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0d82d12c-2801-4c76-ab6e-12e9d20166c0"},
+{"sequencia":9,"data":"2026-08-27","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"0d7a5a29-f541-4889-a7a7-4b6be385f4a7"}
+]
+}

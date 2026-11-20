@@ -1,0 +1,40 @@
+{"codigo":46122,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"M&E EMPREENDIMENTOS LTDA","documento":"27.860.248/0001-89","descricao":"CERCAMENTO UNIDADE BÁSICA DE SAÚDE CANTO DOS CARDOSO.","descricao_adicional":null,"unidade":"UN","valor_referencia":38555.57,"valor_vencedor":32499,"quantidade":1.4774},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"RODRIGO A. DE CAMPOS","documento":"19.362.660/0001-40","descricao":"PINTURA EXTERNA DO CENTRO DE ESPECIALIDADES RUDY VOLTZ.","descricao_adicional":null,"unidade":"UN","valor_referencia":31660.18,"valor_vencedor":25500,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CERCAMENTO UNIDADE BÁSICA DE SAÚDE CANTO DOS CARDOSO.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":38555.57},
+{"lote":0,"item":2,"descricao":"PINTURA EXTERNA DO CENTRO DE ESPECIALIDADES RUDY VOLTZ.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":31660.18}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-24","tipo":"","fase":"Fase Interna","link_publico":"337edb45-2b26-4b78-b2de-a1db75280129"},
+{"sequencia":2,"data":"2025-10-24","tipo":"","fase":"Fase Interna","link_publico":"0e855258-b173-491f-a403-dcd6bedcb71c"},
+{"sequencia":3,"data":"2025-11-12","tipo":"","fase":"Fase Interna","link_publico":"23086241-daae-4c17-933b-f4c8109157b3"},
+{"sequencia":4,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"11356b74-5041-4d04-8b27-a5954e1ee24f"},
+{"sequencia":5,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"4561cf1b-5c1f-4adb-9889-f8a5bb838b09"},
+{"sequencia":6,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"32339593-d9aa-4872-99be-a856701a9ed1"},
+{"sequencia":7,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"3465a4f3-4c29-493c-88c6-478ad290e61f"},
+{"sequencia":8,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"76b7b48b-6f1e-42f3-bf64-908d3f0ddc54"},
+{"sequencia":9,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"c6e07748-756b-4330-a7c3-d0bcf3b06089"},
+{"sequencia":10,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"cc89437f-6153-41a3-a42d-2e5d46591b32"},
+{"sequencia":11,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"0a5d21b6-490c-4803-a052-48d44cccaacb"},
+{"sequencia":12,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"59cfaac5-09c9-4714-8f3d-9c7bbd14224d"},
+{"sequencia":13,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"13b60e97-6d6b-43bc-a7a3-a7438c5d0345"},
+{"sequencia":14,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"53464991-3a65-4efe-ae11-273a3ce593e5"},
+{"sequencia":15,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"1ad1c5a8-59af-4e03-85d0-4a3de8fbeea9"},
+{"sequencia":16,"data":"2025-09-17","tipo":"","fase":"Fase Interna","link_publico":"25d93c93-9e03-4710-91a6-05dc2b21dcb3"},
+{"sequencia":17,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"a38807d2-9de8-4fa0-a214-94ce08a171fc"},
+{"sequencia":18,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"ea253e14-6c2f-48af-abc5-ed43892f137b"},
+{"sequencia":19,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"77586dd6-5282-46b8-b956-2429925c663f"},
+{"sequencia":20,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"a5e216a9-06e1-46da-ad5c-2016d0255cb8"},
+{"sequencia":21,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"fa9ce435-efe6-4916-8fc1-d53c4e23caa5"},
+{"sequencia":22,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"ee8b9af3-cfb0-485e-96e6-f7f0aa9b4ebf"},
+{"sequencia":23,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"bc66c04c-ac8e-4f49-aed7-c18768da8be5"},
+{"sequencia":24,"data":"2025-10-20","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"8934644d-2535-4d0b-9773-65c91f6f1791"},
+{"sequencia":25,"data":"2025-10-20","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"ffeaca74-ee1b-4041-bae8-ddbde0431f6d"},
+{"sequencia":26,"data":"2025-09-18","tipo":"Outros documentos","fase":"Publicação","link_publico":"75d54741-2f3d-41eb-992b-9e5efe468a02"},
+{"sequencia":27,"data":"2025-09-18","tipo":"Outros documentos","fase":"Publicação","link_publico":"40d0c647-2e25-4142-8316-be22fdbe880e"},
+{"sequencia":28,"data":"2025-09-18","tipo":"Outros documentos","fase":"Publicação","link_publico":"5388352f-85ec-41fb-af67-905b3cb9f3b1"}
+]
+}

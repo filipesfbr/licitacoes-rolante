@@ -1,0 +1,26 @@
+{"codigo":52893,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO MOTO CLUBE TATU DO BEM","documento":"05.329.181/0001-18","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>PARA A ASSOCIA&Ccedil;&Atilde;O MOTO CLUBE TATU DO BEM, CONFORFME PLANO DE TRABALHO</p>\n","unidade":"UN","valor_referencia":37000,"valor_vencedor":37000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>PARA A ASSOCIA&Ccedil;&Atilde;O MOTO CLUBE TATU DO BEM, CONFORFME PLANO DE TRABALHO</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":37000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"013675fa-8170-415a-9d32-caec85b8111c"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"190e0f7b-7996-499d-9629-896e78807aff"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a818ece4-9cae-43e9-9737-542129961af0"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e836dc4c-0261-4be7-b4c3-97ee643835f6"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c43a443e-f78e-4b34-bf36-b8b4053021ca"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ba9c21b6-53a5-4e8f-9916-0a8f00a065ec"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"db1db730-a505-4a36-849b-817d59f2054d"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2cdf0cdb-3a2e-4a26-a1cf-446062bc6577"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"15852249-ccd6-4fed-953c-ca33af185cc7"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0c54b092-4a76-4eff-8e4f-57cdcd7f477b"},
+{"sequencia":11,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"122a6eaf-e748-418c-81bf-709bd7e4278e"},
+{"sequencia":12,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"f1d0389c-8f88-423b-91f4-2e85e3217eb6"},
+{"sequencia":13,"data":"2026-04-09","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fb5fc871-59fb-43d2-ae7d-2112bac3f7a2"},
+{"sequencia":14,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"9eed981c-770d-4a3e-987c-7fce77140f6c"},
+{"sequencia":15,"data":"2026-04-09","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"8d02677b-c4fc-4696-b16f-403701633bb6"},
+{"sequencia":16,"data":"2026-04-10","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"1a1af073-efd6-4dd9-8226-3563e2a085d5"}
+]
+}

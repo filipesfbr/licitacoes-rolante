@@ -1,0 +1,18 @@
+{"codigo":46110,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ANDERSON LAURO DA SILVA","documento":"58.922.165/0001-09","descricao":"SERVIÇO DE PINTURA","descricao_adicional":null,"unidade":"UN","valor_referencia":26,"valor_vencedor":26,"quantidade":900}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE PINTURA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":600,"valor_referencia":26}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-07","tipo":"","fase":"Fase Interna","link_publico":"d6afe259-234f-423a-b128-71c8dec9a30a"},
+{"sequencia":2,"data":"2025-12-09","tipo":"","fase":"Fase Interna","link_publico":"2c441cec-f175-4bab-8421-9ea195d9699b"},
+{"sequencia":3,"data":"2025-10-07","tipo":"","fase":"Fase Interna","link_publico":"47bc8dec-8f9a-48bb-a8b7-1620ecea9a16"},
+{"sequencia":4,"data":"2025-10-07","tipo":"","fase":"Fase Interna","link_publico":"d1256d86-6b0f-4b95-9ee4-82ad28404e0b"},
+{"sequencia":5,"data":"2025-10-07","tipo":"","fase":"Fase Interna","link_publico":"aac57d98-31f8-4860-87c4-3db3902e041f"},
+{"sequencia":6,"data":"2025-10-07","tipo":"","fase":"Fase Interna","link_publico":"dc482697-c8f8-415a-bcee-2dc944aa7444"},
+{"sequencia":7,"data":"2025-10-07","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"d1798a57-ac12-496e-a5e5-4aedf07dafaf"},
+{"sequencia":8,"data":"2025-10-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"d381ad35-b03f-471b-9657-bcfe1032921e"}
+]
+}

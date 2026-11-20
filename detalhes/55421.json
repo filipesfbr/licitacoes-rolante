@@ -1,0 +1,24 @@
+{"codigo":55421,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIAÇÃO ORQUIDOFILA DO PARANHANA","documento":"52.997.755/0001-06","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>Apoio financeiro &agrave;&nbsp;<strong>Associa&ccedil;&atilde;o Orquid&oacute;fila do Paranhana</strong> na realiza&ccedil;&atilde;o da <strong>Exposi&ccedil;&atilde;o de Orqu&iacute;deas e Bonsais</strong>, prevista para ocorrer no Munic&iacute;pio de Rolante.</p>\n","unidade":"UN","valor_referencia":16000,"valor_vencedor":16000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>Apoio financeiro &agrave;&nbsp;<strong>Associa&ccedil;&atilde;o Orquid&oacute;fila do Paranhana</strong> na realiza&ccedil;&atilde;o da <strong>Exposi&ccedil;&atilde;o de Orqu&iacute;deas e Bonsais</strong>, prevista para ocorrer no Munic&iacute;pio de Rolante.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":16000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"631f17d7-2830-4aad-ab17-cf87565e406d"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a5a066e6-ae01-4a0d-b20d-fc792952a910"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"fbc3fc58-c527-4715-873c-bfa38ddf49e0"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"21c9490b-221f-4367-a01d-345e3a3a9659"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"30420e9d-fa5d-4347-af0b-a5e221f19f4b"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4abb9ccd-4505-4b2c-b298-d18e7ac45ef8"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"687280f1-d95e-4c6a-a3f4-1fcbd95bad97"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"94d293e5-430d-4e10-8c38-3c53f7ae894a"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"dc763a85-8932-4187-9892-2e9449ed928e"},
+{"sequencia":10,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"20ac0493-4689-4a2e-bb4a-524bf61076bc"},
+{"sequencia":11,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"b325b795-d2d5-4ca4-b090-74e7f7717ac8"},
+{"sequencia":12,"data":"2026-10-07","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"50a946e5-4413-468a-8309-1b6968583e6e"},
+{"sequencia":13,"data":"2026-10-19","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"88c36f43-a30a-4956-b515-4fbb49678e29"},
+{"sequencia":14,"data":"2026-10-20","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"43cb0c59-85dc-44be-bb14-4087a93cddd3"}
+]
+}

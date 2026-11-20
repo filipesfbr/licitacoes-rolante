@@ -1,0 +1,16 @@
+{"codigo":55191,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SOCIEDADE CIVIL CORPO DE BOMBEIROS VOLUNTARIOS DE ROLANTE","documento":"04.418.785/0001-78","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>Constru&ccedil;&atilde;o de base avan&ccedil;ada operacional dos Bombeiros Volunt&aacute;rios na localidade de Alto Rolantinho, destinada ao atendimento de emerg&ecirc;ncias, apoio &agrave;s a&ccedil;&otilde;es de defesa civil, armazenamento de equipamentos e viaturas, e suporte &agrave;s equipes de plant&atilde;o, visando ampliar a capacidade de resposta e a prote&ccedil;&atilde;o da comunidade de Rolante.</p>\n","unidade":"UN","valor_referencia":100000,"valor_vencedor":100000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<p>Constru&ccedil;&atilde;o de base avan&ccedil;ada operacional dos Bombeiros Volunt&aacute;rios na localidade de Alto Rolantinho, destinada ao atendimento de emerg&ecirc;ncias, apoio &agrave;s a&ccedil;&otilde;es de defesa civil, armazenamento de equipamentos e viaturas, e suporte &agrave;s equipes de plant&atilde;o, visando ampliar a capacidade de resposta e a prote&ccedil;&atilde;o da comunidade de Rolante.</p>\n","unidade":"UN","quantidade_min":1,"quantidade_max":1,"valor_referencia":100000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"68fe402d-b8df-4406-9996-9fc6d34311db"},
+{"sequencia":2,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"982ac26d-00a9-40fa-ae5f-bcc3d5b7c665"},
+{"sequencia":3,"data":"2026-09-15","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"511625e7-bb18-4721-b5c4-3ad62e434a0a"},
+{"sequencia":4,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"2e7afd6e-5d32-499e-9312-33eec3dc8845"},
+{"sequencia":5,"data":"2026-09-25","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"4063e19b-6c32-42bf-8f34-ab35b738590d"},
+{"sequencia":6,"data":"2026-09-28","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"34eec4f3-db37-4ad8-9c7f-a8c697446902"}
+]
+}

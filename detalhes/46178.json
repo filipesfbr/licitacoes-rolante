@@ -1,0 +1,36 @@
+{"codigo":46178,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"BABINSKI BOLSAS LTDA","documento":"19.106.828/0001-57","descricao":"MOCHILA ESCOLAR INFANTIL (P) CARRINHO","descricao_adicional":"","unidade":"UN","valor_referencia":130.86,"valor_vencedor":79,"quantidade":1100},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"BABINSKI BOLSAS LTDA","documento":"19.106.828/0001-57","descricao":"MOCHILA ESCOLAR INFANTIL (P)","descricao_adicional":"","unidade":"UN","valor_referencia":118.87,"valor_vencedor":60,"quantidade":700},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"ELISABETE A. TRAGE ATACADO - ME","documento":"10.394.341/0001-42","descricao":"MOCHILA ESCOLAR MÉDIA (M)","descricao_adicional":"","unidade":"UN","valor_referencia":118.87,"valor_vencedor":39,"quantidade":1400},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"I.S. LICITAÇÕES LTDA","documento":"48.501.228/0001-91","descricao":"PASTA PROFESSOR","descricao_adicional":"","unidade":"UN","valor_referencia":166.33,"valor_vencedor":39.99,"quantidade":700}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MOCHILA ESCOLAR INFANTIL (P) CARRINHO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1100,"valor_referencia":130.86},
+{"lote":0,"item":2,"descricao":"MOCHILA ESCOLAR INFANTIL (P)","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":700,"valor_referencia":118.87},
+{"lote":0,"item":3,"descricao":"MOCHILA ESCOLAR MÉDIA (M)","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1400,"valor_referencia":118.87},
+{"lote":0,"item":4,"descricao":"PASTA PROFESSOR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":700,"valor_referencia":166.33}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-06-11","tipo":"","fase":"Fase Interna","link_publico":"fa3b5b49-1abe-4d85-9226-d1855dac36bd"},
+{"sequencia":2,"data":"2025-06-11","tipo":"","fase":"Fase Interna","link_publico":"87a7b570-6125-48df-b3ca-60c5d6356167"},
+{"sequencia":3,"data":"2025-07-14","tipo":"","fase":"Fase Interna","link_publico":"be2fa49d-39eb-4f5e-ad82-1832ed133ff3"},
+{"sequencia":4,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"3db7e433-e2ae-435e-9258-a14cf41c0e38"},
+{"sequencia":5,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"ebec40fd-0adf-4c36-b875-e3c8a6b5fe29"},
+{"sequencia":6,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"ed4ec419-c1fa-4b99-a1b2-be876c15b768"},
+{"sequencia":7,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"72f25adf-a270-43c9-b2ee-2cd98c5b7d30"},
+{"sequencia":8,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"9a8dcada-931f-446a-b367-79c4339394ce"},
+{"sequencia":9,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"9d40eebb-0f85-4c9c-a108-cb536efa981f"},
+{"sequencia":10,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"6c442ee3-220a-4067-b382-bed176485452"},
+{"sequencia":11,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"611a2668-cafd-4772-a8ec-1cbd3cb1d961"},
+{"sequencia":12,"data":"2025-10-20","tipo":"","fase":"Fase Interna","link_publico":"9add1228-5eef-4dc4-8950-612291280037"},
+{"sequencia":13,"data":"2025-10-20","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"de9d39b9-49b9-46af-b8c2-75c774794c40"},
+{"sequencia":14,"data":"2025-06-02","tipo":"Outros documentos","fase":"Publicação","link_publico":"c7b8f776-e406-47e4-b801-0aa9a88c8800"},
+{"sequencia":15,"data":"2025-06-02","tipo":"Outros documentos","fase":"Publicação","link_publico":"aafc0f22-26a2-436a-82ed-d59526bf6168"},
+{"sequencia":16,"data":"2025-06-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"6d14af27-e716-4ee8-8ce3-03ad7cfd3929"},
+{"sequencia":17,"data":"2025-06-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"e2da05a1-651c-49bf-ab39-91ff33419de8"},
+{"sequencia":18,"data":"2025-06-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"b66154a3-c721-4ef1-8f17-6f953d77ce85"},
+{"sequencia":19,"data":"2025-06-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"45d21e0f-9556-49a7-91f1-00b2aec97a92"},
+{"sequencia":20,"data":"2025-10-21","tipo":"Outros documentos","fase":"Publicação","link_publico":"8ec6e8ed-e23e-4914-ba4d-2a2e5997530b"}
+]
+}

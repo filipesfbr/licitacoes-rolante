@@ -1,0 +1,19 @@
+{"codigo":46130,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":true,"descricao":"LOCAÇÃO DE IMÓVEL PARA EXTRAÇÃO DE SAIBRO","descricao_adicional":null,"unidade":"UN","valor_referencia":2329.3,"valor_vencedor":2329.3,"quantidade":20}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"LOCAÇÃO DE IMÓVEL PARA EXTRAÇÃO DE SAIBRO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":2329.3}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-09-02","tipo":"","fase":"Fase Interna","link_publico":"99beb68a-57e0-40f1-aaa6-bfc4ec5dc74b"},
+{"sequencia":2,"data":"2026-01-09","tipo":"","fase":"Fase Interna","link_publico":"c1dbc7bf-e97c-4285-8c1e-9d7d2bc18f1e"},
+{"sequencia":3,"data":"2025-09-01","tipo":"","fase":"Fase Interna","link_publico":"9490f806-5497-40e3-bf53-7cc249edc9fd"},
+{"sequencia":4,"data":"2025-09-01","tipo":"","fase":"Fase Interna","link_publico":"eba551e5-bb80-41ec-88e5-0b5ba22994ed"},
+{"sequencia":5,"data":"2025-09-01","tipo":"","fase":"Fase Interna","link_publico":"ccd0401f-c67e-4218-a49d-40ad60064077"},
+{"sequencia":6,"data":"2025-09-01","tipo":"","fase":"Fase Interna","link_publico":"6beec4fb-c502-43b7-8a39-a6b59febf9b6"},
+{"sequencia":7,"data":"2025-09-01","tipo":"","fase":"Fase Interna","link_publico":"b42681d7-3bcf-489d-8871-e241d314c681"},
+{"sequencia":8,"data":"2025-09-01","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"a11ba129-dc14-4d68-b98f-dda6069339c9"},
+{"sequencia":9,"data":"2025-09-02","tipo":"Outros documentos","fase":"Publicação","link_publico":"3302cf2d-2872-472f-b53c-2ddeafdf7524"}
+]
+}

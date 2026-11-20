@@ -1,0 +1,19 @@
+{"codigo":46048,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"LAERCIO ROCKENBACK","documento":"54.388.337/0001-47","descricao":"CONTRATAÇAO DE EMPRESA PARA DISPONIBILIZAR EDUCADOR FÍSICO PARA REALIZAR ATIVIDADES COM GRUPOS DE TERCEIRA IDADE. CARGA HORARIA: 20 HORAS SEMANAIS","descricao_adicional":"","unidade":"UN","valor_referencia":4000,"valor_vencedor":4000,"quantidade":12}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇAO DE EMPRESA PARA DISPONIBILIZAR EDUCADOR FÍSICO PARA REALIZAR ATIVIDADES COM GRUPOS DE TERCEIRA IDADE. CARGA HORARIA: 20 HORAS SEMANAIS","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":4000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"d77c0247-0603-457a-b63d-f20b0c36c7a8"},
+{"sequencia":2,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"e7daf974-a5c3-42ae-860b-4640531e5156"},
+{"sequencia":3,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"26be606b-7ad8-47e4-97e7-07cc3e321cca"},
+{"sequencia":4,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"2cca869e-5dfb-4ccf-a983-cfc131de1c9a"},
+{"sequencia":5,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"d705214b-932d-45d7-aa25-809cc725f3d0"},
+{"sequencia":6,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"14524593-fb5d-4d9e-b2c2-4050616d864b"},
+{"sequencia":7,"data":"2026-02-11","tipo":"","fase":"Fase Interna","link_publico":"7364df23-2804-4db1-b4f8-d166273f8bfc"},
+{"sequencia":8,"data":"2026-02-11","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"3d9982ad-be8a-42b6-a1c6-e38a56c8a31a"},
+{"sequencia":9,"data":"2026-02-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"099f1a57-30f9-4b36-8591-b38c62796d7a"}
+]
+}

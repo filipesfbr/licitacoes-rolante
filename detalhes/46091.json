@@ -1,0 +1,16 @@
+{"codigo":46091,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MARCOS VINICIUS CAYE LARA","documento":"17.505.689/0001-09","descricao":"CONTRATAÇÃO DE ESPETACULO","descricao_adicional":null,"unidade":"UN","valor_referencia":3783,"valor_vencedor":3783,"quantidade":4}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE ESPETACULO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":3783}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"df7fc109-0a13-4d0c-b3d8-e736b40e64ac"},
+{"sequencia":2,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"a69bb2a0-2c28-4969-9b80-787d9c15bc25"},
+{"sequencia":3,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"d46a2ec8-9202-46ae-93fa-1d699c20d7cf"},
+{"sequencia":4,"data":"2025-11-03","tipo":"","fase":"Fase Interna","link_publico":"00e7b8bf-0be2-4b6f-b402-5b5001cdaab3"},
+{"sequencia":5,"data":"2025-11-03","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"8f6c92f1-ebe1-4118-ac18-ba2fc4747850"},
+{"sequencia":6,"data":"2025-11-04","tipo":"Outros documentos","fase":"Publicação","link_publico":"25cad3d4-4cbe-4770-8d47-5f380120f967"}
+]
+}

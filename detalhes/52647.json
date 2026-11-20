@@ -1,0 +1,28 @@
+{"codigo":52647,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"62.497.497 BRUNO AUGUSTO LORENZ","documento":"62.497.497/0001-52","descricao":"SERVIÇOS TÉCNICOS ESPECIALIZADOS","descricao_adicional":"","unidade":"UN","valor_referencia":18000,"valor_vencedor":18000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS TÉCNICOS ESPECIALIZADOS","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":18000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"5cb09f43-1406-4447-abe7-749689f81fbb"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"cadaf5a1-fcee-48e7-93f8-fbe3305185a4"},
+{"sequencia":3,"data":null,"tipo":"Comprovação de exclusividade","fase":"Fase Interna","link_publico":"9dd88aad-7ade-4454-a63d-b4cdb97ff506"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f327510d-17a3-4be6-ab70-23361566ffdb"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"345aaccc-6df2-4a9e-a600-c72c58388b50"},
+{"sequencia":6,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"268595d7-ec31-4605-a909-b4b0d3ce7611"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5637195c-c7c2-4fa3-9b1c-b79088264d52"},
+{"sequencia":8,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2c90e62c-62bc-4ee9-ba27-3d28f1a18892"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1a3a52a2-1e4e-4237-aa02-52b196ce3909"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6b060b40-9749-4957-8eea-f98499e439a9"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ad242483-c893-43ff-8390-c88f5413f185"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f04cc58e-1b86-4daf-9753-d3620587a008"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e2368dfc-5bed-4d1a-a7c0-f74725d419ec"},
+{"sequencia":14,"data":"2026-03-20","tipo":"ETP","fase":"Fase Interna","link_publico":"709686ad-f97d-4d0d-ad29-dc0cdf1f9cc9"},
+{"sequencia":15,"data":"2026-03-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0653da6b-2d9b-4d37-8131-73d080477f0d"},
+{"sequencia":16,"data":"2026-03-23","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"f9db4e1a-cd83-450d-8f31-9dbd8d426bdb"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c5d20207-ad2b-44ba-a54c-ad8c1bdcf1e6"},
+{"sequencia":18,"data":null,"tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"faf8a340-3582-4efa-92c6-257777976713"}
+]
+}

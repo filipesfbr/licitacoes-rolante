@@ -1,0 +1,16 @@
+{"codigo":53511,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DESPORTIVA ROLANTE SPORTS","documento":"29.066.114/0001-16","descricao":"PROJETO PEDAGÓGICO","descricao_adicional":"<p>Termo de Fomento para realiza&ccedil;&atilde;o do proje masculino e feminino, na cidade de Rolante, nas modalidades de FUTSAL,FUTEBOL, V&Ocirc;LEI E FUTEV&Ocirc;LEI, conforme Plano de Trabalho em anexo (Plano de Trabalho para 12 meses - Por&eacute;m aqui incluimos somente a parte do ano de 2026)</p>\n","unidade":"UN","valor_referencia":31953.66,"valor_vencedor":31953.66,"quantidade":13}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PROJETO PEDAGÓGICO","descricao_adicional":"<p>Termo de Fomento para realiza&ccedil;&atilde;o do proje masculino e feminino, na cidade de Rolante, nas modalidades de FUTSAL,FUTEBOL, V&Ocirc;LEI E FUTEV&Ocirc;LEI, conforme Plano de Trabalho em anexo (Plano de Trabalho para 12 meses - Por&eacute;m aqui incluimos somente a parte do ano de 2026)</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":12,"valor_referencia":31953.66}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"817b511d-1748-4d7c-90ab-1f43ecee0cd7"},
+{"sequencia":2,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"c03c6c8c-ffb2-4b6b-8aa9-e951d6af6377"},
+{"sequencia":3,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"6770f251-f7df-4901-8799-23a577f8f9a7"},
+{"sequencia":4,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"0bba9f87-cd03-4880-9466-2c091fdd3781"},
+{"sequencia":5,"data":"2026-05-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ae737246-d3fc-46f4-b202-654b28c6e444"},
+{"sequencia":6,"data":"2026-05-21","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"abf07003-d681-4363-b69d-7469a9e250e6"}
+]
+}

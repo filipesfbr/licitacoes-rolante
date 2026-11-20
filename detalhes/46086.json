@@ -1,0 +1,18 @@
+{"codigo":46086,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"STAR SERVICOS DE INTERNET LTDA","documento":"18.968.664/0001-04","descricao":"HOSPEDAGEM DE E-MAIL PARA A PREFEITURA MUNICIPAL DER ROLANTE.","descricao_adicional":"<p>Contratação de caixas de e-mail para o domínio rolante.rs.gov.br. - 200 Unidades.</p>","unidade":"UN","valor_referencia":1035,"valor_vencedor":1081.16,"quantidade":25}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"HOSPEDAGEM DE E-MAIL PARA A PREFEITURA MUNICIPAL DER ROLANTE.","descricao_adicional":"<p>Contratação de caixas de e-mail para o domínio rolante.rs.gov.br. - 200 Unidades.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":25,"valor_referencia":1035}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-11-18","tipo":"","fase":"Fase Interna","link_publico":"05fd628e-4056-4fe0-a576-edecb3bd6f83"},
+{"sequencia":2,"data":"2026-01-13","tipo":"","fase":"Fase Interna","link_publico":"f6140ffe-59a3-42b2-8a53-fe06fdff10bb"},
+{"sequencia":3,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"fbec19df-fd5d-49c0-a69f-0dca664a228d"},
+{"sequencia":4,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"35eef3bd-e249-470b-a3bf-b80d99ce8766"},
+{"sequencia":5,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"97ba2478-9ab4-4a52-8302-3f64dd14b71d"},
+{"sequencia":6,"data":"2025-11-17","tipo":"","fase":"Fase Interna","link_publico":"aa6b3423-2793-4ae4-b066-82e6c895ff0c"},
+{"sequencia":7,"data":"2025-11-17","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"ce609433-666a-4b7a-90b0-9213fd5f4d9d"},
+{"sequencia":8,"data":"2025-11-18","tipo":"Outros documentos","fase":"Publicação","link_publico":"4ed45882-425b-4de7-9168-5eda9a61737f"}
+]
+}

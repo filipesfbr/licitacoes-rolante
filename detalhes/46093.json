@@ -1,0 +1,16 @@
+{"codigo":46093,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"MAICON RAFAEL DOS SANTOS","documento":"10.981.213/0001-03","descricao":"APARELHO CELULAR","descricao_adicional":null,"unidade":"UN","valor_referencia":980,"valor_vencedor":980,"quantidade":13}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"APARELHO CELULAR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":13,"valor_referencia":980}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-28","tipo":"","fase":"Fase Interna","link_publico":"3a79b281-9dc0-483c-8326-fa1002fcce32"},
+{"sequencia":2,"data":"2025-10-28","tipo":"","fase":"Fase Interna","link_publico":"e07fdab4-1b86-4fe8-ba4a-37954e1d2fe8"},
+{"sequencia":3,"data":"2025-10-28","tipo":"","fase":"Fase Interna","link_publico":"326284c2-2027-45f6-beb1-673f538d4c53"},
+{"sequencia":4,"data":"2025-10-28","tipo":"","fase":"Fase Interna","link_publico":"945b5eaa-7d68-4114-b1c3-c46f3edd351d"},
+{"sequencia":5,"data":"2025-10-28","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"0efcf8d9-2242-4307-bdbe-404ad190c0ef"},
+{"sequencia":6,"data":"2025-10-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"dcd43e8a-a3f5-4d26-9725-8066f3dcfc1e"}
+]
+}

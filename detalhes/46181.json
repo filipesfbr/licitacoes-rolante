@@ -1,0 +1,24 @@
+{"codigo":46181,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"KATIA ADRIANA BIRCK","documento":"55.656.155/0001-72","descricao":"COMPUTADOR COMPLETO","descricao_adicional":null,"unidade":"UN","valor_referencia":7900,"valor_vencedor":7900,"quantidade":2},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"KATIA ADRIANA BIRCK","documento":"55.656.155/0001-72","descricao":"MONITOR","descricao_adicional":null,"unidade":"UN","valor_referencia":1280,"valor_vencedor":1280,"quantidade":2},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"CASA DA INFORMATICA LTDA","documento":"07.855.929/0001-41","descricao":"COMPUTADOR COMPLETO","descricao_adicional":null,"unidade":"UN","valor_referencia":5592.38,"valor_vencedor":5592.38,"quantidade":2},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"CASA DA INFORMATICA LTDA","documento":"07.855.929/0001-41","descricao":"ESTABILIZADOR 300VA","descricao_adicional":null,"unidade":"UN","valor_referencia":130,"valor_vencedor":130,"quantidade":2},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"CASA DA INFORMATICA LTDA","documento":"07.855.929/0001-41","descricao":"KIT MOUSE E TECLADO","descricao_adicional":null,"unidade":"UN","valor_referencia":348.67,"valor_vencedor":348.67,"quantidade":2}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"COMPUTADOR COMPLETO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":7900},
+{"lote":0,"item":2,"descricao":"MONITOR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":1280},
+{"lote":0,"item":3,"descricao":"COMPUTADOR COMPLETO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":5592.38},
+{"lote":0,"item":4,"descricao":"ESTABILIZADOR 300VA","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":130},
+{"lote":0,"item":5,"descricao":"KIT MOUSE E TECLADO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":348.67}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-05-22","tipo":"","fase":"Fase Interna","link_publico":"439cefa6-688b-474c-9343-c7dcb8129fe5"},
+{"sequencia":2,"data":"2025-05-22","tipo":"","fase":"Fase Interna","link_publico":"db3fddf0-f54e-43f2-a3f2-c4cddc34a72b"},
+{"sequencia":3,"data":"2025-05-22","tipo":"","fase":"Fase Interna","link_publico":"dcf7d480-2453-4700-a72f-e5f38a593487"},
+{"sequencia":4,"data":"2025-05-22","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"9ea0a6ae-9ffa-447f-a581-5e1f8e33db2a"},
+{"sequencia":5,"data":"2025-05-22","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"6b32b581-688b-4b5b-b539-621aed18faad"},
+{"sequencia":6,"data":"2025-05-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"cb636076-dde3-41be-b5c1-81b0ac3da553"}
+]
+}

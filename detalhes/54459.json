@@ -1,0 +1,23 @@
+{"codigo":54459,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"PL TRÊS ESTÂNCIAS","documento":"00.897.023/0001-40","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","valor_referencia":50500,"valor_vencedor":50500,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":50500}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8bc6e919-bd8f-4f93-90ed-ae8b80901f66"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"71635157-826c-41b0-8da0-35bfb5338c95"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c76d50b7-095d-40e8-97db-62058824c98f"},
+{"sequencia":4,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e1875b44-9cb3-4b53-8a58-fca16be3f19b"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2551a6f3-f035-498a-aaf4-41dd42adc1d2"},
+{"sequencia":6,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"bac003b5-1242-42fd-9092-84efb86e4014"},
+{"sequencia":7,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"472a3236-2914-4e20-b2e2-f3c1183cd0db"},
+{"sequencia":8,"data":"2026-07-21","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"431c3734-daf2-498d-b964-6d97561bfa13"},
+{"sequencia":9,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"3e013ce1-60f0-434c-9321-a3e506ba208f"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"baf70d3f-5ae7-48fd-8ea9-ef2df9476321"},
+{"sequencia":11,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"66f87f6b-fe26-4cdd-ad84-8f39869c773b"},
+{"sequencia":12,"data":"2026-07-27","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e27212b2-a5c3-4d60-ab39-34f5ccf43209"},
+{"sequencia":13,"data":"2026-07-28","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"c15f4cbc-92bb-4599-917e-12307d03f754"}
+]
+}

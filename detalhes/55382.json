@@ -1,0 +1,16 @@
+{"codigo":55382,
+"vencedores":[]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇOS DE SOLDA MIG","descricao_adicional":"","unidade":"H","quantidade_min":0,"quantidade_max":1500,"valor_referencia":162.1466667},
+{"lote":0,"item":2,"descricao":"SERVIÇOS DE TORNO","descricao_adicional":"","unidade":"H","quantidade_min":0,"quantidade_max":1300,"valor_referencia":126.2166667}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-10-01","tipo":"ETP","fase":"Fase Interna","link_publico":"5bd3a095-07fa-4bd5-9233-7a3506ffc5ac"},
+{"sequencia":2,"data":"2026-10-01","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"21aa98e7-4175-4b82-88b0-e84b1c3501ea"},
+{"sequencia":3,"data":"2026-10-15","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"766e1e0a-de7f-4bff-a666-6e895426bf62"},
+{"sequencia":4,"data":"2026-10-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"767dd859-3a1c-4825-bd8c-524c00cf18cd"},
+{"sequencia":5,"data":"2026-10-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"fdedfe03-224c-4ce6-8dff-83a77de222e4"},
+{"sequencia":6,"data":"2026-10-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"c55a6abb-8b7c-4920-8e12-8a2843805dd0"},
+{"sequencia":7,"data":"2026-10-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"c498a9e0-0491-4f3b-ab19-131522d2c0ea"}
+]
+}

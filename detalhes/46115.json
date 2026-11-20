@@ -1,0 +1,25 @@
+{"codigo":46115,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"BELMICRO TECNOLOGIA S/A","documento":"71.052.559/0001-03","descricao":"AR CONDICIONADO - APARELHO - 30.000 BTU'S, CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","valor_referencia":5053.26,"valor_vencedor":5053.2676,"quantidade":42}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"AR CONDICIONADO - APARELHO - 30.000 BTU'S, CONFORME ATA DE REGISTRO DE PREÇOS DO FNDE.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":42,"valor_referencia":5053.26}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-10-13","tipo":"","fase":"Fase Interna","link_publico":"5fbc9aa2-e7fe-4f78-970b-d2299564dc02"},
+{"sequencia":2,"data":"2025-09-26","tipo":"","fase":"Fase Interna","link_publico":"60f86673-c2a5-4fd5-a7ed-6f200de71935"},
+{"sequencia":3,"data":"2025-09-26","tipo":"","fase":"Fase Interna","link_publico":"4571cdb3-d3b8-41d5-831a-5d2836cc219a"},
+{"sequencia":4,"data":"2025-09-26","tipo":"","fase":"Fase Interna","link_publico":"ebe95939-b4fa-4684-abd4-728f1e53f4d6"},
+{"sequencia":5,"data":"2025-09-26","tipo":"","fase":"Fase Interna","link_publico":"28f15bd1-9688-4252-83dc-543f3522d7f4"},
+{"sequencia":6,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"e3876cbb-c71e-4d99-8dc3-1e6b5e5c5304"},
+{"sequencia":7,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"d512c5a5-8a46-4401-be1b-5ef4addc55a6"},
+{"sequencia":8,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"bdf36fde-db53-4297-8ec9-ae589a2d2889"},
+{"sequencia":9,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"2ddbb07d-0374-4ee5-806a-775e6915017e"},
+{"sequencia":10,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"2cf60954-a3e1-4e8f-9357-3ff78f233c97"},
+{"sequencia":11,"data":"2025-09-29","tipo":"","fase":"Fase Interna","link_publico":"aafe6b34-7eb8-4776-adb6-9ec47b196448"},
+{"sequencia":12,"data":"2025-09-29","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"3808c15b-7fc6-4b05-b558-f7e825688a57"},
+{"sequencia":13,"data":"2025-09-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"6ffdede2-a4ac-481a-a2bc-eb82dc65b23b"},
+{"sequencia":14,"data":"2025-09-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"dea362c1-59a3-463e-8054-e8e9cc660edc"},
+{"sequencia":15,"data":"2025-09-30","tipo":"Outros documentos","fase":"Publicação","link_publico":"365cc046-41e6-4e06-af0b-77b2e61476a1"}
+]
+}

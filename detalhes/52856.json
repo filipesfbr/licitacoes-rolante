@@ -1,0 +1,30 @@
+{"codigo":52856,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SERRA DIESEL TRANSPORTADOR REVENDEDOR RETALHISTA S.A","documento":"07.551.295/0001-33","descricao":"ÓLEO DIESEL S10","descricao_adicional":"","unidade":"LT","valor_referencia":6.6033,"valor_vencedor":6.32,"quantidade":400000},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"SERRA DIESEL TRANSPORTADOR REVENDEDOR RETALHISTA S.A","documento":"07.551.295/0001-33","descricao":"ARLA 32","descricao_adicional":"","unidade":"L","valor_referencia":3.79,"valor_vencedor":3.79,"quantidade":6000}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"ÓLEO DIESEL S10","descricao_adicional":"","unidade":"LT","quantidade_min":0,"quantidade_max":400000,"valor_referencia":6.6033},
+{"lote":0,"item":2,"descricao":"ARLA 32","descricao_adicional":"","unidade":"L","quantidade_min":0,"quantidade_max":6000,"valor_referencia":3.79}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-03-30","tipo":"ETP","fase":"Fase Interna","link_publico":"a0b8a141-3a92-42e0-b98f-bb8e92ebe7a8"},
+{"sequencia":2,"data":"2026-03-30","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b76f7599-fc12-42d9-b54f-ffb2d72bded5"},
+{"sequencia":3,"data":"2026-04-08","tipo":"Edital e anexos","fase":"Fase Interna","link_publico":"80874083-eae5-48bf-a530-dd9ffafe629e"},
+{"sequencia":4,"data":"2026-04-10","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"9415ed8d-2d81-4cb4-8771-1a2998b89ad4"},
+{"sequencia":5,"data":"2026-04-10","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"00ffa06b-86d5-49f2-9d8a-5f4c1c166c73"},
+{"sequencia":6,"data":"2026-04-10","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"1a5ae8c7-1006-4316-84cb-fde339f2cbb8"},
+{"sequencia":7,"data":"2026-04-10","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"3ae2d183-aeee-4f75-8e47-9f21ee9fb4c7"},
+{"sequencia":8,"data":"2026-04-10","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"f778b587-c053-40ef-8b01-7c0039858671"},
+{"sequencia":9,"data":"2026-04-22","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"736b1581-d115-44c2-ab66-7d9eff71af18"},
+{"sequencia":10,"data":"2026-04-22","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"e5e28ee1-9669-475b-86db-8821ad48c998"},
+{"sequencia":11,"data":"2026-04-22","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"ff697d74-cdf0-43b6-a183-cf18b248b14a"},
+{"sequencia":12,"data":"2026-04-22","tipo":"Aviso de alteração do Edital/Errata","fase":"Edital Publicado","link_publico":"278ffde4-2773-43ce-b328-2b09d48cd7bd"},
+{"sequencia":13,"data":null,"tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"1ee040c0-3946-453c-afba-6e5a6f93932d"},
+{"sequencia":14,"data":null,"tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"c307a656-5399-45cc-bb50-f23fb51243eb"},
+{"sequencia":15,"data":null,"tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"9aff5b40-b5e8-4cf5-b03c-111bddd5b6a5"},
+{"sequencia":16,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"54f42626-402e-4601-bd9f-fc58d55395dc"},
+{"sequencia":17,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"25bf2155-c892-4035-96b7-c549f31c1a57"},
+{"sequencia":18,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2a0c3bfc-2152-4ae5-a3a4-4dd33e2a5b79"}
+]
+}

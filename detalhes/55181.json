@@ -1,0 +1,16 @@
+{"codigo":55181,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"SOCIEDADE CIVIL CORPO DE BOMBEIROS VOLUNTARIOS DE ROLANTE","documento":"04.418.785/0001-78","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<h4>Aquisi&ccedil;&atilde;o de 5 capacetes de prote&ccedil;&atilde;o destinados ao combate a inc&ecirc;ndios estruturais, oferecendo resist&ecirc;ncia contra impactos, calor e chamas, adequados para atua&ccedil;&atilde;o em ocorr&ecirc;ncias com exposi&ccedil;&atilde;o a altas temperaturas.</h4>\n","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":"<h4>Aquisi&ccedil;&atilde;o de 5 capacetes de prote&ccedil;&atilde;o destinados ao combate a inc&ecirc;ndios estruturais, oferecendo resist&ecirc;ncia contra impactos, calor e chamas, adequados para atua&ccedil;&atilde;o em ocorr&ecirc;ncias com exposi&ccedil;&atilde;o a altas temperaturas.</h4>\n","unidade":"UN","quantidade_min":1,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ba489d5b-5299-4b87-ba17-73a3e865ed8c"},
+{"sequencia":2,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"9016e5f7-0db9-4c43-8188-d3121d7435ba"},
+{"sequencia":3,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"d55787d0-f077-4edd-9b97-ed901805c785"},
+{"sequencia":4,"data":"2026-09-15","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"6c7f22f7-d804-4759-9235-ad28b0ec7b09"},
+{"sequencia":5,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"0422cd85-8880-44c2-bd17-38076865b5af"},
+{"sequencia":6,"data":"2026-09-25","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"12637f03-69d7-4e22-9fe7-7c709f2c63a3"}
+]
+}

@@ -1,0 +1,18 @@
+{"codigo":46201,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"TC CONSTRUCOES LTDA","documento":"45.416.669/0001-05","descricao":"MATERIAIS DIVERSOS","descricao_adicional":null,"unidade":"UN","valor_referencia":1396.1845,"valor_vencedor":1396.1845,"quantidade":11},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"TC CONSTRUCOES LTDA","documento":"45.416.669/0001-05","descricao":"SERVIÇO DE MANUTENÇÃO","descricao_adicional":null,"unidade":"UN","valor_referencia":31.3158,"valor_vencedor":31.3158,"quantidade":38}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"MATERIAIS DIVERSOS","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":11,"valor_referencia":1396.1845},
+{"lote":0,"item":2,"descricao":"SERVIÇO DE MANUTENÇÃO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":38,"valor_referencia":31.3158}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-04-23","tipo":"","fase":"Fase Interna","link_publico":"7f326d00-0472-4f12-bf66-50c9ee886ffd"},
+{"sequencia":2,"data":"2025-04-23","tipo":"","fase":"Fase Interna","link_publico":"43d9b893-d8f8-4d7f-8302-fc6e173ba80d"},
+{"sequencia":3,"data":"2025-04-23","tipo":"","fase":"Fase Interna","link_publico":"cf7743c3-f789-464d-b68f-e0a62e065aca"},
+{"sequencia":4,"data":"2025-04-23","tipo":"","fase":"Fase Interna","link_publico":"64e70566-88bb-4d87-b35f-a58f9077245e"},
+{"sequencia":5,"data":"2025-04-23","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"17ed0677-db6a-4546-8268-294948863998"},
+{"sequencia":6,"data":"2025-04-23","tipo":"Outros documentos","fase":"Publicação","link_publico":"ec8241fe-61b4-4179-bc8d-fbf498ce37b6"}
+]
+}

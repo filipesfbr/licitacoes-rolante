@@ -1,0 +1,29 @@
+{"codigo":46060,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"UAI TCHE - LABORATORIO DE PROTESE DENTARIA LTDA","documento":"55.278.778/0001-59","descricao":"PRÓTESE TOTAL MANDIBULAR","descricao_adicional":"","unidade":"UN","valor_referencia":336,"valor_vencedor":335,"quantidade":100},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"UAI TCHE - LABORATORIO DE PROTESE DENTARIA LTDA","documento":"55.278.778/0001-59","descricao":"PRÓTESE TOTAL MAXILAR","descricao_adicional":"","unidade":"UN","valor_referencia":336,"valor_vencedor":335,"quantidade":100},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"UAI TCHE - LABORATORIO DE PROTESE DENTARIA LTDA","documento":"55.278.778/0001-59","descricao":"PRÓTESE PARCIAL REMOVÍVEL - PPR - MAXILAR","descricao_adicional":"","unidade":"UN","valor_referencia":487.5,"valor_vencedor":485,"quantidade":50},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"UAI TCHE - LABORATORIO DE PROTESE DENTARIA LTDA","documento":"55.278.778/0001-59","descricao":"PRÓTESE PARCIAL REMOVÍVEL - PPR- MANDIBULAR","descricao_adicional":"","unidade":"UN","valor_referencia":487.5,"valor_vencedor":485,"quantidade":50}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PRÓTESE TOTAL MANDIBULAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":100,"valor_referencia":336},
+{"lote":0,"item":2,"descricao":"PRÓTESE TOTAL MAXILAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":100,"valor_referencia":336},
+{"lote":0,"item":3,"descricao":"PRÓTESE PARCIAL REMOVÍVEL - PPR - MAXILAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":50,"valor_referencia":487.5},
+{"lote":0,"item":4,"descricao":"PRÓTESE PARCIAL REMOVÍVEL - PPR- MANDIBULAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":50,"valor_referencia":487.5}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-01-21","tipo":"","fase":"Fase Interna","link_publico":"c66532c4-ab84-43aa-a2cf-b77445d12617"},
+{"sequencia":2,"data":"2026-01-21","tipo":"","fase":"Fase Interna","link_publico":"66c989e4-14a6-4882-8f7f-ca1ae1ecf46f"},
+{"sequencia":3,"data":"2026-01-21","tipo":"","fase":"Fase Interna","link_publico":"ca26ae77-2c90-4990-8fc4-cabc2012f9a2"},
+{"sequencia":4,"data":"2026-01-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"24ece7e9-1269-49e5-80f2-7df44658ce66"},
+{"sequencia":5,"data":"2026-01-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"b57426fc-645e-48c5-8d5a-eae1646e81bf"},
+{"sequencia":6,"data":"2026-02-10","tipo":"","fase":"Fase Interna","link_publico":"c8a3b892-a7c6-441f-aa7f-1f1013a32fc3"},
+{"sequencia":7,"data":"2026-02-10","tipo":"","fase":"Fase Interna","link_publico":"916e5380-801a-4dac-a3a2-6a89ad34fe42"},
+{"sequencia":8,"data":"2026-02-10","tipo":"","fase":"Fase Interna","link_publico":"70bf275f-83bc-42aa-b2c1-23522e1d4de8"},
+{"sequencia":9,"data":"2026-02-10","tipo":"","fase":"Fase Interna","link_publico":"e1d0e33e-0370-47c6-892f-9566c6372b79"},
+{"sequencia":10,"data":"2026-02-10","tipo":"","fase":"Fase Interna","link_publico":"950bffe9-950c-4bc4-9283-b13faec3623d"},
+{"sequencia":11,"data":"2026-02-12","tipo":"","fase":"Fase Interna","link_publico":"06616688-a0d0-4b0b-bcf7-2aaf73eaa6c2"},
+{"sequencia":12,"data":"2026-02-11","tipo":"Outros documentos","fase":"Publicação","link_publico":"1a8bc32b-a2ee-493a-95a7-ebf2b1b90d75"},
+{"sequencia":13,"data":null,"tipo":"Revogação de ofício","fase":"Adjudicação/Homologação","link_publico":"e0db0386-1371-4ee9-a433-27518d6978f7"}
+]
+}

@@ -1,0 +1,28 @@
+{"codigo":53538,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ACORDES MUSIC ESCOLA DE MUSICA LTDA","documento":"19.964.562/0002-64","descricao":"BUMBO","descricao_adicional":"<p>Bumbo 16x14 f&oacute;rmica branca c/colete.</p>\n","unidade":"UN","valor_referencia":2089,"valor_vencedor":2089,"quantidade":1},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"ACORDES MUSIC ESCOLA DE MUSICA LTDA","documento":"19.964.562/0002-64","descricao":"BUMBO","descricao_adicional":"<p>Bumbo 18x14 f&oacute;rmica branca c/colete.</p>\n","unidade":"UN","valor_referencia":2200,"valor_vencedor":2200,"quantidade":1},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"ACORDES MUSIC ESCOLA DE MUSICA LTDA","documento":"19.964.562/0002-64","descricao":"BUMBO","descricao_adicional":"<p>Bumbo 20x14 f&oacute;rmica branca c/colete.</p>\n","unidade":"UN","valor_referencia":2365,"valor_vencedor":2365,"quantidade":1},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"ACORDES MUSIC ESCOLA DE MUSICA LTDA","documento":"19.964.562/0002-64","descricao":"BUMBO","descricao_adicional":"<p>Bumbo 22x14 f&oacute;rmica branca c/colete.</p>\n","unidade":"UN","valor_referencia":2622,"valor_vencedor":2622,"quantidade":1},
+{"lote":0,"item":5,"pessoa_fisica":false,"fornecedor":"ACORDES MUSIC ESCOLA DE MUSICA LTDA","documento":"19.964.562/0002-64","descricao":"QUADRITOM","descricao_adicional":"<p>Quadritom 8.10.12.13 c/colete</p>\n","unidade":"UN","valor_referencia":2920,"valor_vencedor":2920,"quantidade":1},
+{"lote":0,"item":6,"pessoa_fisica":false,"fornecedor":"ACORDES MUSIC ESCOLA DE MUSICA LTDA","documento":"19.964.562/0002-64","descricao":"CAIXA TENOR","descricao_adicional":"<p>Caixa tenor formal colors 14x12 c/ colete.</p>\n","unidade":"UN","valor_referencia":2176,"valor_vencedor":2176,"quantidade":6},
+{"lote":0,"item":7,"pessoa_fisica":false,"fornecedor":"ACORDES MUSIC ESCOLA DE MUSICA LTDA","documento":"19.964.562/0002-64","descricao":"PRATO BANDA MARCIAL","descricao_adicional":"<p>Par de pratos 14&nbsp;</p>\n","unidade":"UN","valor_referencia":399,"valor_vencedor":399,"quantidade":4}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"BUMBO","descricao_adicional":"<p>Bumbo 16x14 f&oacute;rmica branca c/colete.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2089},
+{"lote":0,"item":2,"descricao":"BUMBO","descricao_adicional":"<p>Bumbo 18x14 f&oacute;rmica branca c/colete.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2200},
+{"lote":0,"item":3,"descricao":"BUMBO","descricao_adicional":"<p>Bumbo 20x14 f&oacute;rmica branca c/colete.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2365},
+{"lote":0,"item":4,"descricao":"BUMBO","descricao_adicional":"<p>Bumbo 22x14 f&oacute;rmica branca c/colete.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2622},
+{"lote":0,"item":5,"descricao":"QUADRITOM","descricao_adicional":"<p>Quadritom 8.10.12.13 c/colete</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2920},
+{"lote":0,"item":6,"descricao":"CAIXA TENOR","descricao_adicional":"<p>Caixa tenor formal colors 14x12 c/ colete.</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":6,"valor_referencia":2176},
+{"lote":0,"item":7,"descricao":"PRATO BANDA MARCIAL","descricao_adicional":"<p>Par de pratos 14&nbsp;</p>\n","unidade":"UN","quantidade_min":0,"quantidade_max":4,"valor_referencia":399}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"b3d7eb11-23ef-4eec-91c8-ff959560bf8b"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f21d2607-b096-4492-ac08-5a2ff5c0a1ba"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"77b8c571-78a5-4fba-8113-54fde556e932"},
+{"sequencia":4,"data":"2026-05-20","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0787da62-e078-465f-aa73-31ee8914cf33"},
+{"sequencia":5,"data":null,"tipo":"Termo de formalização da dispensa de licitação","fase":"Fase Interna","link_publico":"e0f6c687-fdab-4e4a-9d92-6e605a9df404"},
+{"sequencia":6,"data":null,"tipo":"Comprovante de publicação do extrato da dispensa","fase":"Publicação","link_publico":"2113da16-c206-44d3-9929-7a49c5089bb0"}
+]
+}

@@ -1,0 +1,18 @@
+{"codigo":46045,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DIONI EDUARDO PORT","documento":"50.979.320/0001-03","descricao":"SERVIÇO DE ELETRICISTA O VALOR REFERE-SE A 01(UMA) HORA DE SERVIÇO\n TÉCNICO DE 01 ELETRICISTA COM SEUS EQUIPAMENTOS DE SEGURANÇA\n INDIVIDUAL (EPI'S) E TODAS AS FERRAMENTAS PARA BEM EXECUTAR OS\n SERVIÇOS.","descricao_adicional":"","unidade":"UN","valor_referencia":45,"valor_vencedor":45,"quantidade":1200}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"SERVIÇO DE ELETRICISTA O VALOR REFERE-SE A 01(UMA) HORA DE SERVIÇO\n TÉCNICO DE 01 ELETRICISTA COM SEUS EQUIPAMENTOS DE SEGURANÇA\n INDIVIDUAL (EPI'S) E TODAS AS FERRAMENTAS PARA BEM EXECUTAR OS\n SERVIÇOS.","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":600,"valor_referencia":45}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-02-19","tipo":"","fase":"Fase Interna","link_publico":"4bb2789b-3f4a-4982-a46d-2fc566bda2f1"},
+{"sequencia":2,"data":"2026-02-18","tipo":"","fase":"Fase Interna","link_publico":"8860d172-cf7f-4dc3-ac20-0e88a04c24ff"},
+{"sequencia":3,"data":"2026-02-18","tipo":"","fase":"Fase Interna","link_publico":"2bdec41f-4211-4665-8fc9-cde3bbf9b09b"},
+{"sequencia":4,"data":"2026-02-18","tipo":"","fase":"Fase Interna","link_publico":"ff30171a-76ce-4ec5-8d8d-6a07a9480193"},
+{"sequencia":5,"data":"2026-02-18","tipo":"","fase":"Fase Interna","link_publico":"b124d04f-69cf-4414-8689-253f322f267a"},
+{"sequencia":6,"data":"2026-02-18","tipo":"","fase":"Fase Interna","link_publico":"1dcba638-9b8e-4abf-ad02-53e63024fa03"},
+{"sequencia":7,"data":"2026-02-18","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"a2b55621-eecd-4342-8efb-9f0f1d2d3850"},
+{"sequencia":8,"data":"2026-02-19","tipo":"Outros documentos","fase":"Publicação","link_publico":"732e6baa-f07b-4eff-a360-2d2cd310d00c"}
+]
+}

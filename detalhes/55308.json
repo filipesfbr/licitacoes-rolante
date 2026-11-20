@@ -1,0 +1,18 @@
+{"codigo":55308,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"GREMIO ESPORTIVO ROLANTENSE","documento":"94.725.207/0001-77","descricao":"PROJETO PEDAGÓGICO - GRÊMIO ESPORTIVO ROLANTENSE","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"PROJETO PEDAGÓGICO - GRÊMIO ESPORTIVO ROLANTENSE","descricao_adicional":"","unidade":"UN","quantidade_min":1,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"a91b1967-308d-4122-894e-e4657cc7fc2b"},
+{"sequencia":2,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"4b86b50a-18f8-4cbb-8ebb-25fd738feeb4"},
+{"sequencia":3,"data":"2026-09-29","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7cdbfa84-6b15-4290-8ef0-905e3e798aed"},
+{"sequencia":4,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"a17471eb-2210-4554-b9d2-d97e5f23c266"},
+{"sequencia":5,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"c5b91402-7e27-4c48-8fe3-ef5cad23290a"},
+{"sequencia":6,"data":"2026-10-06","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"107e7f4f-7a17-4382-bec6-96fa34ab50bf"},
+{"sequencia":7,"data":"2026-10-07","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"7b942fb3-0253-4a41-beb2-52eccd32d3a5"},
+{"sequencia":8,"data":"2026-10-07","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7e898ef9-ba03-45b5-94c2-b8060eeb3ec1"}
+]
+}

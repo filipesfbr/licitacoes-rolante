@@ -1,0 +1,31 @@
+{"codigo":46168,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"VOLTAIKA ENERGIA SOLAR EIRELI ME","documento":"28.374.670/0001-97","descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA \tEM FORNECIMENTO E INSTALAÇÃO DE CLIMATIZAÇÃO DE AMBIENTE INTERNO","descricao_adicional":null,"unidade":"UN","valor_referencia":80310.43,"valor_vencedor":80310.43,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA \tEM FORNECIMENTO E INSTALAÇÃO DE CLIMATIZAÇÃO DE AMBIENTE INTERNO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":80310.43}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-07-24","tipo":"","fase":"Fase Interna","link_publico":"66b9547d-8b19-4aa3-85a0-d5417d235a36"},
+{"sequencia":2,"data":"2025-10-10","tipo":"","fase":"Fase Interna","link_publico":"e9641e16-3a9e-4bc5-b320-dd27ff541763"},
+{"sequencia":3,"data":"2025-06-12","tipo":"","fase":"Fase Interna","link_publico":"a62b6b1d-5a5c-40ba-8646-71b91473d631"},
+{"sequencia":4,"data":"2025-06-12","tipo":"","fase":"Fase Interna","link_publico":"a98407f2-c118-49a3-a90f-d4fb659fe894"},
+{"sequencia":5,"data":"2025-06-12","tipo":"","fase":"Fase Interna","link_publico":"704ae222-9c59-4c84-99e0-55dcc374858a"},
+{"sequencia":6,"data":"2025-06-12","tipo":"","fase":"Fase Interna","link_publico":"cf1e4a12-279e-4479-b820-d3473c1f4cbb"},
+{"sequencia":7,"data":"2025-06-12","tipo":"","fase":"Fase Interna","link_publico":"3ff7c233-9be7-4829-b460-b54b620ef20e"},
+{"sequencia":8,"data":"2025-06-12","tipo":"","fase":"Fase Interna","link_publico":"4a547d7f-f726-447b-9fe9-8ef061a17ba7"},
+{"sequencia":9,"data":"2025-06-12","tipo":"","fase":"Fase Interna","link_publico":"46f43b7f-f765-4237-a367-ed28cb6ed308"},
+{"sequencia":10,"data":"2025-06-12","tipo":"","fase":"Fase Interna","link_publico":"073e8812-113b-4be8-9d15-aecebc21d67b"},
+{"sequencia":11,"data":"2025-06-12","tipo":"","fase":"Fase Interna","link_publico":"05bd2c3e-8a0c-4898-a20f-5e2e92b91320"},
+{"sequencia":12,"data":"2025-07-17","tipo":"","fase":"Fase Interna","link_publico":"b32d418d-f036-40dc-941a-5dc8edabf141"},
+{"sequencia":13,"data":"2025-07-17","tipo":"","fase":"Fase Interna","link_publico":"07dfc7a8-c04b-48f4-9278-a1be76b750b7"},
+{"sequencia":14,"data":"2025-07-17","tipo":"","fase":"Fase Interna","link_publico":"1247b346-b2d3-4656-a3b8-ea6af6a5d53a"},
+{"sequencia":15,"data":"2025-07-17","tipo":"","fase":"Fase Interna","link_publico":"18ee7700-4bf4-4fb6-ab5a-01dcc5a1ba54"},
+{"sequencia":16,"data":"2025-07-17","tipo":"","fase":"Fase Interna","link_publico":"7c0275ce-ee43-40d8-a55e-ecf10f8c5092"},
+{"sequencia":17,"data":"2025-07-23","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Habilitação/Propostas","link_publico":"4a6e4a7b-18cf-4941-8894-982e405435a8"},
+{"sequencia":18,"data":"2025-07-03","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"a54ca935-96b8-488a-9ff2-6027f6b6e1c9"},
+{"sequencia":19,"data":"2025-06-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"cca96a9c-eb05-4c1b-bbc6-07d66c4e4415"},
+{"sequencia":20,"data":"2025-06-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"b3a15b17-6c3d-4286-b797-58ca983e4907"},
+{"sequencia":21,"data":"2025-06-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"b6ec44d0-4744-4adc-a6f5-ee761532ef74"}
+]
+}

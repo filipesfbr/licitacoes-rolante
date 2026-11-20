@@ -1,0 +1,31 @@
+{"codigo":46158,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"NOTRE DAME VEICULOS LTDA.","documento":"10.658.023/0010-32","descricao":"AUTOMÓVEL ZERO QUILÔMETRO - TIPO PICK-UP.","descricao_adicional":"<p>COMPRA DE UM VEÍCULO TIPO PICK-UP CABINE DUPLA,NOVO ZERO KM, ANO DE FABRICAÇÃO MÍNIMO 2024 MODELO 2025, COR BRANCA, TRAÇÃO 4X4 MOTOR 2.8 TURBO DIESEL COM POTÊNCIA MÍNIMA DE 200 CV, CAPACIDADE DE CARGA MÍNIMA DE 1000 KG, TANQUE DE COMBUSTÍVEL CAPACIDADE MÍNIMA DE 60 LITROS, CAMBIO MANUAL OU AUTOMÁTICO, VIDROS ELÉTRICOS, AR CONDICIONADO.</p>","unidade":"UN","valor_referencia":298600,"valor_vencedor":225690,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"AUTOMÓVEL ZERO QUILÔMETRO - TIPO PICK-UP.","descricao_adicional":"<p>COMPRA DE UM VEÍCULO TIPO PICK-UP CABINE DUPLA,NOVO ZERO KM, ANO DE FABRICAÇÃO MÍNIMO 2024 MODELO 2025, COR BRANCA, TRAÇÃO 4X4 MOTOR 2.8 TURBO DIESEL COM POTÊNCIA MÍNIMA DE 200 CV, CAPACIDADE DE CARGA MÍNIMA DE 1000 KG, TANQUE DE COMBUSTÍVEL CAPACIDADE MÍNIMA DE 60 LITROS, CAMBIO MANUAL OU AUTOMÁTICO, VIDROS ELÉTRICOS, AR CONDICIONADO.</p>","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":298600}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-06","tipo":"","fase":"Fase Interna","link_publico":"6132c6c9-8bae-4448-a3f5-7880620be603"},
+{"sequencia":2,"data":"2025-07-07","tipo":"","fase":"Fase Interna","link_publico":"8a1289e0-a0e3-4e1a-9ef0-22b70cc2f5f0"},
+{"sequencia":3,"data":"2025-07-07","tipo":"","fase":"Fase Interna","link_publico":"fae240f9-83d2-425f-b953-ce31fcc13ca8"},
+{"sequencia":4,"data":"2025-07-22","tipo":"","fase":"Fase Interna","link_publico":"fd623d20-2e1a-4d7b-8b40-b13b6cbfb0cb"},
+{"sequencia":5,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"ffb5b5c1-5f8b-4ad2-8414-2a72df0129d1"},
+{"sequencia":6,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"dd6c1418-47ec-445e-953c-ee8bdee81e95"},
+{"sequencia":7,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"48ec66af-7f23-47e3-b661-cd3ca6231036"},
+{"sequencia":8,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"3897b6db-83ba-4bdf-9e9c-9e97676bd665"},
+{"sequencia":9,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"c2876ab3-0d40-44b4-b8d7-0b8ccc8c6e56"},
+{"sequencia":10,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"5152b53c-2f78-4970-8f69-388694a4ff14"},
+{"sequencia":11,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"1b1e3bcf-fe75-490c-ad7a-2a4943dbdaa2"},
+{"sequencia":12,"data":"2025-08-05","tipo":"","fase":"Fase Interna","link_publico":"bceebc51-1ab8-4943-899d-94193207413b"},
+{"sequencia":13,"data":"2025-07-17","tipo":"Impugnação contra edital","fase":"Edital Publicado","link_publico":"7d263024-84c0-430f-9397-e172993aeb17"},
+{"sequencia":14,"data":"2025-07-17","tipo":"Impugnação contra edital","fase":"Edital Publicado","link_publico":"942c0e64-cde3-47b4-8407-929ea4cf0fd9"},
+{"sequencia":15,"data":"2025-08-05","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"a336fc99-6699-4cba-9a31-40ec08485643"},
+{"sequencia":16,"data":"2025-07-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"e301b8b4-e940-4f08-88b1-a44a469c53cb"},
+{"sequencia":17,"data":"2025-07-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"51639e56-9db9-48d5-91e1-acf1f7113f2f"},
+{"sequencia":18,"data":"2025-07-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"2870b82f-0d62-4e65-981d-cb27f795cc5c"},
+{"sequencia":19,"data":"2025-07-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"13380c9d-3fa2-43db-a4aa-696e0fb6d431"},
+{"sequencia":20,"data":"2025-07-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"f0499c30-959f-4d01-afa2-f5eb459f15cd"},
+{"sequencia":21,"data":"2025-07-22","tipo":"Outros documentos","fase":"Publicação","link_publico":"2ca9a70f-81cf-4b4f-8e37-0fe8eee1c768"}
+]
+}

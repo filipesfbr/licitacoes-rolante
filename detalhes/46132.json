@@ -1,0 +1,25 @@
+{"codigo":46132,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"AUGUSTO TORRES NEDEL","documento":"07.155.217/0001-10","descricao":"IMPRESSORA MULTIFUNCIONAL CARACTERÍSTICAS GERAIS: TIPO DE IMPRESSORA: MULTIFUNCIONAL A LASER MONOCROMÁTICA TECNOLOGIA: IMPRESSÃO LASER FUNÇÕES: IMPRESSÃO, CÓPIA E DIGITALIZAÇÃO VELOCIDADE DE IMPRESSÃO: MÍNIMO DE 32 PÁGINAS POR MINUTO (PPM) EM FORMATO A4 RESOLUÇÃO DE IMPRESSÃO: MÍNIMO DE 1200 X...","descricao_adicional":null,"unidade":"UN","valor_referencia":3301.67,"valor_vencedor":2973,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"IMPRESSORA MULTIFUNCIONAL CARACTERÍSTICAS GERAIS: TIPO DE IMPRESSORA: MULTIFUNCIONAL A LASER MONOCROMÁTICA TECNOLOGIA: IMPRESSÃO LASER FUNÇÕES: IMPRESSÃO, CÓPIA E DIGITALIZAÇÃO VELOCIDADE DE IMPRESSÃO: MÍNIMO DE 32 PÁGINAS POR MINUTO (PPM) EM FORMATO A4 RESOLUÇÃO DE IMPRESSÃO: MÍNIMO DE 1200 X...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":3301.67}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-08-27","tipo":"","fase":"Fase Interna","link_publico":"dfb8d790-0674-461c-a48c-e4f1d09aade1"},
+{"sequencia":2,"data":"2025-08-27","tipo":"","fase":"Fase Interna","link_publico":"5a818794-0681-4d63-9dc5-56f40b11b5f1"},
+{"sequencia":3,"data":"2025-08-27","tipo":"","fase":"Fase Interna","link_publico":"22d18f54-26ef-4038-9ca9-debb7f960aa1"},
+{"sequencia":4,"data":"2025-09-11","tipo":"","fase":"Fase Interna","link_publico":"55838bdc-ab55-460a-94f6-a3575beadf83"},
+{"sequencia":5,"data":"2025-09-11","tipo":"","fase":"Fase Interna","link_publico":"c9d06e81-745e-4f5e-9003-439c0ecbf9b2"},
+{"sequencia":6,"data":"2025-09-11","tipo":"","fase":"Fase Interna","link_publico":"1179f7f6-1b5b-4fe8-9366-ea4708bdcb4d"},
+{"sequencia":7,"data":"2025-09-11","tipo":"","fase":"Fase Interna","link_publico":"f5eddaee-196c-44c5-b343-3f62ec13aa8e"},
+{"sequencia":8,"data":"2025-09-11","tipo":"","fase":"Fase Interna","link_publico":"3b71fc3c-b40a-4f51-8663-a023fddc7162"},
+{"sequencia":9,"data":"2025-09-11","tipo":"","fase":"Fase Interna","link_publico":"a590323a-2023-40bc-87a2-c7e6e2e6d043"},
+{"sequencia":10,"data":"2025-09-12","tipo":"","fase":"Fase Interna","link_publico":"b0a89a76-3b5e-4e65-afef-0dbf8ed59e50"},
+{"sequencia":11,"data":"2025-09-11","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"45849ea7-f974-4829-9700-4cc402089ab5"},
+{"sequencia":12,"data":"2025-08-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"54515350-38df-4582-82c6-ff07996835b7"},
+{"sequencia":13,"data":"2025-08-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"fdf5ccc4-79f5-4232-94af-236ce48a243f"},
+{"sequencia":14,"data":"2025-08-29","tipo":"Outros documentos","fase":"Publicação","link_publico":"3e0b5163-2948-497e-b29a-a021b0d127b4"},
+{"sequencia":15,"data":"2025-11-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"7e9e6439-2750-4225-8770-ec41118f5ff4"}
+]
+}

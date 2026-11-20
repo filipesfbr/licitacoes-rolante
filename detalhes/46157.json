@@ -1,0 +1,31 @@
+{"codigo":46157,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"H2T TECNOLOGIA LTDA","documento":"58.971.574/0001-97","descricao":"NOTEBOOK - PROCESSADOR (CPU):\nTIPO: INTEL CORE I5 (OU SUPERIOR) OU AMD RYZEN 5 (OU SUPERIOR)\nVELOCIDADE MÍNIMA: 2,8 GHZ OU MAIS.\nNÚCLEOS: MÍNIMO DE 4 NÚCLEOS\nMEMÓRIA RAM:\nCAPACIDADE: MÍNIMO DE 8 GB\nTIPO: DDR4 OU SUPERIOR\nEXPANSÍVEL: O NOTEBOOK DEVE TER SLOTS ADICIONAIS PARA EXPANSÃO DE MEMÓRIA...","descricao_adicional":null,"unidade":"UN","valor_referencia":3500,"valor_vencedor":2415.6,"quantidade":2},
+{"lote":0,"item":3,"pessoa_fisica":false,"fornecedor":"GDA SOLUCOES EM INFORMATICA LTDA.","documento":"08.281.458/0001-78","descricao":"APARELHO CELULAR","descricao_adicional":null,"unidade":"UN","valor_referencia":1187.99,"valor_vencedor":891,"quantidade":1},
+{"lote":0,"item":4,"pessoa_fisica":false,"fornecedor":"NOVIDA INDUSTRIA E COMERCIO DE MOVEIS LTDA","documento":"27.075.106/0001-00","descricao":"MESA REUNIÃO TIPO OVAL OU SEMIOVAL, MATERIAL: MADEIRA MDF, ACABAMENTO SUPERFICIAL: LAMINADO MELAMÍNICO BP, COMPRIMENTO: 320 CM, LARGURA: 100 CM, ALTURA: 75 CM, QUANTIDADE PÉS: 2 UNIDADES, MATERIAL ESTRUTURA BASE: TUBO EM AÇO, COR: PRETA, MATERIAL TAMPO: MADEIRA MDF, ESPESSURA TAMPO: 25 MM.","descricao_adicional":null,"unidade":"UN","valor_referencia":2618,"valor_vencedor":2200,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"NOTEBOOK - PROCESSADOR (CPU):\nTIPO: INTEL CORE I5 (OU SUPERIOR) OU AMD RYZEN 5 (OU SUPERIOR)\nVELOCIDADE MÍNIMA: 2,8 GHZ OU MAIS.\nNÚCLEOS: MÍNIMO DE 4 NÚCLEOS\nMEMÓRIA RAM:\nCAPACIDADE: MÍNIMO DE 8 GB\nTIPO: DDR4 OU SUPERIOR\nEXPANSÍVEL: O NOTEBOOK DEVE TER SLOTS ADICIONAIS PARA EXPANSÃO DE MEMÓRIA...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":2,"valor_referencia":3500},
+{"lote":0,"item":2,"descricao":"IMPRESSORA MULTIFUNCIONAL CARACTERÍSTICAS GERAIS:\nTIPO DE IMPRESSORA: MULTIFUNCIONAL A LASER MONOCROMÁTICA\nTECNOLOGIA: IMPRESSÃO LASER\nFUNÇÕES: IMPRESSÃO, CÓPIA E DIGITALIZAÇÃO\nVELOCIDADE DE IMPRESSÃO: MÍNIMO DE 50 PÁGINAS POR MINUTO (PPM) EM FORMATO A4\nRESOLUÇÃO DE IMPRESSÃO: MÍNIMO DE 1200 X...","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":4290},
+{"lote":0,"item":3,"descricao":"APARELHO CELULAR","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":1187.99},
+{"lote":0,"item":4,"descricao":"MESA REUNIÃO TIPO OVAL OU SEMIOVAL, MATERIAL: MADEIRA MDF, ACABAMENTO SUPERFICIAL: LAMINADO MELAMÍNICO BP, COMPRIMENTO: 320 CM, LARGURA: 100 CM, ALTURA: 75 CM, QUANTIDADE PÉS: 2 UNIDADES, MATERIAL ESTRUTURA BASE: TUBO EM AÇO, COR: PRETA, MATERIAL TAMPO: MADEIRA MDF, ESPESSURA TAMPO: 25 MM.","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":2618}
+]
+,"anexos":[
+{"sequencia":1,"data":"2025-07-07","tipo":"","fase":"Fase Interna","link_publico":"97e0453f-a5af-48e6-8c49-3f20044e2c75"},
+{"sequencia":2,"data":"2025-07-07","tipo":"","fase":"Fase Interna","link_publico":"455ebb0e-87e4-454d-b320-c92225900e29"},
+{"sequencia":3,"data":"2025-07-07","tipo":"","fase":"Fase Interna","link_publico":"43adf8fd-eb18-44d3-8300-4617d87b6069"},
+{"sequencia":4,"data":"2025-08-12","tipo":"","fase":"Fase Interna","link_publico":"370343c3-f938-4fe3-8d1a-1f037f7da4c4"},
+{"sequencia":5,"data":"2025-08-12","tipo":"","fase":"Fase Interna","link_publico":"c27b4ccb-217f-450b-89e6-d1331e5a3f67"},
+{"sequencia":6,"data":"2025-08-12","tipo":"","fase":"Fase Interna","link_publico":"6db71580-4c10-4b74-b201-5413ded35e19"},
+{"sequencia":7,"data":"2025-08-12","tipo":"","fase":"Fase Interna","link_publico":"e0ee263d-441d-4696-ae67-538a62a6b389"},
+{"sequencia":8,"data":"2025-08-12","tipo":"","fase":"Fase Interna","link_publico":"af780fe5-3986-4c20-8649-edb301f2f9ce"},
+{"sequencia":9,"data":"2025-08-12","tipo":"","fase":"Fase Interna","link_publico":"f25d5df7-6d39-474e-9683-9d3463d70a6d"},
+{"sequencia":10,"data":"2025-08-12","tipo":"","fase":"Fase Interna","link_publico":"296bcd46-3ae0-4040-8a3e-acef8a234ea5"},
+{"sequencia":11,"data":"2025-08-13","tipo":"","fase":"Fase Interna","link_publico":"e3b067ef-7352-4b09-8fe3-c69ff0a9a6b8"},
+{"sequencia":12,"data":"2025-08-12","tipo":"Ata de registro de preços","fase":"Edital Publicado","link_publico":"88a4fbb3-d8ae-4e97-afa0-798e36fd94a0"},
+{"sequencia":13,"data":"2025-07-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"d1b622e9-5101-48a4-a66f-88125dccda24"},
+{"sequencia":14,"data":"2025-07-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"16ef81f0-cbc2-41a4-b30f-01f4fb4f25e2"},
+{"sequencia":15,"data":"2025-07-08","tipo":"Outros documentos","fase":"Publicação","link_publico":"3758cf34-526f-47d0-b9ae-2af30448f532"},
+{"sequencia":16,"data":"2025-11-12","tipo":"Outros documentos","fase":"Publicação","link_publico":"f2ab1643-2484-4864-a2b5-86f418a8b621"}
+]
+}

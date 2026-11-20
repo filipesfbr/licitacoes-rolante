@@ -1,0 +1,18 @@
+{"codigo":54645,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"ASSOCIACAO DE PAIS E MESTRES DA ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SANTO ANTONIO","documento":"03.157.721/0001-06","descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","valor_referencia":15000,"valor_vencedor":15000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"REPASSE DE RECURSOS DO EDITAL 001/2026 PARA ENTIDADES CADASTRADAS NO COMDICAR","descricao_adicional":"","unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":15000}
+]
+,"anexos":[
+{"sequencia":1,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"f73b0234-dd3e-487a-942b-0bcdf311685e"},
+{"sequencia":2,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e1908882-d929-4817-9aaf-2bc19c50db16"},
+{"sequencia":3,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"92d60521-db8f-4367-bd77-6b427db58182"},
+{"sequencia":4,"data":null,"tipo":"ETP","fase":"Fase Interna","link_publico":"5851c3b1-b4d5-4ba6-b148-e5baf05254f4"},
+{"sequencia":5,"data":"2026-08-06","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ba6e0f71-7967-46a4-a1ac-707fe792950a"},
+{"sequencia":6,"data":null,"tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"d706e935-3f63-43ac-8ba2-d3e08b2ef077"},
+{"sequencia":7,"data":"2026-08-12","tipo":"Comprovante de publicação do extrato da inexigibilidade","fase":"Publicação","link_publico":"32e639e1-4c2d-47d3-a3e6-99fd3c204ef8"},
+{"sequencia":8,"data":null,"tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"fc488840-2739-41df-ae49-a30140e6b044"}
+]
+}
