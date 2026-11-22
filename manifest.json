@@ -1,6 +1,6 @@
 {
-  "coletado_em": "2026-11-21T15:06:07-03:00",
-  "iniciado_em": "2026-11-21T14:37:30-03:00",
+  "coletado_em": "2026-11-22T15:21:19-03:00",
+  "iniciado_em": "2026-11-22T14:52:41-03:00",
   "fonte": {
     "portal": "https://transparencia.abase.com.br/home/apvqyIT7vjY=",
     "portalLicitacoes": "https://transparencia.abase.com.br/licitacoes/apvqyIT7vjY=",
@@ -203,7 +203,7 @@
     "detalhes/46242.json": "sha256:e6fdd7e5acefa76514006f17fada229b8c51739021cc45bf95163f5734a571c7",
     "detalhes/46243.json": "sha256:93bd0f060359d981ff9b1d880dcbef3c71b77f4de6cd1936538e03a12a51c82b",
     "detalhes/46244.json": "sha256:b971e2b9cea508d262a472b3f0d1daee267d9a192df29e3d04c90b31163a06f7",
-    "detalhes/46245.json": "sha256:6af1f6733a2b40fbd640d8296bf97fe4a9d2a10578e5202734de2f9186dd5e52",
+    "detalhes/46245.json": "sha256:a7806754ec09ed0886b58bb2a02a3446d30d498e43635408eb9a1ceb31e4b2b2",
     "detalhes/46246.json": "sha256:9fec3f279a978bfcae3205fe1a678fc03b3dbe33c70e4bfda6a19a91e489eedc",
     "detalhes/46248.json": "sha256:f8d1f2ff01d91388bca537d7fd6804079eec2e5cb881fed0aee04c09802bdddd",
     "detalhes/46250.json": "sha256:670ca639bc300e8ea31696c9a04fafe5fdd173e5631e6cb92c8a61e9171b706a",
@@ -392,6 +392,6 @@
     "detalhes/46065.json": "sha256:afe5ca6550757e9e801a0f68c9e007056b6d5d5f9e1087a7bc1444e816a1a884",
     "detalhes/46066.json": "sha256:12bcd7c6019113d4d1fb3ee29e99a008e1c36136700f2e34019a198e255fda94",
     "historico-alteracoes.json": "sha256:37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-    "cnpj.json": "sha256:b4b2826abe92639b907f813cb5f575f975c90083140db10a9c3a932645198a86"
+    "cnpj.json": "sha256:2a155a1f21943784eaac57b5f409afea246d574f86a646ab433263b0503f5e3c"
   }
 }
