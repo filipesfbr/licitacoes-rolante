@@ -1,1 +1,5 @@
-[]
+[
+{"detectado_em":"2026-11-23","codigo":55819,"ano":2026,"campo":"status","antes":"Em Andamento","depois":"Encerramento"},
+{"detectado_em":"2026-11-23","codigo":55382,"ano":2026,"campo":"status","antes":"Em Andamento","depois":"Encerramento"},
+{"detectado_em":"2026-11-23","codigo":55382,"ano":2026,"campo":"total","antes":0,"depois":198000}
+]

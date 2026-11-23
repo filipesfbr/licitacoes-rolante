@@ -1,5 +1,8 @@
 {"codigo":55382,
-"vencedores":[]
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"DJONY GEIB ME","documento":"91.319.897/0001-76","descricao":"SERVIÇOS DE SOLDA MIG","descricao_adicional":"","unidade":"H","valor_referencia":162.1466667,"valor_vencedor":80,"quantidade":1500},
+{"lote":0,"item":2,"pessoa_fisica":false,"fornecedor":"DJONY GEIB ME","documento":"91.319.897/0001-76","descricao":"SERVIÇOS DE TORNO","descricao_adicional":"","unidade":"H","valor_referencia":126.2166667,"valor_vencedor":60,"quantidade":1300}
+]
 ,"itens":[
 {"lote":0,"item":1,"descricao":"SERVIÇOS DE SOLDA MIG","descricao_adicional":"","unidade":"H","quantidade_min":0,"quantidade_max":1500,"valor_referencia":162.1466667},
 {"lote":0,"item":2,"descricao":"SERVIÇOS DE TORNO","descricao_adicional":"","unidade":"H","quantidade_min":0,"quantidade_max":1300,"valor_referencia":126.2166667}
@@ -11,6 +14,17 @@
 {"sequencia":4,"data":"2026-10-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"767dd859-3a1c-4825-bd8c-524c00cf18cd"},
 {"sequencia":5,"data":"2026-10-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"fdedfe03-224c-4ce6-8dff-83a77de222e4"},
 {"sequencia":6,"data":"2026-10-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"c55a6abb-8b7c-4920-8e12-8a2843805dd0"},
-{"sequencia":7,"data":"2026-10-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"c498a9e0-0491-4f3b-ab19-131522d2c0ea"}
+{"sequencia":7,"data":"2026-10-19","tipo":"Convocação-Aviso de edital","fase":"Edital Publicado","link_publico":"c498a9e0-0491-4f3b-ab19-131522d2c0ea"},
+{"sequencia":8,"data":"2026-11-05","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4c5e39ae-5f44-4180-be46-f160bcb3c6af"},
+{"sequencia":9,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"421aaeea-77cc-4b4f-8378-49e400bf8e0c"},
+{"sequencia":10,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"accdd55f-b339-463b-bd46-1bb726bc81db"},
+{"sequencia":11,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"93b2171c-fe42-4f21-b966-5dfe8d0b25d1"},
+{"sequencia":12,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5dc11f58-e515-4507-90ac-2ac06fc83b7e"},
+{"sequencia":13,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e1f78ad2-858e-4670-9bd6-62e99c421c1e"},
+{"sequencia":14,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"5afd6531-eef8-49d0-ad9e-36f8dd58e554"},
+{"sequencia":15,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"ad98d244-304e-44c6-96b5-9e27e4da561f"},
+{"sequencia":16,"data":null,"tipo":"Atas do RDC (propostas/lances/habilitação)","fase":"Habilitação/Propostas","link_publico":"fefa4034-2778-40bb-9d3d-634192fff55c"},
+{"sequencia":17,"data":null,"tipo":"Adjudicação","fase":"Adjudicação/Homologação","link_publico":"55eb48d0-5225-4c78-bbf6-bd6bf266e95e"},
+{"sequencia":18,"data":null,"tipo":"Homologação","fase":"Adjudicação/Homologação","link_publico":"a26603d0-6a0d-4b68-ae35-17159f67646a"}
 ]
 }
