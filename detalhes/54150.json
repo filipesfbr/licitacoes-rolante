@@ -33,13 +33,14 @@
 {"sequencia":27,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"2f2f5eb5-655a-4166-a05b-dc230d82dce0"},
 {"sequencia":28,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"264995ff-dcbe-41fb-8f67-4d73f8ed73a6"},
 {"sequencia":29,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"77a89fdc-3044-47f1-9a53-c0a17672ec5c"},
-{"sequencia":30,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"https://anexoscontabilidade.s3.us-west-2.amazonaws.com/1093/vey31ool5akcigq7o2nt_Documentos%20EC%20013-2026.zip?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFRWBYIEERIVG3JQ%2F20261120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261120T183553Z&X-Amz-SignedHeaders=host&X-Amz-Signature=fa3a61551de95c89981651b0742e2440a1df4121651727fa4dfac19b0b5e8da1"},
+{"sequencia":30,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"https://anexoscontabilidade.s3.us-west-2.amazonaws.com/1093/vey31ool5akcigq7o2nt_Documentos%20EC%20013-2026.zip?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFRWBYIEERIVG3JQ%2F20261125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261125T201839Z&X-Amz-SignedHeaders=host&X-Amz-Signature=f50a341173a8e2ab53951c3e69461f2a8348332aee6473c6ba2c35742bf1addf"},
 {"sequencia":31,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"09d24336-7827-4295-93a7-d085bbf83675"},
 {"sequencia":32,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"7cdee0a3-1ff7-4cda-a185-e749c6dee14f"},
 {"sequencia":33,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b9cf8ea8-4909-4684-a073-7a6eea5a463f"},
 {"sequencia":34,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"943406cd-4cf7-4db1-b25a-102d75f0d7b9"},
 {"sequencia":35,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"4e1d69c3-c885-4f56-a4a4-e0b8111a67d7"},
 {"sequencia":36,"data":null,"tipo":"Outros documentos","fase":"Fase Interna","link_publico":"47e62c84-b05b-4f1d-b821-32c17d2c2e3a"},
-{"sequencia":37,"data":null,"tipo":"Revogação de ofício","fase":"Habilitação/Propostas","link_publico":"1d376599-c4ac-4b8b-866a-4cb59f0d0a92"}
+{"sequencia":37,"data":null,"tipo":"Revogação de ofício","fase":"Habilitação/Propostas","link_publico":"1d376599-c4ac-4b8b-866a-4cb59f0d0a92"},
+{"sequencia":38,"data":null,"tipo":"Outros documentos","fase":"Habilitação/Propostas","link_publico":"7d9487d6-ffa9-4e2c-971a-053c1e318d79"}
 ]
 }

@@ -1,0 +1,18 @@
+{"codigo":55849,
+"vencedores":[
+{"lote":0,"item":1,"pessoa_fisica":false,"fornecedor":"CIRC PAIS E MESTRES DA E.E.E.B COMENDADOR ALBINO SOUZA CRUZ","documento":"95.213.351/0001-97","descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":null,"unidade":"UN","valor_referencia":5000,"valor_vencedor":5000,"quantidade":1}
+]
+,"itens":[
+{"lote":0,"item":1,"descricao":"CONCESSÃO DE AUXILIO FINANCEIRO","descricao_adicional":null,"unidade":"UN","quantidade_min":0,"quantidade_max":1,"valor_referencia":5000}
+]
+,"anexos":[
+{"sequencia":1,"data":"2026-11-25","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"1f180198-02bb-4eee-b2f3-de7997dc2cea"},
+{"sequencia":2,"data":"2026-11-25","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"0a1e2006-a007-4171-81fb-37cf6b9946d3"},
+{"sequencia":3,"data":"2026-11-25","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"e2802703-2f3d-49bd-bbf4-6e12942a4b2b"},
+{"sequencia":4,"data":"2026-11-25","tipo":"Proposta do fornecedor contratado (orçamento e preço)","fase":"Fase Interna","link_publico":"4cca36a2-459d-4388-b8e5-955feae226c4"},
+{"sequencia":5,"data":"2026-11-16","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"8a5d6f42-f3dd-446b-80cf-c4294489366d"},
+{"sequencia":6,"data":"2026-11-25","tipo":"ETP","fase":"Fase Interna","link_publico":"dd2c7e70-4dd7-4443-b279-ffb127642508"},
+{"sequencia":7,"data":"2026-11-25","tipo":"Termo de formalização da inexigibilidade de licitação","fase":"Fase Interna","link_publico":"77f6a6e5-468d-46a6-96ed-4f8e551146ca"},
+{"sequencia":8,"data":"2026-11-25","tipo":"Outros documentos","fase":"Fase Interna","link_publico":"b1b12948-9956-42bf-99ef-48346a65d9b6"}
+]
+}

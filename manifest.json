@@ -1,6 +1,6 @@
 {
-  "coletado_em": "2026-11-24T18:10:53-03:00",
-  "iniciado_em": "2026-11-24T17:42:10-03:00",
+  "coletado_em": "2026-11-25T17:27:28-03:00",
+  "iniciado_em": "2026-11-25T16:58:37-03:00",
   "fonte": {
     "portal": "https://transparencia.abase.com.br/home/apvqyIT7vjY=",
     "portalLicitacoes": "https://transparencia.abase.com.br/licitacoes/apvqyIT7vjY=",
@@ -18,13 +18,13 @@
       "com_vencedor": 177
     },
     "2026": {
-      "licitacoes": 181,
-      "com_vencedor": 158
+      "licitacoes": 182,
+      "com_vencedor": 159
     }
   },
   "arquivos": {
     "licitacoes/2025.json": "sha256:5bf1a4ef5323191a68b7a2e41b77181cba8060647035cadf11c888020a345327",
-    "licitacoes/2026.json": "sha256:591f4ad94292fd7671e83eee355a6178e5dd37b614d744a32b72df005810d76b",
+    "licitacoes/2026.json": "sha256:d7d21a6a30d4e8e1626a3f51b69e66d3cc8ce47b59353bd2339cd8017c16e641",
     "detalhes/46067.json": "sha256:1989fd4c7a15b8434d913b9757e9489018af1cef1a8d47052ea5c6f465bbeaa8",
     "detalhes/46068.json": "sha256:ddf61b6da2331c79fea000f56b81aabe0ff596dfc75ed3240df6f82d3e13b0f3",
     "detalhes/46069.json": "sha256:68cf157fe14d056f29a340470de4590e1eef8ac7f290e82fd07f36859f7ff33b",
@@ -210,6 +210,7 @@
     "detalhes/46252.json": "sha256:695d6d9eb0d1b50906426f077a998495b5b32b1ef053bf126dd96a82e632bc46",
     "detalhes/46254.json": "sha256:acc98f27719bd48073d7770173a7b05c4a92fdb283953305227fe911cc371183",
     "detalhes/46256.json": "sha256:6a8d8176d7c38ff7bf83c47f7c42c16fcd4ee6083447862dcc68bead21baa58a",
+    "detalhes/55849.json": "sha256:d7d7bd0d90e160fdf67a4f536c8d9057e30638fa76812344236ea097c9405032",
     "detalhes/55819.json": "sha256:f151da6fe2d5d2f42d2e2d5bc152f95a0d6d530c4843bd30208cc74f80411513",
     "detalhes/55786.json": "sha256:4773265e62a20b1e241064114326e9b045cbf2ad796bcdc461129c346b153958",
     "detalhes/55776.json": "sha256:d147f4f705879631371800addc64372698667e715da6e18b97cf50905a53a041",
@@ -287,7 +288,7 @@
     "detalhes/54281.json": "sha256:365ff80edd85ccfc9d5404969a36f78dd8648068df0ab63e3d2cbfc7f83d5dcf",
     "detalhes/54242.json": "sha256:4bf4a33c21c8ceec5823efa74b2cce4951a238026769cf19a80ad0aa0df1ee6d",
     "detalhes/54161.json": "sha256:4c5915ed057b468b0daaecd92f40141f9f107dc2299b8bc3d240ed3aa79a1009",
-    "detalhes/54150.json": "sha256:f6506ac54aac67f1c54047951052c25bebd445cd9ae91f66531573bffbc29a2a",
+    "detalhes/54150.json": "sha256:5cea7b8ab29d8fe21f9556ee0b6885603d7548f23bea6425e7a4601ebda91151",
     "detalhes/54141.json": "sha256:4d8d1e7b56d4ac5438fe1cfd365f81e37e19b8778de2f0bd9319b4de5232e6a8",
     "detalhes/54109.json": "sha256:6174ccb7dfdaef65f7958e0bcbb1457dd2bbe07069a1159b048660bc5c0c67fa",
     "detalhes/54087.json": "sha256:42d757bd3451c83d05115b4adba0cf280c0c479e0f02ebe6bb14e1ee47f1aecd",
@@ -391,7 +392,7 @@
     "detalhes/46064.json": "sha256:c36168ada07dd261b1228270d13a84f57848231ef5c222cf00549268f2d7951d",
     "detalhes/46065.json": "sha256:afe5ca6550757e9e801a0f68c9e007056b6d5d5f9e1087a7bc1444e816a1a884",
     "detalhes/46066.json": "sha256:12bcd7c6019113d4d1fb3ee29e99a008e1c36136700f2e34019a198e255fda94",
-    "historico-alteracoes.json": "sha256:76ed21be5d50e9c28e3bf1d34bb1f5628df0a0b18f48b4ddec93a0822d1d458b",
-    "cnpj.json": "sha256:0e3414f23b53d0dfdf98abda610da8fc0d8a043a57ce71d4abf10d14b9673cf3"
+    "historico-alteracoes.json": "sha256:d365e39dc935feff7da315030b22f2a2062d8faaa537cbe6e972ccc9089124e1",
+    "cnpj.json": "sha256:54816513b6cbff3765bc521699ef14305c8cdcfc616cfd19c5351e942ac0c83a"
   }
 }
