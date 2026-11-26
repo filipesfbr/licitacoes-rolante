@@ -1,6 +1,6 @@
 {
-  "coletado_em": "2026-11-25T17:27:28-03:00",
-  "iniciado_em": "2026-11-25T16:58:37-03:00",
+  "coletado_em": "2026-11-26T17:10:57-03:00",
+  "iniciado_em": "2026-11-26T16:42:10-03:00",
   "fonte": {
     "portal": "https://transparencia.abase.com.br/home/apvqyIT7vjY=",
     "portalLicitacoes": "https://transparencia.abase.com.br/licitacoes/apvqyIT7vjY=",
@@ -24,7 +24,7 @@
   },
   "arquivos": {
     "licitacoes/2025.json": "sha256:5bf1a4ef5323191a68b7a2e41b77181cba8060647035cadf11c888020a345327",
-    "licitacoes/2026.json": "sha256:d7d21a6a30d4e8e1626a3f51b69e66d3cc8ce47b59353bd2339cd8017c16e641",
+    "licitacoes/2026.json": "sha256:7bcba2a222c9b6a42e95ab435d77dd8048b08d9d39fc5b3dec92e0c3447956c4",
     "detalhes/46067.json": "sha256:1989fd4c7a15b8434d913b9757e9489018af1cef1a8d47052ea5c6f465bbeaa8",
     "detalhes/46068.json": "sha256:ddf61b6da2331c79fea000f56b81aabe0ff596dfc75ed3240df6f82d3e13b0f3",
     "detalhes/46069.json": "sha256:68cf157fe14d056f29a340470de4590e1eef8ac7f290e82fd07f36859f7ff33b",
@@ -203,14 +203,14 @@
     "detalhes/46242.json": "sha256:e6fdd7e5acefa76514006f17fada229b8c51739021cc45bf95163f5734a571c7",
     "detalhes/46243.json": "sha256:93bd0f060359d981ff9b1d880dcbef3c71b77f4de6cd1936538e03a12a51c82b",
     "detalhes/46244.json": "sha256:b971e2b9cea508d262a472b3f0d1daee267d9a192df29e3d04c90b31163a06f7",
-    "detalhes/46245.json": "sha256:6af1f6733a2b40fbd640d8296bf97fe4a9d2a10578e5202734de2f9186dd5e52",
+    "detalhes/46245.json": "sha256:a7806754ec09ed0886b58bb2a02a3446d30d498e43635408eb9a1ceb31e4b2b2",
     "detalhes/46246.json": "sha256:9fec3f279a978bfcae3205fe1a678fc03b3dbe33c70e4bfda6a19a91e489eedc",
     "detalhes/46248.json": "sha256:f8d1f2ff01d91388bca537d7fd6804079eec2e5cb881fed0aee04c09802bdddd",
     "detalhes/46250.json": "sha256:670ca639bc300e8ea31696c9a04fafe5fdd173e5631e6cb92c8a61e9171b706a",
     "detalhes/46252.json": "sha256:695d6d9eb0d1b50906426f077a998495b5b32b1ef053bf126dd96a82e632bc46",
     "detalhes/46254.json": "sha256:acc98f27719bd48073d7770173a7b05c4a92fdb283953305227fe911cc371183",
     "detalhes/46256.json": "sha256:6a8d8176d7c38ff7bf83c47f7c42c16fcd4ee6083447862dcc68bead21baa58a",
-    "detalhes/55849.json": "sha256:d7d7bd0d90e160fdf67a4f536c8d9057e30638fa76812344236ea097c9405032",
+    "detalhes/55849.json": "sha256:de90951af73a6302d2efef2d24307040c0ee7572c19c629260c2636a4e35ebe1",
     "detalhes/55819.json": "sha256:f151da6fe2d5d2f42d2e2d5bc152f95a0d6d530c4843bd30208cc74f80411513",
     "detalhes/55786.json": "sha256:4773265e62a20b1e241064114326e9b045cbf2ad796bcdc461129c346b153958",
     "detalhes/55776.json": "sha256:d147f4f705879631371800addc64372698667e715da6e18b97cf50905a53a041",
@@ -288,7 +288,7 @@
     "detalhes/54281.json": "sha256:365ff80edd85ccfc9d5404969a36f78dd8648068df0ab63e3d2cbfc7f83d5dcf",
     "detalhes/54242.json": "sha256:4bf4a33c21c8ceec5823efa74b2cce4951a238026769cf19a80ad0aa0df1ee6d",
     "detalhes/54161.json": "sha256:4c5915ed057b468b0daaecd92f40141f9f107dc2299b8bc3d240ed3aa79a1009",
-    "detalhes/54150.json": "sha256:5cea7b8ab29d8fe21f9556ee0b6885603d7548f23bea6425e7a4601ebda91151",
+    "detalhes/54150.json": "sha256:968343a942a5a143fc0aee8dcccdff992f622bb85be7ae2196f55abccc54867b",
     "detalhes/54141.json": "sha256:4d8d1e7b56d4ac5438fe1cfd365f81e37e19b8778de2f0bd9319b4de5232e6a8",
     "detalhes/54109.json": "sha256:6174ccb7dfdaef65f7958e0bcbb1457dd2bbe07069a1159b048660bc5c0c67fa",
     "detalhes/54087.json": "sha256:42d757bd3451c83d05115b4adba0cf280c0c479e0f02ebe6bb14e1ee47f1aecd",
@@ -392,7 +392,7 @@
     "detalhes/46064.json": "sha256:c36168ada07dd261b1228270d13a84f57848231ef5c222cf00549268f2d7951d",
     "detalhes/46065.json": "sha256:afe5ca6550757e9e801a0f68c9e007056b6d5d5f9e1087a7bc1444e816a1a884",
     "detalhes/46066.json": "sha256:12bcd7c6019113d4d1fb3ee29e99a008e1c36136700f2e34019a198e255fda94",
-    "historico-alteracoes.json": "sha256:d365e39dc935feff7da315030b22f2a2062d8faaa537cbe6e972ccc9089124e1",
-    "cnpj.json": "sha256:54816513b6cbff3765bc521699ef14305c8cdcfc616cfd19c5351e942ac0c83a"
+    "historico-alteracoes.json": "sha256:11f8f640316afd367e24ba3c91c34f14e629985720fe34a88b30a0247a5e56df",
+    "cnpj.json": "sha256:9fdb75220ad02a9525cc4772a69b150b570fa416b886efd25b63571abdcfe2f4"
   }
 }
